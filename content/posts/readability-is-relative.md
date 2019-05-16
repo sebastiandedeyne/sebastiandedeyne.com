@@ -13,6 +13,8 @@ My colleague [Brent](https://stitcher.io/blog) is writing a library to deal with
 <!--more-->
 
 ```php
+<?php
+
 $period = Period::make('2018-12-25', '2018-12-27');
 
 $period->contains(new DateTime('2018-12-27'));
@@ -26,6 +28,8 @@ In math, intervals use parentheses and square brackets to denote the difference 
 `[1, 5)` is an interval from 1 to 5, including the 1 and excluding the 5. `[1, 5]` also includes the 5. Using this notation, the `Period::make` method could look like this:
 
 ```php
+<?php
+
 Period::make('2018-12-25', '2018-12-27', '[)');
 ```
 
@@ -34,6 +38,8 @@ If you're in to mathematics, this makes perfect sense. If you've never seen the 
 An alternative, would be to expose a more verbose API:
 
 ```php
+<?php
+
 Period::make(
     '2018-12-25',
     '2018-12-27',

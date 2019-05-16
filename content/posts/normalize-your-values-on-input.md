@@ -16,6 +16,8 @@ This is a lightweight post on handling your incoming values effectively by norma
 Let's say we're writing an abstraction for a collection of html classes, which can then render it's contents as a string or as an array. We want to be able to create an instance of `HtmlClasses` from either an array or a space seperated string.
 
 ```php
+<?php
+
 new HtmlClasses('foo bar baz');
 new HtmlClasses(['foo, bar, baz']);
 ```
@@ -23,6 +25,8 @@ new HtmlClasses(['foo, bar, baz']);
 In it's most basic version, we'd just set the `$classes` string or array that gets passed in as an attribute on the class.
 
 ```php
+<?php
+
 class HtmlClasses
 {
     /** @var string|array */
@@ -45,6 +49,8 @@ class HtmlClasses
 Next up, we'll add our `toArray` method. If out `classes` property is already an array, we'll just return it, otherwise we'll wrap it in an array.
 
 ```php
+<?php
+
 class HtmlClasses
 {
     /** @var string|array */
@@ -66,6 +72,8 @@ class HtmlClasses
 We'll have to do the same to implement the `toString` method. As you'll notice, having multiple methods that use the `classes` property, this quickly adds bloat to your code, since you're never sure what it type it is.
 
 ```php
+<?php
+
 class HtmlClasses
 {
     /** @var string|array */
@@ -96,6 +104,8 @@ class HtmlClasses
 Let's turn things around, and ensure that the `classes` property is always a certain type, in this case, an array.
 
 ```php
+<?php
+
 class HtmlClasses
 {
     /** @var array */
@@ -124,6 +134,8 @@ class HtmlClasses
 Since we know we're always dealing with an array, we can just return whatever we want, without having to reason about the edge cases every time.
 
 ```php
+<?php
+
 class HtmlClasses
 {
     /** @var array */
@@ -148,6 +160,8 @@ class HtmlClasses
 On a closing note, if you want to avoid dynamic parameters alltogether, you could resort to named constructors by creating a dedicated factory method per type.
 
 ```php
+<?php
+
 class HtmlClass
 {
     /** @var array */

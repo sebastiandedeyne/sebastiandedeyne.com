@@ -51,7 +51,7 @@ The cleanest way to provide automatic component registration appeared to be by s
 
 Here's what the packages' default export looks like now:
 
-```
+```js
 import Tab from './components/Tab';
 import Tabs from './components/Tabs';
 
@@ -67,7 +67,7 @@ export { Tab, Tabs };
 
 Like this, all it takes is a `Vue.use` to register all the packages' components!
 
-```
+```js
 import Vue from 'vue';
 import Tabs from 'vue-tabs-component';
 
@@ -78,7 +78,7 @@ new Vue({ el: '#app' });
 
 If developers want more fine grained control over the package features they do and don't want, they can still use the named exports.
 
-```
+```js
 import Vue from 'vue';
 import { Tabs } from 'vue-tabs-component';
 import MyTab from './MyTab';

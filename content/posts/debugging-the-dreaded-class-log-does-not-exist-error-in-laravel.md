@@ -20,6 +20,8 @@ To find the original exception, we need to trace down the method that catches it
 Let's go throught the console kernel's `handle` method.
 
 ```php
+<?php
+
 /**
  * Run the console application.
  *
@@ -54,6 +56,8 @@ public function handle($input, $output = null)
 The exception will end up in one of the two `catch` blocks. By adding a quick dump after them, we can quickly inspect the real exception.
 
 ```php
+<?php
+
 try {
     $this->bootstrap();
 

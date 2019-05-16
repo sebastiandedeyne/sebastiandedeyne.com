@@ -5,6 +5,10 @@ title = "Sebastian De Deyne's Blog"
 summaryLength = 1_000_000
 rssLimit = 10
 
+pygmentsCodefences = true
+pygmentsUseClasses = true
+pygmentsCodefencesGuessSyntax = true
+
 [taxonomies]
   category = "categories"
 

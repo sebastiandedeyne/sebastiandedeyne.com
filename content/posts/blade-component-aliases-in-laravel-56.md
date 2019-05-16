@@ -43,7 +43,7 @@ I had one issue with Blade components—they can be annoyingly verbose at times.
 
 Compare a Vue.js component with the previous `alert` example:
 
-```
+```html
 <alert type="warning" title="Beware!">
     Here be dragons!
 </alert>
@@ -56,6 +56,8 @@ What if we could simplify the component syntax to a single directive? this is po
 Back to our `alert` example:
 
 ```php
+<?php
+
 Blade::component('components.alert');
 ```
 
@@ -74,6 +76,8 @@ We were able to contract the verbose `@component` syntax to something simpler wh
 By default, Blade will assume that the last part of the component path is its alias. If we'd prefer a diffent name for our alias, we can pass a second parameter.
 
 ```php
+<?php
+
 Blade::component('components.alert', 'myAlert');
 ```
 

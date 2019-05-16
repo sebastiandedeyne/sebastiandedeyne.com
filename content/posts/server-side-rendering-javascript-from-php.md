@@ -155,6 +155,8 @@ The first option that comes to mind to run JavaScript in PHP is V8Js. V8Js is a 
 Executing a script with V8Js is pretty straightforward. We can capture the result with output buffering in PHP and `print` in JavaScript.
 
 ```php
+<?php
+
 $v8 = new V8Js();
 
 ob_start();
@@ -175,6 +177,8 @@ The drawback of this method is the need for a third-party PHP extension. Extensi
 An alternative way to run JavaScript would be with Node.js. We could spawn a Node process that runs our script and capture its output. Symfony's `Process` component does just what we need.
 
 ```php
+<?php
+
 use Symfony\Component\Process\Process;
 
 // $nodePath is the path to the Node.js executable
@@ -210,6 +214,8 @@ The `run` method expects a script (script _contents_, not a path), and returns t
 A V8Js engine implementation isn't too fancy. It mostly resembles our above proof of concept, with some added error handling.
 
 ```php
+<?php
+
 namespace Spatie\Ssr\Engines;
 
 use V8Js;
@@ -254,6 +260,8 @@ Notice that we rethrow the `V8JsException` as our own `EngineError`. This way we
 A Node engine is a bit more complex. Unlike V8Js, Node needs a _file_ to execute, not script contents. Before executing a server script, it needs to be saved to a temporary path.
 
 ```php
+<?php
+
 namespace Spatie\Ssr\Engines;
 
 use Spatie\Ssr\Engine;
@@ -314,6 +322,8 @@ Now that we have a solid engine interface, we can write an actual renderer class
 The renderer has one dependency: an `Engine` implementation.
 
 ```php
+<?php
+
 class Renderer
 {
     public function __construct(Engine $engine)
@@ -331,6 +341,8 @@ If we were to write a render method, it'd need to execute a script that consists
 A simple `render` method looks like this:
 
 ```php
+<?php
+
 class Renderer
 {
     public function render(string $entry): string

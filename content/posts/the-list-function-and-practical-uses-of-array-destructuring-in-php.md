@@ -20,6 +20,8 @@ The `list()` construct (it's actually not a function but a language construct li
 Here's what a basic `list()` call looks like:
 
 ```php
+<?php
+
 list($a, $b, $c) = ['foo', 'bar', 'baz'];
 
 echo $a; // "foo"
@@ -30,6 +32,8 @@ echo $c; // "baz"
 You can give `list()` less arguments than the array's size if you don't care about the rest of the items.
 
 ```php
+<?php
+
 list($a, $b) = ['foo', 'bar', 'baz'];
 
 echo $a; // "foo"
@@ -39,6 +43,8 @@ echo $b; // "bar"
 If you try to pull out an index that isn't set, an undefined offset error is thrown.
 
 ```php
+<?php
+
 list($a, $b, $c) = ['foo', 'bar'];
 
 echo $a; // "foo"
@@ -49,6 +55,8 @@ echo $c; // Undefined offset: 1
 To skip an intermediate value, you can provide an empty argument.
 
 ```php
+<?php
+
 list($a, , $b) = ['foo', 'bar', 'baz'];
 
 echo $a; // "foo"
@@ -58,6 +66,8 @@ echo $b; // "baz"
 As of PHP 7.1, you can specify the key of the item you want to unpack from an associative array. (RFC [here](https://wiki.php.net/rfc/list_keys))
 
 ```php
+<?php
+
 $person = [
     'name' => 'Sebastian',
     'job' => 'Developer',
@@ -71,6 +81,8 @@ echo $job; // "Developer"
 Fun fact: since `list()` is an assignment operator, you could also assign things in arrays. Not saying this is particularly useful, but it's possible!
 
 ```php
+<?php
+
 $people = [
     ['name' => 'Freek', 'role' => 'Developer'],
     ['name' => 'Sebastian', 'role' => 'Developer'],
@@ -89,6 +101,8 @@ var_dump($names); // ["Freek", "Sebastian", "Willem"];
 The `list()` operator is pretty cool, but has one caveat: it's _ugly_. PHP 7.1 fixes this with some syntactic sugar: plain old vanilla square brackets. These two statements do the same:
 
 ```php
+<?php
+
 // Oldschool
 list($a, $b, $c) = ['foo', 'bar', 'baz'];
 
@@ -107,18 +121,24 @@ In this exhibit, we'll glide over some with some real world situations.
 You've exploded a string and want to immediately assing the result as two seperate variables.
 
 ```php
+<?php
+
 [$user, $repository] = explode('/', 'spatie/laravel-medialibrary', 2);
 ```
 
 You've created a few objects at once, and want them all as their own variables.
 
 ```php
+<?php
+
 [$userA, $userB, $userC] = factory(User::class, 3)->create();
 ```
 
 You want to swap two variables.
 
 ```php
+<?php
+
 $a = 'hello';
 $b = 'world';
 
@@ -139,6 +159,8 @@ Tuples are useful in PHP when a key-value pair just doesn't cut it (maybe we nee
 Let's start with an array of some fruits and vegetables. Every piece of produce has an `id`, a `name` and a `type`.
 
 ```php
+<?php
+
 $produce = [
     [1, 'apple', 'fruit'],
     [2, 'banana', 'fruit'],
@@ -149,6 +171,8 @@ $produce = [
 Using the index to access the values requires us to reason about the array contents on every statement. Though process: _"This is `$item[0]`, which means is the first item in the array. Next is `$item[1]`, which means it's the second item, etc."_
 
 ```php
+<?php
+
 $mappedProduce = [];
 
 foreach ($produce as $produce) {
@@ -163,6 +187,8 @@ foreach ($produce as $produce) {
 By destructuring, we can immediately assign the values to a variable, making the contents of the loop clearer. Thought process: _"I have an array containing entries that have an id, a name and a type."_
 
 ```php
+<?php
+
 $mappedProduce = [];
 
 foreach ($produce as [$id, $name, $type]) {
@@ -177,6 +203,8 @@ foreach ($produce as [$id, $name, $type]) {
 Bonus snippet: we could use compact to create the array with a single statement _(although I don't like compact because it's just as ugly as `list()`)_.
 
 ```php
+<?php
+
 $mappedProduce = [];
 
 foreach ($produce as [$id, $name, $type]) {
@@ -223,6 +251,8 @@ func main() {
 We could achieve something similar by returning an array in PHP and immediately destructuring:
 
 ```php
+<?php
+
 function addAndRemoveFive(int $i): array {
     return [$i + 5, $i - 5];
 }
@@ -238,6 +268,8 @@ One large downside here: there's currently no way to document this, neither with
 A more real world situation where multiple returns can be useful is cases where you're expecting a status and a message that you may or may not care about, like validation.
 
 ```php
+<?php
+
 [$valid, $reason] = $validator->validate($data);
 
 if (! $valid) {

@@ -22,6 +22,9 @@
     {{ with resources.Get "css/site.css" | minify }}
       <style>{{ .Content | safeCSS }}</style>
     {{ end }}
+    {{ with resources.Get "css/chroma.css" | minify }}
+      <style>{{ .Content | safeCSS }}</style>
+    {{ end }}
   </head>
 
   <body>

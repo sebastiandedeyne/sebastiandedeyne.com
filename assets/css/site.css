@@ -337,3 +337,18 @@ body {
   padding-right: var(--gutter);
   width: 100%;
 }
+
+.highlight pre {
+  display: block;
+  overflow-x: auto;
+  padding: var(--gutter);
+  background: #000;
+  color: #f8f8f8;
+  line-height: 2;
+}
+
+@media (min-width: 720px) {
+  .highlight pre {
+    border-radius: 4px;
+  }
+}

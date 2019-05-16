@@ -14,6 +14,8 @@ Laravel quick tip! The `@extends` Blade directive accepts a second (undocumented
 The docs show this example to render a page title in a layout:
 
 ```php
+<?php
+
 <html>
     <head>
         <title>App Name - @yield('title')</title>
@@ -22,6 +24,8 @@ The docs show this example to render a page title in a layout:
 ```
 
 ```php
+<?php
+
 @extends('layouts.app')
 
 @section('title', 'Page Title')
@@ -40,6 +44,8 @@ This makes it hard to do change or manipulate the page title. A plain variable w
 Now we can't pass our title with `@section` anymore. Luckily, `@extends` accepts a second argument, one that lets us pass plain data to the layout.
 
 ```php
+<?php
+
 @extends('layouts.app', ['title' => 'Page Title'])
 ```
 

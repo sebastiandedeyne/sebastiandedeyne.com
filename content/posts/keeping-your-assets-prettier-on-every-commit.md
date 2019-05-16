@@ -27,7 +27,7 @@ As an aside, this is what our `.prettierrc` generally looks like in [Spatie](htt
 
 Before we get started, we need to ensure our dependencies are installed:
 
-```
+```bash
 npm install prettier husky lint-staged --save-dev
 ```
 

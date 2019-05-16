@@ -26,6 +26,8 @@ _I couldn't find any formal origin of snapshot testing. The oldest library I fou
 Let's do a snapshot assertion for a simple string, "foo".
 
 ```php
+<?php
+
 public function test_it_is_foo() {
     $this->assertMatchesSnapshot('foo');
 }
@@ -62,6 +64,8 @@ OK (1 test, 1 assertion)
 If we change actual value to "bar", the test will fail because the snapshot still returns "foo".
 
 ```php
+<?php
+
 public function test_it_is_foo() {
     $this->assertMatchesSnapshot('bar');
 }
@@ -105,6 +109,8 @@ As a result, our snapshot file contains "bar" instead of "foo".
 Assertions are done using the `assertMatchesSnapshot` method.
 
 ```php
+<?php
+
 public function it_matches_something()
 {
     $something = new Something();
@@ -116,6 +122,8 @@ public function it_matches_something()
 If you're working with JSON or XML data, you're better off using a dedicated `assertMatchesJsonSnapshot` or `assertMatchesXmlSnapshot` method, which will save snapshots as `.json` or `.xml` files, and provide a better diff when the snapshot doesn't match.
 
 ```php
+<?php
+
 public function it_matches_something_json()
 {
     $something = new Something();
@@ -144,6 +152,8 @@ Drivers make the package extendable, without the `Driver` interface snapshot ass
 Custom drivers can be applied by passing them to `assertMatchesSnapshot`.
 
 ```php
+<?php
+
 public function it_matches_yaml()
 {
     $order = new Order();

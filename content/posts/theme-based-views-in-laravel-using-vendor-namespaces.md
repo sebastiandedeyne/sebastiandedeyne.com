@@ -16,6 +16,8 @@ Conditionally loading a different stylesheet per client is pretty trivial, but i
 <!--more-->
 
 ```php
+<?php
+
 namespace App\Http\Controllers;
 
 use App\Client;
@@ -53,6 +55,8 @@ Laravel allows you register a view vendor namespace which points to a specific d
 By registering a namespace with the current theme's location, we can drop all the dynamic parts of our view names when we're calling them.
 
 ```php
+<?php
+
 class HomeController
 {
     public function __invoke(Client $client)
@@ -74,6 +78,8 @@ class HomeController
 Registering a vendor namespace is pretty straightforward. Create a service provider, and call the `loadViewsFrom` in the `boot` method. We'll need to pass a directory containing the views, and a name for our "vendor".
 
 ```php
+<?php
+
 namespace App\Providers;
 
 use App\Client;
@@ -97,6 +103,8 @@ class ThemeServiceProvider extends ServiceProvider
 Additionally, you could register a fallback path for the namespace, if you have a default theme for clients.
 
 ```php
+<?php
+
 $views = [
     resource_path("views/themes/{$client->theme->name}"),
     resource_path("views/themes/default"),

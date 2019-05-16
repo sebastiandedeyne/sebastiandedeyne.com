@@ -52,6 +52,8 @@ We'll be working with a simple `Article` model, which has an `id` and `title` fi
 Since the concept of an article maps to a single url, we'll also add a computed `url` attribute which returns an url to the article's detail page.
 
 ```php
+<?php
+
 use Illuminate\Database\Eloquent\Model;
 
 class Article extends Model
@@ -74,12 +76,16 @@ https://thelaraveltimes.com/articles/<id>/<slug>
 As a Laravel route, that would translate to:
 
 ```php
+<?php
+
 Route::get('/article/{id}/{slug}', 'ArticleController@detail')
 ```
 
 In our controller, we need the ID to retrieve the article item, the slug only exists to make the url human-readable (and in turn, SEO-friendlier).
 
 ```php
+<?php
+
 use App\Models\Article;
 
 class ArticleController
@@ -95,12 +101,16 @@ class ArticleController
 When generating a url, we **do** care about the slug though:
 
 ```php
+<?php
+
 action('ArticleController@detail', [$article->id, str_slug($article->title)]);
 ```
 
 Since an article maps to a single url in this context, let's create a computed `url` attribute which returns an url to the article's detail page so we don't have to repeat the `action` call throughout the application.
 
 ```php
+<?php
+
 class Article extends Model
 {
     // ...
@@ -117,6 +127,8 @@ Neat! Now we can link to our article using `$article->url`.
 One more thing, since we don't care about the slug, we might as well make it optional.
 
 ```php
+<?php
+
 // routes/web.php
 
 Route::get('/article/{id}/{slug?}', 'ArticleController@detail')
@@ -131,6 +143,8 @@ Let's revisit our controller's `detail` method. This time, we'll need to pull in
 Since we're going to compare the request slug with the article slug, we'll need to inject the route segment in our controller. The slug segment is optional so we'll assign an empty string by default.
 
 ```php
+<?php
+
 use App\Models\Article;
 
 class ArticleController
@@ -150,6 +164,8 @@ class ArticleController
 Validating the slug should be easy, all we need to do is a simple string comparison! If the article slug doesn't match the request slug, we'll redirect the visitor to the correct url.
 
 ```php
+<?php
+
 use App\Models\Article;
 
 class ArticleController
@@ -190,6 +206,8 @@ Let's add a `link` tag in our layout file if we've explicitly provided one.
 Then we don't have to handle redirects in our controller anymore, but we need to share the canonical link (which is the article's url) with the view.
 
 ```php
+<?php
+
 use App\Models\Article;
 
 class ArticleController

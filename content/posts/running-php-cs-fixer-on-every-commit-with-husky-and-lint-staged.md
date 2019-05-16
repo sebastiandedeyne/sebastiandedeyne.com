@@ -15,6 +15,8 @@ Husky and lint-staged have been working hard keeping our front-end assets clean 
 As an aside, this is what our `.php_cs` file generally looks like:
 
 ```php
+<?php
+
 $finder = PhpCsFixer\Finder::create()
     ->in(__DIR__)
     ->exclude(['bootstrap', 'storage', 'vendor'])
