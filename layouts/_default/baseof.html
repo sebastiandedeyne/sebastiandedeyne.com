@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="{{ $.Site.Language.Lang }}">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    {{ if not (eq .Title $.Site.Title) }}
+      <title>{{ .Title }} — {{ $.Site.Title }}</title>
+    {{ else }}
+      <title>{{ $.Site.Title }}</title>
+    {{ end }}
+
+    <link rel="alternate" type="application/rss+xml" href="/index.xml" title="Sebastian De Deyne's Blog: Main feed" />
+    <link rel="alternate" type="application/rss+xml" href="/articles/index.xml" title="Sebastian De Deyne's Blog: Articles feed" />
+
+    {{ with resources.Get "css/site.css" | minify }}
+      <style>{{ .Content | safeCSS }}</style>
+    {{ end }}
+  </head>
+
+  <body>
+    <div class="container">
+      <nav class="nav wrap">
+        <header>
+          <a href="/">{{ $.Site.Title }}</a>
+        </header>
+        <ul>
+          <li><a href="https://twitter.com/sebdedeyne">Twitter</a></li>
+          <li><a href="/index.xml">RSS</a></li>
+        </ul>
+      </nav>
+      <main class="wrap">
+        {{ block "main" . }}{{ end }}
+      </main>
+    </div>
+  </body>
+</html>

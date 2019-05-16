@@ -1,0 +1,339 @@
+:root {
+  --text: #1f211f;
+  --text-light: #5e6669;
+  --text-lighter: #a7b3b7;
+  --text-highlight: #60b1b9;
+  --secondary-background: #f4f8fa;
+  --border-color: #d1d1d1;
+  --sans: Karla, system-ui, sans-serif;
+  --mono: Space Mono, system-ui;
+  --code: Fira Code, monospace;
+  --gutter: 1.5rem;
+}
+
+@media (min-width: 720px) {
+  :root {
+    --gutter: 3rem;
+  }
+}
+
+*,
+*:after,
+*:before {
+  box-sizing: border-box;
+  font: inherit;
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+ul,
+ol {
+  list-style-type: none;
+}
+
+button {
+  appearance: none;
+  border: none;
+  cursor: pointer;
+}
+
+html {
+  font-size: 18px;
+  line-height: 1.65;
+}
+
+body {
+  color: var(--text);
+  font-family: var(--sans);
+}
+
+@font-face {
+  font-family: "Karla";
+  font-style: normal;
+  font-weight: 400;
+  src: local("Karla"), local("Karla-Regular"),
+    url("/fonts/karla-v6-latin-regular.woff2") format("woff2"),
+    url("/fonts/karla-v6-latin-regular.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Karla";
+  font-style: italic;
+  font-weight: 400;
+  src: local("Karla Italic"), local("Karla-Italic"),
+    url("/fonts/karla-v6-latin-italic.woff2") format("woff2"),
+    url("/fonts/karla-v6-latin-italic.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Karla";
+  font-style: normal;
+  font-weight: 700;
+  src: local("Karla Bold"), local("Karla-Bold"),
+    url("/fonts/karla-v6-latin-700.woff2") format("woff2"),
+    url("/fonts/karla-v6-latin-700.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Space Mono";
+  font-style: normal;
+  font-weight: 700;
+  src: local("Space Mono Bold"), local("SpaceMono-Bold"),
+    url("/fonts/space-mono-v3-latin-700.woff2") format("woff2"),
+    url("/fonts/space-mono-v3-latin-700.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Fira Code";
+  font-style: normal;
+  font-weight: 400;
+  src: local("Fira Code"), url("/fonts/fira-code-regular.woff2") format("woff2"),
+    url("/fonts/fira-code-regular.woff") format("woff");
+}
+
+.nav {
+  color: var(--text-lighter);
+  display: flex;
+  font-size: 0.75rem;
+  justify-content: space-between;
+  margin-bottom: 4rem;
+  padding-top: 0.5rem;
+}
+
+.nav ul {
+  display: flex;
+}
+
+.nav li:not(:first-child) {
+  margin-left: 1rem;
+}
+
+.post {
+  margin-bottom: 8rem;
+  position: relative;
+}
+
+.post:after {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: -4.5rem;
+  height: 1rem;
+  z-index: -1;
+  background: repeating-linear-gradient(
+      45deg,
+      var(--border-color),
+      var(--border-color) 1px,
+      transparent 1px,
+      transparent 9px
+    ),
+    repeating-linear-gradient(
+      -45deg,
+      var(--border-color),
+      var(--border-color) 1px,
+      transparent 1px,
+      transparent 9px
+    );
+}
+
+.post-header {
+  line-height: 1.5rem;
+  text-align: center;
+  background: white;
+  margin-bottom: 3rem;
+}
+
+.post-title {
+  font-family: var(--mono);
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+.post-subtitle {
+  color: var(--text-light);
+  font-size: 0.9rem;
+  margin-top: 0.33rem;
+}
+
+.post-related {
+  font-size: 0.9rem;
+  margin-bottom: var(--gutter);
+}
+
+.post-related-label {
+  color: var(--text-light);
+  font-style: italic;
+}
+
+.post-related-list {
+  margin-top: 1rem;
+}
+
+.post-related-list li:not(:last-child) {
+  margin-bottom: 1rem;
+}
+
+.post-related-title {
+  font-family: var(--mono);
+  font-weight: bold;
+}
+
+.post-related-date {
+  color: var(--text-light);
+  font-size: 0.9rem;
+  margin-top: 0.33rem;
+}
+
+.pagination {
+  display: flex;
+  justify-content: center;
+  margin-bottom: var(--gutter);
+}
+
+.pagination li {
+  margin: 0 0.5rem;
+  color: var(--text-light);
+  font-size: 0.85rem;
+}
+
+.pagination li:not(.active):not(.disabled) a:not([rel]) {
+  text-decoration: underline;
+}
+
+.pagination li.disabled {
+  opacity: 0.25;
+}
+
+.markup > * {
+  margin-bottom: 1.5rem;
+}
+
+.markup h1 {
+  font-family: var(--mono);
+  font-weight: bold;
+  font-size: 1.2rem;
+  text-align: center;
+}
+
+.markup h2 {
+  font-family: var(--mono);
+  font-weight: bold;
+  font-size: 1.2rem;
+  margin-top: 3rem;
+}
+
+.markup h3 {
+  font-size: 1.1rem;
+  font-weight: bold;
+  margin-top: 3rem;
+}
+
+.markup a {
+  color: var(--text-highlight);
+  text-decoration: underline;
+}
+
+.markup em {
+  font-style: italic;
+}
+
+.markup strong {
+  font-weight: bold;
+}
+
+.markup ul {
+  list-style: disc;
+  padding-left: 1rem;
+}
+
+.markup img {
+  display: block;
+  max-width: calc(100% + var(--gutter) * 2);
+}
+
+.markup img.centered {
+  max-width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.markup img.bordered {
+  border: 2px solid var(--secondary-background);
+}
+
+.markup figcaption,
+.markup img + em,
+.markup pre + em {
+  color: var(--text-light);
+  display: block;
+  font-size: 0.85rem;
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+  text-align: center;
+}
+
+.markup blockquote {
+  padding: var(--gutter);
+  background-color: var(--secondary-background);
+}
+
+@media (min-width: 720px) {
+  .markup blockquote {
+    border-radius: 4px;
+  }
+}
+
+.markup > blockquote > *:not(:last-child) {
+  margin-bottom: 1rem;
+}
+
+.markup img,
+.markup pre,
+.markup blockquote,
+.markup .cp_embed_wrapper {
+  margin-left: calc(var(--gutter) * -1);
+  margin-right: calc(var(--gutter) * -1);
+}
+
+.markup code {
+  font-family: var(--code);
+  font-size: 0.85em;
+}
+
+.markup :not(pre) > code {
+  background: var(--secondary-background);
+  border-radius: 4px;
+  color: inherit;
+  display: inline-block;
+  padding: 0 0.4em;
+}
+
+.markup aside {
+  font-size: 0.75rem;
+  color: var(--text-light);
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+}
+
+.mb-12 {
+  margin-bottom: 3rem;
+}
+
+.font-mono {
+  font-family: var(--mono);
+}
+
+.wrap {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 40rem;
+  padding-left: var(--gutter);
+  padding-right: var(--gutter);
+  width: 100%;
+}

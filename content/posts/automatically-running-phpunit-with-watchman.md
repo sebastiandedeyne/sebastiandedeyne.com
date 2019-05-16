@@ -1,0 +1,114 @@
+---
+date: 2017-04-12
+title: Automatically running PHPUnit with Watchman
+categories: ["articles"]
+tags:
+  - php
+  - phpunit
+  - testing
+---
+
+A little bash script to run tests when a file has been changed.
+
+<!--more-->
+
+_Since writing this post, we've realeased [a pretty awesome PHPUnit watcher](https://github.com/spatie/phpunit-watcher) CLI tool that's easier to set up and has an interactive interface. You might want to use that instead!_
+
+![](/media/automatically-running-phpunit-with-watchman.gif)
+
+If you just want a _tl:dr_, here's the script you can plop in whatever `.bashrc` file you're using—explanation follows.
+
+```bash
+#!/usr/bin/env bash
+
+function pw {
+    run="clear && printf '\e[3J' && vendor/bin/phpunit"
+    [[ -n $@ ]] && args=$@ || args="tests"
+
+    eval "$run $args"
+    watchman-make \
+        -p 'src/**/*.php' 'tests/**/*.php' \
+        --make=$run \
+        -t "$args"
+}
+```
+
+The `pw` function runs your tests once by calling `phpunit tests`, watches every php file in `src` and `tests`, and runs the tests again when a watched file changes.
+
+You can specify any PHPUnit arguments after `pw`, e.g. `pw ./tests/Unit/FooTest.php` or `pw --filter test_true_is_true`.
+
+The script uses Facebook's [Watchman](https://facebook.github.io/watchman/) library, which—on OSX—can be installed installed via [Homebrew](https://brew.sh/).
+
+```bash
+brew install watchman
+```
+
+Watchman watches files and triggers actions when they change. The reasoning behing choosing Watchman: it's easy to install, simple to configure, and reliable.
+
+The `watchman-make` command—which ships with Watchman—is a specialised interface for Watchman to invoke build tools in response to file changes—exactly what we need!
+
+Let's do a line-by-line review of our watch function.
+
+```bash
+function pw { }
+```
+
+The function name determines the command name. I like short commands—PHPUnit is aliased to `p` on my machine—so an abbreviated version of `phpunit-watch` seems like a good fit.
+
+```bash
+run="clear && printf '\e[3J' && vendor/bin/phpunit"
+```
+
+Since we're going to need the actual “run” command twice, let's store it in a variable. To break it down further, `clear && printf '\e[3J'` clears the terminal (to keep previous test runs from cluttering it) and `vendor/bin/phpunit` runs the tests.
+
+```bash
+[[ -n $@ ]] && args=$@ || args="tests"
+```
+
+`watchman-make` **needs** arguments to work. _(I'd love to be proven wrong here so I can clean this part up!)_ We'll default the arguments to tests, which means the actual command that we'll run is `vendor/bin/phpunit tests`. If we provide any arguments to `pw`, they'll replace `test, for example`pw --stop-on-failure`would run`vendor/bin/phpunit —-stop-on-failure`.
+
+The next two commands bring everything together.
+
+```bash
+eval "$run $args"
+```
+
+Manually triggers the command once before watching. This way we see immediately see test results without having to change a file first.
+
+```bash
+watchman-make \
+    -p 'src/**/*.php' 'tests/**/*.php' \
+    --make=$run \
+    -t "$args"
+```
+
+Finally, time for the Watchman part! The `-p` parameter specifies which folders we want to watch. I personally set up way more globs like `app/**/*.php` and `database/**/*.php` since I'm mostly working with Laravel. `--make` specifies which command we're going to run on change, and will pass extra arguments to the `--make command (remember, that variable we defaulted to`tests).
+
+I'm still dreaming of a [Jest](https://facebook.github.io/jest/)-like CLI tool for PHPUnit, which also allows you to filter and rerun specific tests without breaking out of the watch function, but being able to run tests on change is already a vast workflow boost.
+
+To wrap things up, here's the full `pw` function again:
+
+```bash
+#!/usr/bin/env bash
+
+function pw {
+    # Register the command you want to run when changes are detected here
+    run="clear && printf '\e[3J' && vendor/bin/phpunit"
+
+    # Retrieve the custom argments. If none are provided, default to "tests"
+    [[ -n $@ ]] && args=$@ || args="tests"
+
+    # Run the command first...
+    eval "$run $args"
+    # ...then start watching for changes—and run on change
+    watchman-make \
+        # Register files and folders you want to watch here
+        -p 'src/**/*.php' 'tests/**/*.php' \
+        --make=$run \
+        -t "$args"
+}
+```
+
+---
+
+_This post builds further on _[a Coffee and Code article](http://blog.coffeeandcode.com/running-tests-automatically-with-watchman/)_ by Jonathan Knapp._

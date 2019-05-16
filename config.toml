@@ -1,0 +1,16 @@
+baseURL = "https://sebastiandedeyne.com"
+languageCode = "en-us"
+title = "Sebastian De Deyne's Blog"
+
+summaryLength = 1_000_000
+rssLimit = 10
+
+[taxonomies]
+  category = "categories"
+
+[permalinks]
+  posts = "/:title"
+  categories = "/:title"
+
+[author]
+  name = "Sebastian De Deyne"
