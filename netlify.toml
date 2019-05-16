@@ -4,8 +4,8 @@ publish = "public"
 
 [[redirects]]
   from = "/feed"
-  to = "/index.rss"
+  to = "/index.xml"
 
 [[redirects]]
   from = "/feed/articles"
-  to = "/articles/index.rss"
+  to = "/articles/index.xml"
