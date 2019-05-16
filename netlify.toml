@@ -1,3 +1,11 @@
 [build]
 command = "hugo --minify"
 publish = "public"
+
+[[redirects]]
+  from = "/feed"
+  to = "/index.rss"
+
+[[redirects]]
+  from = "/feed/articles"
+  to = "/articles/index.rss"
