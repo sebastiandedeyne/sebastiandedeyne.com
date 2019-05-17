@@ -13,7 +13,7 @@ pygmentsCodefencesGuessSyntax = true
   category = "categories"
 
 [permalinks]
-  posts = "/:title"
+  posts = "/:filename"
   categories = "/:title"
 
 [author]
