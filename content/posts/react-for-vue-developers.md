@@ -16,6 +16,21 @@ This post is a succinct rundown of most Vue features, and how I would write them
 
 *Did I miss anything? Are there other comparisons you'd like to see? Or do you just want to share your thoughts about Vue or React? Talk to me on [Twitter](https://twitter.com/sebdedeyne)!*
 
+## Table of contents
+
+- [Templates](#templates)
+- [Props](#props)
+- [Data](#data)
+- [Computed properties](#computed-properties)
+- [Methods](#methods)
+- [Events](#events)
+- [Lifecycle methods](#lifecycle-methods)
+- [Watchers](#watchers)
+- [Slots & scoped slots](#slots-scoped-slots)
+- [Provide / inject](#provide-inject)
+- [Custom directives](#custom-directives)
+- [Transitions](#transitions)
+
 ## Templates
 
 *React alternative: JSX*
