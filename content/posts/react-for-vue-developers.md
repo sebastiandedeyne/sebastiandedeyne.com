@@ -290,7 +290,7 @@ export default function Post({ title }) {
 }
 ```
 
-Using expressions as props in Vue is possible with a `:` suffix, which is an alias for the `v-bind` directive. React uses curly braces for dynamic values.
+Using expressions as props in Vue is possible with a `:` prefix, which is an alias for the `v-bind` directive. React uses curly braces for dynamic values.
 
 ```html
 <!-- Post.vue -->
