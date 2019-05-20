@@ -4,7 +4,9 @@ title: "React for Vue developers"
 categories: ["articles"]
 ---
 
-For the past three years, I've been using both React and Vue between different projects, ranging between smaller websites and large scale apps. Last month I wrote a post about [why I prefer React over Vue](https://sebastiandedeyne.com/why-i-prefer-react-over-vue/). Shortly after I joined Adam Wathan on [Full Stack Radio](http://www.fullstackradio.com/114) to talk about React from a Vue developer's perspective.
+For the past three years, I've been using both React and Vue in different projects, ranging from smaller websites to large scale apps.
+
+Last month I wrote a post about [why I prefer React over Vue](https://sebastiandedeyne.com/why-i-prefer-react-over-vue/). Shortly after I joined Adam Wathan on [Full Stack Radio](http://www.fullstackradio.com/114) to talk about React from a Vue developer's perspective.
 
 We covered a lot of ground on the podcast, but most things we talked about could benefit from some code snippets to illustrate their similaraties and differences.
 
