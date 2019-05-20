@@ -10,9 +10,9 @@ We covered a lot of ground on the podcast, but most things we talked about could
 
 This post is a succinct rundown of most Vue features, and how I would write them with React in 2019 with hooks.
 
-*Did I miss anything? Are there other comparisons you'd like to see? Or do you just want to share your thoughts about Vue or React? Talk to me on [Twitter](https://twitter.com/sebdedeyne)!*
-
 <!--more-->
+
+*Did I miss anything? Are there other comparisons you'd like to see? Or do you just want to share your thoughts about Vue or React? Talk to me on [Twitter](https://twitter.com/sebdedeyne)!*
 
 ## Templates
 
