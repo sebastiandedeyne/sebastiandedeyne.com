@@ -22,9 +22,6 @@
     {{ with resources.Get "css/site.css" | minify }}
       <style>{{ .Content | safeCSS }}</style>
     {{ end }}
-    {{ with resources.Get "css/chroma.css" | minify }}
-      <style>{{ .Content | safeCSS }}</style>
-    {{ end }}
   </head>
 
   <body>
@@ -42,6 +39,11 @@
         {{ block "main" . }}{{ end }}
       </main>
     </div>
+
+    {{ with resources.Get "css/chroma.css" | minify }}
+      <style>{{ .Content | safeCSS }}</style>
+    {{ end }}
+
     {{ if eq (getenv "HUGO_ENV") "production" }}
       <script type="text/javascript">
         var _paq = _paq || [];

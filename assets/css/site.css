@@ -38,7 +38,7 @@ ol {
 
 button {
   appearance: none;
-  border: none;
+  border: 1px solid var(--secondary-background);none;
   cursor: pointer;
 }
 
@@ -243,6 +243,10 @@ body {
   font-style: italic;
 }
 
+.markup em code {
+  font-style: normal;
+}
+
 .markup strong {
   font-weight: bold;
 }
@@ -264,7 +268,7 @@ body {
 }
 
 .markup img.bordered {
-  border: 2px solid var(--secondary-background);
+  border: 1px solid var(--secondary-background);1px solid var(--secondary-background);
 }
 
 .markup figcaption,
@@ -281,6 +285,19 @@ body {
 .markup blockquote {
   padding: var(--gutter);
   background-color: var(--secondary-background);
+}
+
+.markup blockquote cite {
+  display: block;
+  margin-top: var(--gutter);
+  margin-bottom: calc(var(--gutter) * -1/2);
+  font-size: 0.75rem;
+  color: var(--text-light);
+}
+
+.markup blockquote cite a {
+  color: inherit;
+  text-decoration: none;
 }
 
 @media (min-width: 720px) {
