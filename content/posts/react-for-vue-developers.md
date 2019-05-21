@@ -706,6 +706,23 @@ export default function Component() {
 }
 ```
 
+This looks similar to registering a `beforeDestroy` listener in `mounted` in a Vue component.
+
+```html
+<script>
+export default {
+  mounted() {
+    const dateTimePicker =
+      new DateTimePicker(this.$refs.input);
+
+    this.$once('hook:beforeDestroy', () => {
+      dateTimePicker.destroy();
+    });
+  }
+};
+</script>
+```
+
 Similar to `useMemo`, `useEffect` accepts an array of dependencies as a second parameter.
 
 Without any specified dependencies, the effect will run after every render, and will clean up before every next render. This functionality is similar to a combination of `mounted`, `updated`, `beforeUpdate` and `beforeDestroy`.
