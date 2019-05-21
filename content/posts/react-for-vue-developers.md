@@ -708,7 +708,7 @@ export default function Component() {
 
 Similar to `useMemo`, `useEffect` accepts an array of dependencies as a second parameter.
 
-Without any specified dependencies, the effect will run after every render, and will clean up before every next render. This functionality is similar to a combination of `mounted`, `updated`, `beforeUpdate` and `beforeDestroyed`.
+Without any specified dependencies, the effect will run after every render, and will clean up before every next render. This functionality is similar to a combination of `mounted`, `updated`, `beforeUpdate` and `beforeDestroy`.
 
 ```jsx
 useEffect(() => {
@@ -929,7 +929,7 @@ return (
 );
 ```
 
-Vue has scoped slots to pass data to the slot that will be rendered. The key part of scoped sltos is *will be rendered*.
+Vue has scoped slots to pass data to the slot that will be rendered. The key part of scoped slots is *will be rendered*.
 
 Regular slots are rendered before they get passed to the parent component. The parent component then decides what to do with the rendered fragment.
 
@@ -937,7 +937,7 @@ Scoped slots can't be rendered before the parent component, because they rely on
 
 Lazily evaluating something in JavaScript is rather straightforward: wrap it in a function and call it when needed. If you need a scoped slot with React, pass a function that will render a template when called.
 
-For a scoped slots, we can once again use `children`, or any other prop for names scoped slots. However, we'll pass down a function instead of declaring a template.
+For a scoped slots, we can once again use `children`, or any other prop for named scoped slots. However, we'll pass down a function instead of declaring a template.
 
 ```html
 <!-- CurrentUser.vue -->

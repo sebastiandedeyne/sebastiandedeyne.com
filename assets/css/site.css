@@ -327,8 +327,7 @@ body {
   background: var(--secondary-background);
   border-radius: 4px;
   color: inherit;
-  display: inline-block;
-  padding: 0 0.4em;
+  padding: 0.2em 0.4em;
 }
 
 .markup aside {
