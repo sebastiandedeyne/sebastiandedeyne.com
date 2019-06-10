@@ -154,7 +154,7 @@ export default {
 </script>
 ```
 
-With React, you can "map" the array to a set of elements using the built in `React.map` function.
+With React, you can "map" the array to a set of elements using the built in `Array.map` function.
 
 ```jsx
 export default function Recipe({ ingredients }) {
