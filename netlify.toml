@@ -7,9 +7,9 @@ HUGO_VERSION = "0.55.5"
 HUGO_ENV = "production"
 
 [[redirects]]
-  from = "/feed"
-  to = "/index.xml"
+from = "/feed"
+to = "/index.xml"
 
 [[redirects]]
-  from = "/feed/articles"
-  to = "/articles/index.xml"
+from = "/feed/articles"
+to = "/articles/index.xml"
