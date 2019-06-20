@@ -36,15 +36,14 @@ function renderWebmention(webmention) {
   return `
     <li>
       <p class="webmention-header">
-        <span class="webmention-author">
-          <a href="${webmention.author.url}">
-            <img
-              src="${webmention.author.photo}"
-              alt="Photo of ${webmention.author.name}"
-            />
-            ${webmention.author.name}
-          </a>
-        </span>
+        <a href="${webmention.author.url ||
+          webmention.url}" class="webmention-author">
+          <img
+            src="${webmention.author.photo}"
+            alt="Photo of ${webmention.author.name}"
+          />
+          ${webmention.author.name}
+        </a>
         <a href="${webmention.url}">
           ${action} on ${webmention["wm-received"].substr(0, 10)}
         </a>
