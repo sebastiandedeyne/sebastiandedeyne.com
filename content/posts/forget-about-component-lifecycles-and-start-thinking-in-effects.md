@@ -2,6 +2,7 @@
 title: "Forget about component lifecycles and start thinking in effects"
 subtitle: "About React's useEffect hook"
 date: 2019-06-20T17:47:02+02:00
+categories: ["articles"]
 ---
 
 React components have always relied on lifecycle methods for side effects. While lifecycle methods get the job done, they're often overly verbose and have large margins for error.

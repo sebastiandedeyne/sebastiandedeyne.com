@@ -1,6 +1,7 @@
 ---
 title: "Migrating my site to Hugo"
 date: 2019-06-19T18:17:47+02:00
+categories: ["articles"]
 ---
 
 This blog was a custom Laravel application for the past few years. While I was happy with the Laravel solution, I'm slowly trying to move away from maintaining my own servers. I'm also drawn to the simplicity and stability of serving plain html, so I decided to look into static site generators.
