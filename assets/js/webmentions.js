@@ -51,9 +51,8 @@ function renderWebmention(webmention) {
       </p>
       ${
         webmention.content && webmention.content.html
-          ? `<div class="webmention-content markup">${
-              webmention.content.html
-            }</div>`
+          ? `<div class="webmention-content markup">${webmention.content.html ||
+              webmention.content.text}</div>`
           : ""
       }
     </li>
