@@ -47,6 +47,10 @@
       <style>{{ .Content | safeCSS }}</style>
     {{ end }}
 
+    {{ with resources.Get "js/webmentions.js" | minify }}
+      <script>{{ .Content | safeJS }}</script>
+    {{ end }}
+
     {{ if eq (getenv "HUGO_ENV") "production" }}
       <script type="text/javascript">
         var _paq = _paq || [];

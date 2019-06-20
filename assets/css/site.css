@@ -113,12 +113,14 @@ body {
   margin-left: 1rem;
 }
 
-.post {
+.post,
+.webmentions {
   margin-bottom: 8rem;
   position: relative;
 }
 
-.post:after {
+.post:after,
+.webmentions:after {
   content: "";
   position: absolute;
   left: 0;
@@ -161,33 +163,40 @@ body {
   margin-top: 0.33rem;
 }
 
-.post-related {
-  font-size: 0.9rem;
-  margin-bottom: var(--gutter);
-}
-
-.post-related-label {
-  color: var(--text-light);
-  font-style: italic;
-}
-
-.post-related-list {
-  margin-top: 1rem;
-}
-
-.post-related-list li:not(:last-child) {
-  margin-bottom: 1rem;
-}
-
-.post-related-title {
+.webmentions h2 {
   font-family: var(--mono);
+  font-weight: bold;
+  font-size: 1.2rem;
+  margin-bottom: 3rem;
+  text-align: center;
+}
+
+.webmentions li:not(:last-child) {
+  margin-bottom: 1.5rem;
+}
+
+.webmention-header {
+  color: var(--text-light);
+}
+
+.webmention-header + .webmention-content {
+  margin-top: 0.25rem;
+}
+
+.webmention-author {
+  color: var(--text);
   font-weight: bold;
 }
 
-.post-related-date {
-  color: var(--text-light);
-  font-size: 0.9rem;
-  margin-top: 0.33rem;
+.webmention-author img {
+  width: 1.5rem;
+  margin-right: 0.5rem;
+  border-radius: 1rem;
+  transform: translateY(0.4rem);
+}
+
+.webmention-content {
+  margin-left: 2.25rem;
 }
 
 .pagination {
