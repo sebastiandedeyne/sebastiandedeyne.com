@@ -91,23 +91,23 @@ class ChatChannel extends Component {
   }
 
   componentDidMount() {
-    this.startListeningToChannel();
+    this.startListeningToChannel(this.props.channelId);
   }
 
   componentDidUpdate(prevProps) {
     if (this.props.channelId !== prevProps.channelId) {
-      this.stopListeningToChannel();
-      this.startListeningToChannel();
+      this.stopListeningToChannel(prevProps.channelId);
+      this.startListeningToChannel(this.props.channelId);
     }
   }
 
   componentWillUnmount() {
-    this.stopListeningToChannel();
+    this.stopListeningToChannel(this.props.channelId);
   }
 
-  startListeningToChannel() {
+  startListeningToChannel(channelId) {
     websockets.listen(
-      `channels.${this.props.channelId}`,
+      `channels.${channelId}`,
       message => {
         this.setState(state => {
           return { messages: [...state.messages, message] };
@@ -116,8 +116,8 @@ class ChatChannel extends Component {
     );
   }
 
-  stopListeningToChannel() {
-    websockets.unlisten(`channels.${this.props.channelId}`);
+  stopListeningToChannel(channelId) {
+    websockets.unlisten(`channels.${channelId}`);
   }
 
   render() {
