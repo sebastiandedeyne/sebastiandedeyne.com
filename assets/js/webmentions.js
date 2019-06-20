@@ -1,23 +1,25 @@
-class WebMentions extends HTMLElement {
-  async connectedCallback() {
-    const webmentions = await getWebmentions(this.getAttribute("target"));
+const container = document.querySelector("[data-webmentions]");
 
-    if (webmentions.length === 0) {
-      return;
-    }
-
-    this.innerHTML = `
-      <div class="webmentions">
-        <h2>Webmentions</h2>
-        <ul>
-          ${webmentions.map(renderWebmention).join("")}
-        </ul>
-      </div>
-    `;
-  }
+if (container) {
+  renderWebmentions(container);
 }
 
-customElements.define("web-mentions", WebMentions);
+async function renderWebmentions(container) {
+  const webmentions = await getWebmentions(container.dataset.webmentions);
+
+  if (webmentions.length === 0) {
+    return;
+  }
+
+  container.innerHTML = `
+    <div class="webmentions">
+      <h2>Webmentions</h2>
+      <ul>
+        ${webmentions.map(renderWebmention).join("")}
+      </ul>
+    </div>
+  `;
+}
 
 function getWebmentions(target) {
   return fetch(`https://webmention.io/api/mentions.jf2?target=${target}`)
