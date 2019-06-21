@@ -19,4 +19,8 @@
   </section>
 </article>
 <div data-webmentions="https://sebastiandedeyne.com{{ .RelPermalink }}"></div>
+
+{{ with resources.Get "js/webmentions.js" | minify }}
+  <script>{{ .Content | safeJS }}</script>
+{{ end }}
 {{ end }}

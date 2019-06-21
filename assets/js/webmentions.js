@@ -12,12 +12,9 @@ async function renderWebmentions(container) {
   }
 
   container.innerHTML = `
-    <div class="webmentions">
-      <h2>Webmentions</h2>
-      <ul>
-        ${webmentions.map(renderWebmention).join("")}
-      </ul>
-    </div>
+    <ul class="webmentions">
+      ${webmentions.map(renderWebmention).join("")}
+    </ul>
   `;
 }
 

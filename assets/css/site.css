@@ -163,14 +163,6 @@ body {
   margin-top: 0.33rem;
 }
 
-.webmentions h2 {
-  font-family: var(--mono);
-  font-weight: bold;
-  font-size: 1.2rem;
-  margin-bottom: 3rem;
-  text-align: center;
-}
-
 .webmentions li:not(:last-child) {
   margin-bottom: 1.5rem;
 }
@@ -190,13 +182,11 @@ body {
 
 .webmention-author img {
   width: 1.5rem;
-  margin-right: 0.5rem;
+  height: 1.5rem;
+  object-fit: cover;
+  margin-right: 0.25rem;
   border-radius: 1rem;
   transform: translateY(0.4rem);
-}
-
-.webmention-content {
-  margin-left: 2.25rem;
 }
 
 .pagination {
