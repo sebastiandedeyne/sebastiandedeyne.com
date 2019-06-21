@@ -152,7 +152,7 @@ function ChatChannel({ channelId }) {
 }
 ```
 
-Instead of hooking into the component lifecycle's nitty gritty details, we simply declare that there's some side effect based on `channelId`'s current value.
+Instead of hooking into the component lifecycle's nitty gritty details, we simply declare that there's some `listen` side effect based on `channelId`'s current value. We also return a `unlisten` call in a closure. React will run that cleanup callback whenever the effect is invalidated: either when `channelId` changes, or when the component unmounts.
 
 Instead of thinking about when *we* should apply the side effect, we declare the side effect's dependencies. This way *React* knows when it needs to run, update, or clean up.
 
