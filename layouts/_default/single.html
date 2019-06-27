@@ -18,7 +18,20 @@
     {{ .Content }}
   </section>
 </article>
+
 <div data-webmentions="https://sebastiandedeyne.com{{ .RelPermalink }}"></div>
+<template id="webmention-template">
+  <li>
+    <p class="webmention-header">
+      <a class="webmention-author">
+        <img class="webmention-author-avatar"/>
+        <span class="webmention-author-name"></span>
+      </a>
+      <a class="webmention-action"></a>
+    </p>
+    <div class="webmention-content markup"></div>
+  </li>
+</template>
 
 {{ with resources.Get "js/webmentions.js" | minify }}
   <script>{{ .Content | safeJS }}</script>

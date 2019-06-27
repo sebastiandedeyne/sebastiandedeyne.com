@@ -11,11 +11,14 @@ async function renderWebmentions(container) {
     return;
   }
 
-  container.innerHTML = `
-    <ul class="webmentions">
-      ${webmentions.map(renderWebmention).join("")}
-    </ul>
-  `;
+  const list = document.createElement("ul");
+  list.className = "webmentions";
+
+  webmentions.forEach(webmention => {
+    list.appendChild(renderWebmention(webmention));
+  });
+
+  container.appendChild(list);
 }
 
 function getWebmentions(target) {
@@ -32,27 +35,34 @@ function renderWebmention(webmention) {
     "mention-of": "mentioned"
   }[webmention["wm-property"]];
 
-  return `
-    <li>
-      <p class="webmention-header">
-        <a href="${webmention.author.url ||
-          webmention.url}" class="webmention-author">
-          <img
-            src="${webmention.author.photo}"
-            alt="Photo of ${webmention.author.name}"
-          />
-          ${webmention.author.name}
-        </a>
-        <a href="${webmention.url}">
-          ${action} on ${webmention["wm-received"].substr(0, 10)}
-        </a>
-      </p>
-      ${
-        webmention.content
-          ? `<div class="webmention-content markup">${webmention.content.html ||
-              webmention.content.text}</div>`
-          : ""
-      }
-    </li>
-  `;
+  const rendered = document.importNode(
+    document.getElementById("webmention-template").content,
+    true
+  );
+
+  function set(selector, attribute, value) {
+    rendered.querySelector(selector)[attribute] = value;
+  }
+
+  set(".webmention-author", "href", webmention.author.url || webmention.url);
+  set(".webmention-author-avatar", "src", webmention.author.photo);
+  set(".webmention-author-avatar", "alt", `Photo of ${webmention.author.name}`);
+  set(".webmention-author-name", "textContent", webmention.author.name);
+  set(".webmention-action", "href", webmention.url);
+
+  set(
+    ".webmention-action",
+    "textContent",
+    `${action} on ${webmention["wm-received"].substr(0, 10)}`
+  );
+
+  if (webmention.content) {
+    set(
+      ".webmention-content",
+      "innerHTML",
+      webmention.content.html || webmention.content.text
+    );
+  }
+
+  return rendered;
 }

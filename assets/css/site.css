@@ -171,7 +171,7 @@ body {
   color: var(--text-light);
 }
 
-.webmention-header + .webmention-content {
+.webmention-header + .webmention-content:not(:empty) {
   margin-top: 0.25rem;
 }
 
