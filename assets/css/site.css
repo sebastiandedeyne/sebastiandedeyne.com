@@ -288,7 +288,7 @@ body {
 
 .markup blockquote cite {
   display: block;
-  margin-top: var(--gutter);
+  margin-top: calc(var(--gutter) * 1/2);
   margin-bottom: calc(var(--gutter) * -1/2);
   font-size: 0.75rem;
   color: var(--text-light);
