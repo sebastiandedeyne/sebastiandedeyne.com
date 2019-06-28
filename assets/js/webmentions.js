@@ -53,7 +53,7 @@ function renderWebmention(webmention) {
   set(
     ".webmention-action",
     "textContent",
-    `${action} on ${webmention["wm-received"].substr(0, 10)}`
+    ` ${action} on ${webmention["wm-received"].substr(0, 10)}`
   );
 
   if (webmention.content) {
