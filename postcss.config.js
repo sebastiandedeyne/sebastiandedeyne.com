@@ -7,7 +7,7 @@ module.exports = {
       require("@fullhuman/postcss-purgecss")({
         content: ["./layouts/**/*.html", "./content/**/*.html"],
         defaultExtractor: content => content.match(/[A-Za-z0-9-_:/]+/g) || [],
-        whitelistPatterns: [/markup/, /pagination/]
+        whitelistPatternsChildren: [/markup/, /pagination/]
       }),
     production && require("autoprefixer"),
     production && require("cssnano")
