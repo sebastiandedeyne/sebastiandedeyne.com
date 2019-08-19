@@ -1,6 +1,6 @@
 baseURL = "https://sebastiandedeyne.com"
 languageCode = "en-us"
-title = "Sebastian De Deyne's Blog"
+title = "Sebastian De Deyne"
 
 summaryLength = 1_000_000
 rssLimit = 10

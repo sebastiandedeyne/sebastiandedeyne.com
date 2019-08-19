@@ -12,11 +12,13 @@ async function renderWebmentions(container) {
   }
 
   const list = document.createElement("ul");
-  list.className = "webmentions";
+  list.className = "pb-12 sm:pb-24";
 
-  webmentions.forEach(webmention => {
-    list.appendChild(renderWebmention(webmention));
-  });
+  webmentions
+    .filter(webmention => webmention["wm-property"] === "in-reply-to")
+    .forEach(webmention => {
+      list.appendChild(renderWebmention(webmention));
+    });
 
   container.appendChild(list);
 }
@@ -28,13 +30,6 @@ function getWebmentions(target) {
 }
 
 function renderWebmention(webmention) {
-  const action = {
-    "in-reply-to": "replied",
-    "like-of": "liked",
-    "repost-of": "reposted",
-    "mention-of": "mentioned"
-  }[webmention["wm-property"]];
-
   const rendered = document.importNode(
     document.getElementById("webmention-template").content,
     true
@@ -44,21 +39,16 @@ function renderWebmention(webmention) {
     rendered.querySelector(selector)[attribute] = value;
   }
 
-  set(".webmention-author", "href", webmention.author.url || webmention.url);
-  set(".webmention-author-avatar", "src", webmention.author.photo);
-  set(".webmention-author-avatar", "alt", `Photo of ${webmention.author.name}`);
-  set(".webmention-author-name", "textContent", webmention.author.name);
-  set(".webmention-action", "href", webmention.url);
-
-  set(
-    ".webmention-action",
-    "textContent",
-    ` ${action} on ${webmention["wm-received"].substr(0, 10)}`
-  );
+  set("[data-author]", "href", webmention.author.url || webmention.url);
+  set("[data-author-avatar]", "src", webmention.author.photo);
+  set("[data-author-avatar]", "alt", `Photo of ${webmention.author.name}`);
+  set("[data-author-name]", "textContent", webmention.author.name);
+  set("[data-date]", "href", webmention.url);
+  set("[data-date]", "textContent", webmention["wm-received"].substr(0, 10));
 
   if (webmention.content) {
     set(
-      ".webmention-content",
+      "[data-content]",
       "innerHTML",
       webmention.content.html || webmention.content.text
     );

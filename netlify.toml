@@ -7,6 +7,18 @@ HUGO_VERSION = "0.55.5"
 HUGO_ENV = "production"
 
 [[redirects]]
+from = "/2016/:post"
+to = "/:post"
+
+[[redirects]]
+from = "/2017/:post"
+to = "/:post"
+
+[[redirects]]
+from = "/2018/:post"
+to = "/:post"
+
+[[redirects]]
 from = "/feed"
 to = "/index.xml"
 

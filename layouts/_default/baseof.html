@@ -22,26 +22,46 @@
     <link rel="webmention" href="https://webmention.io/sebastiandedeyne.com/webmention" />
     <link rel="pingback" href="https://webmention.io/sebastiandedeyne.com/xmlrpc" />
 
-    {{ with resources.Get "css/site.css" | minify }}
+    {{ with resources.Get "css/fonts.css" | minify }}
+      <style>{{ .Content | safeCSS }}</style>
+    {{ end }}
+    {{ with resources.Get "css/site.css" | resources.PostCSS }}
       <style>{{ .Content | safeCSS }}</style>
     {{ end }}
   </head>
 
-  <body>
-    <div class="container">
-      <nav class="nav wrap">
-        <header>
-          <a href="/">{{ $.Site.Title }}</a>
-        </header>
-        <ul>
-          <li><a href="https://twitter.com/sebdedeyne" rel="me">Twitter</a></li>
-          <li><a href="/index.xml">RSS</a></li>
+  <body class="font-sans">
+    <header class="md:flex px-6 sm:px-12 md:px-16 py-6 border-b mb-6 sm:mb-16">
+      <nav class="flex-1">
+        <a href="/" class="font-bold">{{ $.Site.Title }}</a>
+      </nav>
+      <nav class="flex-1 -mx-3">
+        <ul class="sm:flex md:justify-center">
+          <li class="mx-3 {{ cond (eq .Params.nav_section nil) "" "text-gray-600" }}">
+            <a href="/">Blog</a>
+          </li>
+          <li class="mx-3 {{ cond (eq .Params.nav_section "speaking") "" "text-gray-600" }}">
+            <a href="/speaking">Speaking</a>
+          </li>
+          <li class="mx-3 {{ cond (eq .Params.nav_section "opensource") "" "text-gray-600" }}">
+            <a href="/open-source">Open source</a>
+          </li>
+          <li class="mx-3 {{ cond (eq .Params.nav_section "about") "" "text-gray-600" }}">
+            <a href="/about">About</a>
+          </li>
         </ul>
       </nav>
-      <main class="wrap">
-        {{ block "main" . }}{{ end }}
-      </main>
-    </div>
+      <nav class="flex-1 -mx-3">
+        <ul class="sm:flex md:justify-end">
+          <li class="mx-3 text-gray-600"><a href="https://twitter.com/sebdedeyne" rel="me">Twitter</a></li>
+          <li class="mx-3 text-gray-600"><a href="/index.xml">RSS</a></li>
+        </ul>
+      </nav>
+    </header>
+
+    <main class="w-full max-w-2xl mx-auto px-6 sm:px-12">
+      {{ block "main" . }}{{ end }}
+    </main>
 
     {{ with resources.Get "css/chroma.css" | minify }}
       <style>{{ .Content | safeCSS }}</style>
