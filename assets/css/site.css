@@ -2,14 +2,39 @@
 @tailwind utilities;
 
 html {
-  @apply leading-relaxed text-gray-900;
-  font-size: 16px;
+  @apply leading-normal text-gray-900;
+  font-size: 18px;
 }
 
-@screen sm {
-  html {
-    font-size: 18px;
+/******************************************************************************\
+ * Header                                                                      *
+\******************************************************************************/
+
+.header {
+  display: grid;
+  grid-column-gap: 1rem;
+  align-items: end;
+  grid-template-areas:
+    "title nav"
+    "title service";
+}
+
+@screen md {
+  .header {
+    grid-template-areas: "title nav service";
   }
+}
+
+.header-title {
+  grid-area: title;
+}
+
+.header-nav {
+  grid-area: nav;
+}
+
+.header-service {
+  grid-area: service;
 }
 
 /******************************************************************************\
@@ -17,12 +42,12 @@ html {
 \******************************************************************************/
 
 .markup > *:not(:last-child) {
-  @apply mb-8;
+  @apply mb-6;
 }
 
 .h1,
 .markup h1 {
-  @apply text-2xl font-bold leading-snug mb-12;
+  @apply text-2xl font-bold leading-tight mb-12;
 }
 
 .h2,

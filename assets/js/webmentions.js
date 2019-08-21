@@ -7,18 +7,20 @@ if (container) {
 async function renderWebmentions(container) {
   const webmentions = await getWebmentions(container.dataset.webmentions);
 
-  if (webmentions.length === 0) {
+  const replies = webmentions.filter(webmention => {
+    return webmention["wm-property"] === "in-reply-to";
+  });
+
+  if (replies.length === 0) {
     return;
   }
 
   const list = document.createElement("ul");
   list.className = "pb-12 sm:pb-24";
 
-  webmentions
-    .filter(webmention => webmention["wm-property"] === "in-reply-to")
-    .forEach(webmention => {
-      list.appendChild(renderWebmention(webmention));
-    });
+  replies.forEach(webmention => {
+    list.appendChild(renderReply(webmention));
+  });
 
   container.appendChild(list);
 }
@@ -29,7 +31,7 @@ function getWebmentions(target) {
     .then(data => data.children);
 }
 
-function renderWebmention(webmention) {
+function renderReply(webmention) {
   const rendered = document.importNode(
     document.getElementById("webmention-template").content,
     true

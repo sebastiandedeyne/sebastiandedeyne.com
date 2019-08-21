@@ -31,30 +31,32 @@
   </head>
 
   <body class="font-sans">
-    <header class="md:flex px-6 sm:px-12 md:px-16 py-6 border-b mb-6 sm:mb-16">
-      <nav class="flex-1">
-        <a href="/" class="font-bold">{{ $.Site.Title }}</a>
+    <header class="header px-6 sm:px-12 md:px-16 py-6 border-b mb-12 sm:mb-16">
+      <nav class="header-title">
+        <a href="/" class="font-bold text-2xl md:text-base lg:text-lg leading-tight">
+          Sebastian <br class="md:hidden"> De Deyne
+        </a>
       </nav>
-      <nav class="flex-1 -mx-3">
-        <ul class="sm:flex md:justify-center">
-          <li class="mx-3 {{ cond (eq .Params.nav_section nil) "" "text-gray-600" }}">
+      <nav class="header-nav | text-right">
+        <ul class="md:flex md:justify-center">
+          <li class="md:mr-3 lg:mr-6 {{ cond (eq .Params.nav_section nil) "" "text-gray-600" }}">
             <a href="/">Blog</a>
           </li>
-          <li class="mx-3 {{ cond (eq .Params.nav_section "speaking") "" "text-gray-600" }}">
+          <li class="md:mr-3 lg:mr-6 {{ cond (eq .Params.nav_section "speaking") "" "text-gray-600" }}">
             <a href="/speaking">Speaking</a>
           </li>
-          <li class="mx-3 {{ cond (eq .Params.nav_section "opensource") "" "text-gray-600" }}">
+          <li class="md:mr-3 lg:mr-6 {{ cond (eq .Params.nav_section "opensource") "" "text-gray-600" }}">
             <a href="/open-source">Open source</a>
           </li>
-          <li class="mx-3 {{ cond (eq .Params.nav_section "about") "" "text-gray-600" }}">
+          <li class="{{ cond (eq .Params.nav_section "about") "" "text-gray-600" }}">
             <a href="/about">About</a>
           </li>
         </ul>
       </nav>
-      <nav class="flex-1 -mx-3">
-        <ul class="sm:flex md:justify-end">
-          <li class="mx-3 text-gray-600"><a href="https://twitter.com/sebdedeyne" rel="me">Twitter</a></li>
-          <li class="mx-3 text-gray-600"><a href="/index.xml">RSS</a></li>
+      <nav class="header-service | text-right">
+        <ul class="md:flex justify-end">
+          <li class="text-gray-600 md:mr-3 lg:mr-6"><a href="https://twitter.com/sebdedeyne" rel="me">Twitter</a></li>
+          <li class="text-gray-600 hidden md:block"><a href="/index.xml">RSS</a></li>
         </ul>
       </nav>
     </header>

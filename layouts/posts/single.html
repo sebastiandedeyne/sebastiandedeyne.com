@@ -1,7 +1,7 @@
 {{ define "main" }}
 <article class="pb-12 sm:pb-20 border-b mb-12 sm:mb-20">
   <header>
-    <h1 class="h1 mb-0">
+    <h1 class="h1 mb-1">
       <a href="{{ .RelPermalink }}">
         {{ .Title }}
       </a>
@@ -11,6 +11,10 @@
           <time datetime="{{ .Date.Format "2006-01-02" }}">
             {{ .Date.Format "January 2, 2006" }}
           </time>
+          {{ if (in .Params.categories "articles") }}
+            {{ $readingtime := div (.Content | countwords) 200 }}
+            | {{ cond (lt $readingtime 1) 1 $readingtime }} min read
+          {{ end }}
         </a>
     </p>
   </header>
