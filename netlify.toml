@@ -19,6 +19,18 @@ from = "/2018/:post"
 to = "/:post"
 
 [[redirects]]
+from = "/posts/2016/:post"
+to = "/:post"
+
+[[redirects]]
+from = "/posts/2017/:post"
+to = "/:post"
+
+[[redirects]]
+from = "/posts/2018/:post"
+to = "/:post"
+
+[[redirects]]
 from = "/feed"
 to = "/index.xml"
 
