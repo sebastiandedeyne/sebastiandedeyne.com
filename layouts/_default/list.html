@@ -1,6 +1,6 @@
 {{ define "main" }}
 
-{{ $paginator := .Paginate (where .Pages "Type" "posts") }}
+{{ $paginator := .Paginate (where .Site.Taxonomies.categories.articles "Type" "posts") }}
 
 {{ range $paginator.Pages }}
   <article class="pb-12 sm:pb-20 border-b mb-12 sm:mb-20">
