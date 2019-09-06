@@ -31,22 +31,33 @@
   </head>
 
   <body class="font-sans">
-    <header class="header px-6 sm:px-12 md:px-16 py-6 border-b mb-12 sm:mb-16">
+    {{ if ne .Params.nav_section "newsletter" }}
+      <aside class="text-center bg-teal-100 border-b border-teal-200 text-teal-800 p-2">
+        <p class="markup text-xs">
+          I started a newsletter! <a href="/newsletter">Check it out</a>, maybe even give it a subscribe.
+        </p>
+      </aside>
+    {{ end }}
+
+    <header class="header px-6 sm:px-12 lg:px-16 py-6 border-b mb-12 sm:mb-16">
       <nav class="header-title">
-        <a href="/" class="font-bold text-2xl md:text-base lg:text-lg leading-tight">
+        <a href="/" class="font-bold text-2xl lg:text-base xl:text-lg leading-tight">
           Sebastian&nbsp;<br class="md:hidden">De Deyne
         </a>
       </nav>
       <nav class="header-nav | text-right">
-        <ul class="md:flex md:justify-center">
-          <li class="md:mr-3 lg:mr-6 {{ cond (eq .Params.nav_section nil) "" "text-gray-600" }}">
+        <ul class="lg:flex lg:justify-center">
+          <li class="lg:mr-6 {{ cond (eq .Params.nav_section nil) "" "text-gray-600" }}">
             <a href="/">Blog</a>
           </li>
-          <li class="md:mr-3 lg:mr-6 {{ cond (eq .Params.nav_section "speaking") "" "text-gray-600" }}">
+          <li class="lg:mr-6 {{ cond (eq .Params.nav_section "speaking") "" "text-gray-600" }}">
             <a href="/speaking">Speaking</a>
           </li>
-          <li class="md:mr-3 lg:mr-6 {{ cond (eq .Params.nav_section "opensource") "" "text-gray-600" }}">
+          <li class="lg:mr-6 {{ cond (eq .Params.nav_section "opensource") "" "text-gray-600" }}">
             <a href="/open-source">Open source</a>
+          </li>
+          <li class="lg:mr-6 {{ cond (eq .Params.nav_section "newsletter") "" "text-gray-600" }}">
+            <a href="/newsletter">Newsletter</a>
           </li>
           <li class="{{ cond (eq .Params.nav_section "about") "" "text-gray-600" }}">
             <a href="/about">About</a>
@@ -54,9 +65,9 @@
         </ul>
       </nav>
       <nav class="header-service | text-right">
-        <ul class="md:flex justify-end">
-          <li class="text-gray-600 md:mr-3 lg:mr-6"><a href="https://twitter.com/sebdedeyne" rel="me">Twitter</a></li>
-          <li class="text-gray-600 hidden md:block"><a href="/index.xml">RSS</a></li>
+        <ul class="lg:flex justify-end">
+          <li class="text-gray-600 lg:mr-6"><a href="https://twitter.com/sebdedeyne" rel="me">Twitter</a></li>
+          <li class="text-gray-600 hidden lg:block"><a href="/index.xml">RSS</a></li>
         </ul>
       </nav>
     </header>

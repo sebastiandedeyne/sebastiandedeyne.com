@@ -13,13 +13,13 @@ html {
 .header {
   display: grid;
   grid-column-gap: 1rem;
-  align-items: end;
+  align-items: center;
   grid-template-areas:
     "title nav"
     "title service";
 }
 
-@screen md {
+@screen lg {
   .header {
     grid-template-areas: "title nav service";
   }
