@@ -1,0 +1,43 @@
+#carbonads {
+  @apply p-4 bg-yellow-100 border border-yellow-300 text-sm text-gray-700 leading-snug mx-auto my-10 max-w-sm;
+}
+
+@screen sm {
+  #carbonads {
+    @apply p-6;
+  }
+}
+
+#carbonads > span {
+  display: grid;
+  grid-gap: 0.5rem;
+  grid-template-areas:
+    "img"
+    "text"
+    "poweredby";
+}
+
+@screen sm {
+  #carbonads > span {
+    grid-gap: 1rem;
+    grid-template-areas:
+      "img text"
+      "img poweredby";
+  }
+}
+
+.carbon-img {
+  grid-area: img;
+}
+
+.carbon-text {
+  grid-area: text;
+}
+
+.carbon-poweredby {
+  grid-area: poweredby;
+}
+
+.carbon-wrap {
+  display: contents;
+}

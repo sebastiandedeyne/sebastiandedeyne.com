@@ -18,9 +18,24 @@
         </a>
     </p>
   </header>
-  <section class="markup">
-    {{ .Content }}
-  </section>
+  <section>
+    {{ if .Truncated }}
+      <div class="markup">
+        {{ .Summary }}
+      </div>
+      {{ partial "ad" }}
+      <div class="markup">
+        {{ safeHTML (replace .Content .Summary "") }}
+      </div>
+    </section>
+  {{ else }}
+    <div class="mb-8">
+      {{ partial "ad" }}
+    </div>
+    <div class="markup">
+      {{ .Content }}
+    </div>
+  {{ end }}
 </article>
 
 <div data-webmentions="https://sebastiandedeyne.com{{ .RelPermalink }}"></div>

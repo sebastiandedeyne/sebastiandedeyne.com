@@ -31,14 +31,6 @@
   </head>
 
   <body class="font-sans">
-    {{ if ne .Params.nav_section "newsletter" }}
-      <aside class="text-center bg-teal-100 border-b border-t border-teal-200 text-teal-800 p-2">
-        <p class="markup text-xs">
-          I started a newsletter! <a href="/newsletter">Check it out</a>, maybe even give it a subscribe.
-        </p>
-      </aside>
-    {{ end }}
-
     <header class="header px-6 sm:px-12 lg:px-16 py-6 border-b mb-12 sm:mb-16">
       <nav class="header-title">
         <a href="/" class="font-bold text-2xl lg:text-base xl:text-lg leading-tight">
@@ -72,7 +64,7 @@
       </nav>
     </header>
 
-    <main class="w-full max-w-2xl mx-auto px-6 sm:px-12">
+    <main class="w-full max-w-2xl mx-auto px-6 sm:px-12 lg:px-16">
       {{ block "main" . }}{{ end }}
     </main>
 
