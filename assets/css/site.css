@@ -153,7 +153,11 @@ html {
 }
 
 .markup aside {
-  @apply text-gray-100 text-xs my-12;
+  @apply text-gray-600 text-xs my-12;
+}
+
+.markup aside p + p {
+  margin-top: 1rem;
 }
 
 .markup .highlight pre {
