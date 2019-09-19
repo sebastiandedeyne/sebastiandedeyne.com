@@ -8,7 +8,7 @@ module.exports = {
       require("@fullhuman/postcss-purgecss")({
         content: ["./layouts/**/*.html", "./content/**/*.html"],
         defaultExtractor: content => content.match(/[A-Za-z0-9-_:/]+/g) || [],
-        whitelistPatternsChildren: [/markup/, /pagination/]
+        whitelistPatternsChildren: [/markup/, /pagination/, /carbon/]
       }),
     production && require("cssnano")
   ]
