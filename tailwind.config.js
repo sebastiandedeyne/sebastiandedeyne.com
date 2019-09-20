@@ -20,6 +20,9 @@ module.exports = {
           '"Segoe UI Symbol"',
           '"Noto Color Emoji"'
         ]
+      },
+      lineHeight: {
+        normal: 1.55
       }
     }
   },
