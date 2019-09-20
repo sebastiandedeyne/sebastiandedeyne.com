@@ -14,7 +14,7 @@ html {
 
 @screen xl {
   html {
-    font-size: 21px;
+    font-size: 20px;
   }
 }
 
@@ -24,7 +24,7 @@ html {
 
 .header {
   display: grid;
-  grid-column-gap: 1rem;
+  grid-column-gap: 1.5rem;
   align-items: center;
   grid-template-areas:
     "title nav"
@@ -34,6 +34,13 @@ html {
 @screen lg {
   .header {
     grid-template-areas: "title nav service";
+    grid-template-columns: auto auto min-content;
+  }
+}
+
+@screen xl {
+  .header {
+    grid-template-columns: 1fr auto 1fr;
   }
 }
 
