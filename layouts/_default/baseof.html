@@ -22,6 +22,8 @@
     <link rel="webmention" href="https://webmention.io/sebastiandedeyne.com/webmention" />
     <link rel="pingback" href="https://webmention.io/sebastiandedeyne.com/xmlrpc" />
 
+    <link rel="stylesheet" href="https://rsms.me/inter/inter.css">
+
     {{ with resources.Get "css/fonts.css" | minify }}
       <style>{{ .Content | safeCSS }}</style>
     {{ end }}
@@ -33,11 +35,11 @@
   <body class="font-sans">
     <header class="header px-6 sm:px-12 lg:px-16 py-6 border-b mb-12 sm:mb-16">
       <nav class="header-title">
-        <a href="/" class="font-bold text-2xl lg:text-base leading-tight">
+        <a href="/" class="font-bold text-xl sm:text-2xl lg:text-base leading-tight">
           Sebastian&nbsp;<br class="md:hidden">De Deyne
         </a>
       </nav>
-      <nav class="header-nav | text-right">
+      <nav class="header-nav | lg:text-sm xl:text-base text-right">
         <ul class="lg:flex lg:justify-end xl:justify-center">
           <li class="lg:mr-6 {{ cond (eq .Params.nav_section nil) "" "text-gray-600" }}">
             <a href="/">Blog</a>
@@ -56,7 +58,7 @@
           </li>
         </ul>
       </nav>
-      <nav class="header-service | text-right">
+      <nav class="header-service | lg:text-sm xl:text-base text-right">
         <ul class="lg:flex justify-end">
           <li class="text-gray-600 lg:mr-6"><a href="https://twitter.com/sebdedeyne" rel="me">Twitter</a></li>
           <li class="text-gray-600 hidden lg:block"><a href="/index.xml">RSS</a></li>

@@ -2,19 +2,13 @@
 @tailwind utilities;
 
 html {
-  @apply leading-normal text-gray-900;
+  @apply leading-relaxed text-gray-900;
   font-size: 18px;
 }
 
 @screen md {
   html {
     font-size: 19px;
-  }
-}
-
-@screen xl {
-  html {
-    font-size: 20px;
   }
 }
 
@@ -66,7 +60,7 @@ html {
 
 .h1,
 .markup h1 {
-  @apply text-2xl font-bold leading-tight mb-12;
+  @apply text-2xl font-bold leading-snug mb-12;
 }
 
 .h2,

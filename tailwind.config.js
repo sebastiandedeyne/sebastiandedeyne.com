@@ -6,7 +6,7 @@ module.exports = {
       },
       fontFamily: {
         sans: [
-          "Karla",
+          "Inter",
           "-apple-system",
           "BlinkMacSystemFont",
           '"Segoe UI"',
@@ -20,9 +20,6 @@ module.exports = {
           '"Segoe UI Symbol"',
           '"Noto Color Emoji"'
         ]
-      },
-      lineHeight: {
-        normal: 1.55
       }
     }
   },
