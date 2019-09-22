@@ -95,12 +95,12 @@ html {
 
 .markup img {
   @apply block;
-  max-width: calc(100% + theme("spacing.6"));
+  max-width: calc(100% + theme("spacing.12"));
 }
 
 @screen sm {
   .markup img {
-    max-width: calc(100% + theme("spacing.12"));
+    max-width: calc(100% + theme("spacing.24"));
   }
 }
 
