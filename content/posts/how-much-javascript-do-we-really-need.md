@@ -56,4 +56,4 @@ It's important to remember that the value of a tool is relative to the team usin
 
 Keep in mind that is all coming from someone in a team that consists of primarily backend developers.
 
-How are you or your team building user interfaces? Are you happy with your current stack? Which parts of it do and don't you like? Talk to me on [Twitter](https://twitter.com/sebdedeyne)!
+How are you or your team building user interfaces? Are you happy with your current stack? Which parts of it do and don't you like? Talk to me on [Twitter](https://twitter.com/sebdedeyne/status/1176038615937404928)!
