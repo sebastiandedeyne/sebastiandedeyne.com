@@ -6,7 +6,7 @@ categories: ["articles"]
 
 If you're building an app with Laravel and Inertia, you don't have access to Laravel's helper methods because you're writing views in JavaScript. This means you lose the ability to generate URLs on the fly with Laravel's `route` and `action` helpers.
 
-This is a super short post outlining two ways to deal with routes in a Laravel and Inertia app.
+This short post outlines two ways to deal with routes in a Laravel and Inertia app.
 
 <!--more-->
 
