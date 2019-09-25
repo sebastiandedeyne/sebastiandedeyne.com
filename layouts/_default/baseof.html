@@ -41,19 +41,21 @@
       </nav>
       <nav class="header-nav | lg:text-sm xl:text-base text-right">
         <ul class="lg:flex lg:justify-end xl:justify-center">
-          <li class="lg:mr-6 {{ cond (eq .Params.nav_section nil) "" "text-gray-600" }}">
+          {{ $section := index (split .RelPermalink "/") 1 }}
+          {{ $isBlog := or (eq (in "speaking open-source newsletter about" $section) false) (eq .RelPermalink "/") }}
+          <li class="lg:mr-6 {{ cond $isBlog "" "text-gray-600" }}">
             <a href="/">Blog</a>
           </li>
-          <li class="lg:mr-6 {{ cond (eq .Params.nav_section "speaking") "" "text-gray-600" }}">
+          <li class="lg:mr-6 {{ cond (eq $section "speaking") "" "text-gray-600" }}">
             <a href="/speaking">Speaking</a>
           </li>
-          <li class="lg:mr-6 {{ cond (eq .Params.nav_section "opensource") "" "text-gray-600" }}">
+          <li class="lg:mr-6 {{ cond (eq $section "open-source") "" "text-gray-600" }}">
             <a href="/open-source">Open source</a>
           </li>
-          <li class="lg:mr-6 {{ cond (eq .Params.nav_section "newsletter") "" "text-gray-600" }}">
+          <li class="lg:mr-6 {{ cond (eq $section "newsletter") "" "text-gray-600" }}">
             <a href="/newsletter">Newsletter</a>
           </li>
-          <li class="{{ cond (eq .Params.nav_section "about") "" "text-gray-600" }}">
+          <li class="{{ cond (eq $section "about") "" "text-gray-600" }}">
             <a href="/about">About</a>
           </li>
         </ul>

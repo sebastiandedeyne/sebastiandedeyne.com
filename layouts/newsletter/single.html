@@ -1,0 +1,27 @@
+{{ define "main" }}
+<article class="pb-12 sm:pb-20">
+  <header>
+    <h1 class="h1 mb-1">
+      <a href="{{ .RelPermalink }}">
+        {{ .Title }}
+      </a>
+    </h1>
+    <p class="text-sm text-gray-600 mb-8">
+        <a href="{{ .RelPermalink }}">
+          <time datetime="{{ .Date.Format "2006-01-02" }}">
+            {{ .Date.Format "January 2, 2006" }}
+          </time>
+        </a>
+    </p>
+  </header>
+  <section>
+    <div class="mb-8">
+      {{ partial "ad" }}
+    </div>
+    <div class="markup">
+      {{ .Content }}
+    </div>
+  </section>
+</article>
+
+{{ end }}

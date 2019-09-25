@@ -1,13 +1,10 @@
----
-title: Newsletter
-nav_section: newsletter
----
-
+{{ define "main" }}
 <h1 class="h1">Newsletter</h1>
 
-<section class="markup pb-12 sm:pb-24">
+<section class="markup">
   <p>I occasionally send out a newsletter. The goal is to share things I believe are worth sharing. Whether those are personal stories, things I’ve been working on in the past month or just interesting things I come across.</p>
   <p>There's no fixed frequency, but generally don't expect more than one email per month. Consider it an adventure for both of us!</p>
+
   <div id="mc_embed_signup">
     <form
       action="https://gmail.us4.list-manage.com/subscribe/post?u=2b204a3ff638d62a481ab42fd&amp;id=cb853b68a4"
@@ -42,3 +39,25 @@ nav_section: newsletter
     <p class="text-xs text-gray-700">Unsubscribe any time. Pinky swear that I won't use your data for any other purposes than this newsletter. Your email address will be stored on <a href="https://mailchimp.com/legal/privacy/" target="_blank" rel="nofollow">MailChimp's servers</a> and nowhere else.</p>
   </div>
 </section>
+
+<hr>
+
+<section class="pb-12 sm:pb-24">
+  <h2 class="h2 mb-8">Previous editions</h2>
+
+  {{ range (where .Pages "Type" "newsletter") }}
+    <ul>
+      <li class="mb-6">
+        <p class="font-medium">
+          <a href="{{ .RelPermalink }}">
+            {{ .Title }}
+          </a>
+        </p>
+        <p class="text-sm text-gray-600 markup">
+          {{ .Date.Format "January 2, 2006" }}
+        </div>
+      </li>
+    </ul>
+  {{ end }}
+</section>
+{{ end }}

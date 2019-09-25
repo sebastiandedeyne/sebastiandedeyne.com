@@ -1,9 +1,9 @@
 {{ define "main" }}
 
-{{ $paginator := .Paginate (where .Site.Taxonomies.categories.articles "Type" "posts") }}
+{{ $paginator := .Paginate (where .Pages "Type" "posts") }}
 
 {{ range $paginator.Pages }}
-  <article class="pb-12 sm:pb-20 border-b mb-12 sm:mb-20">
+  <article>
     <header>
       <h1 class="h1 mb-1">
         <a href="{{ .RelPermalink }}">
@@ -35,6 +35,7 @@
       {{ end }}
     </section>
   </article>
+  <hr>
 {{ end }}
 
 {{ template "_internal/pagination.html" . }}

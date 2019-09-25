@@ -27,15 +27,15 @@
       <div class="markup">
         {{ safeHTML (replace .Content .Summary "") }}
       </div>
-    </section>
-  {{ else }}
-    <div class="mb-8">
-      {{ partial "ad" }}
-    </div>
-    <div class="markup">
-      {{ .Content }}
-    </div>
-  {{ end }}
+    {{ else }}
+      <div class="mb-8">
+        {{ partial "ad" }}
+      </div>
+      <div class="markup">
+        {{ .Content }}
+      </div>
+    {{ end }}
+  </section>
 </article>
 
 <div data-webmentions="https://sebastiandedeyne.com{{ .RelPermalink }}"></div>
