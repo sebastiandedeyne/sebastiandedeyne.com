@@ -80,7 +80,7 @@ hr {
 
 .h3,
 .markup h3 {
-  @apply font-bold mt-12;
+  @apply text-base font-bold mt-12;
 }
 
 .markup a {
