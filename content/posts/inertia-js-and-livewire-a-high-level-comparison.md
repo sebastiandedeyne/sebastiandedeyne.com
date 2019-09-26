@@ -251,3 +251,5 @@ Keep in mind that this is a very high-level overview of the two. Both have a ton
 One thing Inertia and Livewire have in common: they're both young and _very_ exciting pieces of technology.
 
 If Livewire sounds interesting to you, take a look at [laravel-livewire.com](https://laravel-livewire.com). Livewire is created and maintained by [Caleb Porzio](https://calebporzio.com). If you want to learn more about Inertia.js, I highly recommend reading ["Server-side apps with client-side rendering"](https://reinink.ca/articles/server-side-apps-with-client-side-rendering) and ["Introducing Inertia.js"](https://reinink.ca/articles/introducing-inertia-js) from its author [Jonathan Reinink](https://reinink.ca).
+
+<aside>A big thank you to both Caleb and Jonathan for reviewing this post!</aside>
