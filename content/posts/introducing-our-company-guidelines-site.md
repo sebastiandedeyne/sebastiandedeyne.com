@@ -3,9 +3,9 @@ date: 2017-08-21
 title: Introducing our company guidelines site
 link: https://guidelines.spatie.be
 categories: ["links"]
-tags:
+keywords:
   - programming
-  - spatie
+  - Spatie
 ---
 
 We just open sourced [our company guidelines site](https://guidelines.spatie.be)! We previously kept the contents in a private wiki on GitHub, but I'm glad we finally put the time in giving the contents a real home.

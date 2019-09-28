@@ -3,6 +3,8 @@ date: 2019-08-01
 title: Fast software, the best software
 link: https://craigmod.com/essays/fast_software/
 categories: ["links"]
+keywords:
+    - performance
 ---
 
 In his most recent essay, Craig Mod explores the effect of optimizing software for speed.
@@ -17,6 +19,6 @@ In his most recent essay, Craig Mod explores the effect of optimizing software f
 
 Another excerpt that just had to be quoted:
 
-> Google Maps used to be a fast, focused tool. It’s now quite bovine. If you push the wrong button, it moos. Clunky, you could say. Overly complex. Unnecessarily layered. 
+> Google Maps used to be a fast, focused tool. It’s now quite bovine. If you push the wrong button, it moos. Clunky, you could say. Overly complex. Unnecessarily layered.
 
 Read the full essay on [craigmod.com](https://craigmod.com/essays/fast_software/).

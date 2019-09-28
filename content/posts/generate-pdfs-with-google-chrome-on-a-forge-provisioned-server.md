@@ -3,8 +3,8 @@ date: 2017-08-04
 title: Generate pdfs with Google Chrome on a Forge provisioned server
 subtitle: Written for Ubuntu ^16.04
 categories: ["articles"]
-tags:
-  - laravel
+keywords:
+  - Laravel
   - forge
   - sysadmin
 ---

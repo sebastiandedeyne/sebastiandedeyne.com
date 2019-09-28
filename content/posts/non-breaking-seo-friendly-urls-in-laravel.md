@@ -3,9 +3,9 @@ date: 2017-02-21
 title: Non-breaking, SEO friendly urls in Laravel
 subtitle: Written for Laravel ^5.4
 categories: ["articles"]
-tags:
-  - laravel
-  - php
+keywords:
+  - Laravel
+  - PHP
   - seo
 ---
 

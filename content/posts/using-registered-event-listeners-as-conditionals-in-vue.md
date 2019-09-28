@@ -3,9 +3,9 @@ date: 2017-07-18
 title: Using registered event listeners as conditionals in Vue
 subtitle: Written for Vue ^2.4
 categories: ["articles"]
-tags:
-  - vue
-  - javascript
+keywords:
+    - Vue.js
+    - JavaScript
 ---
 
 Today I was writing a form component that needed an optional back button. Since the form component is generic, the back button could point to anything.

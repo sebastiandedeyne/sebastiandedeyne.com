@@ -2,6 +2,8 @@
 title: "Live updating Oh Dear! status pages"
 date: 2019-09-23
 categories: ["articles"]
+keywords:
+    - JavaScript
 ---
 
 Last week Oh Dear! launched a new [status pages feature](https://ohdear.app/blog/introducing-status-pages-for-all-our-users). I designed them and implemented their frontend. Here's a live example on [status.flareapp.io](https://status.flareapp.io).

@@ -2,8 +2,8 @@
 date: 2016-03-09
 title: Normalize your values on input
 categories: ["articles"]
-tags:
-  - php
+keywords:
+  - PHP
   - programming
 ---
 

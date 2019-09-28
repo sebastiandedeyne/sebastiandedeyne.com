@@ -2,6 +2,11 @@
 title: "Inertia.js and Livewire: a high level comparison"
 date: 2019-09-26
 categories: ["articles"]
+keywords:
+    - JavaScript
+    - Inertia.js
+    - Livewire
+    - Laravel
 ---
 
 Both Inertia.js and Livewire have been in the spotlight the past few months. The two libraries often get put next to each other because of their (coincidentally) simultaneous releases.

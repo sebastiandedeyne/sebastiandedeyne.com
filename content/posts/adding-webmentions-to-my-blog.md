@@ -2,6 +2,10 @@
 title: "Adding webmentions to my blog"
 date: 2019-06-27T22:39:56+02:00
 categories: ["articles"]
+keywords:
+    - the web
+    - static site
+    - the webmentions
 ---
 
 I first noticed webmentions in the wild on [Hidde de Vries' blog](https://hiddedevries.nl/en/blog/) about two years ago. Last week it finally happened, I added webmention support to my blog too! Well, partial support at least. I'm now receiving and displaying webmentions. Sending them out is a project for another day.

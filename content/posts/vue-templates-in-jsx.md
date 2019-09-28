@@ -2,10 +2,10 @@
 date: 2018-05-25
 title: Vue templates in JSX
 categories: ["articles"]
-tags:
-  - vue
-  - jsx
-  - javascript
+keywords:
+    - Vue.js
+    - jsx
+    - JavaScript
 ---
 
 In my most recent project at work, I'm experimenting with JSX templates in Vue. Vue offers [first-party support](https://vuejs.org/v2/guide/render-function.html#JSX) for JSX with near-zero configuration, but it doesn't seem to be commonly used in the ecosystem.

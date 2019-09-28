@@ -3,10 +3,10 @@ date: 2019-05-09
 title: "Full Stack Radio 114: React for Vue developers"
 link: http://www.fullstackradio.com/114
 categories: ["links"]
-tags:
-    - react
-    - vue
-    - javascript
+keywords:
+    - React
+    - Vue.js
+    - JavaScript
 ---
 
 I had the honor to be a guest on [Full Stack Radio](http://www.fullstackradio.com) with Adam Wathan.

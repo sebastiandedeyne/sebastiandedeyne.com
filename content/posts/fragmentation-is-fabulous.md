@@ -3,7 +3,7 @@ date: 2017-07-03
 title: Fragmentation is fabulous
 link: https://twitter.com/sebmck/status/879282797915119616
 categories: ["links"]
-tags:
+keywords:
   - programming
 ---
 

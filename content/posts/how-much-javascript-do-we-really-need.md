@@ -2,6 +2,9 @@
 title: "How much JavaScript do we really need?"
 date: 2019-09-22
 categories: ["articles"]
+keywords:
+    - the web
+    - JavaScript
 ---
 
 How much should we invest in JavaScript as developers? I've asked myself that question over and over again. Around last year I came to a conclusion: I strongly believe JavaScript is a requirement for excellent user experiences. Not good experiences, _excellent_ experiences.

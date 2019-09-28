@@ -2,9 +2,9 @@
 date: 2019-04-28
 title: Web components
 categories: ["articles"]
-tags:
-    - javascript
-    - web
+keywords:
+    - JavaScript
+    - the web
 ---
 
 Every now and then, web components hype seems to resurface. Judging by my Twitter feed, it's a bull market period now. Seems like a good time to share some thoughts.

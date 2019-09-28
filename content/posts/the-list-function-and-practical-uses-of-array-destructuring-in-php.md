@@ -3,8 +3,8 @@ date: 2017-05-15
 title: The list function & practical uses of array destructuring in PHP
 subtitle: Written for PHP ^7.1
 categories: ["articles"]
-tags:
-  - php
+keywords:
+  - PHP
 ---
 
 PHP 7.1 introduced a [new syntax](https://wiki.php.net/rfc/short_list_syntax) for [the `list()` function](http://www.php.net/list). I've never really seen too much `list()` calls in the wild, but it enables you to write some pretty neat stuff.

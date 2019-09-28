@@ -2,9 +2,9 @@
 date: 2018-04-16
 title: Code splitting with Laravel Mix
 categories: ["articles"]
-tags:
-  - laravel
-  - javascript
+keywords:
+  - Laravel
+  - JavaScript
 ---
 
 Code splitting is bundler feature—if you're using Laravel Mix, you're bundling your assets with Webpack—that allows you to split application scripts in multiple files. These can then conditionally be loaded at a later stage.

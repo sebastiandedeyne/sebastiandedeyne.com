@@ -3,9 +3,9 @@ date: 2017-03-27
 title: A package for snapshot testing in PHPUnit
 subtitle: Works with PHPUnit 5.7+
 categories: ["articles"]
-tags:
-  - php
-  - phpunit
+keywords:
+  - PHP
+  - PHPunit
   - testing
 ---
 

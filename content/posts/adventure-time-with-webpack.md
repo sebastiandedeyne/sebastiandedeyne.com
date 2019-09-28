@@ -3,9 +3,9 @@ date: 2016-02-04
 title: Adventure Time with Webpack
 subtitle: Written for Webpack 1.12
 categories: ["articles"]
-tags:
-  - webpack
-  - javascript
+keywords:
+  - the webpack
+  - JavaScript
 ---
 
 Over the past few weeks I've been migrating our asset pipeline at [Spatie](https://spatie.be) from Laravel Elixir (a gulp wrapper) to webpack. Between having endless possibilities, the occasional incomplete section in the docs, and the fact that everyone has slightly different needs for their asset pipeline (which makes examples hard), it has surely been an adventure. I'm going to do a quick summary of my goals, and how I achieved them with webpack. Hopefully there will be some useful snippets in here for when you're setting up your own webpack configuration.
@@ -272,6 +272,6 @@ Setting up your first webpack config file can be pretty rough, but once you're u
 ## More resources
 
 - The webpack docs — [https://webpack.js.org](https://webpack.js.org/concepts/)
-- Webpack Your Bags: A getting started post by madewithlove — [madewithlove.be](http://blog.madewithlove.be/post/webpack-your-bags/)
+- the webpack Your Bags: A getting started post by madewithlove — [madewithlove.be](http://blog.madewithlove.be/post/webpack-your-bags/)
 - Our base gulp + webpack workflow in an npm package — [Github](https://github.com/spatie-custom/blender-gulp)
 - A similar but simpler example: this website's webpack configuration — [Github](https://github.com/sebastiandedeyne/v1.sebastiandedeyne.com/blob/78638073ad7c3de2a59a2257834707799028a705/webpack.config.js)

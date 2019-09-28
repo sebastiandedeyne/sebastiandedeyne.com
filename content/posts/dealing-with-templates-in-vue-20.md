@@ -3,9 +3,9 @@ date: 2016-12-21
 title: Dealing with templates in Vue.js 2.0
 subtitle: Written for Vue ^2.0
 categories: ["articles"]
-tags:
-  - vue
-  - javascript
+keywords:
+  - Vue.js
+  - JavaScript
 ---
 
 Vue 2.0 introduced it's own virtual DOM implementation. At first sight, this doesn't seem to have a large effect on the way you write templates.

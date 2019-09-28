@@ -2,10 +2,10 @@
 date: 2019-04-26
 title: Why I prefer React over Vue
 categories: ["articles"]
-tags:
+keywords:
     - JavaScript
     - React
-    - Vue
+    - Vue.js
 ---
 
 Vue is the default JavaScript framework for Laravel apps. Being part of  the Laravel community, I often get the question why I prefer React, so I've decided to write down a few standout reasons.

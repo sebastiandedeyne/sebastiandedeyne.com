@@ -2,10 +2,10 @@
 date: 2018-07-31
 title: "Distraction-less user interfaces: Delayed transient states"
 categories: ["articles"]
-tags:
+keywords:
   - ux
-  - javascript
-  - vue
+  - JavaScript
+  - Vue.js
 ---
 
 _This is the first post in a series about removing distractions from an interface to provide a better user experience._

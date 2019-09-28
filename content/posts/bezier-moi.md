@@ -3,7 +3,7 @@ date: 2018-12-11
 title: Bézier moi
 link: https://cormullion.github.io/blog/2018/06/21/bezier.html
 categories: ["links"]
-tags:
+keywords:
     - design
     - svg
     - bezier

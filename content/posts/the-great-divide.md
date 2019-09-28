@@ -3,6 +3,9 @@ date: 2019-01-23
 title: The great divide
 link: https://css-tricks.com/the-great-divide/
 categories: ["links"]
+keywords:
+    - the web
+    - JavaScript
 ---
 
 Chris Coyier consolidated an array of opinions about what it means to be a frontend developer today.

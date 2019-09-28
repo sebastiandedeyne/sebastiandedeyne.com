@@ -3,8 +3,8 @@ date: 2017-06-28
 title: Exposing multiple Vue components as a plugin
 subtitle: Written for Vue ^2.0
 categories: ["articles"]
-tags:
-  - vue
+keywords:
+  - Vue.js
 ---
 
 Quick Vue tip for package authors! If you publish a package that exposes multiple Vue components, you can write a small plugin to install them all at once.

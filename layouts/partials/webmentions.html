@@ -1,0 +1,18 @@
+<div data-webmentions="https://sebastiandedeyne.com{{ .RelPermalink }}"></div>
+
+<template id="webmention-template">
+  <li class="mb-8 last:mb-0">
+    <p data-header class="mb-1">
+      <a data-author>
+        <img data-author-avatar class="inline-block w-8 rounded-full mr-1 mb-1" />
+        <span data-author-name class="font-bold"></span>
+      </a>
+      <a data-date class="text-gray-600 text-sm ml-1"></a>
+    </p>
+    <div data-content class="markup"></div>
+  </li>
+</template>
+
+{{ with resources.Get "js/webmentions.js" | minify }}
+  <script>{{ .Content | safeJS }}</script>
+{{ end }}

@@ -3,10 +3,10 @@ date: 2016-05-31
 title: Using a database for localization in Laravel
 subtitle: Written for Laravel ^5.2
 categories: ["articles"]
-tags:
-  - laravel
-  - php
-  - localization
+keywords:
+    - Laravel
+    - PHP
+    - localization
 ---
 
 When building a website for a client that wants to be able to manage content, Laravel's language files aren't ideal since you can't edit them without diving into a bundle of text files. We recently decided to drop all the lang files in our custom CMS in favor of persisting translations in the database, which allows us to build a custom interface for managing them.

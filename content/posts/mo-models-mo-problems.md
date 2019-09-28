@@ -3,9 +3,9 @@ date: 2018-08-14
 title: Mo' models mo' problems
 subtitle: A dive into `v-model` and `.sync`
 categories: ["articles"]
-tags:
-  - vue
-  - javascript
+keywords:
+  - Vue.js
+  - JavaScript
 ---
 
 One of the best things about Vue templates is the special `v-model` prop. `v-model` allows you two quickly map prop getters and setters without breaking unidirectional data flow. _Props down, events up._

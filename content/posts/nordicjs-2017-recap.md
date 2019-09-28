@@ -2,8 +2,8 @@
 date: 2017-10-03
 title: Nordic.js 2017 recap
 categories: ["articles"]
-tags:
-  - javascript
+keywords:
+  - JavaScript
   - conferences
 ---
 

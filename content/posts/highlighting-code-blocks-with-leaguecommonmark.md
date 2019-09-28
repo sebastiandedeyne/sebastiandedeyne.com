@@ -2,8 +2,9 @@
 date: 2018-11-30
 title: Highlighting code blocks with league/commonmark
 categories: ["articles"]
-tags:
-  - php
+keywords:
+    - PHP
+    - markdown
 ---
 
 Since the first iteration of my blog—some time around 2016—I've used [highlight.js](https://highlightjs.org/) to highlight code blocks. With highlight.js being so popular, I never really second guessed the idea. It was a given to use JavaScript.

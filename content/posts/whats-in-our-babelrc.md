@@ -2,8 +2,8 @@
 date: 2017-08-16
 title: What's in our .babelrc?
 categories: ["articles"]
-tags:
-  - javascript
+keywords:
+  - JavaScript
   - tooling
   - babel
 ---

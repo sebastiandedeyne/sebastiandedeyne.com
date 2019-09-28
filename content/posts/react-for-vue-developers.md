@@ -2,6 +2,10 @@
 date: 2019-05-20
 title: "React for Vue developers"
 categories: ["articles"]
+keywords:
+    - React
+    - Vue.js
+    - JavaScript
 ---
 
 For the past three years, I've been using both React and Vue in different projects, ranging from smaller websites to large scale apps.

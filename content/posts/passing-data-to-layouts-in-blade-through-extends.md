@@ -2,9 +2,9 @@
 date: 2018-01-15
 title: Passing data to layouts in Blade through extends
 categories: ["articles"]
-tags:
-  - laravel
-  - php
+keywords:
+  - Laravel
+  - PHP
 ---
 
 Laravel quick tip! The `@extends` Blade directive accepts a second (undocumented) parameter to pass data to the parent layout.

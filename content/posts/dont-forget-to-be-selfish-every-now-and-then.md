@@ -2,6 +2,8 @@
 date: 2019-04-09
 title: Don’t forget to be selfish every now and then
 categories: ["articles"]
+keywords:
+    - oss
 ---
 
 The other day, I stumbled upon an older article by DHH. *[“Work on what you use and share the rest”](https://dhh.dk/posts/36-work-on-what-you-use-and-share-the-rest)*.

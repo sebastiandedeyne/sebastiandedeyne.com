@@ -3,9 +3,9 @@ date: 2017-05-16
 title: TypeScript with Laravel Mix
 subtitle: Written for Mix 0.*
 categories: ["articles"]
-tags:
+keywords:
   - typescript
-  - laravel
+  - Laravel
 ---
 
 _Since writing this post, TypeScript has become [officially supported](https://github.com/JeffreyWay/laravel-mix/pull/812) in Laravel Mix (version `0.12` and up). There's still some informative stuff in here if you're new to TypeScript, but use the official method if you're on a newer version of Mix!_

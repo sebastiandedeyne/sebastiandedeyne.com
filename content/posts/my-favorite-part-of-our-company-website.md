@@ -2,6 +2,9 @@
 title: "My favorite part of our company website"
 date: 2019-06-17T15:23:19+02:00
 categories: ["articles"]
+keywords:
+    - the web
+    - Spatie
 ---
 
 Some time last year, we released the latest iteration of the [Spatie.be](https://spatie.be) website.

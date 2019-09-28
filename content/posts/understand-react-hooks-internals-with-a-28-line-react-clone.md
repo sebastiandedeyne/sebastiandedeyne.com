@@ -3,9 +3,9 @@ date: 2019-05-05
 title: Understand React hooks internals with a 28-line React clone
 link: https://www.netlify.com/blog/2019/03/11/deep-dive-how-do-react-hooks-really-work/
 categories: ["links"]
-tags:
-    - javascript
-    - react
+keywords:
+    - JavaScript
+    - React
 ---
 
 Shawn Wang ([@swyx](https://twitter.com/swyx)) wrote about how React hooks work internally. The article is a deep dive into JavaScript closures, and builds up to a 28-line React clone with support for the `useEffect` and `useState` hooks.

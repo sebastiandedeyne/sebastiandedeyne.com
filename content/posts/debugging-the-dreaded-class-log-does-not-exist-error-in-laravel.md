@@ -2,9 +2,9 @@
 date: 2017-10-24
 title: Debugging the dreaded "Class log does not exist" error in Laravel
 categories: ["articles"]
-tags:
-  - laravel
-  - php
+keywords:
+  - Laravel
+  - PHP
 ---
 
 Every now and then I come accross a `Class log does not exist` exception in Laravel. This particular exception is thrown when something goes wrong really early in the application, before the exception handler is instantiated.
