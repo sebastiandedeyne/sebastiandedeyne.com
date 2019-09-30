@@ -70,7 +70,7 @@ hr {
 
 .h1,
 .markup h1 {
-  @apply text-2xl font-bold leading-snug mb-12;
+  @apply text-2xl font-bold leading-tight mb-12;
 }
 
 .h2,
