@@ -1,5 +1,5 @@
 {{ define "main" }}
-<article>
+<article class="mb-12 sm:mb-24">
   <header>
     <h1 class="h1 mb-1">
       <a href="{{ .RelPermalink }}">
@@ -38,12 +38,11 @@
   </section>
 </article>
 
-<hr>
-
 {{ $related := .Site.RegularPages.Related . | first 3 }}
 {{ $keywords := .Keywords }}
 {{ with $related }}
-  <section>
+  <hr>
+  <section class="mb-12 sm:mb-24">
     <h2 class="h2 mt-6 mb-8">
       More about {{ delimit $keywords ", " " & " }}
     </h2>
@@ -68,8 +67,7 @@
   </section>
 {{ end }}
 
-<hr>
-
+<div data-webmentions="https://sebastiandedeyne.com{{ .RelPermalink }}"></div>
 {{ partial "webmentions.html" }}
 
 {{ end }}

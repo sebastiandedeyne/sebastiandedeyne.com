@@ -4,7 +4,7 @@ title: Adventure Time with Webpack
 subtitle: Written for Webpack 1.12
 categories: ["articles"]
 keywords:
-  - the webpack
+  - Webpack
   - JavaScript
 ---
 
@@ -271,7 +271,7 @@ Setting up your first webpack config file can be pretty rough, but once you're u
 
 ## More resources
 
-- The webpack docs — [https://webpack.js.org](https://webpack.js.org/concepts/)
-- the webpack Your Bags: A getting started post by madewithlove — [madewithlove.be](http://blog.madewithlove.be/post/webpack-your-bags/)
+- Webpack docs — [https://webpack.js.org](https://webpack.js.org/concepts/)
+- Webpack Your Bags: A getting started post by madewithlove — [madewithlove.be](http://blog.madewithlove.be/post/webpack-your-bags/)
 - Our base gulp + webpack workflow in an npm package — [Github](https://github.com/spatie-custom/blender-gulp)
 - A similar but simpler example: this website's webpack configuration — [Github](https://github.com/sebastiandedeyne/v1.sebastiandedeyne.com/blob/78638073ad7c3de2a59a2257834707799028a705/webpack.config.js)

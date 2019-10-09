@@ -15,6 +15,8 @@ async function renderWebmentions(container) {
     return;
   }
 
+  const separator = document.createElement("hr");
+
   const list = document.createElement("ul");
   list.className = "pb-12 sm:pb-24";
 
@@ -22,6 +24,7 @@ async function renderWebmentions(container) {
     list.appendChild(renderReply(webmention));
   });
 
+  container.appendChild(separator);
   container.appendChild(list);
 }
 
