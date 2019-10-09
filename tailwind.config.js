@@ -20,6 +20,9 @@ module.exports = {
           '"Segoe UI Symbol"',
           '"Noto Color Emoji"'
         ]
+      },
+      screens: {
+        dark: { raw: "(prefers-color-scheme: dark)" }
       }
     }
   },

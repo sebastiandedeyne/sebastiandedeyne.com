@@ -2,7 +2,6 @@
 @tailwind utilities;
 
 html {
-  @apply leading-relaxed text-gray-900;
   font-size: 18px;
 }
 
@@ -14,6 +13,12 @@ html {
 
 hr {
   @apply my-12;
+}
+
+@screen dark {
+  hr {
+    @apply border-gray-800;
+  }
 }
 
 @screen sm {
@@ -122,6 +127,12 @@ hr {
   @apply border;
 }
 
+@screen dark {
+  .markup img.bordered {
+    @apply border-gray-800;
+  }
+}
+
 .markup figcaption,
 .markup img + em,
 .markup pre + em {
@@ -130,6 +141,12 @@ hr {
 
 .markup blockquote {
   @apply p-6 bg-gray-100;
+}
+
+@screen dark {
+  .markup blockquote {
+    @apply bg-gray-800;
+  }
 }
 
 @screen sm {
@@ -175,6 +192,12 @@ hr {
   @apply bg-gray-100 text-inherit p-1;
 }
 
+@screen dark {
+  .markup :not(pre) > code {
+    @apply bg-gray-800;
+  }
+}
+
 .markup aside {
   @apply text-gray-600 text-xs my-12;
 }
@@ -185,6 +208,12 @@ hr {
 
 .markup .highlight pre {
   @apply block overflow-x-auto p-6 bg-black text-gray-100 leading-loose;
+}
+
+@screen dark {
+  .markup .highlight pre {
+    @apply bg-gray-800;
+  }
 }
 
 @screen sm {
