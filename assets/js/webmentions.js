@@ -7,9 +7,11 @@ if (container) {
 async function renderWebmentions(container) {
   const webmentions = await getWebmentions(container.dataset.webmentions);
 
-  const replies = webmentions.filter(webmention => {
-    return webmention["wm-property"] === "in-reply-to";
-  });
+  const replies = webmentions
+    .filter(webmention => {
+      return webmention["wm-property"] === "in-reply-to";
+    })
+    .reverse();
 
   if (replies.length === 0) {
     return;
