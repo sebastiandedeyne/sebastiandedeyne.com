@@ -1,8 +1,6 @@
-{{ if eq (getenv "HUGO_ENV") "production" }}
   <aside>
     {{ with resources.Get "css/carbon.css" | resources.PostCSS }}
       <style>{{ .Content | safeCSS }}</style>
     {{ end }}
     <script async type="text/javascript" src="//cdn.carbonads.com/carbon.js?serve=CE7DC2QJ&placement=sebastiandedeynecom" id="_carbonads_js"></script>
   </aside>
-{{ end }}

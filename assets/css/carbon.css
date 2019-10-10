@@ -2,6 +2,12 @@
   @apply p-4 bg-yellow-100 border border-yellow-300 text-xs text-gray-700 leading-snug mx-auto my-10 max-w-sm;
 }
 
+@screen dark {
+  #carbonads {
+    @apply bg-black text-gray-300 border-black;
+  }
+}
+
 @screen sm {
   #carbonads {
     @apply p-6;
