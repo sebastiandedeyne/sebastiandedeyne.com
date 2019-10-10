@@ -18,6 +18,21 @@ async function renderWebmentions(container) {
   }
 
   const separator = document.createElement("hr");
+  container.appendChild(separator);
+
+  const title = document.createElement("h2");
+  title.textContent = "Webmentions";
+  title.className = "h2 mt-6 mb-8";
+  container.appendChild(title);
+
+  const whatmentions = document.createElement("a");
+  whatmentions.textContent = "?";
+  whatmentions.className =
+    "ml-2 font-normal text-gray-700 dark:text-gray-500 text-xs w-4 h-4 inline-flex items-center justify-center bg-gray-200 dark:bg-gray-800 rounded-full font-semibold";
+  whatmentions.style.transform = "translateY(-2px)";
+  whatmentions.href =
+    "https://sebastiandedeyne.com/adding-webmentions-to-my-blog";
+  title.appendChild(whatmentions);
 
   const list = document.createElement("ul");
   list.className = "pb-12 sm:pb-24";
@@ -26,7 +41,6 @@ async function renderWebmentions(container) {
     list.appendChild(renderReply(webmention));
   });
 
-  container.appendChild(separator);
   container.appendChild(list);
 }
 
