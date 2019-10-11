@@ -162,8 +162,8 @@ You can't simply wrap something in `debounce` in a React function component, bec
 We need ensure the debounced function doesn't get recreated when the component rerenders. The `useCallback` hook is just what we need here.
 
 {{< highlight js "hl_lines=1-2 25-28 31" >}}
-import { useCallback, useEffect, useRef, useState } from 'react';
-import { debounce } from 'lodash';
+import { useCallback, useEffect, useRef, useState } from "react";
+import { debounce } from "lodash";
 
 export default function useAddressPredictions(input) {
   const [predictions, setPredictions] = useState([]);
