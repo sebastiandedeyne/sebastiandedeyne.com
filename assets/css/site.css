@@ -170,7 +170,8 @@ hr {
 .markup img,
 .markup pre,
 .markup blockquote,
-.markup .cp_embed_wrapper {
+.markup .cp_embed_wrapper,
+.markup .chroma .hl {
   @apply -mx-6;
 }
 
@@ -178,14 +179,27 @@ hr {
   .markup img,
   .markup pre,
   .markup blockquote,
-  .markup .cp_embed_wrapper {
+  .markup .cp_embed_wrapper,
+  .markup .chroma .hl {
     @apply -mx-12;
+  }
+}
+
+.markup .chroma .hl {
+  @apply px-6 bg-gray-800;
+  width: calc(100% + theme("spacing.12"));
+}
+
+@screen sm {
+  .markup .chroma .hl {
+    @apply px-12;
+    width: calc(100% + theme("spacing.24"));
   }
 }
 
 .markup code {
   font-family: "Fira Code", monospace;
-  @apply text-sm;
+  font-size: 0.85em;
 }
 
 .markup :not(pre) > code {
@@ -207,7 +221,7 @@ hr {
 }
 
 .markup .highlight pre {
-  @apply block overflow-x-auto p-6 bg-black text-gray-100 leading-loose;
+  @apply block overflow-x-auto p-6 bg-gray-900 text-gray-100 leading-loose;
 }
 
 @screen dark {
