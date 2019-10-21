@@ -160,7 +160,7 @@ hr {
 }
 
 .markup blockquote cite a {
-  @apply text-inherit no-underline;
+  @apply text-inherit;
 }
 
 .markup > blockquote > *:not(:last-child) {
