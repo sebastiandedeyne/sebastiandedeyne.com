@@ -26,7 +26,7 @@ That said, here's what I've been up to the past few weeks.
 
 ## Full Stack Europe
 
-It's [Full Stack Europe] week! I'll be attending the conference, and I'm giving two lightning talks:
+It's [Full Stack Europe](http://fullstackeurope.com) week! I'll be attending the conference, and I'm giving two lightning talks:
 
 - Writing open source software, and staying sane while at it
 - Four prioritization systems in four minutes
@@ -37,16 +37,16 @@ I'm working on a written version of the talks too, which I will release shortly 
 
 I wrote a few blog posts this month. Topics include Inertia, Livewire, React & dark mode, so there's probably something in there for everyone.
 
-- [Inertia.js and Livewire: a high level comparison]
-- [Handling routes in a Laravel and Inertia app]
-- [This site now supports dark mode]
-- [Writing a custom React hook: Google Places autocomplete]
+- [Inertia.js and Livewire: a high level comparison](https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/)
+- [Handling routes in a Laravel and Inertia app](https://sebastiandedeyne.com/handling-routes-in-a-laravel-inertia-application/)
+- [This site now supports dark mode](https://sebastiandedeyne.com/this-site-now-supports-dark-mode/)
+- [Writing a custom React hook: Google Places autocomplete](https://sebastiandedeyne.com/writing-a-custom-react-hook-google-places-autocomplete/)
 
 ## Laravel Mix Preload & Laravel Export
 
-Last month I said I'd be working on two Spatie packages, [laravel-mix-preload] & [laravel-export].
+Last month I said I'd be working on two Spatie packages, [laravel-mix-preload](https://github.com/spatie/laravel-mix-preload) & [laravel-export](https://github.com/spatie/laravel-export).
 
-I tagged v1 of Laravel Mix Preload, read my [announcement post] for the full story.
+I tagged v1 of Laravel Mix Preload, read my [announcement post](https://sebastiandedeyne.com/laravel-mix-preload-v1/) for the full story.
 
 I also completely rewrote Laravel Export, but haven't been able to get push out a v1 yet. It's still missing tests and a few minor features. Hopefully I can get that over with this month so I can scratch it off my todo list.
 
