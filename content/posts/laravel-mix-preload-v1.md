@@ -2,15 +2,17 @@
 title: "Laravel Mix Preload v1"
 date: 2019-10-21
 categories: ["articles"]
+keywords:
+  - Laravel
 ---
 
 Today I tagged v1 of a new package: Laravel Mix Preload. It automatically generates `preload` and `prefetch` links based on the contents of your `mix-manifest.json` file.
 
 <!--more-->
 
-In a nutshell, a `preload` link loads a resource after the document has loaded. It doesn't do anything with the resource, the browser just ensures it ready for future use. 
+In a nutshell, a `preload` link loads a resource after the document has loaded. It doesn't do anything with the resource, the browser just ensures it ready for future use.
 
-A `prefetch` link hints the browser that a resource might be needed. The browser can fetch the resource when it has some extra time on its hands, but it's not a certainty. 
+A `prefetch` link hints the browser that a resource might be needed. The browser can fetch the resource when it has some extra time on its hands, but it's not a certainty.
 
 Addy Osmani wrote an [in-depth post](https://medium.com/reloading/preload-prefetch-and-priorities-in-chrome-776165961bbf) about preloading and prefetching if you want to read about the nitty gritty details.
 
