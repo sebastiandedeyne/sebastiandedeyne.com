@@ -9,7 +9,7 @@ keywords:
 
 In the 4.5 years I've been a developer at [Spatie](https://spatie.be), over 200 packages have been built and released by our team. I've done quite some authoring and maintenance over the years, and I'd like to share 8 actionable tips on writing and maintaining open source software without going insane.
 
-<aside>This post is based on a 4 minute lightning talk with the same title I gave at Full Stack Europe 2019 last week.</aside>
+<!--more-->
 
 ### 1. Duplication is fine
 
@@ -33,7 +33,7 @@ Before releasing a package, spy on others in the same ecosystem. Are there any c
 
 ### 5. Don't overcomplicate
 
-If you don't need a feature, don't build it. If you don't need something to be extendible, don't add any abstractions. And when I say you, I mean _you_. Don't fall into the trap of thinking what your library consumers _might_ want. 
+If you don't need a feature, don't build it. If you don't need something to be extendible, don't add any abstractions. And when I say you, I mean _you_. Don't fall into the trap of thinking what your library consumers _might_ want.
 
 Write your library, receive feedback, and _then_ consider making things more complicated if they add value.
 
@@ -53,6 +53,6 @@ Code is written once, but maintained forever; and you're the one that gets stuck
 
 ### 8. Don't be afraid to let go
 
-I have a lot of packages that I'd like to rewrite, or add new features to, but I can never find the time. This creates a constant nagging feeling of having a lot of things on my plate. 
+I have a lot of packages that I'd like to rewrite, or add new features to, but I can never find the time. This creates a constant nagging feeling of having a lot of things on my plate.
 
 Either delegate to contributors, or look for a co-maintainer to help you out. Seeing your library grow with help of others is just as rewarding as doing it all yourself.
