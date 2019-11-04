@@ -14,6 +14,6 @@ Back in 2003 when I was still in elementary school, Dave Akins wrote a list of l
 
 Here's a good one te keep next to your desk, and consider yourself lucky next time you ship a bug to production.
 
-> Space is a completely unforgiving environment. If you screw up the engineering, somebody dies
+> - Space is a completely unforgiving environment. If you screw up the engineering, somebody dies
 
 Read all 44 laws at their home on [spacecraft.ssl.umd.edu](https://spacecraft.ssl.umd.edu/akins_laws.html).
