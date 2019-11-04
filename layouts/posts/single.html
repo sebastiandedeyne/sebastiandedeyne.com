@@ -20,17 +20,23 @@
   </header>
   <section>
     {{ if .Truncated }}
-      <div class="markup mb-6">
+      <div class="markup">
         {{ .Summary }}
       </div>
-      {{ partial "ad" }}
+      {{ if (ne .Params.ad false) }}
+        <div class="mt-6">
+          {{ partial "ad" }}
+        </div>
+      {{ end }}
       <div class="markup">
         {{ safeHTML (replace .Content .Summary "") }}
       </div>
     {{ else }}
-      <div class="mb-8">
-        {{ partial "ad" }}
-      </div>
+      {{ if (ne .Params.ad false) }}
+        <div class="mb-8">
+          {{ partial "ad" }}
+        </div>
+      {{ end }}
       <div class="markup">
         {{ .Content }}
       </div>
