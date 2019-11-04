@@ -1,4 +1,6 @@
 const search = document.querySelector("[data-archive-search]");
+const items = Array.from(document.querySelectorAll("[data-archive-item]"));
+const groups = Array.from(document.querySelectorAll("[data-archive-group]"));
 
 window.addEventListener("keyup", event => {
   if (document.activeElement && document.activeElement.tagName === "INPUT") {
@@ -14,16 +16,25 @@ search.addEventListener("input", event => {
   filterArchiveList(event.target.value);
 });
 
-const items = Array.from(document.querySelectorAll("[data-archive-item]"));
-const groups = Array.from(document.querySelectorAll("[data-archive-group]"));
+const initialSearchMatches = window.location.search.match(/search=([^$]+)/);
 
-function filterArchiveList(search) {
-  search = search.replace(/[^\w]/g, "").toLowerCase();
+if (initialSearchMatches) {
+  search.value = decodeURIComponent(initialSearchMatches[1]);
+}
+
+filterArchiveList(search.value);
+
+function filterArchiveList(input) {
+  const search = input.replace(/[^\w]/g, "").toLowerCase();
 
   if (!search) {
     [...items, ...groups].forEach(item => {
       item.classList.remove("hidden");
     });
+
+    window.history.replaceState(null, null, window.location.pathname);
+
+    return;
   }
 
   items.forEach(item => {
@@ -47,4 +58,10 @@ function filterArchiveList(search) {
       group.classList.remove("hidden");
     }
   });
+
+  window.history.replaceState(
+    null,
+    null,
+    `${window.location.pathname}?search=${encodeURIComponent(search)}`
+  );
 }
