@@ -146,6 +146,7 @@ To do a permission check, read out the permissions attribute in the posts object
 export default {
   props: ['posts'],
 };
+</script>
 ```
 
 These authorization approaches turned out to be very similar to URL generation, it's all about transforming data before it hits your view layer.
