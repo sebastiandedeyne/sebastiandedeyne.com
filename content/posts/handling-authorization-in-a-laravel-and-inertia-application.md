@@ -7,7 +7,7 @@ keywords:
     - Inertia.js
 ---
 
-I last blogged about [handling routes in a Laravel and Inertia app](http://localhost:1313/handling-routes-in-a-laravel-inertia-application/). The premise was that we don't have access to Laravel's URL generator functions with Inertia, so we need to pass our application's routes down differently.
+I last blogged about [handling routes in a Laravel and Inertia app](https://sebastiandedeyne.com/handling-routes-in-a-laravel-inertia-application/). The premise was that we don't have access to Laravel's URL generator functions with Inertia, so we need to pass our application's routes down differently.
 
 The same problem exists with authorization: we don't have access to the `can` helper and other `Gate` methods. Here's a short post about dealing with authorization on the frontend.
 
