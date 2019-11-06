@@ -8,6 +8,8 @@ keywords:
 
 I recently attended the inaugural edition of Full Stack Europe. What a lovely conference it was! I had a great time watching the talks and talking with other attendees, and came home with a lot of food for thought. Here are a few tweet-sized reviews of my favorite talks.
 
+<!--more-->
+
 The talks were recorded but aren't available yet. I'll update this post with video links when they are.
 
 ## Caleb Porzio: Write Less JS
