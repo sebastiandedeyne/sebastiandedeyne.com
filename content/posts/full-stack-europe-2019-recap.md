@@ -34,4 +34,4 @@ A few cool Linux tricks to debug server issues. `strace` looks super interesting
 
 ## Jeremy Keith: Building
 
-A beautiful parallel between the web, buildings and "time bands" (I can't find any resources on this, going to have to wait for the video!). After this talk, I left the building with a newfound love for what the web is.
+A beautiful parallel between the web, buildings and [pace layers](https://jods.mitpress.mit.edu/pub/issue3-brand). After this talk, I left the building with a newfound love for what the web is.
