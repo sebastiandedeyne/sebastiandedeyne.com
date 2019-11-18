@@ -3,7 +3,7 @@ date: 2019-11-18
 title: "Important ideas come back"
 categories: ["links"]
 keywords:
-	- productivity
+  - productivity
 ---
 
 From Basecamp's Shape Up book:
