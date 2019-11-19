@@ -92,6 +92,12 @@ hr {
   @apply text-blue-700 underline;
 }
 
+@screen dark {
+  .markup a {
+    @apply text-blue-500;
+  }
+}
+
 .markup em {
   @apply italic;
 }
