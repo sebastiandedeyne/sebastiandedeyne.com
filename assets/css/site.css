@@ -89,7 +89,7 @@ hr {
 }
 
 .markup a {
-  @apply underline;
+  @apply text-blue-700 underline;
 }
 
 .markup em {

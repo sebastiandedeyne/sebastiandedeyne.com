@@ -46,17 +46,11 @@
           <li class="lg:mr-6 {{ cond $isBlog "" "text-gray-600" }}">
             <a href="/">Blog</a>
           </li>
-          <li class="lg:mr-6 {{ cond (eq $section "speaking") "" "text-gray-600" }}">
-            <a href="/speaking">Speaking</a>
-          </li>
-          <li class="lg:mr-6 {{ cond (eq $section "open-source") "" "text-gray-600" }}">
-            <a href="/open-source">Open source</a>
-          </li>
           <li class="lg:mr-6 {{ cond (eq $section "newsletter") "" "text-gray-600" }}">
             <a href="/newsletter">Newsletter</a>
           </li>
-          <li class="{{ cond (eq $section "about") "" "text-gray-600" }}">
-            <a href="/about">About</a>
+          <li class="{{ cond (eq $section "speaking") "" "text-gray-600" }}">
+            <a href="/speaking">Speaking</a>
           </li>
         </ul>
       </nav>
@@ -68,9 +62,42 @@
       </nav>
     </header>
 
-    <main class="w-full max-w-2xl mx-auto px-6 sm:px-12 lg:px-16">
-      {{ block "main" . }}{{ end }}
-    </main>
+    <div class="flex flex-col md:flex-row w-full max-w-4xl mx-auto px-6 sm:px-12 lg:px-16">
+      <main class="flex-1">
+        {{ block "main" . }}{{ end }}
+      </main>
+      <nav class="md:w-1/4 md:ml-20 mt-1">
+        <div class="md:border-l border-t md:border-t-0 md:pl-8 sm:mt-8 md:mt-0 pb-16 md:py-1 md:text-xs leading-normal markup">
+          <h2 class="md:hidden">Sidebar</h2>
+          <h3 class="md:text-xs mt-0 mb-1">About</h3>
+          <p>I'm a web designer & web developer. I live in Ghent (Belgium), and work at <a href="https://spatie.be">Spatie</a> (Antwerp).</p>
+          <p><a href="/now">What I'm up to now</a></p>
+          <h3 class="md:text-xs mt-8 mb-1">More</h3>
+          <ul class="list-none p-0">
+            <li><a href="/about">About</a></li>
+            <li><a href="/open-source">Open source</a></li>
+            <li><a href="/archive">Archive / Search</a></li>
+          </ul>
+          <h3 class="md:text-xs mt-8 mb-1">Blogroll</h3>
+          <ul class="list-none p-0">
+            <li><a href="https://adamwathan.me/" target="_blank">adamwathan.me</a></li>
+            <li><a href="https://www.bram.us/" target="_blank">bram.us</a></li>
+            <li><a href="https://daringfireball.net/" target="_blank">daringfireball.net</a></li>
+            <li><a href="https://ericlbarnes.com/" target="_blank">ericlbarnes.com</a></li>
+            <li><a href="https://freek.dev/" target="_blank">freek.dev</a></li>
+            <li><a href="https://gomakethings.com/" target="_blank">gomakethings.com</a></li>
+            <li><a href="https://hiddedevries.nl/en/blog/" target="_blank">hiddedevries.nl</a></li>
+            <li><a href="https://johanronsse.be/" target="_blank">johanronsse.be</a></li>
+            <li><a href="https://overreacted.io/" target="_blank">overreacted.io</a></li>
+            <li><a href="https://www.sketchplanations.com/" target="_blank">sketchplanations.com</a></li>
+            <li><a href="https://stitcher.io/" target="_blank">stitcher.io</a></li>
+            <li><a href="https://waitbutwhy.com/" target="_blank">waitbutwhy.com</a></li>
+          </ul>
+          <h3 class="md:text-xs mt-8 mb-1">Colophon</h3>
+          <p>This site is built with <a href="https://gohugo.io/">Hugo</a> and hosted on <a href="https://netlify.com/">Netlify</a>. You can inspect the source on <a href="https://github.com/sebastiandedeyne/sebastiandedeyne.com">GitHub</a>.</p>
+        </div>
+      </nav>
+    </div>
 
     {{ with resources.Get "css/chroma.css" | minify }}
       <style>{{ .Content | safeCSS }}</style>
