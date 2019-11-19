@@ -57,6 +57,7 @@
       <nav class="header-service | lg:text-sm xl:text-base text-right">
         <ul class="lg:flex justify-end">
           <li class="text-gray-600 lg:mr-6"><a href="https://twitter.com/sebdedeyne" rel="me">Twitter</a></li>
+          <li class="text-gray-600 md:hidden"><a href="#sidebar">Sidebar</a></li>
           <li class="text-gray-600 hidden lg:block"><a href="/index.xml">RSS</a></li>
         </ul>
       </nav>
@@ -66,7 +67,7 @@
       <main class="flex-1">
         {{ block "main" . }}{{ end }}
       </main>
-      <nav class="md:w-1/4 md:ml-20 mt-1">
+      <nav id="sidebar" class="md:w-1/4 md:ml-20 mt-1">
         <div class="md:border-l border-t md:border-t-0 md:pl-8 sm:mt-8 md:mt-0 pb-16 md:py-1 md:text-xs leading-normal markup">
           <h2 class="md:hidden">Sidebar</h2>
           <h3 class="md:text-xs mt-0 mb-1">About</h3>
