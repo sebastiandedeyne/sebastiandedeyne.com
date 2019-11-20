@@ -6,7 +6,11 @@ module.exports = {
     require("autoprefixer"),
     production &&
       require("@fullhuman/postcss-purgecss")({
-        content: ["./layouts/**/*.html", "./content/**/*.html"],
+        content: [
+          "./assets/js/**/*.js",
+          "./content/**/*.html",
+          "./layouts/**/*.html"
+        ],
         defaultExtractor: content => content.match(/[A-Za-z0-9-_:/]+/g) || [],
         whitelistPatternsChildren: [/markup/, /pagination/, /carbon/]
       }),
