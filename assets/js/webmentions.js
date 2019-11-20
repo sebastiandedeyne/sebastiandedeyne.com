@@ -5,7 +5,15 @@ if (container) {
 }
 
 async function renderWebmentions(container) {
-  const webmentions = await getWebmentions(container.dataset.webmentions);
+  const webmentions = await fetch(
+    `https://webmention.io/api/mentions.jf2?target=${container.dataset.webmentions}`
+  )
+    .then(response => response.json())
+    .then(data => data.children);
+
+  const likes = webmentions.filter(webmention => {
+    return webmention["wm-property"] === "like-of";
+  });
 
   const replies = webmentions
     .filter(webmention => {
@@ -13,67 +21,87 @@ async function renderWebmentions(container) {
     })
     .reverse();
 
-  if (replies.length === 0) {
+  if (likes.length === 0 && replies.length === 0) {
     return;
   }
 
-  const separator = document.createElement("hr");
-  container.appendChild(separator);
-
-  const title = document.createElement("h2");
-  title.textContent = "Webmentions";
-  title.className = "h2 mt-6 mb-8";
-  container.appendChild(title);
-
-  const whatmentions = document.createElement("a");
-  whatmentions.textContent = "?";
-  whatmentions.className =
-    "ml-2 font-normal text-gray-700 dark:text-gray-500 text-xs w-4 h-4 inline-flex items-center justify-center bg-gray-200 dark:bg-gray-800 rounded-full font-semibold";
-  whatmentions.style.transform = "translateY(-2px)";
-  whatmentions.href =
-    "https://sebastiandedeyne.com/adding-webmentions-to-my-blog";
-  title.appendChild(whatmentions);
-
-  const list = document.createElement("ul");
-  list.className = "pb-12 sm:pb-24";
-
-  replies.forEach(webmention => {
-    list.appendChild(renderReply(webmention));
-  });
-
-  container.appendChild(list);
+  container.innerHTML = `
+    <hr>
+    <h2 class="h2 mt-6">
+      Webmentions
+      <a
+        href="https://sebastiandedeyne.com/adding-webmentions-to-my-blog"
+        class="ml-2 font-normal text-gray-700 dark:text-gray-500 text-xs w-4 h-4 inline-flex items-center justify-center bg-gray-200 dark:bg-gray-800 rounded-full font-semibold"
+        style="transform: translateY(-2px)"
+      >
+        ?
+      </a>
+    </h2>
+    <div class="pb-12 sm:pb-24">
+      ${renderLikes(likes)}
+      ${renderReplies(replies)}
+    </div>
+  `;
 }
 
-function getWebmentions(target) {
-  return fetch(`https://webmention.io/api/mentions.jf2?target=${target}`)
-    .then(response => response.json())
-    .then(data => data.children);
+function renderLikes(likes) {
+  if (likes.length === 0) {
+    return "";
+  }
+
+  return `
+    <ul class="mt-8 flex flex-wrap items-center ml-3">
+      <li>${likes.map(renderLike).join("")}</li>
+      <li class="ml-2 text-sm text-gray-600">${likes.length} likes</li>
+    </ul>
+  `;
 }
 
-function renderReply(webmention) {
-  const rendered = document.importNode(
-    document.getElementById("webmention-template").content,
-    true
-  );
+function renderLike(like) {
+  return `
+    <li class="w-8 h-8 mb-1 -ml-3">
+      <a href="${like.author.url || like.url}">
+        <img
+          src="${like.author.photo}"
+          alt="Photo of ${like.author.name}"
+          class="block w-8 h-8 object-cover rounded-full border"
+        />
+      </a>
+    </li>
+  `;
+}
 
-  function set(selector, attribute, value) {
-    rendered.querySelector(selector)[attribute] = value;
+function renderReplies(replies) {
+  if (replies.length === 0) {
+    return "";
   }
 
-  set("[data-author]", "href", webmention.author.url || webmention.url);
-  set("[data-author-avatar]", "src", webmention.author.photo);
-  set("[data-author-avatar]", "alt", `Photo of ${webmention.author.name}`);
-  set("[data-author-name]", "textContent", webmention.author.name);
-  set("[data-date]", "href", webmention.url);
-  set("[data-date]", "textContent", webmention["wm-received"].substr(0, 10));
+  return `
+    <ul class="mt-8">
+      ${replies.map(renderReply).join("")}
+    </ul>
+  `;
+}
 
-  if (webmention.content) {
-    set(
-      "[data-content]",
-      "innerHTML",
-      webmention.content.html || webmention.content.text
-    );
-  }
-
-  return rendered;
+function renderReply(reply) {
+  return `
+    <li class="mb-8 last:mb-0">
+      <p class="mb-1">
+        <a href="${reply.author.url || reply.url}">
+          <img
+            src="${reply.author.photo}"
+            alt="Photo of ${reply.author.name}"
+            class="inline-block w-8 h-8 object-cover rounded-full mr-1 mb-1 border"
+          />
+          <span class="font-bold">${reply.author.name}</span>
+        </a>
+        <a href=${reply.url} class="text-gray-600 text-sm ml-1">
+          ${reply["wm-received"].substr(0, 10)}
+        </a>
+      </p>
+      <div class="markup">
+        ${reply.content.html || reply.content.text}
+      </div>
+    </li>
+  `;
 }
