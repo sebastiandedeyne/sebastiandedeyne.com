@@ -192,7 +192,7 @@ hr {
 }
 
 .markup .chroma .hl {
-  @apply px-6 bg-gray-800;
+  @apply block relative px-6;
   width: calc(100% + theme("spacing.12"));
 }
 
@@ -201,6 +201,12 @@ hr {
     @apply px-12;
     width: calc(100% + theme("spacing.24"));
   }
+}
+
+.markup .chroma .hl:before {
+  content: "";
+  height: 2em;
+  @apply absolute left-0 w-2 bg-blue-700;
 }
 
 .markup code {

@@ -5,10 +5,6 @@ title = "Sebastian De Deyne"
 summaryLength = 1_000_000
 rssLimit = 10
 
-pygmentsCodefences = true
-pygmentsUseClasses = true
-pygmentsCodefencesGuessSyntax = true
-
 [taxonomies]
   category = "categories"
 
@@ -18,3 +14,8 @@ pygmentsCodefencesGuessSyntax = true
 
 [author]
   name = "Sebastian De Deyne"
+
+[markup]
+  [markup.highlight]
+    noClasses = false
+

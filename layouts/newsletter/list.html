@@ -45,7 +45,7 @@
 <section class="pb-12 sm:pb-24">
   <h2 class="h2 mb-8">Previous editions</h2>
 
-  {{ range (where .Pages "Type" "newsletter") }}
+  {{ range (where $.Site.RegularPages "Section" "newsletter") }}
     <ul>
       <li class="mb-6">
         <p class="font-medium">

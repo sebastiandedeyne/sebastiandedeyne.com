@@ -1,6 +1,6 @@
 {{ define "main" }}
 
-{{ $paginator := .Paginate (where .Pages "Type" "posts") }}
+{{ $paginator := .Paginate (where $.Site.RegularPages "Section" "posts") }}
 
 {{ range $paginator.Pages }}
   <article>

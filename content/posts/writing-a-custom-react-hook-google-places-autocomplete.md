@@ -76,7 +76,7 @@ First we need to instantiate Google's `AutocompleteService`. We only want to do 
 
 The `useRef` hook allows us to register something similar to an instance variable of a class. When the ref's `current` value is empty, we instantiate the `AutocompleteService`. This will only happen once.
 
-{{< highlight js "hl_lines=1 4-9" >}}
+```js {hl_lines=["1","4-9"]}
 import { useRef } from "react";
 
 export default function useAddressPredictions(input) {
@@ -89,11 +89,11 @@ export default function useAddressPredictions(input) {
 
   return [];
 }
-{{</ highlight >}}
+```
 
 Time to start fetching predictions. We want to fetch them whenever the `input` variable's value changes. Data fetching is a side effect, so we'll use the `useEffect` hook.
 
-{{< highlight js "hl_lines=1 11-18 20-22" >}}
+```js {hl_lines=["1","11-18","20-22"]}
 import { useEffect, useRef } from "react";
 
 export default function useAddressPredictions(input) {
@@ -119,11 +119,11 @@ export default function useAddressPredictions(input) {
 
   return [];
 }
-{{</ highlight >}}
+```
 
 Whenever `input` changes, new predictions will be fetched. Now we can to store those predictions locally with the `useState` hook. Since we don't care about the full prediction objects, we'll also map them to an array of address string first.
 
-{{< highlight js "hl_lines=1 4 17-19 28" >}}
+```js {hl_lines=["1","4","17-19","28"]}
 import { useEffect, useRef, useState } from "react";
 
 export default function useAddressPredictions(input) {
@@ -153,7 +153,7 @@ export default function useAddressPredictions(input) {
 
   return predictions;
 }
-{{</ highlight >}}
+```
 
 Our hook works! But there's one more issue: if `value` is attached to text input, the hook will do an API call on every keypress, which would be a lot. We can debouce the call to fix this.
 
@@ -161,7 +161,7 @@ You can't simply wrap something in `debounce` in a React function component, bec
 
 We need ensure the debounced function doesn't get recreated when the component rerenders. The `useCallback` hook is just what we need here.
 
-{{< highlight js "hl_lines=1-2 25-28 31" >}}
+```js {hl_lines=["1-2","25-28","31"]}
 import { useCallback, useEffect, useRef, useState } from "react";
 import { debounce } from "lodash";
 
@@ -197,7 +197,7 @@ export default function useAddressPredictions(input) {
 
   return predictions;
 }
-{{</ highlight >}}
+```
 
 `useCallback` created a new function whenever one of its dependencies change. We're passing an empty dependencies array to `useCallback`, so it will only be created once.
 
