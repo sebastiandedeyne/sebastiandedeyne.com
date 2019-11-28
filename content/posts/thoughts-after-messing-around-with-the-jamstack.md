@@ -1,5 +1,5 @@
 ---
-title: "Thoughts after messing around with the JAMstack"
+title: "Thoughts (and doubts) after messing around with the JAMstack"
 date: 2019-11-27
 categories: ["articles"]
 keywords:
