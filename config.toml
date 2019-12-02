@@ -18,4 +18,6 @@ rssLimit = 10
 [markup]
   [markup.highlight]
     noClasses = false
+  [markup.goldmark.renderer]
+      unsafe = true
 
