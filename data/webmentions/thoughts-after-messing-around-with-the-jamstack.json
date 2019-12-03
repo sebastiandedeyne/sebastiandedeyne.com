@@ -3,6 +3,42 @@
     "type": "entry",
     "author": {
       "type": "card",
+      "name": "Onno Lissenberg",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/e7d62296193b6de73b524c19a8809c2629444a42d2da4e6cf5baa7a1691b62ef.jpg",
+      "url": "https://twitter.com/orlissenberg"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1199960621032321024#favorited-by-63403327",
+    "published": null,
+    "wm-received": "2019-12-03T15:01:06Z",
+    "wm-id": 730209,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1199960621032321024/63403327",
+    "wm-target": "https://sebastiandedeyne.com/thoughts-after-messing-around-with-the-jamstack/",
+    "like-of": "https://sebastiandedeyne.com/thoughts-after-messing-around-with-the-jamstack/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Alan Miller",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/5275aa565d3dc3f6ca50c49ea69a26e73d2017dd50ba145a3b4f7f6f7b391921.jpg",
+      "url": "https://twitter.com/rosewoodat5th"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1199960621032321024#favorited-by-15311340",
+    "published": null,
+    "wm-received": "2019-12-03T12:56:06Z",
+    "wm-id": 730167,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1199960621032321024/15311340",
+    "wm-target": "https://sebastiandedeyne.com/thoughts-after-messing-around-with-the-jamstack/",
+    "like-of": "https://sebastiandedeyne.com/thoughts-after-messing-around-with-the-jamstack/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
       "name": "Axel Pardemann",
       "photo": "https://webmention.io/avatar/pbs.twimg.com/53dcdac8c2c6f14e94d65249ace1fc25470fb95121c596c6317a185e1d4a2f0b.jpg",
       "url": "https://twitter.com/axelpardemann"
