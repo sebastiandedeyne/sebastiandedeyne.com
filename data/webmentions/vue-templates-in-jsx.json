@@ -1,0 +1,24 @@
+[
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Utpal N U.",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/6824e6d8c1a421a702c1f7095464ceffa92f1bed46832cad2d7dfea1308e8a80.jpg",
+      "url": "https://twitter.com/utpal_org"
+    },
+    "url": "https://twitter.com/utpal_org/status/1143743468830781441",
+    "published": "2019-06-26T04:51:07+00:00",
+    "wm-received": "2019-06-26T05:10:21Z",
+    "wm-id": 633527,
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1143743468830781441",
+    "wm-target": "https://sebastiandedeyne.com/vue-templates-in-jsx/",
+    "content": {
+      "html": "Cons of using JSX in VueJS Templates.\n\n- It looks foreign to designers\n- No control structure directives\n- No more style tags in your single file components\n- JSX is unpopular in the Vue ecosystem\n\nHere's the guide if you wanna try your hands at it. \n\n<a href=\"https://sebastiandedeyne.com/vue-templates-in-jsx/\">sebastiandedeyne.com/vue-templates-…</a>",
+      "text": "Cons of using JSX in VueJS Templates.\n\n- It looks foreign to designers\n- No control structure directives\n- No more style tags in your single file components\n- JSX is unpopular in the Vue ecosystem\n\nHere's the guide if you wanna try your hands at it. \n\nsebastiandedeyne.com/vue-templates-…"
+    },
+    "mention-of": "https://sebastiandedeyne.com/vue-templates-in-jsx/",
+    "wm-property": "mention-of",
+    "wm-private": false
+  }
+]

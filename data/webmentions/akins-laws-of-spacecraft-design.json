@@ -1,0 +1,119 @@
+[
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Bramus!",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/61a000e6774bacfe39918128f9022678cf4b57a65a351cb6cf55aa22d5fa0fa1.jpg",
+      "url": "https://twitter.com/bramus"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1191633084929728512#favorited-by-9131062",
+    "published": null,
+    "wm-received": "2019-11-06T12:28:15Z",
+    "wm-id": 721997,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1191633084929728512/9131062",
+    "wm-target": "https://sebastiandedeyne.com/akins-laws-of-spacecraft-design/",
+    "like-of": "https://sebastiandedeyne.com/akins-laws-of-spacecraft-design/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Brent",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/686d15132c5218bf5e3da234f3fb0718754226ddec672c0f765ce82f3865bc83.png",
+      "url": "https://twitter.com/brendt_gd"
+    },
+    "url": "https://twitter.com/brendt_gd/status/1191658380752039936",
+    "published": "2019-11-05T10:07:52+00:00",
+    "wm-received": "2019-11-05T10:11:33Z",
+    "wm-id": 721700,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1191633084929728512/1191658380752039936",
+    "wm-target": "https://sebastiandedeyne.com/akins-laws-of-spacecraft-design/",
+    "content": {
+      "text": "✒️ Akin's laws of spacecraft design sebastiandedeyne.com/akins-laws-of-…"
+    },
+    "repost-of": "https://sebastiandedeyne.com/akins-laws-of-spacecraft-design/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Anton Kristensen",
+      "photo": "https://webmention.io/avatar/abs.twimg.com/0e6b2cd70aa5b35dec24ca4e1e63f8963f0118736d9ec3bba77e3a8c99a27bc2.png",
+      "url": "https://twitter.com/anton_n_k"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1191633084929728512#favorited-by-900607711347445760",
+    "published": null,
+    "wm-received": "2019-11-05T09:03:12Z",
+    "wm-id": 721673,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1191633084929728512/900607711347445760",
+    "wm-target": "https://sebastiandedeyne.com/akins-laws-of-spacecraft-design/",
+    "like-of": "https://sebastiandedeyne.com/akins-laws-of-spacecraft-design/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "oluwajubelo loves VueJS 🚨",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/b46941f64275ee2ae7ae9618ba0d3b60e9ab8ce6a343ff90b0e905321a4c24de.jpg",
+      "url": "https://twitter.com/igeoluwasegun1"
+    },
+    "url": "https://twitter.com/igeoluwasegun1/status/1191636070359846912",
+    "published": "2019-11-05T08:39:13+00:00",
+    "wm-received": "2019-11-05T09:03:11Z",
+    "wm-id": 721672,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1191633084929728512/1191636070359846912",
+    "wm-target": "https://sebastiandedeyne.com/akins-laws-of-spacecraft-design/",
+    "content": {
+      "text": "✒️ Akin's laws of spacecraft design sebastiandedeyne.com/akins-laws-of-…"
+    },
+    "repost-of": "https://sebastiandedeyne.com/akins-laws-of-spacecraft-design/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "oluwajubelo loves VueJS 🚨",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/b46941f64275ee2ae7ae9618ba0d3b60e9ab8ce6a343ff90b0e905321a4c24de.jpg",
+      "url": "https://twitter.com/igeoluwasegun1"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1191633084929728512#favorited-by-982451690",
+    "published": null,
+    "wm-received": "2019-11-05T09:03:09Z",
+    "wm-id": 721671,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1191633084929728512/982451690",
+    "wm-target": "https://sebastiandedeyne.com/akins-laws-of-spacecraft-design/",
+    "like-of": "https://sebastiandedeyne.com/akins-laws-of-spacecraft-design/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Freek Van der Herten",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/fc87f4abfee522403bfb9d8ebbdd1bde483d020713c137b63e94bec043c45cfa.jpg",
+      "url": "https://twitter.com/freekmurze"
+    },
+    "url": "https://twitter.com/freekmurze/status/1191633386621853697",
+    "published": "2019-11-05T08:28:33+00:00",
+    "wm-received": "2019-11-05T08:35:59Z",
+    "wm-id": 721663,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1191633084929728512/1191633386621853697",
+    "wm-target": "https://sebastiandedeyne.com/akins-laws-of-spacecraft-design/",
+    "content": {
+      "text": "✒️ Akin's laws of spacecraft design sebastiandedeyne.com/akins-laws-of-…"
+    },
+    "repost-of": "https://sebastiandedeyne.com/akins-laws-of-spacecraft-design/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  }
+]

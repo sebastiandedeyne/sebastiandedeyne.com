@@ -1,0 +1,378 @@
+[
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Alexander Makhaev",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/d0e288ca636669216f553ec58f2075cc256afe80a6760731e9e362983fdb3952.jpg",
+      "url": "https://twitter.com/mankms"
+    },
+    "url": "https://twitter.com/mankms/status/1200278974376660992",
+    "published": "2019-11-29T05:03:02+00:00",
+    "wm-received": "2019-11-29T05:05:56Z",
+    "wm-id": 728807,
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1200278974376660992",
+    "wm-target": "https://sebastiandedeyne.com/writing-open-source-software-and-staying-sane-while-at-it/",
+    "photo": [
+      "https://pbs.twimg.com/media/EKg_XdWX0AE7DpR.png"
+    ],
+    "content": {
+      "html": "Writing open source software, and staying sane while at it, <a href=\"https://twitter.com/sebdedeyne\">@sebdedeyne</a>\n\nIn the 4.5 years I’ve been at Spatie, over 200 packages have been built by our team. I’d like to share 8 actionable tips on writing open source software without going insane.\n\n<a href=\"https://sebastiandedeyne.com/writing-open-source-software-and-staying-sane-while-at-it/\">sebastiandedeyne.com/writing-open-s…</a>",
+      "text": "Writing open source software, and staying sane while at it, @sebdedeyne\n\nIn the 4.5 years I’ve been at Spatie, over 200 packages have been built by our team. I’d like to share 8 actionable tips on writing open source software without going insane.\n\nsebastiandedeyne.com/writing-open-s…"
+    },
+    "mention-of": "https://sebastiandedeyne.com/writing-open-source-software-and-staying-sane-while-at-it/",
+    "wm-property": "mention-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "बेद",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/00d25c022d455b04790ff458855e11cde6e5b2ca1adef914e8e65ba8d5c988e2.jpg",
+      "url": "https://twitter.com/tmg_bedus"
+    },
+    "url": "https://twitter.com/tmg_bedus/status/1191586878949998593",
+    "published": "2019-11-05T05:23:45+00:00",
+    "wm-received": "2019-11-05T05:53:28Z",
+    "wm-id": 721629,
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1191586878949998593",
+    "wm-target": "https://sebastiandedeyne.com/writing-open-source-software-and-staying-sane-while-at-it/",
+    "content": {
+      "html": "Awesome Tips: by <a href=\"https://twitter.com/freekmurze\">@freekmurze</a> \n<a href=\"https://sebastiandedeyne.com/writing-open-source-software-and-staying-sane-while-at-it/\">sebastiandedeyne.com/writing-open-s…</a>",
+      "text": "Awesome Tips: by @freekmurze \nsebastiandedeyne.com/writing-open-s…"
+    },
+    "mention-of": "https://sebastiandedeyne.com/writing-open-source-software-and-staying-sane-while-at-it/",
+    "wm-property": "mention-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Freek Van der Herten",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/fc87f4abfee522403bfb9d8ebbdd1bde483d020713c137b63e94bec043c45cfa.jpg",
+      "url": "https://twitter.com/freekmurze"
+    },
+    "url": "https://twitter.com/freekmurze/status/1189753885784592385",
+    "published": "2019-10-31T04:00:05+00:00",
+    "wm-received": "2019-10-31T04:20:16Z",
+    "wm-id": 719907,
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1189753885784592385",
+    "wm-target": "https://sebastiandedeyne.com/writing-open-source-software-and-staying-sane-while-at-it/",
+    "content": {
+      "html": "🔗 Writing open source software, and staying sane while at it\n<a href=\"https://sebastiandedeyne.com/writing-open-source-software-and-staying-sane-while-at-it/\">sebastiandedeyne.com/writing-open-s…</a>\n<a href=\"https://twitter.com/search?q=%23bestpractices\">#bestpractices</a> <a href=\"https://twitter.com/search?q=%23opensource\">#opensource</a>",
+      "text": "🔗 Writing open source software, and staying sane while at it\nsebastiandedeyne.com/writing-open-s…\n#bestpractices #opensource"
+    },
+    "mention-of": "https://sebastiandedeyne.com/writing-open-source-software-and-staying-sane-while-at-it/",
+    "wm-property": "mention-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Mubassir Hayat",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/bde43bf2414cfa0b465ac320773b9e89b3f59660f9c06b948aa2dc2401f41c92.jpg",
+      "url": "https://twitter.com/MubassirHayat"
+    },
+    "url": "https://twitter.com/MubassirHayat/status/1189384243643928576",
+    "published": "2019-10-30T03:31:16+00:00",
+    "wm-received": "2019-10-30T04:00:04Z",
+    "wm-id": 719501,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1189105130312028160/1189384243643928576",
+    "wm-target": "https://sebastiandedeyne.com/writing-open-source-software-and-staying-sane-while-at-it/",
+    "content": {
+      "text": "Last week I gave two lightning talks at @FullStackEU. I created a written version of both, here's the first!\n\n✒️ Writing open source softwar"
+    },
+    "repost-of": "https://sebastiandedeyne.com/writing-open-source-software-and-staying-sane-while-at-it/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "kapil",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/4b9f1c40568f0980d0d24eccac0a99f78f34d08e7136eda3436bf9e2b33cfc92.jpg",
+      "url": "https://twitter.com/kapilsofteng"
+    },
+    "url": "https://twitter.com/kapilsofteng/status/1189358849691734016",
+    "published": "2019-10-30T01:50:21+00:00",
+    "wm-received": "2019-10-30T01:53:40Z",
+    "wm-id": 719478,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1189105130312028160/1189358849691734016",
+    "wm-target": "https://sebastiandedeyne.com/writing-open-source-software-and-staying-sane-while-at-it/",
+    "content": {
+      "text": "Last week I gave two lightning talks at @FullStackEU. I created a written version of both, here's the first!\n\n✒️ Writing open source softwar"
+    },
+    "repost-of": "https://sebastiandedeyne.com/writing-open-source-software-and-staying-sane-while-at-it/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Alexander Zeitler",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/39dc124694cab12cfb4aaad6554ceb1c05207d39b91adc3da048a9d4565212b1.jpg",
+      "url": "https://twitter.com/lxztlr"
+    },
+    "url": "https://twitter.com/lxztlr/status/1189263679109378055",
+    "published": "2019-10-29T19:32:11+00:00",
+    "wm-received": "2019-10-29T20:06:06Z",
+    "wm-id": 719224,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1189105130312028160/1189263679109378055",
+    "wm-target": "https://sebastiandedeyne.com/writing-open-source-software-and-staying-sane-while-at-it/",
+    "content": {
+      "text": "Last week I gave two lightning talks at @FullStackEU. I created a written version of both, here's the first!\n\n✒️ Writing open source softwar"
+    },
+    "repost-of": "https://sebastiandedeyne.com/writing-open-source-software-and-staying-sane-while-at-it/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Indu Alagarsamy",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/33f59eb38ad8ba166d463e6d79b24b82de1333ccd11f96303e81656843e7da8d.png",
+      "url": "https://twitter.com/Indu_alagarsamy"
+    },
+    "url": "https://twitter.com/Indu_alagarsamy/status/1189261607676907520",
+    "published": "2019-10-29T19:23:57+00:00",
+    "wm-received": "2019-10-29T19:31:22Z",
+    "wm-id": 719185,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1189105130312028160/1189261607676907520",
+    "wm-target": "https://sebastiandedeyne.com/writing-open-source-software-and-staying-sane-while-at-it/",
+    "content": {
+      "text": "Last week I gave two lightning talks at @FullStackEU. I created a written version of both, here's the first!\n\n✒️ Writing open source softwar"
+    },
+    "repost-of": "https://sebastiandedeyne.com/writing-open-source-software-and-staying-sane-while-at-it/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "oluwajubelo loves VueJS 🚨",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/b46941f64275ee2ae7ae9618ba0d3b60e9ab8ce6a343ff90b0e905321a4c24de.jpg",
+      "url": "https://twitter.com/igeoluwasegun1"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1189105130312028160#favorited-by-982451690",
+    "published": null,
+    "wm-received": "2019-10-29T18:01:36Z",
+    "wm-id": 719127,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1189105130312028160/982451690",
+    "wm-target": "https://sebastiandedeyne.com/writing-open-source-software-and-staying-sane-while-at-it/",
+    "like-of": "https://sebastiandedeyne.com/writing-open-source-software-and-staying-sane-while-at-it/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "kevin breugelmans",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/942c58748223fd33fb7e37a209c0a59d2df11e1f9722c1a8b6aca6d84c2b7dda.jpg",
+      "url": "https://twitter.com/k_breugelmans"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1189105130312028160#favorited-by-39740660",
+    "published": null,
+    "wm-received": "2019-10-29T17:02:44Z",
+    "wm-id": 719086,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1189105130312028160/39740660",
+    "wm-target": "https://sebastiandedeyne.com/writing-open-source-software-and-staying-sane-while-at-it/",
+    "like-of": "https://sebastiandedeyne.com/writing-open-source-software-and-staying-sane-while-at-it/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Anneke Schoonjans",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/8c9dc5a6e7a65f9184f5c06366acd1d7ea02d2bc1cdc8e8e1ad2e2ac5547c07a.jpg",
+      "url": "https://twitter.com/AnnekeSchoonjns"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1189105130312028160#favorited-by-902510343712362496",
+    "published": null,
+    "wm-received": "2019-10-29T16:02:12Z",
+    "wm-id": 719041,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1189105130312028160/902510343712362496",
+    "wm-target": "https://sebastiandedeyne.com/writing-open-source-software-and-staying-sane-while-at-it/",
+    "like-of": "https://sebastiandedeyne.com/writing-open-source-software-and-staying-sane-while-at-it/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Full Stack Europe",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/c0b6a8d691be1ba4a1270bbd6fa1aa127d25f56cfe62fd2b7c3ee0cd92e506be.jpg",
+      "url": "https://twitter.com/FullStackEU"
+    },
+    "url": "https://twitter.com/FullStackEU/status/1189205462303956993",
+    "published": "2019-10-29T15:40:51+00:00",
+    "wm-received": "2019-10-29T16:02:10Z",
+    "wm-id": 719040,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1189105130312028160/1189205462303956993",
+    "wm-target": "https://sebastiandedeyne.com/writing-open-source-software-and-staying-sane-while-at-it/",
+    "content": {
+      "text": "Last week I gave two lightning talks at @FullStackEU. I created a written version of both, here's the first!\n\n✒️ Writing open source softwar"
+    },
+    "repost-of": "https://sebastiandedeyne.com/writing-open-source-software-and-staying-sane-while-at-it/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Miguel Piedrafita 🛸",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/fa2e9a8dd19a716f2e068d287cc1edadff32bfe0ea77dc35362f10c903813132.png",
+      "url": "https://twitter.com/m1guelpf"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1189105130312028160#favorited-by-713094195955830785",
+    "published": null,
+    "wm-received": "2019-10-29T11:31:35Z",
+    "wm-id": 718758,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1189105130312028160/713094195955830785",
+    "wm-target": "https://sebastiandedeyne.com/writing-open-source-software-and-staying-sane-while-at-it/",
+    "like-of": "https://sebastiandedeyne.com/writing-open-source-software-and-staying-sane-while-at-it/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Christoph Rumpel 🤠",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/6a9353f47bff347ef06aa35069a69e19064f5499e29fc411ead1250cac6b9013.jpg",
+      "url": "https://twitter.com/christophrumpel"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1189105130312028160#favorited-by-224375889",
+    "published": null,
+    "wm-received": "2019-10-29T11:31:32Z",
+    "wm-id": 718757,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1189105130312028160/224375889",
+    "wm-target": "https://sebastiandedeyne.com/writing-open-source-software-and-staying-sane-while-at-it/",
+    "like-of": "https://sebastiandedeyne.com/writing-open-source-software-and-staying-sane-while-at-it/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Robin Malfait",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/d8a4534858f7a43018c4d66bc57accd4888c56a86b45f2ffb8832419859fa55e.jpg",
+      "url": "https://twitter.com/malfaitrobin"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1189105130312028160#favorited-by-220481722",
+    "published": null,
+    "wm-received": "2019-10-29T11:00:01Z",
+    "wm-id": 718734,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1189105130312028160/220481722",
+    "wm-target": "https://sebastiandedeyne.com/writing-open-source-software-and-staying-sane-while-at-it/",
+    "like-of": "https://sebastiandedeyne.com/writing-open-source-software-and-staying-sane-while-at-it/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Carlos Rodríguez",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/4eab545eb36a0e53e835e9e53ab080b180d303b97a11457a2da8a424d3e2764c.jpg",
+      "url": "https://twitter.com/_carlosre"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1189105130312028160#favorited-by-166773701",
+    "published": null,
+    "wm-received": "2019-10-29T11:00:00Z",
+    "wm-id": 718733,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1189105130312028160/166773701",
+    "wm-target": "https://sebastiandedeyne.com/writing-open-source-software-and-staying-sane-while-at-it/",
+    "like-of": "https://sebastiandedeyne.com/writing-open-source-software-and-staying-sane-while-at-it/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Cyril de Wit",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/024226e454853ac712e85cd3c646b7f3aea99b8adb6399176042dbc5db88903c.jpg",
+      "url": "https://twitter.com/cyrildewit"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1189105130312028160#favorited-by-2172253302",
+    "published": null,
+    "wm-received": "2019-10-29T10:32:43Z",
+    "wm-id": 718704,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1189105130312028160/2172253302",
+    "wm-target": "https://sebastiandedeyne.com/writing-open-source-software-and-staying-sane-while-at-it/",
+    "like-of": "https://sebastiandedeyne.com/writing-open-source-software-and-staying-sane-while-at-it/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Tom Witkowski",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/4c6a0072545bab629442313c0b6d9a2cd920b338d3f3132c0e23a1f1175e382a.jpg",
+      "url": "https://twitter.com/devgummibeer"
+    },
+    "url": "https://twitter.com/devgummibeer/status/1189107470687526913",
+    "published": "2019-10-29T09:11:28+00:00",
+    "wm-received": "2019-10-29T09:26:18Z",
+    "wm-id": 718631,
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/sebdedeyne/1189105130312028160/1189107470687526913",
+    "wm-target": "https://sebastiandedeyne.com/writing-open-source-software-and-staying-sane-while-at-it/",
+    "content": {
+      "html": "Being a co-maintainer/collaborator at spatie is awesome! 💙 And it's everytime great and a good learning to work with you and your colleagues together. 😊\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/FullStackEU\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/sebdedeyne\"></a>",
+      "text": "Being a co-maintainer/collaborator at spatie is awesome! 💙 And it's everytime great and a good learning to work with you and your colleagues together. 😊"
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/writing-open-source-software-and-staying-sane-while-at-it/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Tom Witkowski",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/4c6a0072545bab629442313c0b6d9a2cd920b338d3f3132c0e23a1f1175e382a.jpg",
+      "url": "https://twitter.com/devgummibeer"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1189105130312028160#favorited-by-2995381594",
+    "published": null,
+    "wm-received": "2019-10-29T09:26:17Z",
+    "wm-id": 718630,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1189105130312028160/2995381594",
+    "wm-target": "https://sebastiandedeyne.com/writing-open-source-software-and-staying-sane-while-at-it/",
+    "like-of": "https://sebastiandedeyne.com/writing-open-source-software-and-staying-sane-while-at-it/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Duncan McClean",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/4e2ef595f67d03c70c3a32aba1be10963e3cea86cf0d4a24e580775e8ed60f18.jpg",
+      "url": "https://twitter.com/damcclean"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1189105130312028160#favorited-by-1005088501342392320",
+    "published": null,
+    "wm-received": "2019-10-29T09:26:16Z",
+    "wm-id": 718629,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1189105130312028160/1005088501342392320",
+    "wm-target": "https://sebastiandedeyne.com/writing-open-source-software-and-staying-sane-while-at-it/",
+    "like-of": "https://sebastiandedeyne.com/writing-open-source-software-and-staying-sane-while-at-it/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+]

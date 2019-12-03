@@ -1,0 +1,863 @@
+[
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Daniel Opitz",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/89b6340129e818475a1db4c96ba81f5cc565128b9c155e9326e21abf6e29970c.png",
+      "url": "https://twitter.com/dopitz"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1176038615937404928#favorited-by-22533245",
+    "published": null,
+    "wm-received": "2019-09-29T16:24:25Z",
+    "wm-id": 701469,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1176038615937404928/22533245",
+    "wm-target": "https://sebastiandedeyne.com/how-much-javascript-do-we-really-need/",
+    "like-of": "https://sebastiandedeyne.com/how-much-javascript-do-we-really-need/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Robin vd Vleuten",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/299c3a0d5c2a85ec810a5fe1abec5c2c52666292c61e8f0e891f2536c728716b.jpg",
+      "url": "https://twitter.com/robinvdvleuten"
+    },
+    "url": "https://twitter.com/robinvdvleuten/status/1177484934664966145",
+    "published": "2019-09-27T07:27:39+00:00",
+    "wm-received": "2019-09-27T07:50:49Z",
+    "wm-id": 699720,
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/sebdedeyne/1176038615937404928/1177484934664966145",
+    "wm-target": "https://sebastiandedeyne.com/how-much-javascript-do-we-really-need/",
+    "content": {
+      "html": "I am using Unpoly a lot these days to add interactivity to my applications and must say I really like the development speed of adding modals and such. It feels a bit like Turbolinks on steroids and works really well with Laravel and Rails.\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/sebdedeyne\"></a>",
+      "text": "I am using Unpoly a lot these days to add interactivity to my applications and must say I really like the development speed of adding modals and such. It feels a bit like Turbolinks on steroids and works really well with Laravel and Rails."
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/how-much-javascript-do-we-really-need/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Dionysios Arvanitis",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/a286e3ecd0de915a772948311b00fb21a5adad448b87aa0951627110d21a2c7c.jpg",
+      "url": "https://twitter.com/arvandio"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1176038615937404928#favorited-by-976974732",
+    "published": null,
+    "wm-received": "2019-09-24T15:55:21Z",
+    "wm-id": 697908,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1176038615937404928/976974732",
+    "wm-target": "https://sebastiandedeyne.com/how-much-javascript-do-we-really-need/",
+    "like-of": "https://sebastiandedeyne.com/how-much-javascript-do-we-really-need/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Mohit Bhadana",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/6a83ad3262d01e98c163e625863a514b5a64bcdb53737fe1616c92c338b271ee.jpg",
+      "url": "https://twitter.com/MohitBh46915866"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1176038615937404928#favorited-by-1134006531542773761",
+    "published": null,
+    "wm-received": "2019-09-24T03:43:07Z",
+    "wm-id": 697601,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1176038615937404928/1134006531542773761",
+    "wm-target": "https://sebastiandedeyne.com/how-much-javascript-do-we-really-need/",
+    "like-of": "https://sebastiandedeyne.com/how-much-javascript-do-we-really-need/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "oluwajubelo loves VueJS 🚨",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/b46941f64275ee2ae7ae9618ba0d3b60e9ab8ce6a343ff90b0e905321a4c24de.jpg",
+      "url": "https://twitter.com/igeoluwasegun1"
+    },
+    "url": "https://twitter.com/igeoluwasegun1/status/1176323400043847680",
+    "published": "2019-09-24T02:32:08+00:00",
+    "wm-received": "2019-09-24T02:48:58Z",
+    "wm-id": 697573,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1176038615937404928/1176323400043847680",
+    "wm-target": "https://sebastiandedeyne.com/how-much-javascript-do-we-really-need/",
+    "content": {
+      "text": "✒️ How much JavaScript do we really need? sebastiandedeyne.com/how-much-javas…"
+    },
+    "repost-of": "https://sebastiandedeyne.com/how-much-javascript-do-we-really-need/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "oluwajubelo loves VueJS 🚨",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/b46941f64275ee2ae7ae9618ba0d3b60e9ab8ce6a343ff90b0e905321a4c24de.jpg",
+      "url": "https://twitter.com/igeoluwasegun1"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1176038615937404928#favorited-by-982451690",
+    "published": null,
+    "wm-received": "2019-09-24T02:48:56Z",
+    "wm-id": 697572,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1176038615937404928/982451690",
+    "wm-target": "https://sebastiandedeyne.com/how-much-javascript-do-we-really-need/",
+    "like-of": "https://sebastiandedeyne.com/how-much-javascript-do-we-really-need/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Camilo Caquimbo",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/63e3b11fbd7fb9a6ae11be46cc239bb28d8697673ae9f87c47bfa8b27fe1f205.jpg",
+      "url": "https://twitter.com/CCaquimbo"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1176038615937404928#favorited-by-447532863",
+    "published": null,
+    "wm-received": "2019-09-23T23:16:40Z",
+    "wm-id": 697499,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1176038615937404928/447532863",
+    "wm-target": "https://sebastiandedeyne.com/how-much-javascript-do-we-really-need/",
+    "like-of": "https://sebastiandedeyne.com/how-much-javascript-do-we-really-need/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Jeffrey_wii",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/b14610b367b1b4c5c3ba73ada81132c52d4d0eae47b8ccba60a596cba23313af.jpg",
+      "url": "https://twitter.com/jeffrey_wii"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1176038615937404928#favorited-by-493074988",
+    "published": null,
+    "wm-received": "2019-09-23T21:27:39Z",
+    "wm-id": 697379,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1176038615937404928/493074988",
+    "wm-target": "https://sebastiandedeyne.com/how-much-javascript-do-we-really-need/",
+    "like-of": "https://sebastiandedeyne.com/how-much-javascript-do-we-really-need/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Tony Messias",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/aa2b182324f67f84855c8cb4da0a851a841057d1e2573f6da49bb8eba97aad6f.png",
+      "url": "https://twitter.com/tony0x01"
+    },
+    "url": "https://twitter.com/tony0x01/status/1176241672134516743",
+    "published": "2019-09-23T21:07:22+00:00",
+    "wm-received": "2019-09-23T21:27:38Z",
+    "wm-id": 697378,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1176038615937404928/1176241672134516743",
+    "wm-target": "https://sebastiandedeyne.com/how-much-javascript-do-we-really-need/",
+    "content": {
+      "text": "✒️ How much JavaScript do we really need? sebastiandedeyne.com/how-much-javas…"
+    },
+    "repost-of": "https://sebastiandedeyne.com/how-much-javascript-do-we-really-need/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Tony Messias",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/aa2b182324f67f84855c8cb4da0a851a841057d1e2573f6da49bb8eba97aad6f.png",
+      "url": "https://twitter.com/tony0x01"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1176038615937404928#favorited-by-55294160",
+    "published": null,
+    "wm-received": "2019-09-23T21:27:37Z",
+    "wm-id": 697377,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1176038615937404928/55294160",
+    "wm-target": "https://sebastiandedeyne.com/how-much-javascript-do-we-really-need/",
+    "like-of": "https://sebastiandedeyne.com/how-much-javascript-do-we-really-need/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "mahmod",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/676649a5e60e1092100e3fd5b42351f06e18072b3b4f7a2f9d1769c8013732c1.jpg",
+      "url": "https://twitter.com/mahmoodnet"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1176038615937404928#favorited-by-1555503038",
+    "published": null,
+    "wm-received": "2019-09-23T19:30:17Z",
+    "wm-id": 697322,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1176038615937404928/1555503038",
+    "wm-target": "https://sebastiandedeyne.com/how-much-javascript-do-we-really-need/",
+    "like-of": "https://sebastiandedeyne.com/how-much-javascript-do-we-really-need/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Maciej Walkowiak 🍃",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/ebd0a1b950dac3dba9aa060981333cc10221c3dcd82976d10d1060a43c21dd73.jpg",
+      "url": "https://twitter.com/maciejwalkowiak"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1176038615937404928#favorited-by-454916297",
+    "published": null,
+    "wm-received": "2019-09-23T18:55:13Z",
+    "wm-id": 697305,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1176038615937404928/454916297",
+    "wm-target": "https://sebastiandedeyne.com/how-much-javascript-do-we-really-need/",
+    "like-of": "https://sebastiandedeyne.com/how-much-javascript-do-we-really-need/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Spatie",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/3efb487e7f3a0bc3690580277105f93eda590d65e4d9eb01135a184a9df60b18.jpg",
+      "url": "https://twitter.com/spatie_be"
+    },
+    "url": "https://twitter.com/spatie_be/status/1176205685702496261",
+    "published": "2019-09-23T18:44:22+00:00",
+    "wm-received": "2019-09-23T18:55:11Z",
+    "wm-id": 697304,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1176038615937404928/1176205685702496261",
+    "wm-target": "https://sebastiandedeyne.com/how-much-javascript-do-we-really-need/",
+    "content": {
+      "text": "✒️ How much JavaScript do we really need? sebastiandedeyne.com/how-much-javas…"
+    },
+    "repost-of": "https://sebastiandedeyne.com/how-much-javascript-do-we-really-need/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "im.mister.j",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/b373a6f1c7ed0ec1c434dc612e188c977bfcc23eb6d541646ba3139077a9c049.jpg",
+      "url": "https://twitter.com/nerdroid95"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1176038615937404928#favorited-by-305192622",
+    "published": null,
+    "wm-received": "2019-09-23T18:55:11Z",
+    "wm-id": 697303,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1176038615937404928/305192622",
+    "wm-target": "https://sebastiandedeyne.com/how-much-javascript-do-we-really-need/",
+    "like-of": "https://sebastiandedeyne.com/how-much-javascript-do-we-really-need/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "James",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/eb89e72bc665836f710fd289586e6b40b5e713549bf9bf91b74e42c5a136e765.jpg",
+      "url": "https://twitter.com/sesticles"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1176038615937404928#favorited-by-1062926515",
+    "published": null,
+    "wm-received": "2019-09-23T18:26:35Z",
+    "wm-id": 697281,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1176038615937404928/1062926515",
+    "wm-target": "https://sebastiandedeyne.com/how-much-javascript-do-we-really-need/",
+    "like-of": "https://sebastiandedeyne.com/how-much-javascript-do-we-really-need/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Colbydude",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/d1611ded1910686ae390baab3b9df115336f273a166f8c59af950bba7cb8fa25.jpg",
+      "url": "https://twitter.com/Colbydude"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1176038615937404928#favorited-by-18464746",
+    "published": null,
+    "wm-received": "2019-09-23T18:26:34Z",
+    "wm-id": 697280,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1176038615937404928/18464746",
+    "wm-target": "https://sebastiandedeyne.com/how-much-javascript-do-we-really-need/",
+    "like-of": "https://sebastiandedeyne.com/how-much-javascript-do-we-really-need/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Ross Bookmarks",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/295951fae7f7c954a05680cf420d9c3e45e81f77f5773cad1f9c6fa73c00f782.png",
+      "url": "https://twitter.com/RossBookmarks"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1176038615937404928#favorited-by-1151137821580652544",
+    "published": null,
+    "wm-received": "2019-09-23T17:54:37Z",
+    "wm-id": 697269,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1176038615937404928/1151137821580652544",
+    "wm-target": "https://sebastiandedeyne.com/how-much-javascript-do-we-really-need/",
+    "like-of": "https://sebastiandedeyne.com/how-much-javascript-do-we-really-need/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Lambert Traccard",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/0092681de01f8f15b50eaefca8c54cafc66c7490050d59bc1bf6bcfac892c184.jpg",
+      "url": "https://twitter.com/lamberttraccard"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1176038615937404928#favorited-by-236706279",
+    "published": null,
+    "wm-received": "2019-09-23T17:54:36Z",
+    "wm-id": 697268,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1176038615937404928/236706279",
+    "wm-target": "https://sebastiandedeyne.com/how-much-javascript-do-we-really-need/",
+    "like-of": "https://sebastiandedeyne.com/how-much-javascript-do-we-really-need/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Lazarus",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/3cfac43f7a42c4471157bdec5bd53dcd782a60bbc5396fa565aee3d9ea3884b8.jpg",
+      "url": "https://twitter.com/TonsOfLaziness"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1176038615937404928#favorited-by-911724584",
+    "published": null,
+    "wm-received": "2019-09-23T17:20:14Z",
+    "wm-id": 697248,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1176038615937404928/911724584",
+    "wm-target": "https://sebastiandedeyne.com/how-much-javascript-do-we-really-need/",
+    "like-of": "https://sebastiandedeyne.com/how-much-javascript-do-we-really-need/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Ardhi Halim",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/8633a23e1f6414f5bfd4ac74119856a15dd55e74240617f81f11343b904af059.jpg",
+      "url": "https://twitter.com/ardhilim"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1176038615937404928#favorited-by-51482137",
+    "published": null,
+    "wm-received": "2019-09-23T15:57:58Z",
+    "wm-id": 697208,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1176038615937404928/51482137",
+    "wm-target": "https://sebastiandedeyne.com/how-much-javascript-do-we-really-need/",
+    "like-of": "https://sebastiandedeyne.com/how-much-javascript-do-we-really-need/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Franco Gilio",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/344bd6597943463b80117b7639c17b37de1d2eee55becadaf85c6a1fadf159d5.jpg",
+      "url": "https://twitter.com/fgili0"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1176038615937404928#favorited-by-305749158",
+    "published": null,
+    "wm-received": "2019-09-23T15:57:57Z",
+    "wm-id": 697207,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1176038615937404928/305749158",
+    "wm-target": "https://sebastiandedeyne.com/how-much-javascript-do-we-really-need/",
+    "like-of": "https://sebastiandedeyne.com/how-much-javascript-do-we-really-need/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Jan Van Echelpoel",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/4bbbba12af890f9bf167890b60a9888d10e1cd0f2e97965bb6c332cd397cd67c.jpg",
+      "url": "https://twitter.com/echlpl"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1176038615937404928#favorited-by-255124934",
+    "published": null,
+    "wm-received": "2019-09-23T15:57:56Z",
+    "wm-id": 697206,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1176038615937404928/255124934",
+    "wm-target": "https://sebastiandedeyne.com/how-much-javascript-do-we-really-need/",
+    "like-of": "https://sebastiandedeyne.com/how-much-javascript-do-we-really-need/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Fernando Lens",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/010e2a5986822e6779b5f47bafcc8d7330dbcd69eb23ac1b5ce5ef8695b6c5e4.jpg",
+      "url": "https://twitter.com/ferlensrey"
+    },
+    "url": "https://twitter.com/ferlensrey/status/1176163512013471745",
+    "published": "2019-09-23T15:56:47+00:00",
+    "wm-received": "2019-09-23T15:57:55Z",
+    "wm-id": 697205,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1176038615937404928/1176163512013471745",
+    "wm-target": "https://sebastiandedeyne.com/how-much-javascript-do-we-really-need/",
+    "content": {
+      "text": "✒️ How much JavaScript do we really need? sebastiandedeyne.com/how-much-javas…"
+    },
+    "repost-of": "https://sebastiandedeyne.com/how-much-javascript-do-we-really-need/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Fernando Lens",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/010e2a5986822e6779b5f47bafcc8d7330dbcd69eb23ac1b5ce5ef8695b6c5e4.jpg",
+      "url": "https://twitter.com/ferlensrey"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1176038615937404928#favorited-by-922391696909979648",
+    "published": null,
+    "wm-received": "2019-09-23T15:57:55Z",
+    "wm-id": 697204,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1176038615937404928/922391696909979648",
+    "wm-target": "https://sebastiandedeyne.com/how-much-javascript-do-we-really-need/",
+    "like-of": "https://sebastiandedeyne.com/how-much-javascript-do-we-really-need/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Faysal Ahamed",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/8e66bd2e6ab2e31609fe011090a711a436220b0f72a30d0b03d55f222aafc16d.jpg",
+      "url": "https://twitter.com/devfaysal"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1176038615937404928#favorited-by-581464283",
+    "published": null,
+    "wm-received": "2019-09-23T15:27:01Z",
+    "wm-id": 697193,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1176038615937404928/581464283",
+    "wm-target": "https://sebastiandedeyne.com/how-much-javascript-do-we-really-need/",
+    "like-of": "https://sebastiandedeyne.com/how-much-javascript-do-we-really-need/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Sergii Shymko",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/15ef84e53a5dde98e1cff1bfe3b724e5ac7c1fcef4b3775abb4b5f9db1147d64.jpg",
+      "url": "https://twitter.com/SergiiShymko"
+    },
+    "url": "https://twitter.com/SergiiShymko/status/1176154825320361984",
+    "published": "2019-09-23T15:22:16+00:00",
+    "wm-received": "2019-09-23T15:26:59Z",
+    "wm-id": 697192,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1176038615937404928/1176154825320361984",
+    "wm-target": "https://sebastiandedeyne.com/how-much-javascript-do-we-really-need/",
+    "content": {
+      "text": "✒️ How much JavaScript do we really need? sebastiandedeyne.com/how-much-javas…"
+    },
+    "repost-of": "https://sebastiandedeyne.com/how-much-javascript-do-we-really-need/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Sergii Shymko",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/15ef84e53a5dde98e1cff1bfe3b724e5ac7c1fcef4b3775abb4b5f9db1147d64.jpg",
+      "url": "https://twitter.com/SergiiShymko"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1176038615937404928#favorited-by-3076267558",
+    "published": null,
+    "wm-received": "2019-09-23T15:26:59Z",
+    "wm-id": 697191,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1176038615937404928/3076267558",
+    "wm-target": "https://sebastiandedeyne.com/how-much-javascript-do-we-really-need/",
+    "like-of": "https://sebastiandedeyne.com/how-much-javascript-do-we-really-need/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Simon Kollross",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/a8d22317feb0b3a3acf2595eab7fb9b586add9155c5c59735524342735d25e39.jpg",
+      "url": "https://twitter.com/skollro"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1176038615937404928#favorited-by-3315859774",
+    "published": null,
+    "wm-received": "2019-09-23T15:26:58Z",
+    "wm-id": 697190,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1176038615937404928/3315859774",
+    "wm-target": "https://sebastiandedeyne.com/how-much-javascript-do-we-really-need/",
+    "like-of": "https://sebastiandedeyne.com/how-much-javascript-do-we-really-need/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Caleb Porzio",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/9c549798360f6e394c6d6558014099bcb01afa6eee5a8dd79527fd6e615d0f6f.jpg",
+      "url": "https://twitter.com/calebporzio"
+    },
+    "url": "https://twitter.com/calebporzio/status/1176151511228977156",
+    "published": "2019-09-23T15:09:06+00:00",
+    "wm-received": "2019-09-23T15:26:57Z",
+    "wm-id": 697189,
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1176154685398507520",
+    "wm-target": "https://sebastiandedeyne.com/how-much-javascript-do-we-really-need/",
+    "content": {
+      "html": "I deeply relate the feelings outlined in this post. Sebastian gives a sober, bird's eye view of the different ways we use JavaScript in our apps, and their respective trade-offs. 👌\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/how-much-javascript-do-we-really-need/\"></a>",
+      "text": "I deeply relate the feelings outlined in this post. Sebastian gives a sober, bird's eye view of the different ways we use JavaScript in our apps, and their respective trade-offs. 👌"
+    },
+    "mention-of": "https://sebastiandedeyne.com/how-much-javascript-do-we-really-need/",
+    "wm-property": "mention-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Caleb Porzio",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/9c549798360f6e394c6d6558014099bcb01afa6eee5a8dd79527fd6e615d0f6f.jpg",
+      "url": "https://twitter.com/calebporzio"
+    },
+    "url": "https://twitter.com/calebporzio/status/1176151511228977156",
+    "published": "2019-09-23T15:09:06+00:00",
+    "wm-received": "2019-09-23T15:26:56Z",
+    "wm-id": 697188,
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1176151511228977156",
+    "wm-target": "https://sebastiandedeyne.com/how-much-javascript-do-we-really-need/",
+    "content": {
+      "html": "I deeply relate the feelings outlined in this post. Sebastian gives a sober, bird's eye view of the different ways we use JavaScript in our apps, and their respective trade-offs. 👌\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/how-much-javascript-do-we-really-need/\"></a>",
+      "text": "I deeply relate the feelings outlined in this post. Sebastian gives a sober, bird's eye view of the different ways we use JavaScript in our apps, and their respective trade-offs. 👌"
+    },
+    "mention-of": "https://sebastiandedeyne.com/how-much-javascript-do-we-really-need/",
+    "wm-property": "mention-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Nick",
+      "photo": "https://webmention.io/avatar/abs.twimg.com/0e6b2cd70aa5b35dec24ca4e1e63f8963f0118736d9ec3bba77e3a8c99a27bc2.png",
+      "url": "https://twitter.com/NickClasener"
+    },
+    "url": "https://twitter.com/NickClasener/status/1176141529309728769",
+    "published": "2019-09-23T14:29:26+00:00",
+    "wm-received": "2019-09-23T14:51:26Z",
+    "wm-id": 697175,
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/sebdedeyne/1176038615937404928/1176141529309728769",
+    "wm-target": "https://sebastiandedeyne.com/how-much-javascript-do-we-really-need/",
+    "content": {
+      "html": "Stimulusjs is good too.\nNo state but with reusable plain Js components (called controllers).\nI liken it to tailwindcss.\nWhen Combined with Turbolinks you have a SPA.\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/sebdedeyne\"></a>",
+      "text": "Stimulusjs is good too.\nNo state but with reusable plain Js components (called controllers).\nI liken it to tailwindcss.\nWhen Combined with Turbolinks you have a SPA."
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/how-much-javascript-do-we-really-need/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Ryan Chandler",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/f01ba2ebadda5ba079a48fefa2155822987e0394efe8181f753dc681bd7526e5.jpg",
+      "url": "https://twitter.com/ryangjchandler"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1176038615937404928#favorited-by-1088489047260041217",
+    "published": null,
+    "wm-received": "2019-09-23T14:20:15Z",
+    "wm-id": 697150,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1176038615937404928/1088489047260041217",
+    "wm-target": "https://sebastiandedeyne.com/how-much-javascript-do-we-really-need/",
+    "like-of": "https://sebastiandedeyne.com/how-much-javascript-do-we-really-need/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Craig Lovelock",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/7b4b0782f83dbb972af9b8f4d0688e3025a9928775df025c54b92801334c8877.jpg",
+      "url": "https://twitter.com/Craig_Lovelock"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1176038615937404928#favorited-by-1540905824",
+    "published": null,
+    "wm-received": "2019-09-23T13:53:49Z",
+    "wm-id": 697139,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1176038615937404928/1540905824",
+    "wm-target": "https://sebastiandedeyne.com/how-much-javascript-do-we-really-need/",
+    "like-of": "https://sebastiandedeyne.com/how-much-javascript-do-we-really-need/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Adam Wathan",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/30e7a50a7220b85239569d582f69ac2d6f42432814c00e9c4d906a304c24f4fe.jpg",
+      "url": "https://twitter.com/adamwathan"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1176038615937404928#favorited-by-716933677",
+    "published": null,
+    "wm-received": "2019-09-23T13:20:37Z",
+    "wm-id": 697127,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1176038615937404928/716933677",
+    "wm-target": "https://sebastiandedeyne.com/how-much-javascript-do-we-really-need/",
+    "like-of": "https://sebastiandedeyne.com/how-much-javascript-do-we-really-need/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Uncle Cal",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/55320d818e4d9db8df1bb34755d3f044362b11225198353bfcb16223fd5b134f.jpg",
+      "url": "https://twitter.com/CalEvans"
+    },
+    "url": "https://twitter.com/CalEvans/status/1176113219867488257",
+    "published": "2019-09-23T12:36:57+00:00",
+    "wm-received": "2019-09-23T13:01:19Z",
+    "wm-id": 697121,
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/freekmurze/1176103939420426242/1176113219867488257",
+    "wm-target": "https://sebastiandedeyne.com/how-much-javascript-do-we-really-need/",
+    "content": {
+      "html": "less\n<a class=\"u-mention\" href=\"https://freek.dev/\"></a>\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/how-much-javascript-do-we-really-need/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/freekmurze\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/jkudish\"></a>",
+      "text": "less"
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/how-much-javascript-do-we-really-need/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Xander Smalbil",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/496b720ed57a0c6384f4b687d2175e7414e967a09968789be69cbfe9a9d7b892.jpg",
+      "url": "https://twitter.com/xtrasmal"
+    },
+    "url": "https://twitter.com/xtrasmal/status/1176108198689955840",
+    "published": "2019-09-23T12:17:00+00:00",
+    "wm-received": "2019-09-23T12:26:29Z",
+    "wm-id": 697101,
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/freekmurze/1176103939420426242/1176108198689955840",
+    "wm-target": "https://sebastiandedeyne.com/how-much-javascript-do-we-really-need/",
+    "content": {
+      "html": "Could you ask Sebastian to write about jquery?\n<a class=\"u-mention\" href=\"https://freek.dev/\"></a>\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/how-much-javascript-do-we-really-need/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/freekmurze\"></a>",
+      "text": "Could you ask Sebastian to write about jquery?"
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/how-much-javascript-do-we-really-need/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Freek Van der Herten",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/fc87f4abfee522403bfb9d8ebbdd1bde483d020713c137b63e94bec043c45cfa.jpg",
+      "url": "https://twitter.com/freekmurze"
+    },
+    "url": "https://twitter.com/freekmurze/status/1176103939420426242",
+    "published": "2019-09-23T12:00:04+00:00",
+    "wm-received": "2019-09-23T12:18:58Z",
+    "wm-id": 697095,
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1176103939420426242",
+    "wm-target": "https://sebastiandedeyne.com/how-much-javascript-do-we-really-need/",
+    "content": {
+      "html": "🔗 How much JavaScript do we really need?\n<a href=\"https://sebastiandedeyne.com/how-much-javascript-do-we-really-need/\">sebastiandedeyne.com/how-much-javas…</a>\n<a href=\"https://twitter.com/search?q=%23javascript\">#javascript</a> <a href=\"https://twitter.com/search?q=%23bestpractices\">#bestpractices</a>",
+      "text": "🔗 How much JavaScript do we really need?\nsebastiandedeyne.com/how-much-javas…\n#javascript #bestpractices"
+    },
+    "mention-of": "https://sebastiandedeyne.com/how-much-javascript-do-we-really-need/",
+    "wm-property": "mention-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Tom Witkowski",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/4c6a0072545bab629442313c0b6d9a2cd920b338d3f3132c0e23a1f1175e382a.jpg",
+      "url": "https://twitter.com/devgummibeer"
+    },
+    "url": "https://twitter.com/devgummibeer/status/1176075117895540736",
+    "published": "2019-09-23T10:05:33+00:00",
+    "wm-received": "2019-09-23T10:15:39Z",
+    "wm-id": 697046,
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/sebdedeyne/1176038615937404928/1176075117895540736",
+    "wm-target": "https://sebastiandedeyne.com/how-much-javascript-do-we-really-need/",
+    "content": {
+      "html": "The less the better! 👨‍💻\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/sebdedeyne\"></a>",
+      "text": "The less the better! 👨‍💻"
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/how-much-javascript-do-we-really-need/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Cyril de Wit",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/024226e454853ac712e85cd3c646b7f3aea99b8adb6399176042dbc5db88903c.jpg",
+      "url": "https://twitter.com/cyrildewit"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1176038615937404928#favorited-by-2172253302",
+    "published": null,
+    "wm-received": "2019-09-23T09:39:57Z",
+    "wm-id": 697031,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1176038615937404928/2172253302",
+    "wm-target": "https://sebastiandedeyne.com/how-much-javascript-do-we-really-need/",
+    "like-of": "https://sebastiandedeyne.com/how-much-javascript-do-we-really-need/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Julius Ehrlich",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/c1042417cd55925f82d93cb4df81dbb730c96376106e90754d8f11912fe91501.jpg",
+      "url": "https://twitter.com/cobypaste"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1176038615937404928#favorited-by-17649829",
+    "published": null,
+    "wm-received": "2019-09-23T09:39:56Z",
+    "wm-id": 697030,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1176038615937404928/17649829",
+    "wm-target": "https://sebastiandedeyne.com/how-much-javascript-do-we-really-need/",
+    "like-of": "https://sebastiandedeyne.com/how-much-javascript-do-we-really-need/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Stefan Zweifel",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/3b772e9239dfd15ce8527f90edd45d0678849d57b28725cc69f929bb4f11cf06.jpg",
+      "url": "https://twitter.com/_stefanzweifel"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1176038615937404928#favorited-by-76577495",
+    "published": null,
+    "wm-received": "2019-09-23T09:15:42Z",
+    "wm-id": 697017,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1176038615937404928/76577495",
+    "wm-target": "https://sebastiandedeyne.com/how-much-javascript-do-we-really-need/",
+    "like-of": "https://sebastiandedeyne.com/how-much-javascript-do-we-really-need/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Andre Sayej",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/00a7da3ab748395431999d2f5c901e7bee85e2279cb5b59b9d2b9299a8d3d805.jpg",
+      "url": "https://twitter.com/AndreSayej"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1176038615937404928#favorited-by-1101406245322403841",
+    "published": null,
+    "wm-received": "2019-09-23T09:15:41Z",
+    "wm-id": 697015,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1176038615937404928/1101406245322403841",
+    "wm-target": "https://sebastiandedeyne.com/how-much-javascript-do-we-really-need/",
+    "like-of": "https://sebastiandedeyne.com/how-much-javascript-do-we-really-need/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Gaurav Makhecha",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/c9d17fd8758c47bca7d15acefc9798aaa3c4807011a56fdfa7e60ad304c37784.jpg",
+      "url": "https://twitter.com/gauravmakhecha"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1176038615937404928#favorited-by-482232155",
+    "published": null,
+    "wm-received": "2019-09-23T09:15:39Z",
+    "wm-id": 697013,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1176038615937404928/482232155",
+    "wm-target": "https://sebastiandedeyne.com/how-much-javascript-do-we-really-need/",
+    "like-of": "https://sebastiandedeyne.com/how-much-javascript-do-we-really-need/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Rutvij",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/437778330c0a8980103afe322a62922b9dc5dcfea5a0167b29741b498615a02f.jpg",
+      "url": "https://twitter.com/22rutvij"
+    },
+    "url": "https://twitter.com/22rutvij/status/1176045659968794625",
+    "published": "2019-09-23T08:08:29+00:00",
+    "wm-received": "2019-09-23T08:16:22Z",
+    "wm-id": 696971,
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/sebdedeyne/1176038615937404928/1176045659968794625",
+    "wm-target": "https://sebastiandedeyne.com/how-much-javascript-do-we-really-need/",
+    "content": {
+      "html": "@sebdedeyne very well written. Yeah, I agree with you. JavaScript is mainly for creating a better user experience. I'm using <a href=\"https://twitter.com/inertiajs\">@inertiajs</a> and I really liked it so far. No more state- management for front end development.\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/sebdedeyne\"></a>",
+      "text": "@sebdedeyne very well written. Yeah, I agree with you. JavaScript is mainly for creating a better user experience. I'm using @inertiajs and I really liked it so far. No more state- management for front end development."
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/how-much-javascript-do-we-really-need/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Rutvij",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/437778330c0a8980103afe322a62922b9dc5dcfea5a0167b29741b498615a02f.jpg",
+      "url": "https://twitter.com/22rutvij"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1176038615937404928#favorited-by-262046008",
+    "published": null,
+    "wm-received": "2019-09-23T08:16:21Z",
+    "wm-id": 696970,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1176038615937404928/262046008",
+    "wm-target": "https://sebastiandedeyne.com/how-much-javascript-do-we-really-need/",
+    "like-of": "https://sebastiandedeyne.com/how-much-javascript-do-we-really-need/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+]

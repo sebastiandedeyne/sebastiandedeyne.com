@@ -1,0 +1,228 @@
+[
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Miguel Piedrafita 🛸",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/fa2e9a8dd19a716f2e068d287cc1edadff32bfe0ea77dc35362f10c903813132.png",
+      "url": "https://twitter.com/m1guelpf"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1186350606862241792#favorited-by-713094195955830785",
+    "published": null,
+    "wm-received": "2019-10-23T10:32:47Z",
+    "wm-id": 716495,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1186350606862241792/713094195955830785",
+    "wm-target": "https://sebastiandedeyne.com/disappointed/",
+    "like-of": "https://sebastiandedeyne.com/disappointed/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Webwide | Design, Development & Maker Community ✨",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/e644f0ef0060dad44833455b001ebb6a7dede6392d6e0aca581990253bc7dc61.png",
+      "url": "https://twitter.com/webwide_io"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1186350606862241792#favorited-by-1173625387550695431",
+    "published": null,
+    "wm-received": "2019-10-22T22:08:42Z",
+    "wm-id": 716346,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1186350606862241792/1173625387550695431",
+    "wm-target": "https://sebastiandedeyne.com/disappointed/",
+    "like-of": "https://sebastiandedeyne.com/disappointed/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Tom Witkowski",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/4c6a0072545bab629442313c0b6d9a2cd920b338d3f3132c0e23a1f1175e382a.jpg",
+      "url": "https://twitter.com/devgummibeer"
+    },
+    "url": "https://twitter.com/devgummibeer/status/1186743703836286978",
+    "published": "2019-10-22T20:38:42+00:00",
+    "wm-received": "2019-10-22T21:07:18Z",
+    "wm-id": 716335,
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/sebdedeyne/1186350606862241792/1186743703836286978",
+    "wm-target": "https://sebastiandedeyne.com/disappointed/",
+    "content": {
+      "html": "One of my goals for my new website. I want to stay with vanilla JS and atm the only library I would use is image lazy loading.\nIf there would be an async/defer attribute for images this would be awesome!\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/sebdedeyne\"></a>",
+      "text": "One of my goals for my new website. I want to stay with vanilla JS and atm the only library I would use is image lazy loading.\nIf there would be an async/defer attribute for images this would be awesome!"
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/disappointed/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Tom Witkowski",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/4c6a0072545bab629442313c0b6d9a2cd920b338d3f3132c0e23a1f1175e382a.jpg",
+      "url": "https://twitter.com/devgummibeer"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1186350606862241792#favorited-by-2995381594",
+    "published": null,
+    "wm-received": "2019-10-22T20:37:54Z",
+    "wm-id": 716328,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1186350606862241792/2995381594",
+    "wm-target": "https://sebastiandedeyne.com/disappointed/",
+    "like-of": "https://sebastiandedeyne.com/disappointed/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Cyril de Wit",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/024226e454853ac712e85cd3c646b7f3aea99b8adb6399176042dbc5db88903c.jpg",
+      "url": "https://twitter.com/cyrildewit"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1186350606862241792#favorited-by-2172253302",
+    "published": null,
+    "wm-received": "2019-10-21T22:22:46Z",
+    "wm-id": 715998,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1186350606862241792/2172253302",
+    "wm-target": "https://sebastiandedeyne.com/disappointed/",
+    "like-of": "https://sebastiandedeyne.com/disappointed/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Simon Kollross",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/a8d22317feb0b3a3acf2595eab7fb9b586add9155c5c59735524342735d25e39.jpg",
+      "url": "https://twitter.com/skollro"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1186350606862241792#favorited-by-3315859774",
+    "published": null,
+    "wm-received": "2019-10-21T21:50:22Z",
+    "wm-id": 715988,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1186350606862241792/3315859774",
+    "wm-target": "https://sebastiandedeyne.com/disappointed/",
+    "like-of": "https://sebastiandedeyne.com/disappointed/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Stefan Zweifel",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/3b772e9239dfd15ce8527f90edd45d0678849d57b28725cc69f929bb4f11cf06.jpg",
+      "url": "https://twitter.com/_stefanzweifel"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1186350606862241792#favorited-by-76577495",
+    "published": null,
+    "wm-received": "2019-10-21T19:48:14Z",
+    "wm-id": 715944,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1186350606862241792/76577495",
+    "wm-target": "https://sebastiandedeyne.com/disappointed/",
+    "like-of": "https://sebastiandedeyne.com/disappointed/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Sebastiaan Luca 🤖",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/f16d4bc904e9b9ea56fbbbae03a72fab6aaefd47bb9fc039498c64c273110990.jpg",
+      "url": "https://twitter.com/sebastiaanluca"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1186350606862241792#favorited-by-357390496",
+    "published": null,
+    "wm-received": "2019-10-21T19:48:13Z",
+    "wm-id": 715943,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1186350606862241792/357390496",
+    "wm-target": "https://sebastiandedeyne.com/disappointed/",
+    "like-of": "https://sebastiandedeyne.com/disappointed/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Sebastian Huber",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/d0c2c66b50019ba5b9ad237de83040e41e8e0cca2e6aafdd72210684923b3d1b.jpg",
+      "url": "https://twitter.com/s3huber"
+    },
+    "url": "https://twitter.com/s3huber/status/1186359200496132096",
+    "published": "2019-10-21T19:10:49+00:00",
+    "wm-received": "2019-10-21T19:18:13Z",
+    "wm-id": 715938,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1186350606862241792/1186359200496132096",
+    "wm-target": "https://sebastiandedeyne.com/disappointed/",
+    "content": {
+      "text": "✒️ Disappointed\n\nsebastiandedeyne.com/disappointed/"
+    },
+    "repost-of": "https://sebastiandedeyne.com/disappointed/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Johan Ronsse",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/104bbe1fc73a6ee166c1f20e0a80d075df7bb37b3e43330d3ce27b550c5cc115.jpg",
+      "url": "https://twitter.com/wolfr_2"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1186350606862241792#favorited-by-179987314",
+    "published": null,
+    "wm-received": "2019-10-21T19:18:11Z",
+    "wm-id": 715936,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1186350606862241792/179987314",
+    "wm-target": "https://sebastiandedeyne.com/disappointed/",
+    "like-of": "https://sebastiandedeyne.com/disappointed/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "🔱Root🔱",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/39bc1b950d669c6ac5cbc44807af9ffb0466574c4d1e050d6d74bac991368f18.jpg",
+      "url": "https://twitter.com/_Root404"
+    },
+    "url": "https://twitter.com/_Root404/status/1186359483477442562",
+    "published": "2019-10-21T19:11:57+00:00",
+    "wm-received": "2019-10-21T19:18:10Z",
+    "wm-id": 715935,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1186350606862241792/1186359483477442562",
+    "wm-target": "https://sebastiandedeyne.com/disappointed/",
+    "content": {
+      "text": "✒️ Disappointed\n\nsebastiandedeyne.com/disappointed/"
+    },
+    "repost-of": "https://sebastiandedeyne.com/disappointed/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Constantin Druc",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/33d0ad9b14dbbff489b0217b057a83ecee5947803ebc141a7d3fa6efa0a5a8e0.jpg",
+      "url": "https://twitter.com/cdruc"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1186350606862241792#favorited-by-125522258",
+    "published": null,
+    "wm-received": "2019-10-21T18:53:29Z",
+    "wm-id": 715919,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1186350606862241792/125522258",
+    "wm-target": "https://sebastiandedeyne.com/disappointed/",
+    "like-of": "https://sebastiandedeyne.com/disappointed/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+]

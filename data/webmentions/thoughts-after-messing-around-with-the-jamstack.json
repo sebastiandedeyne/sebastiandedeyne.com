@@ -1,0 +1,903 @@
+[
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Axel Pardemann",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/53dcdac8c2c6f14e94d65249ace1fc25470fb95121c596c6317a185e1d4a2f0b.jpg",
+      "url": "https://twitter.com/axelpardemann"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1199960621032321024#favorited-by-1005671322876334080",
+    "published": null,
+    "wm-received": "2019-12-03T11:49:49Z",
+    "wm-id": 730147,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1199960621032321024/1005671322876334080",
+    "wm-target": "https://sebastiandedeyne.com/thoughts-after-messing-around-with-the-jamstack/",
+    "like-of": "https://sebastiandedeyne.com/thoughts-after-messing-around-with-the-jamstack/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Axel Pardemann",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/53dcdac8c2c6f14e94d65249ace1fc25470fb95121c596c6317a185e1d4a2f0b.jpg",
+      "url": "https://twitter.com/axelpardemann"
+    },
+    "url": "https://twitter.com/axelpardemann/status/1201828086980833280",
+    "published": "2019-12-03T11:38:39+00:00",
+    "wm-received": "2019-12-03T11:49:47Z",
+    "wm-id": 730146,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1199960621032321024/1201828086980833280",
+    "wm-target": "https://sebastiandedeyne.com/thoughts-after-messing-around-with-the-jamstack/",
+    "content": {
+      "text": "✒️ I wrote down my thoughts (and doubts) after messing around with the JAMstack the past few weeks\n\nsebastiandedeyne.com/thoughts-after…"
+    },
+    "repost-of": "https://sebastiandedeyne.com/thoughts-after-messing-around-with-the-jamstack/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Dennis Rodis",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/6fc374b24753cd8128ef8a501fd2467c627fee56ce9b5a6eec1252d355d275cd.png",
+      "url": "https://twitter.com/dencorg"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1199960621032321024#favorited-by-216112623",
+    "published": null,
+    "wm-received": "2019-12-03T10:20:19Z",
+    "wm-id": 730107,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1199960621032321024/216112623",
+    "wm-target": "https://sebastiandedeyne.com/thoughts-after-messing-around-with-the-jamstack/",
+    "like-of": "https://sebastiandedeyne.com/thoughts-after-messing-around-with-the-jamstack/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Thibault Six",
+      "photo": "https://pbs.twimg.com/profile_images/398199793/graph.bmp",
+      "url": "https://twitter.com/CastorObese"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1199960621032321024#favorited-by-71402894",
+    "published": null,
+    "wm-received": "2019-12-03T07:31:29Z",
+    "wm-id": 730046,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1199960621032321024/71402894",
+    "wm-target": "https://sebastiandedeyne.com/thoughts-after-messing-around-with-the-jamstack/",
+    "like-of": "https://sebastiandedeyne.com/thoughts-after-messing-around-with-the-jamstack/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Oliver Stark",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/eefae6f72078adb845a0449a29bae7bfdb89270f03e7ce8a89ea5ef4e1634ee0.jpg",
+      "url": "https://twitter.com/o_stark"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1199960621032321024#favorited-by-453880247",
+    "published": null,
+    "wm-received": "2019-12-03T07:31:26Z",
+    "wm-id": 730045,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1199960621032321024/453880247",
+    "wm-target": "https://sebastiandedeyne.com/thoughts-after-messing-around-with-the-jamstack/",
+    "like-of": "https://sebastiandedeyne.com/thoughts-after-messing-around-with-the-jamstack/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "james",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/bda7834f2e82899f29af7e7033d6b1c6c8df85b1751e4d68f18a9b71b7e6d676.jpg",
+      "url": "https://twitter.com/ash__ave"
+    },
+    "url": "https://twitter.com/ash__ave/status/1201756330140135426",
+    "published": "2019-12-03T06:53:31+00:00",
+    "wm-received": "2019-12-03T06:59:33Z",
+    "wm-id": 730041,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1199960621032321024/1201756330140135426",
+    "wm-target": "https://sebastiandedeyne.com/thoughts-after-messing-around-with-the-jamstack/",
+    "content": {
+      "text": "✒️ I wrote down my thoughts (and doubts) after messing around with the JAMstack the past few weeks\n\nsebastiandedeyne.com/thoughts-after…"
+    },
+    "repost-of": "https://sebastiandedeyne.com/thoughts-after-messing-around-with-the-jamstack/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Neil Keena",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/ec675f60f627c0398b1522d74bd3ac4b439ff56a2a10c6a123ce3c3d453c64c8.jpg",
+      "url": "https://twitter.com/neilkeena"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1199960621032321024#favorited-by-362015988",
+    "published": null,
+    "wm-received": "2019-12-03T05:29:25Z",
+    "wm-id": 730025,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1199960621032321024/362015988",
+    "wm-target": "https://sebastiandedeyne.com/thoughts-after-messing-around-with-the-jamstack/",
+    "like-of": "https://sebastiandedeyne.com/thoughts-after-messing-around-with-the-jamstack/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Vanderlei S. Amancio",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/cc3d7fe35ecfc273ab5d15742ae184bf844c2d30f49efe1bf55c2434d5723b71.jpg",
+      "url": "https://twitter.com/vander_dev"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1199960621032321024#favorited-by-766303919752507392",
+    "published": null,
+    "wm-received": "2019-12-03T03:51:18Z",
+    "wm-id": 730010,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1199960621032321024/766303919752507392",
+    "wm-target": "https://sebastiandedeyne.com/thoughts-after-messing-around-with-the-jamstack/",
+    "like-of": "https://sebastiandedeyne.com/thoughts-after-messing-around-with-the-jamstack/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "DOUG ST. JOHN",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/d589a38333efcaaffef7600bcce5334bffcbe870fd3ab52bce908c5bb06d67fd.jpg",
+      "url": "https://twitter.com/dstjohn"
+    },
+    "url": "https://twitter.com/dstjohn/status/1201653189705175040",
+    "published": "2019-12-03T00:03:40+00:00",
+    "wm-received": "2019-12-03T00:32:56Z",
+    "wm-id": 729966,
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/sebdedeyne/1199960621032321024/1201653189705175040",
+    "wm-target": "https://sebastiandedeyne.com/thoughts-after-messing-around-with-the-jamstack/",
+    "content": {
+      "html": "Content sites that pull data from a CMS (api or headless) seems like the best use case. Not full custom apps. <a href=\"https://ghost.org/blog/jamstack/#the-headless-cms-evolution\">ghost.org/blog/jamstack/…</a>\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/sebdedeyne\"></a>",
+      "text": "Content sites that pull data from a CMS (api or headless) seems like the best use case. Not full custom apps. ghost.org/blog/jamstack/…"
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/thoughts-after-messing-around-with-the-jamstack/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Ricardo Simão",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/d3ad93c4c5390fe44db6bea49662ba23117932c5f999463a7c7dd15303887b33.jpg",
+      "url": "https://twitter.com/rpsimao"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1199960621032321024#favorited-by-15506488",
+    "published": null,
+    "wm-received": "2019-12-02T23:33:45Z",
+    "wm-id": 729930,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1199960621032321024/15506488",
+    "wm-target": "https://sebastiandedeyne.com/thoughts-after-messing-around-with-the-jamstack/",
+    "like-of": "https://sebastiandedeyne.com/thoughts-after-messing-around-with-the-jamstack/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Rob Mills",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/54f124589d3f044e88e70c47cbf6da4d008a4605d246e4fed5cb79a2df7a8cb7.jpg",
+      "url": "https://twitter.com/RobMills"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1199960621032321024#favorited-by-14126907",
+    "published": null,
+    "wm-received": "2019-12-02T23:33:39Z",
+    "wm-id": 729929,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1199960621032321024/14126907",
+    "wm-target": "https://sebastiandedeyne.com/thoughts-after-messing-around-with-the-jamstack/",
+    "like-of": "https://sebastiandedeyne.com/thoughts-after-messing-around-with-the-jamstack/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Bojan Angjelkoski",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/497b557fd60073383797199c9937446ef2bd50134bce615896f635064c618f14.jpg",
+      "url": "https://twitter.com/bangjelkoski"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1199960621032321024#favorited-by-1470891835",
+    "published": null,
+    "wm-received": "2019-12-02T21:56:24Z",
+    "wm-id": 729902,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1199960621032321024/1470891835",
+    "wm-target": "https://sebastiandedeyne.com/thoughts-after-messing-around-with-the-jamstack/",
+    "like-of": "https://sebastiandedeyne.com/thoughts-after-messing-around-with-the-jamstack/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "God’sSon 🧬",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/bcf0003198ba5f3a64eca38106f1abf28f7406586c11a114a9d31884a917853c.png",
+      "url": "https://twitter.com/SHAWNHOSEA"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1199960621032321024#favorited-by-52668643",
+    "published": null,
+    "wm-received": "2019-12-02T21:56:24Z",
+    "wm-id": 729901,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1199960621032321024/52668643",
+    "wm-target": "https://sebastiandedeyne.com/thoughts-after-messing-around-with-the-jamstack/",
+    "like-of": "https://sebastiandedeyne.com/thoughts-after-messing-around-with-the-jamstack/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Daniel Wentsch 🇪🇺",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/fcd94f8e11a4e8e547f22ccd6b9809327b411f683f2d87f5e6d52799d393c801.jpg",
+      "url": "https://twitter.com/klickreflex"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1199960621032321024#favorited-by-74269728",
+    "published": null,
+    "wm-received": "2019-12-02T21:56:22Z",
+    "wm-id": 729900,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1199960621032321024/74269728",
+    "wm-target": "https://sebastiandedeyne.com/thoughts-after-messing-around-with-the-jamstack/",
+    "like-of": "https://sebastiandedeyne.com/thoughts-after-messing-around-with-the-jamstack/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Erik Jonasson",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/6c5325153a4d6b8fcf2eb50ff2c74cb032b333b950dc349551b031ee6d9a015c.png",
+      "url": "https://twitter.com/ehjonasson"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1199960621032321024#favorited-by-2154571",
+    "published": null,
+    "wm-received": "2019-12-02T21:56:22Z",
+    "wm-id": 729899,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1199960621032321024/2154571",
+    "wm-target": "https://sebastiandedeyne.com/thoughts-after-messing-around-with-the-jamstack/",
+    "like-of": "https://sebastiandedeyne.com/thoughts-after-messing-around-with-the-jamstack/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Stavros",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/baf21218463b6c0c15408c7dd46700c2537ba48fab78b977bb493aa941f586ad.jpg",
+      "url": "https://twitter.com/low_developer"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1199960621032321024#favorited-by-1180863399942656000",
+    "published": null,
+    "wm-received": "2019-12-02T21:56:20Z",
+    "wm-id": 729898,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1199960621032321024/1180863399942656000",
+    "wm-target": "https://sebastiandedeyne.com/thoughts-after-messing-around-with-the-jamstack/",
+    "like-of": "https://sebastiandedeyne.com/thoughts-after-messing-around-with-the-jamstack/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Somebody’s son",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/67ee22ed747d1d163f6254f12ba187bf7d7decc33e3cbbbf2bb46801befeee7a.png",
+      "url": "https://twitter.com/TheFisola"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1199960621032321024#favorited-by-353869497",
+    "published": null,
+    "wm-received": "2019-12-02T21:56:19Z",
+    "wm-id": 729897,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1199960621032321024/353869497",
+    "wm-target": "https://sebastiandedeyne.com/thoughts-after-messing-around-with-the-jamstack/",
+    "like-of": "https://sebastiandedeyne.com/thoughts-after-messing-around-with-the-jamstack/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "SFDNetwork",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/f0cc8dc0eeefcd2deab3cfc5eb0c67e76c9bf99cf7cf27039de2b54ab7fda124.png",
+      "url": "https://twitter.com/SFDNetwork"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1199960621032321024#favorited-by-970197602",
+    "published": null,
+    "wm-received": "2019-12-02T21:56:18Z",
+    "wm-id": 729896,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1199960621032321024/970197602",
+    "wm-target": "https://sebastiandedeyne.com/thoughts-after-messing-around-with-the-jamstack/",
+    "like-of": "https://sebastiandedeyne.com/thoughts-after-messing-around-with-the-jamstack/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Johan Ronsse",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/104bbe1fc73a6ee166c1f20e0a80d075df7bb37b3e43330d3ce27b550c5cc115.jpg",
+      "url": "https://twitter.com/wolfr_2"
+    },
+    "url": "https://twitter.com/wolfr_2/status/1200454605756403712",
+    "published": "2019-11-29T16:40:56+00:00",
+    "wm-received": "2019-11-29T16:48:32Z",
+    "wm-id": 728914,
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/sebdedeyne/1199960621032321024/1200454605756403712",
+    "wm-target": "https://sebastiandedeyne.com/thoughts-after-messing-around-with-the-jamstack/",
+    "content": {
+      "html": "Je moet je in veel bochten wringen voor iets dat triviaal in een dynamische omgeving. Er zit waarde in SSGs maar je moet op tijd overschakelen naar iets anders als je meer nodig hebt zoals meertaligheid, user content...\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/sebdedeyne\"></a>",
+      "text": "Je moet je in veel bochten wringen voor iets dat triviaal in een dynamische omgeving. Er zit waarde in SSGs maar je moet op tijd overschakelen naar iets anders als je meer nodig hebt zoals meertaligheid, user content..."
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/thoughts-after-messing-around-with-the-jamstack/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": ".",
+      "photo": "https://webmention.io/avatar/abs.twimg.com/0e6b2cd70aa5b35dec24ca4e1e63f8963f0118736d9ec3bba77e3a8c99a27bc2.png",
+      "url": "https://twitter.com/peiqin2019"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1199960621032321024#favorited-by-1107183556139192320",
+    "published": null,
+    "wm-received": "2019-11-29T16:16:07Z",
+    "wm-id": 728904,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1199960621032321024/1107183556139192320",
+    "wm-target": "https://sebastiandedeyne.com/thoughts-after-messing-around-with-the-jamstack/",
+    "like-of": "https://sebastiandedeyne.com/thoughts-after-messing-around-with-the-jamstack/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Ben James",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/1aa77a72524d2480115171dd9042b6368bb3012c059dbecbec0a75a2379030a1.jpg",
+      "url": "https://twitter.com/benjam_es"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1199960621032321024#favorited-by-70470577",
+    "published": null,
+    "wm-received": "2019-11-29T13:09:05Z",
+    "wm-id": 728864,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1199960621032321024/70470577",
+    "wm-target": "https://sebastiandedeyne.com/thoughts-after-messing-around-with-the-jamstack/",
+    "like-of": "https://sebastiandedeyne.com/thoughts-after-messing-around-with-the-jamstack/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Mithicher Baro",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/b4ee0c303dd27e391b702d9713c984efbbf051c6948b0dc2164dc17a3747bdd7.png",
+      "url": "https://twitter.com/mithicher"
+    },
+    "url": "https://twitter.com/mithicher/status/1200268262522511361",
+    "published": "2019-11-29T04:20:28+00:00",
+    "wm-received": "2019-11-29T04:37:03Z",
+    "wm-id": 728806,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1199960621032321024/1200268262522511361",
+    "wm-target": "https://sebastiandedeyne.com/thoughts-after-messing-around-with-the-jamstack/",
+    "content": {
+      "text": "✒️ I wrote down my thoughts (and doubts) after messing around with the JAMstack the past few weeks\n\nsebastiandedeyne.com/thoughts-after…"
+    },
+    "repost-of": "https://sebastiandedeyne.com/thoughts-after-messing-around-with-the-jamstack/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "이현석 Hyunseok Lee",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/68e1e089a80ebf1e3b6c21662fa9f882c9c185c7fe7050a71d12010f68fdafcb.jpg",
+      "url": "https://twitter.com/smartbosslee"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1199960621032321024#favorited-by-12341932",
+    "published": null,
+    "wm-received": "2019-11-29T04:08:11Z",
+    "wm-id": 728804,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1199960621032321024/12341932",
+    "wm-target": "https://sebastiandedeyne.com/thoughts-after-messing-around-with-the-jamstack/",
+    "like-of": "https://sebastiandedeyne.com/thoughts-after-messing-around-with-the-jamstack/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Kevin Guo",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/f3041a5993d71da6155c72f27cb3e451d58ec354c9f980eff631c934b131d8ee.png",
+      "url": "https://twitter.com/gzhkevin"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1199960621032321024#favorited-by-797239",
+    "published": null,
+    "wm-received": "2019-11-29T02:02:45Z",
+    "wm-id": 728799,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1199960621032321024/797239",
+    "wm-target": "https://sebastiandedeyne.com/thoughts-after-messing-around-with-the-jamstack/",
+    "like-of": "https://sebastiandedeyne.com/thoughts-after-messing-around-with-the-jamstack/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Matt Biilmann",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/af70cb924db6d4dfc56c9c7cf65e39cf6e3901836a903a237357a1fc28c1c6a5.jpg",
+      "url": "https://twitter.com/biilmann"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1199960621032321024#favorited-by-24203304",
+    "published": null,
+    "wm-received": "2019-11-28T22:42:19Z",
+    "wm-id": 728783,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1199960621032321024/24203304",
+    "wm-target": "https://sebastiandedeyne.com/thoughts-after-messing-around-with-the-jamstack/",
+    "like-of": "https://sebastiandedeyne.com/thoughts-after-messing-around-with-the-jamstack/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Paul Redmond 🇺🇸",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/268ef2d8db48537326b50858bf546e09c7463518acd63d8d88994818476be0bc.jpg",
+      "url": "https://twitter.com/paulredmond"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1199960621032321024#favorited-by-14081470",
+    "published": null,
+    "wm-received": "2019-11-28T22:42:16Z",
+    "wm-id": 728782,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1199960621032321024/14081470",
+    "wm-target": "https://sebastiandedeyne.com/thoughts-after-messing-around-with-the-jamstack/",
+    "like-of": "https://sebastiandedeyne.com/thoughts-after-messing-around-with-the-jamstack/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Maëlig",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/27bc9fc9a622449ebc38108edd35982c35a9b4ddf83de600fa828276556831a6.jpg",
+      "url": "https://twitter.com/MaelB"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1199960621032321024#favorited-by-49285959",
+    "published": null,
+    "wm-received": "2019-11-28T22:42:16Z",
+    "wm-id": 728781,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1199960621032321024/49285959",
+    "wm-target": "https://sebastiandedeyne.com/thoughts-after-messing-around-with-the-jamstack/",
+    "like-of": "https://sebastiandedeyne.com/thoughts-after-messing-around-with-the-jamstack/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "atymic",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/a05885157a03538afaa9f45e84d3b3f682db36c0e2fb79f01502af3dc0b95756.png",
+      "url": "https://twitter.com/atymic"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1199960621032321024#favorited-by-1161731810264358917",
+    "published": null,
+    "wm-received": "2019-11-28T22:12:58Z",
+    "wm-id": 728776,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1199960621032321024/1161731810264358917",
+    "wm-target": "https://sebastiandedeyne.com/thoughts-after-messing-around-with-the-jamstack/",
+    "like-of": "https://sebastiandedeyne.com/thoughts-after-messing-around-with-the-jamstack/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Wyatt",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/d2450d3284e8d38d88102d508c02f4095e3eee613cc83e87e45d58ded3d90c8f.jpg",
+      "url": "https://twitter.com/WyattCastaned44"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1199960621032321024#favorited-by-534528249",
+    "published": null,
+    "wm-received": "2019-11-28T18:35:16Z",
+    "wm-id": 728749,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1199960621032321024/534528249",
+    "wm-target": "https://sebastiandedeyne.com/thoughts-after-messing-around-with-the-jamstack/",
+    "like-of": "https://sebastiandedeyne.com/thoughts-after-messing-around-with-the-jamstack/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Tony Messias",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/16c96094ff1635ce32551e11eb19d4a329c069bd4fcebcff1422b63b7a098f82.jpg",
+      "url": "https://twitter.com/tony0x01"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1199960621032321024#favorited-by-55294160",
+    "published": null,
+    "wm-received": "2019-11-28T18:35:16Z",
+    "wm-id": 728748,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1199960621032321024/55294160",
+    "wm-target": "https://sebastiandedeyne.com/thoughts-after-messing-around-with-the-jamstack/",
+    "like-of": "https://sebastiandedeyne.com/thoughts-after-messing-around-with-the-jamstack/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Manojkiran",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/798b3e739aa05d809a5fbb23056e0390c5ba8e24a743244ba1c8f8159aa4eebc.jpg",
+      "url": "https://twitter.com/Manoj_Kiran_A"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1199960621032321024#favorited-by-1012721657339768832",
+    "published": null,
+    "wm-received": "2019-11-28T17:37:41Z",
+    "wm-id": 728732,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1199960621032321024/1012721657339768832",
+    "wm-target": "https://sebastiandedeyne.com/thoughts-after-messing-around-with-the-jamstack/",
+    "like-of": "https://sebastiandedeyne.com/thoughts-after-messing-around-with-the-jamstack/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Adam Lukačovič",
+      "photo": "https://webmention.io/avatar/abs.twimg.com/0e6b2cd70aa5b35dec24ca4e1e63f8963f0118736d9ec3bba77e3a8c99a27bc2.png",
+      "url": "https://twitter.com/adam_lukacovic"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1199960621032321024#favorited-by-980037809263214592",
+    "published": null,
+    "wm-received": "2019-11-28T17:11:53Z",
+    "wm-id": 728726,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1199960621032321024/980037809263214592",
+    "wm-target": "https://sebastiandedeyne.com/thoughts-after-messing-around-with-the-jamstack/",
+    "like-of": "https://sebastiandedeyne.com/thoughts-after-messing-around-with-the-jamstack/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Scott Zirkel",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/1d740e16d4ac2b42e283a6ff2e024af062234577e9cda3db1b4701ab56f38bf4.jpg",
+      "url": "https://twitter.com/scottzirkel"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1199960621032321024#favorited-by-17633318",
+    "published": null,
+    "wm-received": "2019-11-28T15:36:43Z",
+    "wm-id": 728703,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1199960621032321024/17633318",
+    "wm-target": "https://sebastiandedeyne.com/thoughts-after-messing-around-with-the-jamstack/",
+    "like-of": "https://sebastiandedeyne.com/thoughts-after-messing-around-with-the-jamstack/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "derrick reimer",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/b170e0256c09d6d84222f627594691aeffe8c524485f9d03e1758db9a50dcd4e.jpg",
+      "url": "https://twitter.com/derrickreimer"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1199960621032321024#favorited-by-28679508",
+    "published": null,
+    "wm-received": "2019-11-28T15:10:01Z",
+    "wm-id": 728692,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1199960621032321024/28679508",
+    "wm-target": "https://sebastiandedeyne.com/thoughts-after-messing-around-with-the-jamstack/",
+    "like-of": "https://sebastiandedeyne.com/thoughts-after-messing-around-with-the-jamstack/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Miguel Piedrafita 🚀",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/fa2e9a8dd19a716f2e068d287cc1edadff32bfe0ea77dc35362f10c903813132.png",
+      "url": "https://twitter.com/m1guelpf"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1199960621032321024#favorited-by-713094195955830785",
+    "published": null,
+    "wm-received": "2019-11-28T14:11:11Z",
+    "wm-id": 728674,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1199960621032321024/713094195955830785",
+    "wm-target": "https://sebastiandedeyne.com/thoughts-after-messing-around-with-the-jamstack/",
+    "like-of": "https://sebastiandedeyne.com/thoughts-after-messing-around-with-the-jamstack/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Joe Campo",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/7bc22bcdf8f520746b66ff997db8ec978bb62ccda8faf6782fccf654d4397f87.jpg",
+      "url": "https://twitter.com/joecampo"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1199960621032321024#favorited-by-18932356",
+    "published": null,
+    "wm-received": "2019-11-28T13:45:10Z",
+    "wm-id": 728659,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1199960621032321024/18932356",
+    "wm-target": "https://sebastiandedeyne.com/thoughts-after-messing-around-with-the-jamstack/",
+    "like-of": "https://sebastiandedeyne.com/thoughts-after-messing-around-with-the-jamstack/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Christian Leo-Pernold",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/e0b78e39e9f0fc248cf706c4152e81c4853edc96b823afb828113c9cf0fe582d.jpg",
+      "url": "https://twitter.com/mazedlx"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1199960621032321024#favorited-by-14218745",
+    "published": null,
+    "wm-received": "2019-11-28T13:17:10Z",
+    "wm-id": 728654,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1199960621032321024/14218745",
+    "wm-target": "https://sebastiandedeyne.com/thoughts-after-messing-around-with-the-jamstack/",
+    "like-of": "https://sebastiandedeyne.com/thoughts-after-messing-around-with-the-jamstack/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Michaël De Boey",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/4c253771a8d1f79422524c6dd9f74ea83b1255def284013494330c1b3792bdf1.jpg",
+      "url": "https://twitter.com/MichaelDeBoey93"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1199960621032321024#favorited-by-148502139",
+    "published": null,
+    "wm-received": "2019-11-28T13:17:09Z",
+    "wm-id": 728653,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1199960621032321024/148502139",
+    "wm-target": "https://sebastiandedeyne.com/thoughts-after-messing-around-with-the-jamstack/",
+    "like-of": "https://sebastiandedeyne.com/thoughts-after-messing-around-with-the-jamstack/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Adam Wathan",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/30e7a50a7220b85239569d582f69ac2d6f42432814c00e9c4d906a304c24f4fe.jpg",
+      "url": "https://twitter.com/adamwathan"
+    },
+    "url": "https://twitter.com/adamwathan/status/1200035670124900353",
+    "published": "2019-11-28T12:56:13+00:00",
+    "wm-received": "2019-11-28T13:17:08Z",
+    "wm-id": 728652,
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/sebdedeyne/1199960621032321024/1200035670124900353",
+    "wm-target": "https://sebastiandedeyne.com/thoughts-after-messing-around-with-the-jamstack/",
+    "content": {
+      "html": "Great post, I had assumed until recently that everyone building JAMstack sites was just ahead of me and knew something I didn’t know but I recently learned that a lot of it is just front-end devs with no back-end experience who all of a sudden want to build complete apps.\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/sebdedeyne\"></a>",
+      "text": "Great post, I had assumed until recently that everyone building JAMstack sites was just ahead of me and knew something I didn’t know but I recently learned that a lot of it is just front-end devs with no back-end experience who all of a sudden want to build complete apps."
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/thoughts-after-messing-around-with-the-jamstack/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Faiz Ahmad",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/721115a0ec802cee4d15e9876c48fa614ec687787fb177797997c1272e1070ba.jpg",
+      "url": "https://twitter.com/FaizAhmadSE"
+    },
+    "url": "https://twitter.com/FaizAhmadSE/status/1200038612647186432",
+    "published": "2019-11-28T13:07:55+00:00",
+    "wm-received": "2019-11-28T13:17:05Z",
+    "wm-id": 728651,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1199960621032321024/1200038612647186432",
+    "wm-target": "https://sebastiandedeyne.com/thoughts-after-messing-around-with-the-jamstack/",
+    "content": {
+      "text": "✒️ I wrote down my thoughts (and doubts) after messing around with the JAMstack the past few weeks\n\nsebastiandedeyne.com/thoughts-after…"
+    },
+    "repost-of": "https://sebastiandedeyne.com/thoughts-after-messing-around-with-the-jamstack/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Faiz Ahmad",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/721115a0ec802cee4d15e9876c48fa614ec687787fb177797997c1272e1070ba.jpg",
+      "url": "https://twitter.com/FaizAhmadSE"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1199960621032321024#favorited-by-1039538149968543744",
+    "published": null,
+    "wm-received": "2019-11-28T13:17:04Z",
+    "wm-id": 728650,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1199960621032321024/1039538149968543744",
+    "wm-target": "https://sebastiandedeyne.com/thoughts-after-messing-around-with-the-jamstack/",
+    "like-of": "https://sebastiandedeyne.com/thoughts-after-messing-around-with-the-jamstack/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Spatie",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/3efb487e7f3a0bc3690580277105f93eda590d65e4d9eb01135a184a9df60b18.jpg",
+      "url": "https://twitter.com/spatie_be"
+    },
+    "url": "https://twitter.com/spatie_be/status/1200031408732983296",
+    "published": "2019-11-28T12:39:18+00:00",
+    "wm-received": "2019-11-28T12:47:58Z",
+    "wm-id": 728649,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1199960621032321024/1200031408732983296",
+    "wm-target": "https://sebastiandedeyne.com/thoughts-after-messing-around-with-the-jamstack/",
+    "content": {
+      "text": "✒️ I wrote down my thoughts (and doubts) after messing around with the JAMstack the past few weeks\n\nsebastiandedeyne.com/thoughts-after…"
+    },
+    "repost-of": "https://sebastiandedeyne.com/thoughts-after-messing-around-with-the-jamstack/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "filip.pacurar 😎",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/1fdb338357aa788e9a2eea9b2e7e8a83be47250d85837388c48dd9ca9eb29ed4.png",
+      "url": "https://twitter.com/filipacro"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1199960621032321024#favorited-by-68968111",
+    "published": null,
+    "wm-received": "2019-11-28T12:47:57Z",
+    "wm-id": 728648,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1199960621032321024/68968111",
+    "wm-target": "https://sebastiandedeyne.com/thoughts-after-messing-around-with-the-jamstack/",
+    "like-of": "https://sebastiandedeyne.com/thoughts-after-messing-around-with-the-jamstack/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Bramus!",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/61a000e6774bacfe39918128f9022678cf4b57a65a351cb6cf55aa22d5fa0fa1.jpg",
+      "url": "https://twitter.com/bramus"
+    },
+    "url": "https://twitter.com/bramus/status/1200011196956651520",
+    "published": "2019-11-28T11:18:59+00:00",
+    "wm-received": "2019-11-28T11:23:54Z",
+    "wm-id": 728632,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1199960621032321024/1200011196956651520",
+    "wm-target": "https://sebastiandedeyne.com/thoughts-after-messing-around-with-the-jamstack/",
+    "content": {
+      "text": "✒️ I wrote down my thoughts (and doubts) after messing around with the JAMstack the past few weeks\n\nsebastiandedeyne.com/thoughts-after…"
+    },
+    "repost-of": "https://sebastiandedeyne.com/thoughts-after-messing-around-with-the-jamstack/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "oluwajubelo loves VueJS 🚨",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/b46941f64275ee2ae7ae9618ba0d3b60e9ab8ce6a343ff90b0e905321a4c24de.jpg",
+      "url": "https://twitter.com/igeoluwasegun1"
+    },
+    "url": "https://twitter.com/igeoluwasegun1/status/1200000110769451011",
+    "published": "2019-11-28T10:34:55+00:00",
+    "wm-received": "2019-11-28T10:59:32Z",
+    "wm-id": 728631,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1199960621032321024/1200000110769451011",
+    "wm-target": "https://sebastiandedeyne.com/thoughts-after-messing-around-with-the-jamstack/",
+    "content": {
+      "text": "✒️ I wrote down my thoughts (and doubts) after messing around with the JAMstack the past few weeks\n\nsebastiandedeyne.com/thoughts-after…"
+    },
+    "repost-of": "https://sebastiandedeyne.com/thoughts-after-messing-around-with-the-jamstack/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "oluwajubelo loves VueJS 🚨",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/b46941f64275ee2ae7ae9618ba0d3b60e9ab8ce6a343ff90b0e905321a4c24de.jpg",
+      "url": "https://twitter.com/igeoluwasegun1"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1199960621032321024#favorited-by-982451690",
+    "published": null,
+    "wm-received": "2019-11-28T10:59:32Z",
+    "wm-id": 728630,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1199960621032321024/982451690",
+    "wm-target": "https://sebastiandedeyne.com/thoughts-after-messing-around-with-the-jamstack/",
+    "like-of": "https://sebastiandedeyne.com/thoughts-after-messing-around-with-the-jamstack/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Tom Witkowski",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/4c6a0072545bab629442313c0b6d9a2cd920b338d3f3132c0e23a1f1175e382a.jpg",
+      "url": "https://twitter.com/devgummibeer"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1199960621032321024#favorited-by-2995381594",
+    "published": null,
+    "wm-received": "2019-11-28T08:29:02Z",
+    "wm-id": 728612,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1199960621032321024/2995381594",
+    "wm-target": "https://sebastiandedeyne.com/thoughts-after-messing-around-with-the-jamstack/",
+    "like-of": "https://sebastiandedeyne.com/thoughts-after-messing-around-with-the-jamstack/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Tom Witkowski",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/4c6a0072545bab629442313c0b6d9a2cd920b338d3f3132c0e23a1f1175e382a.jpg",
+      "url": "https://twitter.com/devgummibeer"
+    },
+    "url": "https://twitter.com/devgummibeer/status/1199966437462421506",
+    "published": "2019-11-28T08:21:07+00:00",
+    "wm-received": "2019-11-28T08:29:02Z",
+    "wm-id": 728611,
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/sebdedeyne/1199960621032321024/1199966437462421506",
+    "wm-target": "https://sebastiandedeyne.com/thoughts-after-messing-around-with-the-jamstack/",
+    "content": {
+      "html": "Exactly my problem with the JAMstack. Have you seen tried <a href=\"https://twitter.com/search?q=%23Stancy\">#Stancy</a> ?\n<a href=\"https://github.com/Astrotomic/stancy\">github.com/Astrotomic/sta…</a>\n\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/sebdedeyne\"></a>",
+      "text": "Exactly my problem with the JAMstack. Have you seen tried #Stancy ?\ngithub.com/Astrotomic/sta…"
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/thoughts-after-messing-around-with-the-jamstack/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  }
+]

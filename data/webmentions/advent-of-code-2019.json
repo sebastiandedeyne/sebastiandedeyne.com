@@ -1,0 +1,56 @@
+[
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Zubair Mohsin",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/a9922eaaf11d5c82eb3ab54a89937eaaba00a88f8aa12888f2f52d79ee04ec7c.jpg",
+      "url": "https://twitter.com/Zubairmohsin33"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1201762825481441280#favorited-by-2972870264",
+    "published": null,
+    "wm-received": "2019-12-03T09:53:09Z",
+    "wm-id": 730088,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1201762825481441280/2972870264",
+    "wm-target": "https://sebastiandedeyne.com/advent-of-code-2019/",
+    "like-of": "https://sebastiandedeyne.com/advent-of-code-2019/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Ryan Chandler",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/f01ba2ebadda5ba079a48fefa2155822987e0394efe8181f753dc681bd7526e5.jpg",
+      "url": "https://twitter.com/ryangjchandler"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1201762825481441280#favorited-by-1088489047260041217",
+    "published": null,
+    "wm-received": "2019-12-03T09:26:40Z",
+    "wm-id": 730081,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1201762825481441280/1088489047260041217",
+    "wm-target": "https://sebastiandedeyne.com/advent-of-code-2019/",
+    "like-of": "https://sebastiandedeyne.com/advent-of-code-2019/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Robin Dirksen",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/21c285970183e6c593d08e5877e992f144bbccaa434174e8e3b1c5a8eb571326.jpg",
+      "url": "https://twitter.com/robindirksen1"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1201762825481441280#favorited-by-826787304165560321",
+    "published": null,
+    "wm-received": "2019-12-03T08:04:30Z",
+    "wm-id": 730050,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1201762825481441280/826787304165560321",
+    "wm-target": "https://sebastiandedeyne.com/advent-of-code-2019/",
+    "like-of": "https://sebastiandedeyne.com/advent-of-code-2019/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+]
