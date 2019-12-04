@@ -3,6 +3,28 @@
     "type": "entry",
     "author": {
       "type": "card",
+      "name": "Brian Rinaldi",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/efc0f01ad8139eeadfb194c9be54dec1b02269aafe8185d92d7bf91983ad396f.jpg",
+      "url": "https://twitter.com/remotesynth"
+    },
+    "url": "https://twitter.com/remotesynth/status/1202220315218235392",
+    "published": "2019-12-04T13:37:13+00:00",
+    "wm-received": "2019-12-04T13:42:14Z",
+    "wm-id": 730486,
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1202220315218235392",
+    "wm-target": "https://sebastiandedeyne.com/thoughts-after-messing-around-with-the-jamstack/",
+    "content": {
+      "html": "IMO <a href=\"https://twitter.com/sebdedeyne\">@sebdedeyne</a> makes a good point that JAMstack developers may not want to hear. Straight up content is easy/straightforward, but while we can build almost anything using JAMstack, it's rarely obvious how &amp; there are countless ways to solve every problem. <a href=\"https://sebastiandedeyne.com/thoughts-after-messing-around-with-the-jamstack/\">sebastiandedeyne.com/thoughts-after…</a>",
+      "text": "IMO @sebdedeyne makes a good point that JAMstack developers may not want to hear. Straight up content is easy/straightforward, but while we can build almost anything using JAMstack, it's rarely obvious how & there are countless ways to solve every problem. sebastiandedeyne.com/thoughts-after…"
+    },
+    "mention-of": "https://sebastiandedeyne.com/thoughts-after-messing-around-with-the-jamstack/",
+    "wm-property": "mention-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
       "name": "Alon Gal",
       "photo": "https://webmention.io/avatar/pbs.twimg.com/df961cadf86b49107c0dc9dcb3015a1af3033b291775d27c32fb45c330832961.jpg",
       "url": "https://twitter.com/galalon2"
