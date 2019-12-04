@@ -3,6 +3,24 @@
     "type": "entry",
     "author": {
       "type": "card",
+      "name": "Alon Gal",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/df961cadf86b49107c0dc9dcb3015a1af3033b291775d27c32fb45c330832961.jpg",
+      "url": "https://twitter.com/galalon2"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1199960621032321024#favorited-by-2898006595",
+    "published": null,
+    "wm-received": "2019-12-04T10:18:28Z",
+    "wm-id": 730457,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1199960621032321024/2898006595",
+    "wm-target": "https://sebastiandedeyne.com/thoughts-after-messing-around-with-the-jamstack/",
+    "like-of": "https://sebastiandedeyne.com/thoughts-after-messing-around-with-the-jamstack/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
       "name": "Onno Lissenberg",
       "photo": "https://webmention.io/avatar/pbs.twimg.com/e7d62296193b6de73b524c19a8809c2629444a42d2da4e6cf5baa7a1691b62ef.jpg",
       "url": "https://twitter.com/orlissenberg"
