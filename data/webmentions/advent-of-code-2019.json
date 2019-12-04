@@ -3,6 +3,24 @@
     "type": "entry",
     "author": {
       "type": "card",
+      "name": "Neil Carlo Faisan Sucuangco",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/737d4faf10025e9f86a8d0f54866e65be28593c696996b8668a5badbbb3e391f.jpg",
+      "url": "https://twitter.com/faisuc"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1201762825481441280#favorited-by-337041104",
+    "published": null,
+    "wm-received": "2019-12-04T00:34:48Z",
+    "wm-id": 730367,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1201762825481441280/337041104",
+    "wm-target": "https://sebastiandedeyne.com/advent-of-code-2019/",
+    "like-of": "https://sebastiandedeyne.com/advent-of-code-2019/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
       "name": "Zubair Mohsin",
       "photo": "https://webmention.io/avatar/pbs.twimg.com/a9922eaaf11d5c82eb3ab54a89937eaaba00a88f8aa12888f2f52d79ee04ec7c.jpg",
       "url": "https://twitter.com/Zubairmohsin33"
