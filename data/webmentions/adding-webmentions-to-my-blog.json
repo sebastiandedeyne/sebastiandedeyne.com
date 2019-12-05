@@ -3,6 +3,28 @@
     "type": "entry",
     "author": {
       "type": "card",
+      "name": "Dzulfikar",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/6f54473a26e3894726859430f54b7ce159963f551dcf7a88a3c023f7da63d6b3.jpg",
+      "url": "https://twitter.com/superpikar"
+    },
+    "url": "https://twitter.com/superpikar/status/1202383503251214336",
+    "published": "2019-12-05T00:25:41+00:00",
+    "wm-received": "2019-12-05T00:49:21Z",
+    "wm-id": 730855,
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1202383503251214336",
+    "wm-target": "https://sebastiandedeyne.com/adding-webmentions-to-my-blog/",
+    "content": {
+      "html": "Adding webmentions to my blog — Sebastian De Deyne <a href=\"https://sebastiandedeyne.com/adding-webmentions-to-my-blog/\">sebastiandedeyne.com/adding-webment…</a>",
+      "text": "Adding webmentions to my blog — Sebastian De Deyne sebastiandedeyne.com/adding-webment…"
+    },
+    "mention-of": "https://sebastiandedeyne.com/adding-webmentions-to-my-blog/",
+    "wm-property": "mention-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
       "name": "Chris W",
       "photo": "https://webmention.io/avatar/pbs.twimg.com/4951bb03233f58dc571ce4d718fcd20ab6aff6c2ef7ec0a4ead9ca75ce89ec56.jpg",
       "url": "https://twitter.com/_watzon"
