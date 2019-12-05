@@ -74,36 +74,19 @@
 {{ end }}
 
 {{ with index $.Site.Data.webmentions (trim .RelPermalink "/") }}
-  <hr>
-  <h2 class="h2 mt-6">
-    Webmentions
-    <a
-      href="https://sebastiandedeyne.com/adding-webmentions-to-my-blog"
-      class="ml-2 font-normal text-gray-700 dark:text-gray-500 text-xs w-4 h-4 inline-flex items-center justify-center bg-gray-200 dark:bg-gray-800 rounded-full font-semibold"
-      style="transform: translateY(-2px)"
-    >
-      ?
-    </a>
-  </h2>
-  <div class="pb-12 sm:pb-24">
-    {{ with (where . "wm-property" "like-of") }}
-      <ul class="mt-8 flex flex-wrap items-center ml-3">
-        {{ range . }}
-          {{ $like := . }}
-          <li class="w-8 h-8 mb-1 -ml-3">
-            <a href="{{ $like.author.url }}">
-              <img
-                src="{{ $like.author.photo }}"
-                alt="Photo of {{ $like.author.name }}"
-                class="block w-8 h-8 object-cover rounded-full border"
-              >
-            </a>
-          </li>
-        {{ end }}
-        <li class="ml-2 text-sm text-gray-600">{{ len . }} likes</li>
-      </ul>
-    {{ end }}
-    {{ with (where . "wm-property" "in-reply-to") }}
+  {{ with where . "wm-property" "in" (slice "in-reply-to" "mention-of") }}
+    <hr>
+    <h2 class="h2 mt-6">
+      Webmentions
+      <a
+        href="https://sebastiandedeyne.com/adding-webmentions-to-my-blog"
+        class="ml-2 font-normal text-gray-700 dark:text-gray-500 text-xs w-4 h-4 inline-flex items-center justify-center bg-gray-200 dark:bg-gray-800 rounded-full font-semibold"
+        style="transform: translateY(-2px)"
+      >
+        ?
+      </a>
+    </h2>
+    <div class="pb-12 sm:pb-24">
       <ul class="mt-8">
         {{ range . }}
           {{ $reply := . }}
@@ -131,8 +114,8 @@
           </li>
         {{ end }}
       </ul>
-    {{ end }}
-  </div>
+    </div>
+  {{ end }}
 {{ end }}
 
 {{ end }}
