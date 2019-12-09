@@ -3,6 +3,63 @@
     "type": "entry",
     "author": {
       "type": "card",
+      "name": "PeterYellowframe",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/caf98a6b594921c4e620a2523e0ee040cbc36fe6e4f2152f3bd52f98eb5cb075.jpg",
+      "url": "https://twitter.com/Peter9YF"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1204043730942083074#favorited-by-306167516",
+    "published": null,
+    "wm-received": "2019-12-09T18:35:38Z",
+    "wm-id": 732124,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1204043730942083074/306167516",
+    "wm-target": "https://sebastiandedeyne.com/strawberry-jelly/",
+    "like-of": "https://sebastiandedeyne.com/strawberry-jelly/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Craig Paul",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/7b34dffc93784726af0ab85e96312abb36f8bf57b349fc735a2eb8874ad95a41.jpg",
+      "url": "https://twitter.com/TheCraigPaul"
+    },
+    "url": "https://twitter.com/TheCraigPaul/status/1204105766837346304",
+    "published": "2019-12-09T18:29:20+00:00",
+    "wm-received": "2019-12-09T18:35:37Z",
+    "wm-id": 732123,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1204043730942083074/1204105766837346304",
+    "wm-target": "https://sebastiandedeyne.com/strawberry-jelly/",
+    "content": {
+      "text": "✒️ I just published a post about… Strawberry jelly! 🍓\n\nsebastiandedeyne.com/strawberry-jel…\n\n(it's about programming, I promise)"
+    },
+    "repost-of": "https://sebastiandedeyne.com/strawberry-jelly/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Craig Paul",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/7b34dffc93784726af0ab85e96312abb36f8bf57b349fc735a2eb8874ad95a41.jpg",
+      "url": "https://twitter.com/TheCraigPaul"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1204043730942083074#favorited-by-636472279",
+    "published": null,
+    "wm-received": "2019-12-09T18:35:36Z",
+    "wm-id": 732122,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1204043730942083074/636472279",
+    "wm-target": "https://sebastiandedeyne.com/strawberry-jelly/",
+    "like-of": "https://sebastiandedeyne.com/strawberry-jelly/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
       "name": "Johannes Pichler",
       "photo": "https://webmention.io/avatar/pbs.twimg.com/12008d8a982337bd4eec905acec1979cf82567cb192446b63e22310bac6fa283.jpg",
       "url": "https://twitter.com/fetzi_io"
