@@ -3,6 +3,24 @@
     "type": "entry",
     "author": {
       "type": "card",
+      "name": "Percy Astocaza",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/71fa7610ec172992df87112143a5229b7c565d01fc421b883cc9f6a06b3f5943.jpg",
+      "url": "https://twitter.com/perastocaza"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1204043730942083074#favorited-by-91371219",
+    "published": null,
+    "wm-received": "2019-12-09T16:11:12Z",
+    "wm-id": 732076,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1204043730942083074/91371219",
+    "wm-target": "https://sebastiandedeyne.com/strawberry-jelly/",
+    "like-of": "https://sebastiandedeyne.com/strawberry-jelly/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
       "name": "Tony lea",
       "photo": "https://webmention.io/avatar/pbs.twimg.com/40ed2ede57806bcffe868a986327e75971c0f3b947734a87cea7452243d5f836.jpg",
       "url": "https://twitter.com/tnylea"
