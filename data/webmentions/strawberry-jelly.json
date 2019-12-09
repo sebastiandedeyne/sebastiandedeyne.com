@@ -3,6 +3,24 @@
     "type": "entry",
     "author": {
       "type": "card",
+      "name": "Martins F",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/93bdc941d719e9461ec87c9fe9e98aa4362e77953eaaab8ae01dcd5f25157f09.jpg",
+      "url": "https://twitter.com/Neo_MaFx"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1204043730942083074#favorited-by-203208054",
+    "published": null,
+    "wm-received": "2019-12-09T22:02:52Z",
+    "wm-id": 732187,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1204043730942083074/203208054",
+    "wm-target": "https://sebastiandedeyne.com/strawberry-jelly/",
+    "like-of": "https://sebastiandedeyne.com/strawberry-jelly/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
       "name": "Alex",
       "photo": "https://webmention.io/avatar/pbs.twimg.com/42beee2d2d4b05305530bd2de2c4b47d707a667fc53fecb7f8b1b2b578ae2913.jpg",
       "url": "https://twitter.com/AlexVanderbist"
