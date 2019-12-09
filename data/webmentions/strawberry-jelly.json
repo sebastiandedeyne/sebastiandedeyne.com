@@ -1,0 +1,20 @@
+[
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Tom Hermans 🤘",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/795f03301969b7eb3f47673dca199228325e3a925defe302d9653b3f3283823f.jpg",
+      "url": "https://twitter.com/tomhermans"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1204043730942083074#favorited-by-10044152",
+    "published": null,
+    "wm-received": "2019-12-09T14:37:31Z",
+    "wm-id": 732052,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1204043730942083074/10044152",
+    "wm-target": "https://sebastiandedeyne.com/strawberry-jelly/",
+    "like-of": "https://sebastiandedeyne.com/strawberry-jelly/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+]
