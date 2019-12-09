@@ -10,7 +10,7 @@ Have you ever made your own strawberry jelly? The recipe is straightforward: tos
 
 Congratulations, you've made your own jelly! It also tastes 10x better than store-bought jars. You can tweak ratios and swap ingredients to your own delight, and it takes about 5 minutes to make.
 
-Before we started making our own jelly at home, the thought never really occurred to me. I simpy had the habit of buying jelly at the grocery store. Not knowing how to make jelly made me assume it was either diffucult or required a time consuming process. As it turns out, neither are true.
+Before we started making our own jelly at home, the thought never really occurred to me. I simply had the habit of buying jelly at the grocery store. Not knowing how to make jelly made me assume it was either diffucult or required a time consuming process. As it turns out, neither are true.
 
 While I'd love to have a cooking blog at some point of my life, this one's still about programming. Where am I heading here?
 
