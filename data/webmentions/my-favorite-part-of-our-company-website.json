@@ -3,256 +3,39 @@
     "type": "entry",
     "author": {
       "type": "card",
-      "name": "Johannes Pichler",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/81859fc755459f46fa0655290e59b451a42924f6f9e004cee2b64521ed8ea137.jpg",
-      "url": "https://twitter.com/fetzi_io"
+      "name": "Spatie",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/3efb487e7f3a0bc3690580277105f93eda590d65e4d9eb01135a184a9df60b18.jpg",
+      "url": "https://twitter.com/spatie_be"
     },
-    "url": "https://twitter.com/sebdedeyne/status/1141715809531809797#favorited-by-72600484",
-    "published": null,
-    "wm-received": "2019-06-20T14:53:43Z",
-    "wm-id": 629628,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1141715809531809797/72600484",
+    "url": "https://twitter.com/spatie_be/status/1140653782478544898",
+    "published": "2019-06-17T16:13:48+00:00",
+    "wm-received": "2019-06-17T19:00:39Z",
+    "wm-id": 627531,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1140624443800113152/1140653782478544898",
     "wm-target": "https://sebastiandedeyne.com/my-favorite-part-of-our-company-website/",
-    "like-of": "https://sebastiandedeyne.com/my-favorite-part-of-our-company-website/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Anonymous",
-      "photo": "https://webmention.io/avatar/commentpara.de/ef200c8b639d79d1cfbc0abf0e25f42dcbc585b4398003dd90f5a56c9d56e3bf.svg",
-      "url": ""
-    },
-    "url": "https://commentpara.de/comment/424.htm",
-    "published": null,
-    "wm-received": "2019-06-20T14:34:59Z",
-    "wm-id": 629620,
-    "wm-source": "https://commentpara.de/comment/424.htm",
-    "wm-target": "https://sebastiandedeyne.com/my-favorite-part-of-our-company-website/",
+    "photo": [
+      "https://pbs.twimg.com/media/D9RP3s9WkAAXSch.jpg"
+    ],
     "content": {
-      "text": "oh"
+      "text": "✒️ My favorite part of our @spatie_be company website sebastiandedeyne.com/my-favorite-pa…"
     },
-    "in-reply-to": "https://sebastiandedeyne.com/my-favorite-part-of-our-company-website/",
-    "wm-property": "in-reply-to",
+    "repost-of": "https://sebastiandedeyne.com/my-favorite-part-of-our-company-website/",
+    "wm-property": "repost-of",
     "wm-private": false
   },
   {
     "type": "entry",
     "author": {
       "type": "card",
-      "name": "Michaël De Boey",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/4c253771a8d1f79422524c6dd9f74ea83b1255def284013494330c1b3792bdf1.jpg",
-      "url": "https://twitter.com/MichaelDeBoey93"
+      "name": "Günther Debrauwer",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/509fc35edb29ff0fadb002f2d9c7e4a1f8ac9fae8bac0cb4748ebe64524df7b9.jpg",
+      "url": "https://twitter.com/GDebrauwer"
     },
-    "url": "https://twitter.com/sebdedeyne/status/1140624443800113152#favorited-by-148502139",
+    "url": "https://twitter.com/sebdedeyne/status/1140624443800113152#favorited-by-2827961035",
     "published": null,
-    "wm-received": "2019-06-19T18:18:38Z",
-    "wm-id": 629095,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1140624443800113152/148502139",
-    "wm-target": "https://sebastiandedeyne.com/my-favorite-part-of-our-company-website/",
-    "like-of": "https://sebastiandedeyne.com/my-favorite-part-of-our-company-website/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Filipe",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/fba7380c496aa933a5146a896fca3aeafad6b13c934faf6888a3f19551682f98.jpg",
-      "url": "https://twitter.com/pitelsenpai"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1140624443800113152#favorited-by-783492986302791680",
-    "published": null,
-    "wm-received": "2019-06-19T16:52:32Z",
-    "wm-id": 629058,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1140624443800113152/783492986302791680",
-    "wm-target": "https://sebastiandedeyne.com/my-favorite-part-of-our-company-website/",
-    "like-of": "https://sebastiandedeyne.com/my-favorite-part-of-our-company-website/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Ryuta Hamasaki",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/70a3d61f41c2115d8707be127f5087e8df4bf3e2304fec6815be10dd9447ab2e.jpg",
-      "url": "https://twitter.com/avosalmon"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1140624443800113152#favorited-by-135207072",
-    "published": null,
-    "wm-received": "2019-06-19T13:28:41Z",
-    "wm-id": 628971,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1140624443800113152/135207072",
-    "wm-target": "https://sebastiandedeyne.com/my-favorite-part-of-our-company-website/",
-    "like-of": "https://sebastiandedeyne.com/my-favorite-part-of-our-company-website/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Freek Van der Herten 🎆",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/0e82b7fa7a888172ec7f5dd150222f2d70982b6946127010c1ea6e6d8ca67cc4.jpg",
-      "url": "https://twitter.com/freekmurze"
-    },
-    "url": "https://twitter.com/freekmurze/status/1141327358034685952",
-    "published": "2019-06-19T12:50:21+00:00",
-    "wm-received": "2019-06-19T13:03:31Z",
-    "wm-id": 628949,
-    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1141327358034685952",
-    "wm-target": "https://sebastiandedeyne.com/my-favorite-part-of-our-company-website/",
-    "content": {
-      "html": "Don't start a company blog, but list blogposts of your colleagues on your site (ask them first though).\n\nThis way they retain ownership, are motivated to write, build their personal name, and it'll still reflect a bit on the company too.\n\nhttps://t.co/eRbQKR4Oo6\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/my-favorite-part-of-our-company-website/\"></a>",
-      "text": "Don't start a company blog, but list blogposts of your colleagues on your site (ask them first though).\n\nThis way they retain ownership, are motivated to write, build their personal name, and it'll still reflect a bit on the company too.\n\nhttps://t.co/eRbQKR4Oo6"
-    },
-    "mention-of": "https://sebastiandedeyne.com/my-favorite-part-of-our-company-website/",
-    "wm-property": "mention-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Sam Snelling",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/e2b49db78102827baece15f8fd404617d87474320fe9fa12a7f31562b0ce2573.jpg",
-      "url": "https://twitter.com/snellingio"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1140624443800113152#favorited-by-60195720",
-    "published": null,
-    "wm-received": "2019-06-19T13:03:29Z",
-    "wm-id": 628948,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1140624443800113152/60195720",
-    "wm-target": "https://sebastiandedeyne.com/my-favorite-part-of-our-company-website/",
-    "like-of": "https://sebastiandedeyne.com/my-favorite-part-of-our-company-website/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Nemanja Ivankovic",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/de44c0898473e2bd97c4e7b31b50c5d7de11fa1bda2afb31802adc8298f0252c.jpg",
-      "url": "https://twitter.com/Necko1996"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1140624443800113152#favorited-by-750421682330996740",
-    "published": null,
-    "wm-received": "2019-06-18T06:11:47Z",
-    "wm-id": 627823,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1140624443800113152/750421682330996740",
-    "wm-target": "https://sebastiandedeyne.com/my-favorite-part-of-our-company-website/",
-    "like-of": "https://sebastiandedeyne.com/my-favorite-part-of-our-company-website/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Rama Patel",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/642b6c05e6db8be4070618d0b89ebdba83b7ee9e0bfaa46d9f08c794b6bb0ad7.jpg",
-      "url": "https://twitter.com/rexs183"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1140624443800113152#favorited-by-4630683560",
-    "published": null,
-    "wm-received": "2019-06-18T02:59:20Z",
-    "wm-id": 627726,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1140624443800113152/4630683560",
-    "wm-target": "https://sebastiandedeyne.com/my-favorite-part-of-our-company-website/",
-    "like-of": "https://sebastiandedeyne.com/my-favorite-part-of-our-company-website/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Ahmed Abd El Ftah",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/8d33366c9eb22489cbb535a6d858b8e09864f516ea30e8221981f6eda1fda7df.jpg",
-      "url": "https://twitter.com/Te7aHoudini"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1140624443800113152#favorited-by-920384655634980864",
-    "published": null,
-    "wm-received": "2019-06-17T20:40:16Z",
-    "wm-id": 627597,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1140624443800113152/920384655634980864",
-    "wm-target": "https://sebastiandedeyne.com/my-favorite-part-of-our-company-website/",
-    "like-of": "https://sebastiandedeyne.com/my-favorite-part-of-our-company-website/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "eCreeth",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/80c9df66768d721a59db1080149a15c1c2e8aabb1e8838b8aeda35110c817bb0.jpg",
-      "url": "https://twitter.com/e_creeth"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1140624443800113152#favorited-by-960004630762704897",
-    "published": null,
-    "wm-received": "2019-06-17T20:39:37Z",
-    "wm-id": 627594,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1140624443800113152/960004630762704897",
-    "wm-target": "https://sebastiandedeyne.com/my-favorite-part-of-our-company-website/",
-    "like-of": "https://sebastiandedeyne.com/my-favorite-part-of-our-company-website/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Steven Vandevelde",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/8173de960e3b4ea418821473774182659bb4166bfdbccc7911cea90d8255c689.jpg",
-      "url": "https://twitter.com/icidasset"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1140624443800113152#favorited-by-14250139",
-    "published": null,
-    "wm-received": "2019-06-17T20:39:31Z",
-    "wm-id": 627593,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1140624443800113152/14250139",
-    "wm-target": "https://sebastiandedeyne.com/my-favorite-part-of-our-company-website/",
-    "like-of": "https://sebastiandedeyne.com/my-favorite-part-of-our-company-website/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Miguel Piedrafita 👨🏻‍💻",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/6bd08f36602d9f32b753c5084841447c4f20da902ec0371f4033c97d2f776838.jpg",
-      "url": "https://twitter.com/m1guelpf"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1140624443800113152#favorited-by-713094195955830785",
-    "published": null,
-    "wm-received": "2019-06-17T20:39:19Z",
-    "wm-id": 627591,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1140624443800113152/713094195955830785",
-    "wm-target": "https://sebastiandedeyne.com/my-favorite-part-of-our-company-website/",
-    "like-of": "https://sebastiandedeyne.com/my-favorite-part-of-our-company-website/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Florin Frătică",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/1b20dea1c10ce346bacf051fb1b0d85a1b2cbfea4ba243d2eba4c40754feeea9.jpg",
-      "url": "https://twitter.com/florinfratica"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1140624443800113152#favorited-by-710205710445973505",
-    "published": null,
-    "wm-received": "2019-06-17T20:39:16Z",
-    "wm-id": 627590,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1140624443800113152/710205710445973505",
+    "wm-received": "2019-06-17T19:33:50Z",
+    "wm-id": 627554,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1140624443800113152/2827961035",
     "wm-target": "https://sebastiandedeyne.com/my-favorite-part-of-our-company-website/",
     "like-of": "https://sebastiandedeyne.com/my-favorite-part-of-our-company-website/",
     "wm-property": "like-of",
@@ -284,15 +67,15 @@
     "type": "entry",
     "author": {
       "type": "card",
-      "name": "Günther Debrauwer",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/509fc35edb29ff0fadb002f2d9c7e4a1f8ac9fae8bac0cb4748ebe64524df7b9.jpg",
-      "url": "https://twitter.com/GDebrauwer"
+      "name": "Florin Frătică",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/1b20dea1c10ce346bacf051fb1b0d85a1b2cbfea4ba243d2eba4c40754feeea9.jpg",
+      "url": "https://twitter.com/florinfratica"
     },
-    "url": "https://twitter.com/sebdedeyne/status/1140624443800113152#favorited-by-2827961035",
+    "url": "https://twitter.com/sebdedeyne/status/1140624443800113152#favorited-by-710205710445973505",
     "published": null,
-    "wm-received": "2019-06-17T19:33:50Z",
-    "wm-id": 627554,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1140624443800113152/2827961035",
+    "wm-received": "2019-06-17T20:39:16Z",
+    "wm-id": 627590,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1140624443800113152/710205710445973505",
     "wm-target": "https://sebastiandedeyne.com/my-favorite-part-of-our-company-website/",
     "like-of": "https://sebastiandedeyne.com/my-favorite-part-of-our-company-website/",
     "wm-property": "like-of",
@@ -302,24 +85,241 @@
     "type": "entry",
     "author": {
       "type": "card",
-      "name": "Spatie",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/3efb487e7f3a0bc3690580277105f93eda590d65e4d9eb01135a184a9df60b18.jpg",
-      "url": "https://twitter.com/spatie_be"
+      "name": "Miguel Piedrafita 👨🏻‍💻",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/6bd08f36602d9f32b753c5084841447c4f20da902ec0371f4033c97d2f776838.jpg",
+      "url": "https://twitter.com/m1guelpf"
     },
-    "url": "https://twitter.com/spatie_be/status/1140653782478544898",
-    "published": "2019-06-17T16:13:48+00:00",
-    "wm-received": "2019-06-17T19:00:39Z",
-    "wm-id": 627531,
-    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1140624443800113152/1140653782478544898",
+    "url": "https://twitter.com/sebdedeyne/status/1140624443800113152#favorited-by-713094195955830785",
+    "published": null,
+    "wm-received": "2019-06-17T20:39:19Z",
+    "wm-id": 627591,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1140624443800113152/713094195955830785",
     "wm-target": "https://sebastiandedeyne.com/my-favorite-part-of-our-company-website/",
-    "photo": [
-      "https://pbs.twimg.com/media/D9RP3s9WkAAXSch.jpg"
-    ],
-    "content": {
-      "text": "✒️ My favorite part of our @spatie_be company website sebastiandedeyne.com/my-favorite-pa…"
+    "like-of": "https://sebastiandedeyne.com/my-favorite-part-of-our-company-website/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Steven Vandevelde",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/8173de960e3b4ea418821473774182659bb4166bfdbccc7911cea90d8255c689.jpg",
+      "url": "https://twitter.com/icidasset"
     },
-    "repost-of": "https://sebastiandedeyne.com/my-favorite-part-of-our-company-website/",
-    "wm-property": "repost-of",
+    "url": "https://twitter.com/sebdedeyne/status/1140624443800113152#favorited-by-14250139",
+    "published": null,
+    "wm-received": "2019-06-17T20:39:31Z",
+    "wm-id": 627593,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1140624443800113152/14250139",
+    "wm-target": "https://sebastiandedeyne.com/my-favorite-part-of-our-company-website/",
+    "like-of": "https://sebastiandedeyne.com/my-favorite-part-of-our-company-website/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "eCreeth",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/80c9df66768d721a59db1080149a15c1c2e8aabb1e8838b8aeda35110c817bb0.jpg",
+      "url": "https://twitter.com/e_creeth"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1140624443800113152#favorited-by-960004630762704897",
+    "published": null,
+    "wm-received": "2019-06-17T20:39:37Z",
+    "wm-id": 627594,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1140624443800113152/960004630762704897",
+    "wm-target": "https://sebastiandedeyne.com/my-favorite-part-of-our-company-website/",
+    "like-of": "https://sebastiandedeyne.com/my-favorite-part-of-our-company-website/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Ahmed Abd El Ftah",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/8d33366c9eb22489cbb535a6d858b8e09864f516ea30e8221981f6eda1fda7df.jpg",
+      "url": "https://twitter.com/Te7aHoudini"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1140624443800113152#favorited-by-920384655634980864",
+    "published": null,
+    "wm-received": "2019-06-17T20:40:16Z",
+    "wm-id": 627597,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1140624443800113152/920384655634980864",
+    "wm-target": "https://sebastiandedeyne.com/my-favorite-part-of-our-company-website/",
+    "like-of": "https://sebastiandedeyne.com/my-favorite-part-of-our-company-website/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Rama Patel",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/642b6c05e6db8be4070618d0b89ebdba83b7ee9e0bfaa46d9f08c794b6bb0ad7.jpg",
+      "url": "https://twitter.com/rexs183"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1140624443800113152#favorited-by-4630683560",
+    "published": null,
+    "wm-received": "2019-06-18T02:59:20Z",
+    "wm-id": 627726,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1140624443800113152/4630683560",
+    "wm-target": "https://sebastiandedeyne.com/my-favorite-part-of-our-company-website/",
+    "like-of": "https://sebastiandedeyne.com/my-favorite-part-of-our-company-website/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Nemanja Ivankovic",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/de44c0898473e2bd97c4e7b31b50c5d7de11fa1bda2afb31802adc8298f0252c.jpg",
+      "url": "https://twitter.com/Necko1996"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1140624443800113152#favorited-by-750421682330996740",
+    "published": null,
+    "wm-received": "2019-06-18T06:11:47Z",
+    "wm-id": 627823,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1140624443800113152/750421682330996740",
+    "wm-target": "https://sebastiandedeyne.com/my-favorite-part-of-our-company-website/",
+    "like-of": "https://sebastiandedeyne.com/my-favorite-part-of-our-company-website/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Sam Snelling",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/e2b49db78102827baece15f8fd404617d87474320fe9fa12a7f31562b0ce2573.jpg",
+      "url": "https://twitter.com/snellingio"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1140624443800113152#favorited-by-60195720",
+    "published": null,
+    "wm-received": "2019-06-19T13:03:29Z",
+    "wm-id": 628948,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1140624443800113152/60195720",
+    "wm-target": "https://sebastiandedeyne.com/my-favorite-part-of-our-company-website/",
+    "like-of": "https://sebastiandedeyne.com/my-favorite-part-of-our-company-website/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Freek Van der Herten 🎆",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/0e82b7fa7a888172ec7f5dd150222f2d70982b6946127010c1ea6e6d8ca67cc4.jpg",
+      "url": "https://twitter.com/freekmurze"
+    },
+    "url": "https://twitter.com/freekmurze/status/1141327358034685952",
+    "published": "2019-06-19T12:50:21+00:00",
+    "wm-received": "2019-06-19T13:03:31Z",
+    "wm-id": 628949,
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1141327358034685952",
+    "wm-target": "https://sebastiandedeyne.com/my-favorite-part-of-our-company-website/",
+    "content": {
+      "html": "Don't start a company blog, but list blogposts of your colleagues on your site (ask them first though).\n\nThis way they retain ownership, are motivated to write, build their personal name, and it'll still reflect a bit on the company too.\n\nhttps://t.co/eRbQKR4Oo6\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/my-favorite-part-of-our-company-website/\"></a>",
+      "text": "Don't start a company blog, but list blogposts of your colleagues on your site (ask them first though).\n\nThis way they retain ownership, are motivated to write, build their personal name, and it'll still reflect a bit on the company too.\n\nhttps://t.co/eRbQKR4Oo6"
+    },
+    "mention-of": "https://sebastiandedeyne.com/my-favorite-part-of-our-company-website/",
+    "wm-property": "mention-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Ryuta Hamasaki",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/70a3d61f41c2115d8707be127f5087e8df4bf3e2304fec6815be10dd9447ab2e.jpg",
+      "url": "https://twitter.com/avosalmon"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1140624443800113152#favorited-by-135207072",
+    "published": null,
+    "wm-received": "2019-06-19T13:28:41Z",
+    "wm-id": 628971,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1140624443800113152/135207072",
+    "wm-target": "https://sebastiandedeyne.com/my-favorite-part-of-our-company-website/",
+    "like-of": "https://sebastiandedeyne.com/my-favorite-part-of-our-company-website/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Filipe",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/fba7380c496aa933a5146a896fca3aeafad6b13c934faf6888a3f19551682f98.jpg",
+      "url": "https://twitter.com/pitelsenpai"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1140624443800113152#favorited-by-783492986302791680",
+    "published": null,
+    "wm-received": "2019-06-19T16:52:32Z",
+    "wm-id": 629058,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1140624443800113152/783492986302791680",
+    "wm-target": "https://sebastiandedeyne.com/my-favorite-part-of-our-company-website/",
+    "like-of": "https://sebastiandedeyne.com/my-favorite-part-of-our-company-website/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Michaël De Boey",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/4c253771a8d1f79422524c6dd9f74ea83b1255def284013494330c1b3792bdf1.jpg",
+      "url": "https://twitter.com/MichaelDeBoey93"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1140624443800113152#favorited-by-148502139",
+    "published": null,
+    "wm-received": "2019-06-19T18:18:38Z",
+    "wm-id": 629095,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1140624443800113152/148502139",
+    "wm-target": "https://sebastiandedeyne.com/my-favorite-part-of-our-company-website/",
+    "like-of": "https://sebastiandedeyne.com/my-favorite-part-of-our-company-website/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Anonymous",
+      "photo": "https://webmention.io/avatar/commentpara.de/ef200c8b639d79d1cfbc0abf0e25f42dcbc585b4398003dd90f5a56c9d56e3bf.svg",
+      "url": ""
+    },
+    "url": "https://commentpara.de/comment/424.htm",
+    "published": null,
+    "wm-received": "2019-06-20T14:34:59Z",
+    "wm-id": 629620,
+    "wm-source": "https://commentpara.de/comment/424.htm",
+    "wm-target": "https://sebastiandedeyne.com/my-favorite-part-of-our-company-website/",
+    "content": {
+      "text": "oh"
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/my-favorite-part-of-our-company-website/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Johannes Pichler",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/81859fc755459f46fa0655290e59b451a42924f6f9e004cee2b64521ed8ea137.jpg",
+      "url": "https://twitter.com/fetzi_io"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1141715809531809797#favorited-by-72600484",
+    "published": null,
+    "wm-received": "2019-06-20T14:53:43Z",
+    "wm-id": 629628,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1141715809531809797/72600484",
+    "wm-target": "https://sebastiandedeyne.com/my-favorite-part-of-our-company-website/",
+    "like-of": "https://sebastiandedeyne.com/my-favorite-part-of-our-company-website/",
+    "wm-property": "like-of",
     "wm-private": false
   }
 ]

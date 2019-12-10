@@ -3,574 +3,19 @@
     "type": "entry",
     "author": {
       "type": "card",
-      "name": "Andrey Brazhnyk",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/22a1099b63fd26e91796f4db3a3088bb1cc33ffff8f671fb92d738c71dfcb4c2.jpg",
-      "url": "https://twitter.com/anbrazhnik"
+      "name": "Alex Joffroy",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/e13d3ec9ba3c10a55a01a3f05b42dab729855b0369df31638c6abc9851abd7d6.png",
+      "url": "https://twitter.com/alexjoffroy"
     },
-    "url": "https://twitter.com/sebdedeyne/status/1191648160671784960#favorited-by-3236259104",
-    "published": null,
-    "wm-received": "2019-11-13T16:24:52Z",
-    "wm-id": 724055,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1191648160671784960/3236259104",
-    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "like-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "M00dle",
-      "photo": "https://webmention.io/avatar/abs.twimg.com/0e6b2cd70aa5b35dec24ca4e1e63f8963f0118736d9ec3bba77e3a8c99a27bc2.png",
-      "url": "https://twitter.com/M00dl3"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1191648160671784960#favorited-by-993084192601903109",
-    "published": null,
-    "wm-received": "2019-11-06T14:19:33Z",
-    "wm-id": 722005,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1191648160671784960/993084192601903109",
-    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "like-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "𝗈𝗌𝗆𝖾𝗅𝗅",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/2fe556eca73ca45dba8f13a571c50ae7a738cc2be0cf33e4a376437199080fa2.png",
-      "url": "https://twitter.com/oele_co"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1191648160671784960#favorited-by-148866154",
-    "published": null,
-    "wm-received": "2019-11-06T12:28:14Z",
-    "wm-id": 721996,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1191648160671784960/148866154",
-    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "like-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Adriaan Marain",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/3215f128f757feb52909bbab165d154d81c2cbb397c636fd8af249dc164b3edc.jpg",
-      "url": "https://twitter.com/AdriaanMrn"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1191648160671784960#favorited-by-553432298",
-    "published": null,
-    "wm-received": "2019-11-06T09:55:38Z",
-    "wm-id": 721983,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1191648160671784960/553432298",
-    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "like-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Tim Dorey",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/3bf633462895a370e41da1eb8d5c0c11c4755cb676ce12e9e7aa6a56804eb432.jpg",
-      "url": "https://twitter.com/dorey_tim"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1191648160671784960#favorited-by-1163598028495699968",
-    "published": null,
-    "wm-received": "2019-11-06T08:21:32Z",
-    "wm-id": 721975,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1191648160671784960/1163598028495699968",
-    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "like-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Thore Sünert",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/bbd32807c83ad0b5934ad267b6cf1ff69cdea9a223acb96b525785781972913b.jpg",
-      "url": "https://twitter.com/thoresuenert"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1191648160671784960#favorited-by-178718254",
-    "published": null,
-    "wm-received": "2019-11-06T08:21:30Z",
-    "wm-id": 721974,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1191648160671784960/178718254",
-    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "like-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Manuel Teuber",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/edcebec526a5135f80c676e796c4c4bc5d19faa368f8b142840a0763123cd328.jpg",
-      "url": "https://twitter.com/memdev"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1191648160671784960#favorited-by-24875928",
-    "published": null,
-    "wm-received": "2019-11-06T07:17:08Z",
-    "wm-id": 721965,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1191648160671784960/24875928",
-    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "like-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "kapil",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/4b9f1c40568f0980d0d24eccac0a99f78f34d08e7136eda3436bf9e2b33cfc92.jpg",
-      "url": "https://twitter.com/kapilsofteng"
-    },
-    "url": "https://twitter.com/kapilsofteng/status/1191898890712170496",
-    "published": "2019-11-06T02:03:34+00:00",
-    "wm-received": "2019-11-06T02:16:33Z",
-    "wm-id": 721942,
-    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1191648160671784960/1191898890712170496",
+    "url": "https://twitter.com/alexjoffroy/status/1191650328455847936",
+    "published": "2019-11-05T09:35:52+00:00",
+    "wm-received": "2019-11-05T09:36:25Z",
+    "wm-id": 721688,
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/sebdedeyne/1191648160671784960/1191650328455847936",
     "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
     "content": {
-      "text": "✒️ I wrote a post about handling authorization in a @laravelphp and @inertiajs application sebastiandedeyne.com/handling-autho…"
-    },
-    "repost-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "wm-property": "repost-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Élison Gomes",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/98204e13175b5addd899135f5b3006a0aaaccf52cfbf4245c198a389b8c6812e.jpg",
-      "url": "https://twitter.com/ElisonGomes"
-    },
-    "url": "https://twitter.com/ElisonGomes/status/1191899215477248006",
-    "published": "2019-11-06T02:04:52+00:00",
-    "wm-received": "2019-11-06T02:16:32Z",
-    "wm-id": 721941,
-    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1191648160671784960/1191899215477248006",
-    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "content": {
-      "text": "✒️ I wrote a post about handling authorization in a @laravelphp and @inertiajs application sebastiandedeyne.com/handling-autho…"
-    },
-    "repost-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "wm-property": "repost-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Élison Gomes",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/98204e13175b5addd899135f5b3006a0aaaccf52cfbf4245c198a389b8c6812e.jpg",
-      "url": "https://twitter.com/ElisonGomes"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1191648160671784960#favorited-by-41577580",
-    "published": null,
-    "wm-received": "2019-11-06T02:16:29Z",
-    "wm-id": 721940,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1191648160671784960/41577580",
-    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "like-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Rasmus P",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/30906fcc5b1ed8cf48f018864363e65d50eec56ad2ddc9639558e7541b1c0d7e.jpg",
-      "url": "https://twitter.com/djrasmusp"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1191648160671784960#favorited-by-135869094",
-    "published": null,
-    "wm-received": "2019-11-06T00:52:37Z",
-    "wm-id": 721933,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1191648160671784960/135869094",
-    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "like-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Tiagosimoes",
-      "photo": "https://webmention.io/avatar/abs.twimg.com/0e6b2cd70aa5b35dec24ca4e1e63f8963f0118736d9ec3bba77e3a8c99a27bc2.png",
-      "url": "https://twitter.com/Tiagosimoesdev"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1191648160671784960#favorited-by-1069719524373684225",
-    "published": null,
-    "wm-received": "2019-11-05T22:51:39Z",
-    "wm-id": 721918,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1191648160671784960/1069719524373684225",
-    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "like-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Jorge González",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/c37d58fb7570b7fc2c749e974aa5efec6ae1abfef7673ce079fdb9fb2aa1a472.jpg",
-      "url": "https://twitter.com/iksaku2"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1191648160671784960#favorited-by-255728220",
-    "published": null,
-    "wm-received": "2019-11-05T20:47:05Z",
-    "wm-id": 721901,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1191648160671784960/255728220",
-    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "like-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Ben Sherred",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/cc8ae73985546ad3c3e33e2bf55a8486f074d6b60294c2c721319a812b044a06.png",
-      "url": "https://twitter.com/BenSherred"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1191648160671784960#favorited-by-1117558994313392130",
-    "published": null,
-    "wm-received": "2019-11-05T19:25:34Z",
-    "wm-id": 721869,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1191648160671784960/1117558994313392130",
-    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "like-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Joan Morell",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/9172ce85191018f7fb352824d9696ccdcd4a622d35785e42c6a7eded24987fcf.png",
-      "url": "https://twitter.com/joanmorell"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1191648160671784960#favorited-by-186153121",
-    "published": null,
-    "wm-received": "2019-11-05T19:25:33Z",
-    "wm-id": 721868,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1191648160671784960/186153121",
-    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "like-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Marcin",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/522a9b01d16d5e312b0bd49f8580945e27bfd337c8d77b38ebfab493e78aae3c.jpg",
-      "url": "https://twitter.com/MarcinMm12321"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1191648160671784960#favorited-by-570171032",
-    "published": null,
-    "wm-received": "2019-11-05T18:57:06Z",
-    "wm-id": 721865,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1191648160671784960/570171032",
-    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "like-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "MD Iyasin Arafat",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/c400ee3f340944b330475e360cf75cdbef593366a4ba393cfac4f0b438e67640.png",
-      "url": "https://twitter.com/miyasinarafat"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1191648160671784960#favorited-by-3064483574",
-    "published": null,
-    "wm-received": "2019-11-05T18:57:04Z",
-    "wm-id": 721864,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1191648160671784960/3064483574",
-    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "like-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Matthew Poulter",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/617aa055cbdeefbb99860fe70db9bc247085ce32f600ea972585bf0b92237964.jpg",
-      "url": "https://twitter.com/mdpoulter"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1191648160671784960#favorited-by-152526668",
-    "published": null,
-    "wm-received": "2019-11-05T17:50:45Z",
-    "wm-id": 721850,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1191648160671784960/152526668",
-    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "like-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Adrian Nürnberger 🐙",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/863cfa16ee0e48a6aa53e495ddbfb0da79cb60e9662f1a6b55a39fb7d9a2e467.jpg",
-      "url": "https://twitter.com/nuernberger_me"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1191648160671784960#favorited-by-3220622807",
-    "published": null,
-    "wm-received": "2019-11-05T17:20:46Z",
-    "wm-id": 721840,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1191648160671784960/3220622807",
-    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "like-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Michał Karnicki",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/c42da3e2cc2a673a0123d47d68ab3fda5d0348fba7aadaad6278eeb76866b43f.jpg",
-      "url": "https://twitter.com/mkarnicki"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1191648160671784960#favorited-by-35588318",
-    "published": null,
-    "wm-received": "2019-11-05T17:20:45Z",
-    "wm-id": 721839,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1191648160671784960/35588318",
-    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "like-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Dev Caret",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/3af444906b25132c64cc11e53bd3a28d3695a6a7de11ed4f8b2bd5c2e55e92f7.jpg",
-      "url": "https://twitter.com/devcaret"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1191648160671784960#favorited-by-1185692122583916544",
-    "published": null,
-    "wm-received": "2019-11-05T16:48:24Z",
-    "wm-id": 721829,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1191648160671784960/1185692122583916544",
-    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "like-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Neil Carlo Faisan Sucuangco",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/737d4faf10025e9f86a8d0f54866e65be28593c696996b8668a5badbbb3e391f.jpg",
-      "url": "https://twitter.com/faisuc"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1191648160671784960#favorited-by-337041104",
-    "published": null,
-    "wm-received": "2019-11-05T16:47:55Z",
-    "wm-id": 721828,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1191648160671784960/337041104",
-    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "like-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Amarendra Sharma",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/122a0e3801e81f79cfb1aa992e11cfa9c833234197a67d60f34cce72333f321b.jpg",
-      "url": "https://twitter.com/Amaratenga"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1191648160671784960#favorited-by-3822386414",
-    "published": null,
-    "wm-received": "2019-11-05T16:19:13Z",
-    "wm-id": 721824,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1191648160671784960/3822386414",
-    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "like-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "#DevFestOnitsha",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/a8cd58c7157e67a8f979fb8d39365d7f12eafdce9bd7120ca15548328cfd451e.jpg",
-      "url": "https://twitter.com/stephenjudeso"
-    },
-    "url": "https://twitter.com/stephenjudeso/status/1191744716725006338",
-    "published": "2019-11-05T15:50:56+00:00",
-    "wm-received": "2019-11-05T16:19:11Z",
-    "wm-id": 721823,
-    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1191648160671784960/1191744716725006338",
-    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "content": {
-      "text": "✒️ I wrote a post about handling authorization in a @laravelphp and @inertiajs application sebastiandedeyne.com/handling-autho…"
-    },
-    "repost-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "wm-property": "repost-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "#DevFestOnitsha",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/a8cd58c7157e67a8f979fb8d39365d7f12eafdce9bd7120ca15548328cfd451e.jpg",
-      "url": "https://twitter.com/stephenjudeso"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1191648160671784960#favorited-by-3259679903",
-    "published": null,
-    "wm-received": "2019-11-05T16:19:09Z",
-    "wm-id": 721822,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1191648160671784960/3259679903",
-    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "like-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Jorge González",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/1b4c625738e50e55f462447beb625372db0c3b4d7b25262ddc5ca1e93cccb039.jpg",
-      "url": "https://twitter.com/scrubmx"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1191648160671784960#favorited-by-43742200",
-    "published": null,
-    "wm-received": "2019-11-05T16:19:08Z",
-    "wm-id": 721821,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1191648160671784960/43742200",
-    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "like-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Lambert Traccard",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/0092681de01f8f15b50eaefca8c54cafc66c7490050d59bc1bf6bcfac892c184.jpg",
-      "url": "https://twitter.com/lamberttraccard"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1191648160671784960#favorited-by-236706279",
-    "published": null,
-    "wm-received": "2019-11-05T16:19:06Z",
-    "wm-id": 721820,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1191648160671784960/236706279",
-    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "like-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Junior Gantin",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/5b48c1b8a90fc38d7c556181aa2ffe601fead8a0a551a7239ce0e18b7ccad59c.jpg",
-      "url": "https://twitter.com/jgantindev"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1191648160671784960#favorited-by-1168764019274067969",
-    "published": null,
-    "wm-received": "2019-11-05T16:19:04Z",
-    "wm-id": 721819,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1191648160671784960/1168764019274067969",
-    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "like-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "everton zp",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/6de7f3a1b8c0de60e599aa2c7fd32ea3c0707d86f6cd8c92278725a5b250bdba.jpg",
-      "url": "https://twitter.com/ezp127"
-    },
-    "url": "https://twitter.com/ezp127/status/1191739057111535616",
-    "published": "2019-11-05T15:28:27+00:00",
-    "wm-received": "2019-11-05T15:45:20Z",
-    "wm-id": 721815,
-    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1191648160671784960/1191739057111535616",
-    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "content": {
-      "text": "✒️ I wrote a post about handling authorization in a @laravelphp and @inertiajs application sebastiandedeyne.com/handling-autho…"
-    },
-    "repost-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "wm-property": "repost-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "JOSIAH YAHAYA",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/4705db88140db684bf10ec39167ef79ab3b955af3073b1c527298e35daa0e37b.jpg",
-      "url": "https://twitter.com/josiahoyahaya"
-    },
-    "url": "https://twitter.com/josiahoyahaya/status/1191736463844683776",
-    "published": "2019-11-05T15:18:09+00:00",
-    "wm-received": "2019-11-05T15:45:18Z",
-    "wm-id": 721814,
-    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1191648160671784960/1191736463844683776",
-    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "content": {
-      "text": "✒️ I wrote a post about handling authorization in a @laravelphp and @inertiajs application sebastiandedeyne.com/handling-autho…"
-    },
-    "repost-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "wm-property": "repost-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Lars",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/7973dd444f577425df153cfcc4289f98901e3fbb3cc2005a61ef8ecc80d063c0.jpg",
-      "url": "https://twitter.com/LarsPeterke"
-    },
-    "url": "https://twitter.com/LarsPeterke/status/1191741308769058816",
-    "published": "2019-11-05T15:37:24+00:00",
-    "wm-received": "2019-11-05T15:45:10Z",
-    "wm-id": 721813,
-    "wm-source": "https://brid-gy.appspot.com/comment/twitter/sebdedeyne/1191648160671784960/1191741308769058816",
-    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "content": {
-      "html": "What I‘m concerned about most of the time is what to do if your permission checks are more advanced and trigger relations. Like „A user can create a Comment if $post-&gt;allow_comments == true“.\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/inertiajs\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/laravelphp\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/sebdedeyne\"></a>",
-      "text": "What I‘m concerned about most of the time is what to do if your permission checks are more advanced and trigger relations. Like „A user can create a Comment if $post->allow_comments == true“."
+      "html": "In your post, the \"handling routes in a Laravel and Inertia app\" link is redirecting to localhost :)\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/inertiajs\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/laravelphp\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/sebdedeyne\"></a>",
+      "text": "In your post, the \"handling routes in a Laravel and Inertia app\" link is redirecting to localhost :)"
     },
     "in-reply-to": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
     "wm-property": "in-reply-to",
@@ -580,15 +25,15 @@
     "type": "entry",
     "author": {
       "type": "card",
-      "name": "JOSIAH YAHAYA",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/4705db88140db684bf10ec39167ef79ab3b955af3073b1c527298e35daa0e37b.jpg",
-      "url": "https://twitter.com/josiahoyahaya"
+      "name": "Elie Andraos",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/a78f4b78055c8228ccca0172fee4fb16056fd1744ef544e79fd64558c34984cb.jpg",
+      "url": "https://twitter.com/andzilla31"
     },
-    "url": "https://twitter.com/sebdedeyne/status/1191648160671784960#favorited-by-303949169",
+    "url": "https://twitter.com/sebdedeyne/status/1191648160671784960#favorited-by-1002479505108340737",
     "published": null,
-    "wm-received": "2019-11-05T15:45:04Z",
-    "wm-id": 721812,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1191648160671784960/303949169",
+    "wm-received": "2019-11-05T09:36:26Z",
+    "wm-id": 721689,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1191648160671784960/1002479505108340737",
     "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
     "like-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
     "wm-property": "like-of",
@@ -598,36 +43,15 @@
     "type": "entry",
     "author": {
       "type": "card",
-      "name": "Lars",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/7973dd444f577425df153cfcc4289f98901e3fbb3cc2005a61ef8ecc80d063c0.jpg",
-      "url": "https://twitter.com/LarsPeterke"
+      "name": "Kalle Palokankare",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/825cd24e1c94e1ba0f0b11ba7be897e1cec352c9182c010d9197efcfb0b69f02.jpg",
+      "url": "https://twitter.com/palokankare"
     },
-    "url": "https://twitter.com/LarsPeterke/status/1191741995057848321",
-    "published": "2019-11-05T15:40:07+00:00",
-    "wm-received": "2019-11-05T15:44:58Z",
-    "wm-id": 721811,
-    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1191648160671784960/1191741995057848321",
-    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "content": {
-      "text": "✒️ I wrote a post about handling authorization in a @laravelphp and @inertiajs application sebastiandedeyne.com/handling-autho…"
-    },
-    "repost-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "wm-property": "repost-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Bill Richards",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/e468240b61c4e760245d3674a5bd55af9c6b225153dfc909382e3db0efbfaced.jpg",
-      "url": "https://twitter.com/lostincode"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1191648160671784960#favorited-by-78280480",
+    "url": "https://twitter.com/sebdedeyne/status/1191648160671784960#favorited-by-2207288388",
     "published": null,
-    "wm-received": "2019-11-05T15:44:58Z",
-    "wm-id": 721810,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1191648160671784960/78280480",
+    "wm-received": "2019-11-05T10:11:32Z",
+    "wm-id": 721699,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1191648160671784960/2207288388",
     "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
     "like-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
     "wm-property": "like-of",
@@ -637,15 +61,15 @@
     "type": "entry",
     "author": {
       "type": "card",
-      "name": "Cyril de Wit",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/024226e454853ac712e85cd3c646b7f3aea99b8adb6399176042dbc5db88903c.jpg",
-      "url": "https://twitter.com/cyrildewit"
+      "name": "James",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/eb89e72bc665836f710fd289586e6b40b5e713549bf9bf91b74e42c5a136e765.jpg",
+      "url": "https://twitter.com/sesticles"
     },
-    "url": "https://twitter.com/sebdedeyne/status/1191648160671784960#favorited-by-2172253302",
+    "url": "https://twitter.com/sebdedeyne/status/1191648160671784960#favorited-by-1062926515",
     "published": null,
-    "wm-received": "2019-11-05T15:44:56Z",
-    "wm-id": 721809,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1191648160671784960/2172253302",
+    "wm-received": "2019-11-05T10:11:36Z",
+    "wm-id": 721701,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1191648160671784960/1062926515",
     "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
     "like-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
     "wm-property": "like-of",
@@ -655,262 +79,15 @@
     "type": "entry",
     "author": {
       "type": "card",
-      "name": "Mithicher Baro",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/b4ee0c303dd27e391b702d9713c984efbbf051c6948b0dc2164dc17a3747bdd7.png",
-      "url": "https://twitter.com/mithicher"
+      "name": "oluwajubelo loves VueJS 🚨",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/b46941f64275ee2ae7ae9618ba0d3b60e9ab8ce6a343ff90b0e905321a4c24de.jpg",
+      "url": "https://twitter.com/igeoluwasegun1"
     },
-    "url": "https://twitter.com/sebdedeyne/status/1191648160671784960#favorited-by-1315799845",
+    "url": "https://twitter.com/sebdedeyne/status/1191648160671784960#favorited-by-982451690",
     "published": null,
-    "wm-received": "2019-11-05T15:18:18Z",
-    "wm-id": 721807,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1191648160671784960/1315799845",
-    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "like-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Mithicher Baro",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/b4ee0c303dd27e391b702d9713c984efbbf051c6948b0dc2164dc17a3747bdd7.png",
-      "url": "https://twitter.com/mithicher"
-    },
-    "url": "https://twitter.com/mithicher/status/1191734674751553538",
-    "published": "2019-11-05T15:11:02+00:00",
-    "wm-received": "2019-11-05T15:18:16Z",
-    "wm-id": 721806,
-    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1191648160671784960/1191734674751553538",
-    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "content": {
-      "text": "✒️ I wrote a post about handling authorization in a @laravelphp and @inertiajs application sebastiandedeyne.com/handling-autho…"
-    },
-    "repost-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "wm-property": "repost-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Mohammed Isa",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/519369b787a7cf9e4d8d60db27a26eecbcfc0e703b8f2f94f6743de837ad258b.png",
-      "url": "https://twitter.com/mohd_itcs"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1191648160671784960#favorited-by-912371228",
-    "published": null,
-    "wm-received": "2019-11-05T15:18:13Z",
-    "wm-id": 721805,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1191648160671784960/912371228",
-    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "like-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Christian Klemp",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/e12b0a201b4a056134cc43db9409c13c87eb3dc0f1ae5aecb50800c6f1cd5735.jpg",
-      "url": "https://twitter.com/christianklemp"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1191648160671784960#favorited-by-9585342",
-    "published": null,
-    "wm-received": "2019-11-05T15:18:13Z",
-    "wm-id": 721804,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1191648160671784960/9585342",
-    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "like-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Barnabas Ifebude",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/9d2cca729be8be5dc9d1e54b547dba6b8235be2f7695b895b7286d2936fa4752.jpg",
-      "url": "https://twitter.com/Cibsmart"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1191648160671784960#favorited-by-299150989",
-    "published": null,
-    "wm-received": "2019-11-05T15:18:13Z",
-    "wm-id": 721803,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1191648160671784960/299150989",
-    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "like-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Jonathan Reinink",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/24a95169096c9932502918127022f92afc1bf09f6303631e6cfc09815d782656.jpg",
-      "url": "https://twitter.com/reinink"
-    },
-    "url": "https://twitter.com/reinink/status/1191712609856294912",
-    "published": "2019-11-05T13:43:21+00:00",
-    "wm-received": "2019-11-05T14:14:58Z",
-    "wm-id": 721778,
-    "wm-source": "https://brid-gy.appspot.com/comment/twitter/sebdedeyne/1191648160671784960/1191712609856294912",
-    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "content": {
-      "html": "Yup, legit concern.\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/inertiajs\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/laravelphp\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/sebdedeyne\"></a>",
-      "text": "Yup, legit concern."
-    },
-    "in-reply-to": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "wm-property": "in-reply-to",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Richard van Baarsen",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/7c7add928e602468d1b2fbfbe3babb88bfa259864e754b2a657372d85a50018b.jpg",
-      "url": "https://twitter.com/riesyart"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1191648160671784960#favorited-by-798196627336929280",
-    "published": null,
-    "wm-received": "2019-11-05T14:14:57Z",
-    "wm-id": 721777,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1191648160671784960/798196627336929280",
-    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "like-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Jason Gilmore",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/c11f773367b96c10d26d9f5c1c87397e22f1901bbcfd40bfac1e2db2b6fc0d67.jpg",
-      "url": "https://twitter.com/wjgilmore"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1191648160671784960#favorited-by-783470",
-    "published": null,
-    "wm-received": "2019-11-05T14:14:56Z",
-    "wm-id": 721776,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1191648160671784960/783470",
-    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "like-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Stephen S. Musoke - Homo sapiens #aedifex #Xennial",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/0926e03642b55d9fef65e8d16f3d3ca9c811b35391a24bd256adc875da30c30e.jpg",
-      "url": "https://twitter.com/ssmusoke"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1191648160671784960#favorited-by-78616892",
-    "published": null,
-    "wm-received": "2019-11-05T14:14:55Z",
-    "wm-id": 721775,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1191648160671784960/78616892",
-    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "like-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Laravel Türkiye",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/3736388bea22247686ec89b0cade4dbe251d46eaed7d575be03037c22bb2fd7a.png",
-      "url": "https://twitter.com/LaravelTr"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1191648160671784960#favorited-by-835370485",
-    "published": null,
-    "wm-received": "2019-11-05T14:14:54Z",
-    "wm-id": 721774,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1191648160671784960/835370485",
-    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "like-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Georg Thomassen",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/6badfe5ac5459e75cd820c85fc469b8bd3805d64bb7ed6214462c07b117b4e29.png",
-      "url": "https://twitter.com/georgthomassen"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1191648160671784960#favorited-by-525675603",
-    "published": null,
-    "wm-received": "2019-11-05T14:14:53Z",
-    "wm-id": 721773,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1191648160671784960/525675603",
-    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "like-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Laravel Türkiye",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/3736388bea22247686ec89b0cade4dbe251d46eaed7d575be03037c22bb2fd7a.png",
-      "url": "https://twitter.com/LaravelTr"
-    },
-    "url": "https://twitter.com/LaravelTr/status/1191713246455193601",
-    "published": "2019-11-05T13:45:53+00:00",
-    "wm-received": "2019-11-05T14:14:53Z",
-    "wm-id": 721772,
-    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1191648160671784960/1191713246455193601",
-    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "content": {
-      "text": "✒️ I wrote a post about handling authorization in a @laravelphp and @inertiajs application sebastiandedeyne.com/handling-autho…"
-    },
-    "repost-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "wm-property": "repost-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Chris Chambers",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/d28048431df356074e3ee9985a45ad480b470ade39404b33911181ebb1aa62f3.jpg",
-      "url": "https://twitter.com/chriischambers"
-    },
-    "url": "https://twitter.com/chriischambers/status/1191714823358337026",
-    "published": "2019-11-05T13:52:09+00:00",
-    "wm-received": "2019-11-05T14:14:51Z",
-    "wm-id": 721771,
-    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1191648160671784960/1191714823358337026",
-    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "content": {
-      "text": "✒️ I wrote a post about handling authorization in a @laravelphp and @inertiajs application sebastiandedeyne.com/handling-autho…"
-    },
-    "repost-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "wm-property": "repost-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Chris Chambers",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/d28048431df356074e3ee9985a45ad480b470ade39404b33911181ebb1aa62f3.jpg",
-      "url": "https://twitter.com/chriischambers"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1191648160671784960#favorited-by-20159446",
-    "published": null,
-    "wm-received": "2019-11-05T14:14:51Z",
-    "wm-id": 721770,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1191648160671784960/20159446",
+    "wm-received": "2019-11-05T10:11:37Z",
+    "wm-id": 721702,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1191648160671784960/982451690",
     "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
     "like-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
     "wm-property": "like-of",
@@ -924,15 +101,15 @@
       "photo": "https://webmention.io/avatar/pbs.twimg.com/3ce609991342657b8b7e99eb7a5c6e3656fbdb1c51575f1464d354b81aaeda86.jpg",
       "url": "https://twitter.com/sebdedeyne"
     },
-    "url": "https://twitter.com/sebdedeyne/status/1191712436132470784",
-    "published": "2019-11-05T13:42:40+00:00",
-    "wm-received": "2019-11-05T14:14:50Z",
-    "wm-id": 721769,
-    "wm-source": "https://brid-gy.appspot.com/comment/twitter/sebdedeyne/1191648160671784960/1191712436132470784",
+    "url": "https://twitter.com/sebdedeyne/status/1191653992650223616",
+    "published": "2019-11-05T09:50:26+00:00",
+    "wm-received": "2019-11-05T10:11:39Z",
+    "wm-id": 721703,
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/sebdedeyne/1191648160671784960/1191653992650223616",
     "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
     "content": {
-      "html": "I've used can in the past. I like it on the user level, but not on the resource level. For example `user.can.createPost` looks good, but `post.can.create` looks like the post can create something\n<a class=\"u-mention\" href=\"https://twitter.com/inertiajs\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/laravelphp\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/reinink\"></a>",
-      "text": "I've used can in the past. I like it on the user level, but not on the resource level. For example `user.can.createPost` looks good, but `post.can.create` looks like the post can create something"
+      "html": "Whoops, pushed a fix, thanks!\n<a class=\"u-mention\" href=\"https://twitter.com/alexjoffroy\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/inertiajs\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/laravelphp\"></a>",
+      "text": "Whoops, pushed a fix, thanks!"
     },
     "in-reply-to": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
     "wm-property": "in-reply-to",
@@ -942,113 +119,15 @@
     "type": "entry",
     "author": {
       "type": "card",
-      "name": "Chris Chambers",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/d28048431df356074e3ee9985a45ad480b470ade39404b33911181ebb1aa62f3.jpg",
-      "url": "https://twitter.com/chriischambers"
+      "name": "oluwajubelo loves VueJS 🚨",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/b46941f64275ee2ae7ae9618ba0d3b60e9ab8ce6a343ff90b0e905321a4c24de.jpg",
+      "url": "https://twitter.com/igeoluwasegun1"
     },
-    "url": "https://twitter.com/chriischambers/status/1191714310491377664",
-    "published": "2019-11-05T13:50:07+00:00",
-    "wm-received": "2019-11-05T14:14:48Z",
-    "wm-id": 721768,
-    "wm-source": "https://brid-gy.appspot.com/comment/twitter/sebdedeyne/1191648160671784960/1191714310491377664",
-    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "content": {
-      "html": "Great Sebastian. Just at the right time too, this is literally next on my list to implement into our app.\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/inertiajs\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/laravelphp\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/sebdedeyne\"></a>",
-      "text": "Great Sebastian. Just at the right time too, this is literally next on my list to implement into our app."
-    },
-    "in-reply-to": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "wm-property": "in-reply-to",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Mário Ramos",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/8645c735553c63418cae880716cd23d2a4a2090a0d1e66818445f0326feb1d54.jpg",
-      "url": "https://twitter.com/mjpramos"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1191648160671784960#favorited-by-36976355",
-    "published": null,
-    "wm-received": "2019-11-05T13:41:55Z",
-    "wm-id": 721759,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1191648160671784960/36976355",
-    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "like-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Pascual Strømsnæs",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/1c8f42888570ddf2b11754c91a0e3b55b92d9c6707c1b6614a4d9335176ccef6.jpg",
-      "url": "https://twitter.com/pascualstr"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1191648160671784960#favorited-by-18240207",
-    "published": null,
-    "wm-received": "2019-11-05T13:41:53Z",
-    "wm-id": 721758,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1191648160671784960/18240207",
-    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "like-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Jake Bennett",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/709f41335b30b2b7c08c58bc51a270a756e32421be087dad9e4819acdf95a74e.jpg",
-      "url": "https://twitter.com/JacobBennett"
-    },
-    "url": "https://twitter.com/JacobBennett/status/1191710987147268102",
-    "published": "2019-11-05T13:36:54+00:00",
-    "wm-received": "2019-11-05T13:41:52Z",
-    "wm-id": 721757,
-    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1191710987147268102",
-    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "content": {
-      "html": "Great post on a super clean way to add user AND resource level permissions to your <a href=\"https://twitter.com/inertiajs\">@inertiajs</a> app. Thanks Sebastian! Exactly what I needed ❤️\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/\"></a>",
-      "text": "Great post on a super clean way to add user AND resource level permissions to your @inertiajs app. Thanks Sebastian! Exactly what I needed ❤️"
-    },
-    "mention-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "wm-property": "mention-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Casey Dwyer",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/b6a023dc5a9683ad5a9158c3843718c8f2d6c08a0af6d938f7ed4a544fa93641.jpg",
-      "url": "https://twitter.com/Casey_Dwyer"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1191648160671784960#favorited-by-73689240",
-    "published": null,
-    "wm-received": "2019-11-05T13:41:49Z",
-    "wm-id": 721756,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1191648160671784960/73689240",
-    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "like-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Mr CaT",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/4ff3f457a45eb8858e08a9f69aa81fcbaa7f28a000eb437e9e9e7aee8a23f2da.jpg",
-      "url": "https://twitter.com/mrcat323"
-    },
-    "url": "https://twitter.com/mrcat323/status/1191705182272393216",
-    "published": "2019-11-05T13:13:50+00:00",
-    "wm-received": "2019-11-05T13:41:48Z",
-    "wm-id": 721755,
-    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1191648160671784960/1191705182272393216",
+    "url": "https://twitter.com/igeoluwasegun1/status/1191658185154875393",
+    "published": "2019-11-05T10:07:05+00:00",
+    "wm-received": "2019-11-05T10:11:39Z",
+    "wm-id": 721704,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1191648160671784960/1191658185154875393",
     "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
     "content": {
       "text": "✒️ I wrote a post about handling authorization in a @laravelphp and @inertiajs application sebastiandedeyne.com/handling-autho…"
@@ -1061,15 +140,15 @@
     "type": "entry",
     "author": {
       "type": "card",
-      "name": "Joe Campo",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/7bc22bcdf8f520746b66ff997db8ec978bb62ccda8faf6782fccf654d4397f87.jpg",
-      "url": "https://twitter.com/joecampo"
+      "name": "Miguel Piedrafita 🚀",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/fa2e9a8dd19a716f2e068d287cc1edadff32bfe0ea77dc35362f10c903813132.png",
+      "url": "https://twitter.com/m1guelpf"
     },
-    "url": "https://twitter.com/sebdedeyne/status/1191648160671784960#favorited-by-18932356",
+    "url": "https://twitter.com/sebdedeyne/status/1191648160671784960#favorited-by-713094195955830785",
     "published": null,
-    "wm-received": "2019-11-05T13:41:45Z",
-    "wm-id": 721754,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1191648160671784960/18932356",
+    "wm-received": "2019-11-05T10:42:24Z",
+    "wm-id": 721705,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1191648160671784960/713094195955830785",
     "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
     "like-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
     "wm-property": "like-of",
@@ -1079,15 +158,15 @@
     "type": "entry",
     "author": {
       "type": "card",
-      "name": "Yannick Yayo",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/b72ba6dc09ac02a035961bdbf0540ec8dbe643a3cd0f3b0327e401e6fea98f34.jpg",
-      "url": "https://twitter.com/YannickYayo"
+      "name": "Enzo Innocenzi",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/fe87d6ec4c67122f10434d9c442d7aed1b7e820a1feecca271853cf6daffd607.jpg",
+      "url": "https://twitter.com/enzoinnocenzi"
     },
-    "url": "https://twitter.com/sebdedeyne/status/1191648160671784960#favorited-by-1499387432",
+    "url": "https://twitter.com/sebdedeyne/status/1191648160671784960#favorited-by-1183146018285785088",
     "published": null,
-    "wm-received": "2019-11-05T13:41:45Z",
-    "wm-id": 721753,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1191648160671784960/1499387432",
+    "wm-received": "2019-11-05T10:42:25Z",
+    "wm-id": 721706,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1191648160671784960/1183146018285785088",
     "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
     "like-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
     "wm-property": "like-of",
@@ -1097,109 +176,15 @@
     "type": "entry",
     "author": {
       "type": "card",
-      "name": "Wyatt",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/d2450d3284e8d38d88102d508c02f4095e3eee613cc83e87e45d58ded3d90c8f.jpg",
-      "url": "https://twitter.com/WyattCastaned44"
+      "name": "Zubair Mohsin",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/9ee91d9a429bd49d23733e4ad0975a2bfece50d83b11ad8fe30af485a64c32af.jpg",
+      "url": "https://twitter.com/Zubairmohsin33"
     },
-    "url": "https://twitter.com/sebdedeyne/status/1191648160671784960#favorited-by-534528249",
-    "published": null,
-    "wm-received": "2019-11-05T13:41:40Z",
-    "wm-id": 721752,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1191648160671784960/534528249",
-    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "like-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Jonathan Reinink",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/24a95169096c9932502918127022f92afc1bf09f6303631e6cfc09815d782656.jpg",
-      "url": "https://twitter.com/reinink"
-    },
-    "url": "https://twitter.com/reinink/status/1191711729388081153",
-    "published": "2019-11-05T13:39:51+00:00",
-    "wm-received": "2019-11-05T13:41:40Z",
-    "wm-id": 721751,
-    "wm-source": "https://brid-gy.appspot.com/comment/twitter/sebdedeyne/1191648160671784960/1191711729388081153",
-    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "content": {
-      "html": "Dig it Sebastian! Basically what I do as well, except I typically use the \"can\" attribute instead of \"permissions\".\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/inertiajs\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/laravelphp\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/sebdedeyne\"></a>",
-      "text": "Dig it Sebastian! Basically what I do as well, except I typically use the \"can\" attribute instead of \"permissions\"."
-    },
-    "in-reply-to": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "wm-property": "in-reply-to",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Marijn Bent",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/e6f823af0cf923796e2886482dadba38845c9756a4ef4bca3c0827a7524c89f4.jpg",
-      "url": "https://twitter.com/MarijnBent"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1191648160671784960#favorited-by-265007165",
-    "published": null,
-    "wm-received": "2019-11-05T13:41:37Z",
-    "wm-id": 721750,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1191648160671784960/265007165",
-    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "like-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Jake Bennett",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/709f41335b30b2b7c08c58bc51a270a756e32421be087dad9e4819acdf95a74e.jpg",
-      "url": "https://twitter.com/JacobBennett"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1191648160671784960#favorited-by-15074603",
-    "published": null,
-    "wm-received": "2019-11-05T13:41:36Z",
-    "wm-id": 721749,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1191648160671784960/15074603",
-    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "like-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Ahmad Ripaldi",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/e441ea87fce81f409b25450513037817b45a55ac1690151f553eba171f431d4a.jpg",
-      "url": "https://twitter.com/mattrifaldi"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1191648160671784960#favorited-by-3259486586",
-    "published": null,
-    "wm-received": "2019-11-05T13:08:10Z",
-    "wm-id": 721744,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1191648160671784960/3259486586",
-    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "like-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Ahmad Ripaldi",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/e441ea87fce81f409b25450513037817b45a55ac1690151f553eba171f431d4a.jpg",
-      "url": "https://twitter.com/mattrifaldi"
-    },
-    "url": "https://twitter.com/mattrifaldi/status/1191702367911022593",
-    "published": "2019-11-05T13:02:39+00:00",
-    "wm-received": "2019-11-05T13:08:09Z",
-    "wm-id": 721743,
-    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1191648160671784960/1191702367911022593",
+    "url": "https://twitter.com/Zubairmohsin33/status/1191673492955107328",
+    "published": "2019-11-05T11:07:55+00:00",
+    "wm-received": "2019-11-05T11:12:59Z",
+    "wm-id": 721713,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1191648160671784960/1191673492955107328",
     "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
     "content": {
       "text": "✒️ I wrote a post about handling authorization in a @laravelphp and @inertiajs application sebastiandedeyne.com/handling-autho…"
@@ -1212,244 +197,15 @@
     "type": "entry",
     "author": {
       "type": "card",
-      "name": "Inertia.js",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/fa424f3aabd79d077a30fbdf8a8da1508d816309811903c5c1e7f98a8b66bf08.jpg",
-      "url": "https://twitter.com/inertiajs"
+      "name": "Zubair Mohsin",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/9ee91d9a429bd49d23733e4ad0975a2bfece50d83b11ad8fe30af485a64c32af.jpg",
+      "url": "https://twitter.com/Zubairmohsin33"
     },
-    "url": "https://twitter.com/inertiajs/status/1191695408185131013",
-    "published": "2019-11-05T12:35:00+00:00",
-    "wm-received": "2019-11-05T13:08:07Z",
-    "wm-id": 721742,
-    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1191648160671784960/1191695408185131013",
-    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "content": {
-      "text": "✒️ I wrote a post about handling authorization in a @laravelphp and @inertiajs application sebastiandedeyne.com/handling-autho…"
-    },
-    "repost-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "wm-property": "repost-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Jason Beggs",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/53706884685cc0c1167d81d849035f17aeb306e3e0d22acf8d1a372a24df511a.png",
-      "url": "https://twitter.com/jasonlbeggs"
-    },
-    "url": "https://twitter.com/jasonlbeggs/status/1191700536795582465",
-    "published": "2019-11-05T12:55:23+00:00",
-    "wm-received": "2019-11-05T13:08:06Z",
-    "wm-id": 721741,
-    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1191648160671784960/1191700536795582465",
-    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "content": {
-      "text": "✒️ I wrote a post about handling authorization in a @laravelphp and @inertiajs application sebastiandedeyne.com/handling-autho…"
-    },
-    "repost-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "wm-property": "repost-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Inertia.js",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/fa424f3aabd79d077a30fbdf8a8da1508d816309811903c5c1e7f98a8b66bf08.jpg",
-      "url": "https://twitter.com/inertiajs"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1191648160671784960#favorited-by-1096924668009857024",
+    "url": "https://twitter.com/sebdedeyne/status/1191648160671784960#favorited-by-2972870264",
     "published": null,
-    "wm-received": "2019-11-05T13:08:04Z",
-    "wm-id": 721740,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1191648160671784960/1096924668009857024",
-    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "like-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Jason Beggs",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/53706884685cc0c1167d81d849035f17aeb306e3e0d22acf8d1a372a24df511a.png",
-      "url": "https://twitter.com/jasonlbeggs"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1191648160671784960#favorited-by-109686372",
-    "published": null,
-    "wm-received": "2019-11-05T13:08:00Z",
-    "wm-id": 721739,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1191648160671784960/109686372",
-    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "like-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Spatie",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/3efb487e7f3a0bc3690580277105f93eda590d65e4d9eb01135a184a9df60b18.jpg",
-      "url": "https://twitter.com/spatie_be"
-    },
-    "url": "https://twitter.com/spatie_be/status/1191703184772927489",
-    "published": "2019-11-05T13:05:54+00:00",
-    "wm-received": "2019-11-05T13:07:59Z",
-    "wm-id": 721738,
-    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1191648160671784960/1191703184772927489",
-    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "content": {
-      "text": "✒️ I wrote a post about handling authorization in a @laravelphp and @inertiajs application sebastiandedeyne.com/handling-autho…"
-    },
-    "repost-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "wm-property": "repost-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Petro Karpiuk",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/31b876fb810c87cf357ef732be42a237bc4fb874afe2326095bdb150048f4ffa.jpg",
-      "url": "https://twitter.com/petrokarpiuk"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1191648160671784960#favorited-by-1858336333",
-    "published": null,
-    "wm-received": "2019-11-05T12:33:25Z",
-    "wm-id": 721734,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1191648160671784960/1858336333",
-    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "like-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Stefan Bauer",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/78b2190e94eb28cab02d6d26cde10e1c5bc6dd7fd544876afda443572069f642.jpg",
-      "url": "https://twitter.com/stefanbauerme"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1191648160671784960#favorited-by-270319969",
-    "published": null,
-    "wm-received": "2019-11-05T12:33:25Z",
-    "wm-id": 721733,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1191648160671784960/270319969",
-    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "like-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Ishan Vyas",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/e129640071843354bef463ae2211c801057d660f00b22a27fce603c9a8ef9c86.jpg",
-      "url": "https://twitter.com/Ishanvyas22"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1191648160671784960#favorited-by-411391417",
-    "published": null,
-    "wm-received": "2019-11-05T12:03:29Z",
-    "wm-id": 721730,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1191648160671784960/411391417",
-    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "like-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Michaël De Boey",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/4c253771a8d1f79422524c6dd9f74ea83b1255def284013494330c1b3792bdf1.jpg",
-      "url": "https://twitter.com/MichaelDeBoey93"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1191648160671784960#favorited-by-148502139",
-    "published": null,
-    "wm-received": "2019-11-05T12:03:25Z",
-    "wm-id": 721728,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1191648160671784960/148502139",
-    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "like-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Carlos Rodríguez",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/4eab545eb36a0e53e835e9e53ab080b180d303b97a11457a2da8a424d3e2764c.jpg",
-      "url": "https://twitter.com/_carlosre"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1191648160671784960#favorited-by-166773701",
-    "published": null,
-    "wm-received": "2019-11-05T11:37:18Z",
-    "wm-id": 721723,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1191648160671784960/166773701",
-    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "like-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Thibault Lavoisey",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/b88f8a1fea48335f0829fd3a3762a567f0d705140d207978a06a4a67a7732cd5.jpg",
-      "url": "https://twitter.com/thibaultlavoise"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1191648160671784960#favorited-by-916741484",
-    "published": null,
-    "wm-received": "2019-11-05T11:37:16Z",
-    "wm-id": 721722,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1191648160671784960/916741484",
-    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "like-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Sebastian De Deyne",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/3ce609991342657b8b7e99eb7a5c6e3656fbdb1c51575f1464d354b81aaeda86.jpg",
-      "url": "https://twitter.com/sebdedeyne"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1191678784577118208",
-    "published": "2019-11-05T11:28:57+00:00",
-    "wm-received": "2019-11-05T11:37:14Z",
-    "wm-id": 721721,
-    "wm-source": "https://brid-gy.appspot.com/comment/twitter/sebdedeyne/1191648160671784960/1191678784577118208",
-    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "content": {
-      "html": "Thanks! I know, gotta fix that some time but it's a super tough one 😀\n<a class=\"u-mention\" href=\"https://twitter.com/inertiajs\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/juhlinus\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/laravelphp\"></a>",
-      "text": "Thanks! I know, gotta fix that some time but it's a super tough one 😀"
-    },
-    "in-reply-to": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "wm-property": "in-reply-to",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Fawzan",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/d771a397247c2281ce8f6ad6347721ec165ade340ce13a414ac1c5276f5d71ee.jpg",
-      "url": "https://twitter.com/eFawzan"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1191648160671784960#favorited-by-296129604",
-    "published": null,
-    "wm-received": "2019-11-05T11:13:06Z",
-    "wm-id": 721716,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1191648160671784960/296129604",
+    "wm-received": "2019-11-05T11:13:01Z",
+    "wm-id": 721714,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1191648160671784960/2972870264",
     "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
     "like-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
     "wm-property": "like-of",
@@ -1484,96 +240,18 @@
     "type": "entry",
     "author": {
       "type": "card",
-      "name": "Zubair Mohsin",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/9ee91d9a429bd49d23733e4ad0975a2bfece50d83b11ad8fe30af485a64c32af.jpg",
-      "url": "https://twitter.com/Zubairmohsin33"
+      "name": "Fawzan",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/d771a397247c2281ce8f6ad6347721ec165ade340ce13a414ac1c5276f5d71ee.jpg",
+      "url": "https://twitter.com/eFawzan"
     },
-    "url": "https://twitter.com/sebdedeyne/status/1191648160671784960#favorited-by-2972870264",
+    "url": "https://twitter.com/sebdedeyne/status/1191648160671784960#favorited-by-296129604",
     "published": null,
-    "wm-received": "2019-11-05T11:13:01Z",
-    "wm-id": 721714,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1191648160671784960/2972870264",
+    "wm-received": "2019-11-05T11:13:06Z",
+    "wm-id": 721716,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1191648160671784960/296129604",
     "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
     "like-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
     "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Zubair Mohsin",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/9ee91d9a429bd49d23733e4ad0975a2bfece50d83b11ad8fe30af485a64c32af.jpg",
-      "url": "https://twitter.com/Zubairmohsin33"
-    },
-    "url": "https://twitter.com/Zubairmohsin33/status/1191673492955107328",
-    "published": "2019-11-05T11:07:55+00:00",
-    "wm-received": "2019-11-05T11:12:59Z",
-    "wm-id": 721713,
-    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1191648160671784960/1191673492955107328",
-    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "content": {
-      "text": "✒️ I wrote a post about handling authorization in a @laravelphp and @inertiajs application sebastiandedeyne.com/handling-autho…"
-    },
-    "repost-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "wm-property": "repost-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Enzo Innocenzi",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/fe87d6ec4c67122f10434d9c442d7aed1b7e820a1feecca271853cf6daffd607.jpg",
-      "url": "https://twitter.com/enzoinnocenzi"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1191648160671784960#favorited-by-1183146018285785088",
-    "published": null,
-    "wm-received": "2019-11-05T10:42:25Z",
-    "wm-id": 721706,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1191648160671784960/1183146018285785088",
-    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "like-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Miguel Piedrafita 🚀",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/fa2e9a8dd19a716f2e068d287cc1edadff32bfe0ea77dc35362f10c903813132.png",
-      "url": "https://twitter.com/m1guelpf"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1191648160671784960#favorited-by-713094195955830785",
-    "published": null,
-    "wm-received": "2019-11-05T10:42:24Z",
-    "wm-id": 721705,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1191648160671784960/713094195955830785",
-    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "like-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "oluwajubelo loves VueJS 🚨",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/b46941f64275ee2ae7ae9618ba0d3b60e9ab8ce6a343ff90b0e905321a4c24de.jpg",
-      "url": "https://twitter.com/igeoluwasegun1"
-    },
-    "url": "https://twitter.com/igeoluwasegun1/status/1191658185154875393",
-    "published": "2019-11-05T10:07:05+00:00",
-    "wm-received": "2019-11-05T10:11:39Z",
-    "wm-id": 721704,
-    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1191648160671784960/1191658185154875393",
-    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "content": {
-      "text": "✒️ I wrote a post about handling authorization in a @laravelphp and @inertiajs application sebastiandedeyne.com/handling-autho…"
-    },
-    "repost-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "wm-property": "repost-of",
     "wm-private": false
   },
   {
@@ -1584,15 +262,15 @@
       "photo": "https://webmention.io/avatar/pbs.twimg.com/3ce609991342657b8b7e99eb7a5c6e3656fbdb1c51575f1464d354b81aaeda86.jpg",
       "url": "https://twitter.com/sebdedeyne"
     },
-    "url": "https://twitter.com/sebdedeyne/status/1191653992650223616",
-    "published": "2019-11-05T09:50:26+00:00",
-    "wm-received": "2019-11-05T10:11:39Z",
-    "wm-id": 721703,
-    "wm-source": "https://brid-gy.appspot.com/comment/twitter/sebdedeyne/1191648160671784960/1191653992650223616",
+    "url": "https://twitter.com/sebdedeyne/status/1191678784577118208",
+    "published": "2019-11-05T11:28:57+00:00",
+    "wm-received": "2019-11-05T11:37:14Z",
+    "wm-id": 721721,
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/sebdedeyne/1191648160671784960/1191678784577118208",
     "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
     "content": {
-      "html": "Whoops, pushed a fix, thanks!\n<a class=\"u-mention\" href=\"https://twitter.com/alexjoffroy\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/inertiajs\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/laravelphp\"></a>",
-      "text": "Whoops, pushed a fix, thanks!"
+      "html": "Thanks! I know, gotta fix that some time but it's a super tough one 😀\n<a class=\"u-mention\" href=\"https://twitter.com/inertiajs\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/juhlinus\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/laravelphp\"></a>",
+      "text": "Thanks! I know, gotta fix that some time but it's a super tough one 😀"
     },
     "in-reply-to": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
     "wm-property": "in-reply-to",
@@ -1602,15 +280,15 @@
     "type": "entry",
     "author": {
       "type": "card",
-      "name": "oluwajubelo loves VueJS 🚨",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/b46941f64275ee2ae7ae9618ba0d3b60e9ab8ce6a343ff90b0e905321a4c24de.jpg",
-      "url": "https://twitter.com/igeoluwasegun1"
+      "name": "Thibault Lavoisey",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/b88f8a1fea48335f0829fd3a3762a567f0d705140d207978a06a4a67a7732cd5.jpg",
+      "url": "https://twitter.com/thibaultlavoise"
     },
-    "url": "https://twitter.com/sebdedeyne/status/1191648160671784960#favorited-by-982451690",
+    "url": "https://twitter.com/sebdedeyne/status/1191648160671784960#favorited-by-916741484",
     "published": null,
-    "wm-received": "2019-11-05T10:11:37Z",
-    "wm-id": 721702,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1191648160671784960/982451690",
+    "wm-received": "2019-11-05T11:37:16Z",
+    "wm-id": 721722,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1191648160671784960/916741484",
     "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
     "like-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
     "wm-property": "like-of",
@@ -1620,15 +298,15 @@
     "type": "entry",
     "author": {
       "type": "card",
-      "name": "James",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/eb89e72bc665836f710fd289586e6b40b5e713549bf9bf91b74e42c5a136e765.jpg",
-      "url": "https://twitter.com/sesticles"
+      "name": "Carlos Rodríguez",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/4eab545eb36a0e53e835e9e53ab080b180d303b97a11457a2da8a424d3e2764c.jpg",
+      "url": "https://twitter.com/_carlosre"
     },
-    "url": "https://twitter.com/sebdedeyne/status/1191648160671784960#favorited-by-1062926515",
+    "url": "https://twitter.com/sebdedeyne/status/1191648160671784960#favorited-by-166773701",
     "published": null,
-    "wm-received": "2019-11-05T10:11:36Z",
-    "wm-id": 721701,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1191648160671784960/1062926515",
+    "wm-received": "2019-11-05T11:37:18Z",
+    "wm-id": 721723,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1191648160671784960/166773701",
     "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
     "like-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
     "wm-property": "like-of",
@@ -1638,15 +316,15 @@
     "type": "entry",
     "author": {
       "type": "card",
-      "name": "Kalle Palokankare",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/825cd24e1c94e1ba0f0b11ba7be897e1cec352c9182c010d9197efcfb0b69f02.jpg",
-      "url": "https://twitter.com/palokankare"
+      "name": "Michaël De Boey",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/4c253771a8d1f79422524c6dd9f74ea83b1255def284013494330c1b3792bdf1.jpg",
+      "url": "https://twitter.com/MichaelDeBoey93"
     },
-    "url": "https://twitter.com/sebdedeyne/status/1191648160671784960#favorited-by-2207288388",
+    "url": "https://twitter.com/sebdedeyne/status/1191648160671784960#favorited-by-148502139",
     "published": null,
-    "wm-received": "2019-11-05T10:11:32Z",
-    "wm-id": 721699,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1191648160671784960/2207288388",
+    "wm-received": "2019-11-05T12:03:25Z",
+    "wm-id": 721728,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1191648160671784960/148502139",
     "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
     "like-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
     "wm-property": "like-of",
@@ -1656,15 +334,15 @@
     "type": "entry",
     "author": {
       "type": "card",
-      "name": "Elie Andraos",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/a78f4b78055c8228ccca0172fee4fb16056fd1744ef544e79fd64558c34984cb.jpg",
-      "url": "https://twitter.com/andzilla31"
+      "name": "Ishan Vyas",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/e129640071843354bef463ae2211c801057d660f00b22a27fce603c9a8ef9c86.jpg",
+      "url": "https://twitter.com/Ishanvyas22"
     },
-    "url": "https://twitter.com/sebdedeyne/status/1191648160671784960#favorited-by-1002479505108340737",
+    "url": "https://twitter.com/sebdedeyne/status/1191648160671784960#favorited-by-411391417",
     "published": null,
-    "wm-received": "2019-11-05T09:36:26Z",
-    "wm-id": 721689,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1191648160671784960/1002479505108340737",
+    "wm-received": "2019-11-05T12:03:29Z",
+    "wm-id": 721730,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1191648160671784960/411391417",
     "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
     "like-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
     "wm-property": "like-of",
@@ -1674,22 +352,1344 @@
     "type": "entry",
     "author": {
       "type": "card",
-      "name": "Alex Joffroy",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/e13d3ec9ba3c10a55a01a3f05b42dab729855b0369df31638c6abc9851abd7d6.png",
-      "url": "https://twitter.com/alexjoffroy"
+      "name": "Stefan Bauer",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/78b2190e94eb28cab02d6d26cde10e1c5bc6dd7fd544876afda443572069f642.jpg",
+      "url": "https://twitter.com/stefanbauerme"
     },
-    "url": "https://twitter.com/alexjoffroy/status/1191650328455847936",
-    "published": "2019-11-05T09:35:52+00:00",
-    "wm-received": "2019-11-05T09:36:25Z",
-    "wm-id": 721688,
-    "wm-source": "https://brid-gy.appspot.com/comment/twitter/sebdedeyne/1191648160671784960/1191650328455847936",
+    "url": "https://twitter.com/sebdedeyne/status/1191648160671784960#favorited-by-270319969",
+    "published": null,
+    "wm-received": "2019-11-05T12:33:25Z",
+    "wm-id": 721733,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1191648160671784960/270319969",
+    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "like-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Petro Karpiuk",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/31b876fb810c87cf357ef732be42a237bc4fb874afe2326095bdb150048f4ffa.jpg",
+      "url": "https://twitter.com/petrokarpiuk"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1191648160671784960#favorited-by-1858336333",
+    "published": null,
+    "wm-received": "2019-11-05T12:33:25Z",
+    "wm-id": 721734,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1191648160671784960/1858336333",
+    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "like-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Spatie",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/3efb487e7f3a0bc3690580277105f93eda590d65e4d9eb01135a184a9df60b18.jpg",
+      "url": "https://twitter.com/spatie_be"
+    },
+    "url": "https://twitter.com/spatie_be/status/1191703184772927489",
+    "published": "2019-11-05T13:05:54+00:00",
+    "wm-received": "2019-11-05T13:07:59Z",
+    "wm-id": 721738,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1191648160671784960/1191703184772927489",
     "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
     "content": {
-      "html": "In your post, the \"handling routes in a Laravel and Inertia app\" link is redirecting to localhost :)\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/inertiajs\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/laravelphp\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/sebdedeyne\"></a>",
-      "text": "In your post, the \"handling routes in a Laravel and Inertia app\" link is redirecting to localhost :)"
+      "text": "✒️ I wrote a post about handling authorization in a @laravelphp and @inertiajs application sebastiandedeyne.com/handling-autho…"
+    },
+    "repost-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Jason Beggs",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/53706884685cc0c1167d81d849035f17aeb306e3e0d22acf8d1a372a24df511a.png",
+      "url": "https://twitter.com/jasonlbeggs"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1191648160671784960#favorited-by-109686372",
+    "published": null,
+    "wm-received": "2019-11-05T13:08:00Z",
+    "wm-id": 721739,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1191648160671784960/109686372",
+    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "like-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Inertia.js",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/fa424f3aabd79d077a30fbdf8a8da1508d816309811903c5c1e7f98a8b66bf08.jpg",
+      "url": "https://twitter.com/inertiajs"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1191648160671784960#favorited-by-1096924668009857024",
+    "published": null,
+    "wm-received": "2019-11-05T13:08:04Z",
+    "wm-id": 721740,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1191648160671784960/1096924668009857024",
+    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "like-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Jason Beggs",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/53706884685cc0c1167d81d849035f17aeb306e3e0d22acf8d1a372a24df511a.png",
+      "url": "https://twitter.com/jasonlbeggs"
+    },
+    "url": "https://twitter.com/jasonlbeggs/status/1191700536795582465",
+    "published": "2019-11-05T12:55:23+00:00",
+    "wm-received": "2019-11-05T13:08:06Z",
+    "wm-id": 721741,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1191648160671784960/1191700536795582465",
+    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "content": {
+      "text": "✒️ I wrote a post about handling authorization in a @laravelphp and @inertiajs application sebastiandedeyne.com/handling-autho…"
+    },
+    "repost-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Inertia.js",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/fa424f3aabd79d077a30fbdf8a8da1508d816309811903c5c1e7f98a8b66bf08.jpg",
+      "url": "https://twitter.com/inertiajs"
+    },
+    "url": "https://twitter.com/inertiajs/status/1191695408185131013",
+    "published": "2019-11-05T12:35:00+00:00",
+    "wm-received": "2019-11-05T13:08:07Z",
+    "wm-id": 721742,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1191648160671784960/1191695408185131013",
+    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "content": {
+      "text": "✒️ I wrote a post about handling authorization in a @laravelphp and @inertiajs application sebastiandedeyne.com/handling-autho…"
+    },
+    "repost-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Ahmad Ripaldi",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/e441ea87fce81f409b25450513037817b45a55ac1690151f553eba171f431d4a.jpg",
+      "url": "https://twitter.com/mattrifaldi"
+    },
+    "url": "https://twitter.com/mattrifaldi/status/1191702367911022593",
+    "published": "2019-11-05T13:02:39+00:00",
+    "wm-received": "2019-11-05T13:08:09Z",
+    "wm-id": 721743,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1191648160671784960/1191702367911022593",
+    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "content": {
+      "text": "✒️ I wrote a post about handling authorization in a @laravelphp and @inertiajs application sebastiandedeyne.com/handling-autho…"
+    },
+    "repost-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Ahmad Ripaldi",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/e441ea87fce81f409b25450513037817b45a55ac1690151f553eba171f431d4a.jpg",
+      "url": "https://twitter.com/mattrifaldi"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1191648160671784960#favorited-by-3259486586",
+    "published": null,
+    "wm-received": "2019-11-05T13:08:10Z",
+    "wm-id": 721744,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1191648160671784960/3259486586",
+    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "like-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Jake Bennett",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/709f41335b30b2b7c08c58bc51a270a756e32421be087dad9e4819acdf95a74e.jpg",
+      "url": "https://twitter.com/JacobBennett"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1191648160671784960#favorited-by-15074603",
+    "published": null,
+    "wm-received": "2019-11-05T13:41:36Z",
+    "wm-id": 721749,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1191648160671784960/15074603",
+    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "like-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Marijn Bent",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/e6f823af0cf923796e2886482dadba38845c9756a4ef4bca3c0827a7524c89f4.jpg",
+      "url": "https://twitter.com/MarijnBent"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1191648160671784960#favorited-by-265007165",
+    "published": null,
+    "wm-received": "2019-11-05T13:41:37Z",
+    "wm-id": 721750,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1191648160671784960/265007165",
+    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "like-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Jonathan Reinink",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/24a95169096c9932502918127022f92afc1bf09f6303631e6cfc09815d782656.jpg",
+      "url": "https://twitter.com/reinink"
+    },
+    "url": "https://twitter.com/reinink/status/1191711729388081153",
+    "published": "2019-11-05T13:39:51+00:00",
+    "wm-received": "2019-11-05T13:41:40Z",
+    "wm-id": 721751,
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/sebdedeyne/1191648160671784960/1191711729388081153",
+    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "content": {
+      "html": "Dig it Sebastian! Basically what I do as well, except I typically use the \"can\" attribute instead of \"permissions\".\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/inertiajs\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/laravelphp\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/sebdedeyne\"></a>",
+      "text": "Dig it Sebastian! Basically what I do as well, except I typically use the \"can\" attribute instead of \"permissions\"."
     },
     "in-reply-to": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
     "wm-property": "in-reply-to",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Wyatt",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/d2450d3284e8d38d88102d508c02f4095e3eee613cc83e87e45d58ded3d90c8f.jpg",
+      "url": "https://twitter.com/WyattCastaned44"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1191648160671784960#favorited-by-534528249",
+    "published": null,
+    "wm-received": "2019-11-05T13:41:40Z",
+    "wm-id": 721752,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1191648160671784960/534528249",
+    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "like-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Yannick Yayo",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/b72ba6dc09ac02a035961bdbf0540ec8dbe643a3cd0f3b0327e401e6fea98f34.jpg",
+      "url": "https://twitter.com/YannickYayo"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1191648160671784960#favorited-by-1499387432",
+    "published": null,
+    "wm-received": "2019-11-05T13:41:45Z",
+    "wm-id": 721753,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1191648160671784960/1499387432",
+    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "like-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Joe Campo",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/7bc22bcdf8f520746b66ff997db8ec978bb62ccda8faf6782fccf654d4397f87.jpg",
+      "url": "https://twitter.com/joecampo"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1191648160671784960#favorited-by-18932356",
+    "published": null,
+    "wm-received": "2019-11-05T13:41:45Z",
+    "wm-id": 721754,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1191648160671784960/18932356",
+    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "like-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Mr CaT",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/4ff3f457a45eb8858e08a9f69aa81fcbaa7f28a000eb437e9e9e7aee8a23f2da.jpg",
+      "url": "https://twitter.com/mrcat323"
+    },
+    "url": "https://twitter.com/mrcat323/status/1191705182272393216",
+    "published": "2019-11-05T13:13:50+00:00",
+    "wm-received": "2019-11-05T13:41:48Z",
+    "wm-id": 721755,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1191648160671784960/1191705182272393216",
+    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "content": {
+      "text": "✒️ I wrote a post about handling authorization in a @laravelphp and @inertiajs application sebastiandedeyne.com/handling-autho…"
+    },
+    "repost-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Casey Dwyer",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/b6a023dc5a9683ad5a9158c3843718c8f2d6c08a0af6d938f7ed4a544fa93641.jpg",
+      "url": "https://twitter.com/Casey_Dwyer"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1191648160671784960#favorited-by-73689240",
+    "published": null,
+    "wm-received": "2019-11-05T13:41:49Z",
+    "wm-id": 721756,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1191648160671784960/73689240",
+    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "like-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Jake Bennett",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/709f41335b30b2b7c08c58bc51a270a756e32421be087dad9e4819acdf95a74e.jpg",
+      "url": "https://twitter.com/JacobBennett"
+    },
+    "url": "https://twitter.com/JacobBennett/status/1191710987147268102",
+    "published": "2019-11-05T13:36:54+00:00",
+    "wm-received": "2019-11-05T13:41:52Z",
+    "wm-id": 721757,
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1191710987147268102",
+    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "content": {
+      "html": "Great post on a super clean way to add user AND resource level permissions to your <a href=\"https://twitter.com/inertiajs\">@inertiajs</a> app. Thanks Sebastian! Exactly what I needed ❤️\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/\"></a>",
+      "text": "Great post on a super clean way to add user AND resource level permissions to your @inertiajs app. Thanks Sebastian! Exactly what I needed ❤️"
+    },
+    "mention-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "wm-property": "mention-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Pascual Strømsnæs",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/1c8f42888570ddf2b11754c91a0e3b55b92d9c6707c1b6614a4d9335176ccef6.jpg",
+      "url": "https://twitter.com/pascualstr"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1191648160671784960#favorited-by-18240207",
+    "published": null,
+    "wm-received": "2019-11-05T13:41:53Z",
+    "wm-id": 721758,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1191648160671784960/18240207",
+    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "like-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Mário Ramos",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/8645c735553c63418cae880716cd23d2a4a2090a0d1e66818445f0326feb1d54.jpg",
+      "url": "https://twitter.com/mjpramos"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1191648160671784960#favorited-by-36976355",
+    "published": null,
+    "wm-received": "2019-11-05T13:41:55Z",
+    "wm-id": 721759,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1191648160671784960/36976355",
+    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "like-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Chris Chambers",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/d28048431df356074e3ee9985a45ad480b470ade39404b33911181ebb1aa62f3.jpg",
+      "url": "https://twitter.com/chriischambers"
+    },
+    "url": "https://twitter.com/chriischambers/status/1191714310491377664",
+    "published": "2019-11-05T13:50:07+00:00",
+    "wm-received": "2019-11-05T14:14:48Z",
+    "wm-id": 721768,
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/sebdedeyne/1191648160671784960/1191714310491377664",
+    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "content": {
+      "html": "Great Sebastian. Just at the right time too, this is literally next on my list to implement into our app.\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/inertiajs\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/laravelphp\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/sebdedeyne\"></a>",
+      "text": "Great Sebastian. Just at the right time too, this is literally next on my list to implement into our app."
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Sebastian De Deyne",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/3ce609991342657b8b7e99eb7a5c6e3656fbdb1c51575f1464d354b81aaeda86.jpg",
+      "url": "https://twitter.com/sebdedeyne"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1191712436132470784",
+    "published": "2019-11-05T13:42:40+00:00",
+    "wm-received": "2019-11-05T14:14:50Z",
+    "wm-id": 721769,
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/sebdedeyne/1191648160671784960/1191712436132470784",
+    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "content": {
+      "html": "I've used can in the past. I like it on the user level, but not on the resource level. For example `user.can.createPost` looks good, but `post.can.create` looks like the post can create something\n<a class=\"u-mention\" href=\"https://twitter.com/inertiajs\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/laravelphp\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/reinink\"></a>",
+      "text": "I've used can in the past. I like it on the user level, but not on the resource level. For example `user.can.createPost` looks good, but `post.can.create` looks like the post can create something"
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Chris Chambers",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/d28048431df356074e3ee9985a45ad480b470ade39404b33911181ebb1aa62f3.jpg",
+      "url": "https://twitter.com/chriischambers"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1191648160671784960#favorited-by-20159446",
+    "published": null,
+    "wm-received": "2019-11-05T14:14:51Z",
+    "wm-id": 721770,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1191648160671784960/20159446",
+    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "like-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Chris Chambers",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/d28048431df356074e3ee9985a45ad480b470ade39404b33911181ebb1aa62f3.jpg",
+      "url": "https://twitter.com/chriischambers"
+    },
+    "url": "https://twitter.com/chriischambers/status/1191714823358337026",
+    "published": "2019-11-05T13:52:09+00:00",
+    "wm-received": "2019-11-05T14:14:51Z",
+    "wm-id": 721771,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1191648160671784960/1191714823358337026",
+    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "content": {
+      "text": "✒️ I wrote a post about handling authorization in a @laravelphp and @inertiajs application sebastiandedeyne.com/handling-autho…"
+    },
+    "repost-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Laravel Türkiye",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/3736388bea22247686ec89b0cade4dbe251d46eaed7d575be03037c22bb2fd7a.png",
+      "url": "https://twitter.com/LaravelTr"
+    },
+    "url": "https://twitter.com/LaravelTr/status/1191713246455193601",
+    "published": "2019-11-05T13:45:53+00:00",
+    "wm-received": "2019-11-05T14:14:53Z",
+    "wm-id": 721772,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1191648160671784960/1191713246455193601",
+    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "content": {
+      "text": "✒️ I wrote a post about handling authorization in a @laravelphp and @inertiajs application sebastiandedeyne.com/handling-autho…"
+    },
+    "repost-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Georg Thomassen",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/6badfe5ac5459e75cd820c85fc469b8bd3805d64bb7ed6214462c07b117b4e29.png",
+      "url": "https://twitter.com/georgthomassen"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1191648160671784960#favorited-by-525675603",
+    "published": null,
+    "wm-received": "2019-11-05T14:14:53Z",
+    "wm-id": 721773,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1191648160671784960/525675603",
+    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "like-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Laravel Türkiye",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/3736388bea22247686ec89b0cade4dbe251d46eaed7d575be03037c22bb2fd7a.png",
+      "url": "https://twitter.com/LaravelTr"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1191648160671784960#favorited-by-835370485",
+    "published": null,
+    "wm-received": "2019-11-05T14:14:54Z",
+    "wm-id": 721774,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1191648160671784960/835370485",
+    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "like-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Stephen S. Musoke - Homo sapiens #aedifex #Xennial",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/0926e03642b55d9fef65e8d16f3d3ca9c811b35391a24bd256adc875da30c30e.jpg",
+      "url": "https://twitter.com/ssmusoke"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1191648160671784960#favorited-by-78616892",
+    "published": null,
+    "wm-received": "2019-11-05T14:14:55Z",
+    "wm-id": 721775,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1191648160671784960/78616892",
+    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "like-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Jason Gilmore",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/c11f773367b96c10d26d9f5c1c87397e22f1901bbcfd40bfac1e2db2b6fc0d67.jpg",
+      "url": "https://twitter.com/wjgilmore"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1191648160671784960#favorited-by-783470",
+    "published": null,
+    "wm-received": "2019-11-05T14:14:56Z",
+    "wm-id": 721776,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1191648160671784960/783470",
+    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "like-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Richard van Baarsen",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/7c7add928e602468d1b2fbfbe3babb88bfa259864e754b2a657372d85a50018b.jpg",
+      "url": "https://twitter.com/riesyart"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1191648160671784960#favorited-by-798196627336929280",
+    "published": null,
+    "wm-received": "2019-11-05T14:14:57Z",
+    "wm-id": 721777,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1191648160671784960/798196627336929280",
+    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "like-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Jonathan Reinink",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/24a95169096c9932502918127022f92afc1bf09f6303631e6cfc09815d782656.jpg",
+      "url": "https://twitter.com/reinink"
+    },
+    "url": "https://twitter.com/reinink/status/1191712609856294912",
+    "published": "2019-11-05T13:43:21+00:00",
+    "wm-received": "2019-11-05T14:14:58Z",
+    "wm-id": 721778,
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/sebdedeyne/1191648160671784960/1191712609856294912",
+    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "content": {
+      "html": "Yup, legit concern.\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/inertiajs\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/laravelphp\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/sebdedeyne\"></a>",
+      "text": "Yup, legit concern."
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Barnabas Ifebude",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/9d2cca729be8be5dc9d1e54b547dba6b8235be2f7695b895b7286d2936fa4752.jpg",
+      "url": "https://twitter.com/Cibsmart"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1191648160671784960#favorited-by-299150989",
+    "published": null,
+    "wm-received": "2019-11-05T15:18:13Z",
+    "wm-id": 721803,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1191648160671784960/299150989",
+    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "like-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Christian Klemp",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/e12b0a201b4a056134cc43db9409c13c87eb3dc0f1ae5aecb50800c6f1cd5735.jpg",
+      "url": "https://twitter.com/christianklemp"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1191648160671784960#favorited-by-9585342",
+    "published": null,
+    "wm-received": "2019-11-05T15:18:13Z",
+    "wm-id": 721804,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1191648160671784960/9585342",
+    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "like-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Mohammed Isa",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/519369b787a7cf9e4d8d60db27a26eecbcfc0e703b8f2f94f6743de837ad258b.png",
+      "url": "https://twitter.com/mohd_itcs"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1191648160671784960#favorited-by-912371228",
+    "published": null,
+    "wm-received": "2019-11-05T15:18:13Z",
+    "wm-id": 721805,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1191648160671784960/912371228",
+    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "like-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Mithicher Baro",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/b4ee0c303dd27e391b702d9713c984efbbf051c6948b0dc2164dc17a3747bdd7.png",
+      "url": "https://twitter.com/mithicher"
+    },
+    "url": "https://twitter.com/mithicher/status/1191734674751553538",
+    "published": "2019-11-05T15:11:02+00:00",
+    "wm-received": "2019-11-05T15:18:16Z",
+    "wm-id": 721806,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1191648160671784960/1191734674751553538",
+    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "content": {
+      "text": "✒️ I wrote a post about handling authorization in a @laravelphp and @inertiajs application sebastiandedeyne.com/handling-autho…"
+    },
+    "repost-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Mithicher Baro",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/b4ee0c303dd27e391b702d9713c984efbbf051c6948b0dc2164dc17a3747bdd7.png",
+      "url": "https://twitter.com/mithicher"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1191648160671784960#favorited-by-1315799845",
+    "published": null,
+    "wm-received": "2019-11-05T15:18:18Z",
+    "wm-id": 721807,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1191648160671784960/1315799845",
+    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "like-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Cyril de Wit",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/024226e454853ac712e85cd3c646b7f3aea99b8adb6399176042dbc5db88903c.jpg",
+      "url": "https://twitter.com/cyrildewit"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1191648160671784960#favorited-by-2172253302",
+    "published": null,
+    "wm-received": "2019-11-05T15:44:56Z",
+    "wm-id": 721809,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1191648160671784960/2172253302",
+    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "like-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Bill Richards",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/e468240b61c4e760245d3674a5bd55af9c6b225153dfc909382e3db0efbfaced.jpg",
+      "url": "https://twitter.com/lostincode"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1191648160671784960#favorited-by-78280480",
+    "published": null,
+    "wm-received": "2019-11-05T15:44:58Z",
+    "wm-id": 721810,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1191648160671784960/78280480",
+    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "like-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Lars",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/7973dd444f577425df153cfcc4289f98901e3fbb3cc2005a61ef8ecc80d063c0.jpg",
+      "url": "https://twitter.com/LarsPeterke"
+    },
+    "url": "https://twitter.com/LarsPeterke/status/1191741995057848321",
+    "published": "2019-11-05T15:40:07+00:00",
+    "wm-received": "2019-11-05T15:44:58Z",
+    "wm-id": 721811,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1191648160671784960/1191741995057848321",
+    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "content": {
+      "text": "✒️ I wrote a post about handling authorization in a @laravelphp and @inertiajs application sebastiandedeyne.com/handling-autho…"
+    },
+    "repost-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "JOSIAH YAHAYA",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/4705db88140db684bf10ec39167ef79ab3b955af3073b1c527298e35daa0e37b.jpg",
+      "url": "https://twitter.com/josiahoyahaya"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1191648160671784960#favorited-by-303949169",
+    "published": null,
+    "wm-received": "2019-11-05T15:45:04Z",
+    "wm-id": 721812,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1191648160671784960/303949169",
+    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "like-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Lars",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/7973dd444f577425df153cfcc4289f98901e3fbb3cc2005a61ef8ecc80d063c0.jpg",
+      "url": "https://twitter.com/LarsPeterke"
+    },
+    "url": "https://twitter.com/LarsPeterke/status/1191741308769058816",
+    "published": "2019-11-05T15:37:24+00:00",
+    "wm-received": "2019-11-05T15:45:10Z",
+    "wm-id": 721813,
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/sebdedeyne/1191648160671784960/1191741308769058816",
+    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "content": {
+      "html": "What I‘m concerned about most of the time is what to do if your permission checks are more advanced and trigger relations. Like „A user can create a Comment if $post-&gt;allow_comments == true“.\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/inertiajs\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/laravelphp\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/sebdedeyne\"></a>",
+      "text": "What I‘m concerned about most of the time is what to do if your permission checks are more advanced and trigger relations. Like „A user can create a Comment if $post->allow_comments == true“."
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "JOSIAH YAHAYA",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/4705db88140db684bf10ec39167ef79ab3b955af3073b1c527298e35daa0e37b.jpg",
+      "url": "https://twitter.com/josiahoyahaya"
+    },
+    "url": "https://twitter.com/josiahoyahaya/status/1191736463844683776",
+    "published": "2019-11-05T15:18:09+00:00",
+    "wm-received": "2019-11-05T15:45:18Z",
+    "wm-id": 721814,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1191648160671784960/1191736463844683776",
+    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "content": {
+      "text": "✒️ I wrote a post about handling authorization in a @laravelphp and @inertiajs application sebastiandedeyne.com/handling-autho…"
+    },
+    "repost-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "everton zp",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/6de7f3a1b8c0de60e599aa2c7fd32ea3c0707d86f6cd8c92278725a5b250bdba.jpg",
+      "url": "https://twitter.com/ezp127"
+    },
+    "url": "https://twitter.com/ezp127/status/1191739057111535616",
+    "published": "2019-11-05T15:28:27+00:00",
+    "wm-received": "2019-11-05T15:45:20Z",
+    "wm-id": 721815,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1191648160671784960/1191739057111535616",
+    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "content": {
+      "text": "✒️ I wrote a post about handling authorization in a @laravelphp and @inertiajs application sebastiandedeyne.com/handling-autho…"
+    },
+    "repost-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Junior Gantin",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/5b48c1b8a90fc38d7c556181aa2ffe601fead8a0a551a7239ce0e18b7ccad59c.jpg",
+      "url": "https://twitter.com/jgantindev"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1191648160671784960#favorited-by-1168764019274067969",
+    "published": null,
+    "wm-received": "2019-11-05T16:19:04Z",
+    "wm-id": 721819,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1191648160671784960/1168764019274067969",
+    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "like-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Lambert Traccard",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/0092681de01f8f15b50eaefca8c54cafc66c7490050d59bc1bf6bcfac892c184.jpg",
+      "url": "https://twitter.com/lamberttraccard"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1191648160671784960#favorited-by-236706279",
+    "published": null,
+    "wm-received": "2019-11-05T16:19:06Z",
+    "wm-id": 721820,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1191648160671784960/236706279",
+    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "like-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Jorge González",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/1b4c625738e50e55f462447beb625372db0c3b4d7b25262ddc5ca1e93cccb039.jpg",
+      "url": "https://twitter.com/scrubmx"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1191648160671784960#favorited-by-43742200",
+    "published": null,
+    "wm-received": "2019-11-05T16:19:08Z",
+    "wm-id": 721821,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1191648160671784960/43742200",
+    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "like-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "#DevFestOnitsha",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/a8cd58c7157e67a8f979fb8d39365d7f12eafdce9bd7120ca15548328cfd451e.jpg",
+      "url": "https://twitter.com/stephenjudeso"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1191648160671784960#favorited-by-3259679903",
+    "published": null,
+    "wm-received": "2019-11-05T16:19:09Z",
+    "wm-id": 721822,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1191648160671784960/3259679903",
+    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "like-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "#DevFestOnitsha",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/a8cd58c7157e67a8f979fb8d39365d7f12eafdce9bd7120ca15548328cfd451e.jpg",
+      "url": "https://twitter.com/stephenjudeso"
+    },
+    "url": "https://twitter.com/stephenjudeso/status/1191744716725006338",
+    "published": "2019-11-05T15:50:56+00:00",
+    "wm-received": "2019-11-05T16:19:11Z",
+    "wm-id": 721823,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1191648160671784960/1191744716725006338",
+    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "content": {
+      "text": "✒️ I wrote a post about handling authorization in a @laravelphp and @inertiajs application sebastiandedeyne.com/handling-autho…"
+    },
+    "repost-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Amarendra Sharma",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/122a0e3801e81f79cfb1aa992e11cfa9c833234197a67d60f34cce72333f321b.jpg",
+      "url": "https://twitter.com/Amaratenga"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1191648160671784960#favorited-by-3822386414",
+    "published": null,
+    "wm-received": "2019-11-05T16:19:13Z",
+    "wm-id": 721824,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1191648160671784960/3822386414",
+    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "like-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Neil Carlo Faisan Sucuangco",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/737d4faf10025e9f86a8d0f54866e65be28593c696996b8668a5badbbb3e391f.jpg",
+      "url": "https://twitter.com/faisuc"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1191648160671784960#favorited-by-337041104",
+    "published": null,
+    "wm-received": "2019-11-05T16:47:55Z",
+    "wm-id": 721828,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1191648160671784960/337041104",
+    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "like-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Dev Caret",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/3af444906b25132c64cc11e53bd3a28d3695a6a7de11ed4f8b2bd5c2e55e92f7.jpg",
+      "url": "https://twitter.com/devcaret"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1191648160671784960#favorited-by-1185692122583916544",
+    "published": null,
+    "wm-received": "2019-11-05T16:48:24Z",
+    "wm-id": 721829,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1191648160671784960/1185692122583916544",
+    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "like-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Michał Karnicki",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/c42da3e2cc2a673a0123d47d68ab3fda5d0348fba7aadaad6278eeb76866b43f.jpg",
+      "url": "https://twitter.com/mkarnicki"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1191648160671784960#favorited-by-35588318",
+    "published": null,
+    "wm-received": "2019-11-05T17:20:45Z",
+    "wm-id": 721839,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1191648160671784960/35588318",
+    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "like-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Adrian Nürnberger 🐙",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/863cfa16ee0e48a6aa53e495ddbfb0da79cb60e9662f1a6b55a39fb7d9a2e467.jpg",
+      "url": "https://twitter.com/nuernberger_me"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1191648160671784960#favorited-by-3220622807",
+    "published": null,
+    "wm-received": "2019-11-05T17:20:46Z",
+    "wm-id": 721840,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1191648160671784960/3220622807",
+    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "like-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Matthew Poulter",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/617aa055cbdeefbb99860fe70db9bc247085ce32f600ea972585bf0b92237964.jpg",
+      "url": "https://twitter.com/mdpoulter"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1191648160671784960#favorited-by-152526668",
+    "published": null,
+    "wm-received": "2019-11-05T17:50:45Z",
+    "wm-id": 721850,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1191648160671784960/152526668",
+    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "like-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "MD Iyasin Arafat",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/c400ee3f340944b330475e360cf75cdbef593366a4ba393cfac4f0b438e67640.png",
+      "url": "https://twitter.com/miyasinarafat"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1191648160671784960#favorited-by-3064483574",
+    "published": null,
+    "wm-received": "2019-11-05T18:57:04Z",
+    "wm-id": 721864,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1191648160671784960/3064483574",
+    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "like-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Marcin",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/522a9b01d16d5e312b0bd49f8580945e27bfd337c8d77b38ebfab493e78aae3c.jpg",
+      "url": "https://twitter.com/MarcinMm12321"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1191648160671784960#favorited-by-570171032",
+    "published": null,
+    "wm-received": "2019-11-05T18:57:06Z",
+    "wm-id": 721865,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1191648160671784960/570171032",
+    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "like-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Joan Morell",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/9172ce85191018f7fb352824d9696ccdcd4a622d35785e42c6a7eded24987fcf.png",
+      "url": "https://twitter.com/joanmorell"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1191648160671784960#favorited-by-186153121",
+    "published": null,
+    "wm-received": "2019-11-05T19:25:33Z",
+    "wm-id": 721868,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1191648160671784960/186153121",
+    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "like-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Ben Sherred",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/cc8ae73985546ad3c3e33e2bf55a8486f074d6b60294c2c721319a812b044a06.png",
+      "url": "https://twitter.com/BenSherred"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1191648160671784960#favorited-by-1117558994313392130",
+    "published": null,
+    "wm-received": "2019-11-05T19:25:34Z",
+    "wm-id": 721869,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1191648160671784960/1117558994313392130",
+    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "like-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Jorge González",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/c37d58fb7570b7fc2c749e974aa5efec6ae1abfef7673ce079fdb9fb2aa1a472.jpg",
+      "url": "https://twitter.com/iksaku2"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1191648160671784960#favorited-by-255728220",
+    "published": null,
+    "wm-received": "2019-11-05T20:47:05Z",
+    "wm-id": 721901,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1191648160671784960/255728220",
+    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "like-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Tiagosimoes",
+      "photo": "https://webmention.io/avatar/abs.twimg.com/0e6b2cd70aa5b35dec24ca4e1e63f8963f0118736d9ec3bba77e3a8c99a27bc2.png",
+      "url": "https://twitter.com/Tiagosimoesdev"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1191648160671784960#favorited-by-1069719524373684225",
+    "published": null,
+    "wm-received": "2019-11-05T22:51:39Z",
+    "wm-id": 721918,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1191648160671784960/1069719524373684225",
+    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "like-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Rasmus P",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/30906fcc5b1ed8cf48f018864363e65d50eec56ad2ddc9639558e7541b1c0d7e.jpg",
+      "url": "https://twitter.com/djrasmusp"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1191648160671784960#favorited-by-135869094",
+    "published": null,
+    "wm-received": "2019-11-06T00:52:37Z",
+    "wm-id": 721933,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1191648160671784960/135869094",
+    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "like-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Élison Gomes",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/98204e13175b5addd899135f5b3006a0aaaccf52cfbf4245c198a389b8c6812e.jpg",
+      "url": "https://twitter.com/ElisonGomes"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1191648160671784960#favorited-by-41577580",
+    "published": null,
+    "wm-received": "2019-11-06T02:16:29Z",
+    "wm-id": 721940,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1191648160671784960/41577580",
+    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "like-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Élison Gomes",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/98204e13175b5addd899135f5b3006a0aaaccf52cfbf4245c198a389b8c6812e.jpg",
+      "url": "https://twitter.com/ElisonGomes"
+    },
+    "url": "https://twitter.com/ElisonGomes/status/1191899215477248006",
+    "published": "2019-11-06T02:04:52+00:00",
+    "wm-received": "2019-11-06T02:16:32Z",
+    "wm-id": 721941,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1191648160671784960/1191899215477248006",
+    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "content": {
+      "text": "✒️ I wrote a post about handling authorization in a @laravelphp and @inertiajs application sebastiandedeyne.com/handling-autho…"
+    },
+    "repost-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "kapil",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/4b9f1c40568f0980d0d24eccac0a99f78f34d08e7136eda3436bf9e2b33cfc92.jpg",
+      "url": "https://twitter.com/kapilsofteng"
+    },
+    "url": "https://twitter.com/kapilsofteng/status/1191898890712170496",
+    "published": "2019-11-06T02:03:34+00:00",
+    "wm-received": "2019-11-06T02:16:33Z",
+    "wm-id": 721942,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1191648160671784960/1191898890712170496",
+    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "content": {
+      "text": "✒️ I wrote a post about handling authorization in a @laravelphp and @inertiajs application sebastiandedeyne.com/handling-autho…"
+    },
+    "repost-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Manuel Teuber",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/edcebec526a5135f80c676e796c4c4bc5d19faa368f8b142840a0763123cd328.jpg",
+      "url": "https://twitter.com/memdev"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1191648160671784960#favorited-by-24875928",
+    "published": null,
+    "wm-received": "2019-11-06T07:17:08Z",
+    "wm-id": 721965,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1191648160671784960/24875928",
+    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "like-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Thore Sünert",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/bbd32807c83ad0b5934ad267b6cf1ff69cdea9a223acb96b525785781972913b.jpg",
+      "url": "https://twitter.com/thoresuenert"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1191648160671784960#favorited-by-178718254",
+    "published": null,
+    "wm-received": "2019-11-06T08:21:30Z",
+    "wm-id": 721974,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1191648160671784960/178718254",
+    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "like-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Tim Dorey",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/3bf633462895a370e41da1eb8d5c0c11c4755cb676ce12e9e7aa6a56804eb432.jpg",
+      "url": "https://twitter.com/dorey_tim"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1191648160671784960#favorited-by-1163598028495699968",
+    "published": null,
+    "wm-received": "2019-11-06T08:21:32Z",
+    "wm-id": 721975,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1191648160671784960/1163598028495699968",
+    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "like-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Adriaan Marain",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/3215f128f757feb52909bbab165d154d81c2cbb397c636fd8af249dc164b3edc.jpg",
+      "url": "https://twitter.com/AdriaanMrn"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1191648160671784960#favorited-by-553432298",
+    "published": null,
+    "wm-received": "2019-11-06T09:55:38Z",
+    "wm-id": 721983,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1191648160671784960/553432298",
+    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "like-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "𝗈𝗌𝗆𝖾𝗅𝗅",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/2fe556eca73ca45dba8f13a571c50ae7a738cc2be0cf33e4a376437199080fa2.png",
+      "url": "https://twitter.com/oele_co"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1191648160671784960#favorited-by-148866154",
+    "published": null,
+    "wm-received": "2019-11-06T12:28:14Z",
+    "wm-id": 721996,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1191648160671784960/148866154",
+    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "like-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "M00dle",
+      "photo": "https://webmention.io/avatar/abs.twimg.com/0e6b2cd70aa5b35dec24ca4e1e63f8963f0118736d9ec3bba77e3a8c99a27bc2.png",
+      "url": "https://twitter.com/M00dl3"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1191648160671784960#favorited-by-993084192601903109",
+    "published": null,
+    "wm-received": "2019-11-06T14:19:33Z",
+    "wm-id": 722005,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1191648160671784960/993084192601903109",
+    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "like-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Andrey Brazhnyk",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/22a1099b63fd26e91796f4db3a3088bb1cc33ffff8f671fb92d738c71dfcb4c2.jpg",
+      "url": "https://twitter.com/anbrazhnik"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1191648160671784960#favorited-by-3236259104",
+    "published": null,
+    "wm-received": "2019-11-13T16:24:52Z",
+    "wm-id": 724055,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1191648160671784960/3236259104",
+    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "like-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "wm-property": "like-of",
     "wm-private": false
   }
 ]

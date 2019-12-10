@@ -3,37 +3,90 @@
     "type": "entry",
     "author": {
       "type": "card",
-      "name": "João Patrício",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/5a9bcef593553189a0e1a40670044bfc215729dd54992fab82ac41604223ac26.jpg",
-      "url": "https://twitter.com/ijpatricio"
+      "name": "M. Vug",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/fcc72d671c32c72d093c77f1ab83e8be120a03d4062bc984a10150cee632b9e8.jpg",
+      "url": "https://twitter.com/mvug"
     },
-    "url": "https://twitter.com/ijpatricio/status/1183686102613417985",
-    "published": "2019-10-14T10:08:53+00:00",
-    "wm-received": "2019-10-14T10:23:17Z",
-    "wm-id": 711239,
-    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1183686102613417985",
+    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-125585595",
+    "published": null,
+    "wm-received": "2019-09-26T12:02:25Z",
+    "wm-id": 699162,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/125585595",
+    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Inertia.js",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/fa424f3aabd79d077a30fbdf8a8da1508d816309811903c5c1e7f98a8b66bf08.jpg",
+      "url": "https://twitter.com/inertiajs"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-1096924668009857024",
+    "published": null,
+    "wm-received": "2019-09-26T12:02:25Z",
+    "wm-id": 699163,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/1096924668009857024",
+    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Emre 👨🏻‍💻",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/8e214ac228bd72d4dff428912d596c78557a3414559792266eedfb0f930811c4.png",
+      "url": "https://twitter.com/emredipi"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-174678409",
+    "published": null,
+    "wm-received": "2019-09-26T12:02:26Z",
+    "wm-id": 699164,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/174678409",
+    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Inertia.js",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/fa424f3aabd79d077a30fbdf8a8da1508d816309811903c5c1e7f98a8b66bf08.jpg",
+      "url": "https://twitter.com/inertiajs"
+    },
+    "url": "https://twitter.com/inertiajs/status/1177186338367578113",
+    "published": "2019-09-26T11:41:08+00:00",
+    "wm-received": "2019-09-26T12:02:27Z",
+    "wm-id": 699165,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1177182075134365697/1177186338367578113",
     "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
     "content": {
-      "html": "Good read by <a href=\"https://twitter.com/sebdedeyne\">@sebdedeyne</a> \n\n<a href=\"https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/\">sebastiandedeyne.com/inertia-js-and…</a>",
-      "text": "Good read by @sebdedeyne \n\nsebastiandedeyne.com/inertia-js-and…"
+      "text": "✒️ Blog post time! I made a high-level comparison between @inertiajs and @LaravelLivewire\n\nsebastiandedeyne.com/inertia-js-and…\n\nIt explains which proble"
     },
-    "mention-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "wm-property": "mention-of",
+    "repost-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "wm-property": "repost-of",
     "wm-private": false
   },
   {
     "type": "entry",
     "author": {
       "type": "card",
-      "name": "Norio De Sousa",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/1d6003cd40561ea50043e50fadf50805a5e184ea77534624a9c5b0693a86e64b.jpg",
-      "url": "https://twitter.com/noriods"
+      "name": "welt101",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/a616d06010efb4489944fbcf80031803c6e56937014052122f344555c5dc26b2.jpg",
+      "url": "https://twitter.com/welt101"
     },
-    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-12043732",
+    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-3977839061",
     "published": null,
-    "wm-received": "2019-10-09T19:39:47Z",
-    "wm-id": 707811,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/12043732",
+    "wm-received": "2019-09-26T12:02:28Z",
+    "wm-id": 699166,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/3977839061",
     "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
     "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
     "wm-property": "like-of",
@@ -43,15 +96,36 @@
     "type": "entry",
     "author": {
       "type": "card",
-      "name": "Rolando Rojas",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/e18e8af39361d8072fe87b919e5b3e40e69bf5d0050d87be0336d1a206c8a8f2.jpg",
-      "url": "https://twitter.com/Rolando_Rojas1"
+      "name": "Mithicher Baro",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/b4ee0c303dd27e391b702d9713c984efbbf051c6948b0dc2164dc17a3747bdd7.png",
+      "url": "https://twitter.com/mithicher"
     },
-    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-157400341",
+    "url": "https://twitter.com/mithicher/status/1177187142969090048",
+    "published": "2019-09-26T11:44:20+00:00",
+    "wm-received": "2019-09-26T12:02:28Z",
+    "wm-id": 699167,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1177182075134365697/1177187142969090048",
+    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "content": {
+      "text": "✒️ Blog post time! I made a high-level comparison between @inertiajs and @LaravelLivewire\n\nsebastiandedeyne.com/inertia-js-and…\n\nIt explains which proble"
+    },
+    "repost-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Mithicher Baro",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/b4ee0c303dd27e391b702d9713c984efbbf051c6948b0dc2164dc17a3747bdd7.png",
+      "url": "https://twitter.com/mithicher"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-1315799845",
     "published": null,
-    "wm-received": "2019-10-09T13:10:51Z",
-    "wm-id": 707622,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/157400341",
+    "wm-received": "2019-09-26T12:02:29Z",
+    "wm-id": 699168,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/1315799845",
     "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
     "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
     "wm-property": "like-of",
@@ -61,15 +135,36 @@
     "type": "entry",
     "author": {
       "type": "card",
-      "name": "MSKhoshnazar",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/fabf3ee67d92b2234e0320f6a506fcd33c6f383b1fc0ce1b1b887b95170b2b9e.jpg",
-      "url": "https://twitter.com/mskhoshnazar"
+      "name": "Fabio",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/c66e8a9dede9250502a3181955bd06b98338297dfcc549b80082e7f983c854d3.jpg",
+      "url": "https://twitter.com/FabioIngra"
     },
-    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-25143570",
+    "url": "https://twitter.com/FabioIngra/status/1177193875531796480",
+    "published": "2019-09-26T12:11:05+00:00",
+    "wm-received": "2019-09-26T12:33:54Z",
+    "wm-id": 699178,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1177182075134365697/1177193875531796480",
+    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "content": {
+      "text": "✒️ Blog post time! I made a high-level comparison between @inertiajs and @LaravelLivewire\n\nsebastiandedeyne.com/inertia-js-and…\n\nIt explains which proble"
+    },
+    "repost-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Fabio",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/c66e8a9dede9250502a3181955bd06b98338297dfcc549b80082e7f983c854d3.jpg",
+      "url": "https://twitter.com/FabioIngra"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-2325497114",
     "published": null,
-    "wm-received": "2019-10-08T04:23:31Z",
-    "wm-id": 706639,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/25143570",
+    "wm-received": "2019-09-26T12:33:55Z",
+    "wm-id": 699179,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/2325497114",
     "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
     "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
     "wm-property": "like-of",
@@ -79,15 +174,216 @@
     "type": "entry",
     "author": {
       "type": "card",
-      "name": "Dominik Kowalski",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/8a12d0750068b3bbe9f249941cd92f014167e97e74986f287e38d4172a1f8330.jpg",
-      "url": "https://twitter.com/dokoit"
+      "name": "pbruklyn",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/f304b6ed5bdb2fd32df95d1abf0a36d0210946c95d2e3c3df390f3dc8d892eb9.jpg",
+      "url": "https://twitter.com/bruklyntowne"
     },
-    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-1335202824",
+    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-36303689",
     "published": null,
-    "wm-received": "2019-10-07T03:41:25Z",
-    "wm-id": 706053,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/1335202824",
+    "wm-received": "2019-09-26T12:33:58Z",
+    "wm-id": 699180,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/36303689",
+    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Alexander Makhaev",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/d0e288ca636669216f553ec58f2075cc256afe80a6760731e9e362983fdb3952.jpg",
+      "url": "https://twitter.com/mankms"
+    },
+    "url": "https://twitter.com/mankms/status/1177197637260513280",
+    "published": "2019-09-26T12:26:02+00:00",
+    "wm-received": "2019-09-26T12:34:01Z",
+    "wm-id": 699182,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1177182075134365697/1177197637260513280",
+    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "content": {
+      "text": "✒️ Blog post time! I made a high-level comparison between @inertiajs and @LaravelLivewire\n\nsebastiandedeyne.com/inertia-js-and…\n\nIt explains which proble"
+    },
+    "repost-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Laravel Türkiye",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/3736388bea22247686ec89b0cade4dbe251d46eaed7d575be03037c22bb2fd7a.png",
+      "url": "https://twitter.com/LaravelTr"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-835370485",
+    "published": null,
+    "wm-received": "2019-09-26T12:34:02Z",
+    "wm-id": 699183,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/835370485",
+    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Jens Twesmann",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/f14e94855ec3f7cf427242dd9b970255aacd3f95f65ecf3f20408dd923733053.png",
+      "url": "https://twitter.com/jtwesmann"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-1054743487",
+    "published": null,
+    "wm-received": "2019-09-26T12:34:06Z",
+    "wm-id": 699184,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/1054743487",
+    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Ben",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/891c5269b95980ecc030df6f60d486b679d5a9b2e692dd5062e706c884e581d6.jpg",
+      "url": "https://twitter.com/gotfunc"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-8316532",
+    "published": null,
+    "wm-received": "2019-09-26T12:34:08Z",
+    "wm-id": 699185,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/8316532",
+    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Alexander Makhaev",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/d0e288ca636669216f553ec58f2075cc256afe80a6760731e9e362983fdb3952.jpg",
+      "url": "https://twitter.com/mankms"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-91294325",
+    "published": null,
+    "wm-received": "2019-09-26T12:34:09Z",
+    "wm-id": 699186,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/91294325",
+    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Hadyan Ahmad",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/e8702f63214890979c2cb82981631d9cacf707581c3fd4133edcf7775a097492.jpg",
+      "url": "https://twitter.com/hadyandev"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-168844815",
+    "published": null,
+    "wm-received": "2019-09-26T12:34:11Z",
+    "wm-id": 699187,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/168844815",
+    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Zimty",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/e8eda78c53dd23ae423190db0335802c62172a9dd8e4ddfbd99d98a8ab8d0ee3.jpg",
+      "url": "https://twitter.com/zimt28"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-514944025",
+    "published": null,
+    "wm-received": "2019-09-26T12:34:12Z",
+    "wm-id": 699188,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/514944025",
+    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Esteban De la Rosa",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/9b0ac836d64873ff043bb3c066136de721689528e748ffbb55e972dda7f5d1ee.jpg",
+      "url": "https://twitter.com/GabbanaEsteban"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-1417223695",
+    "published": null,
+    "wm-received": "2019-09-26T12:34:13Z",
+    "wm-id": 699189,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/1417223695",
+    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Cristian N",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/bd537854c03bfa7d429aca3493588386d24de9e444bb24c16aa6a36dac940d6e.jpg",
+      "url": "https://twitter.com/cristian_nebunu"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-160496176",
+    "published": null,
+    "wm-received": "2019-09-26T12:34:14Z",
+    "wm-id": 699190,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/160496176",
+    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Brandon Surowiec",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/45226abada2bd500360af6839fd38fea1257e6692dd36a1f2b659145135a4e48.jpg",
+      "url": "https://twitter.com/brandonsurowiec"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-358715811",
+    "published": null,
+    "wm-received": "2019-09-26T13:07:14Z",
+    "wm-id": 699215,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/358715811",
+    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Kevin Bond",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/5c842a85c5416117dfa414af5b58d6b6fadb59a56e250167e3b435adddd70213.jpg",
+      "url": "https://twitter.com/zenstruck"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-26730358",
+    "published": null,
+    "wm-received": "2019-09-26T13:07:14Z",
+    "wm-id": 699216,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/26730358",
     "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
     "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
     "wm-property": "like-of",
@@ -101,844 +397,17 @@
       "photo": "https://webmention.io/avatar/pbs.twimg.com/fc87f4abfee522403bfb9d8ebbdd1bde483d020713c137b63e94bec043c45cfa.jpg",
       "url": "https://twitter.com/freekmurze"
     },
-    "url": "https://twitter.com/freekmurze/status/1179365424380678145",
-    "published": "2019-10-02T12:00:03+00:00",
-    "wm-received": "2019-10-02T12:21:29Z",
-    "wm-id": 703335,
-    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1179365424380678145",
-    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "content": {
-      "html": "🔗 Inertia.js and Livewire: a high level comparison\n<a href=\"https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/\">sebastiandedeyne.com/inertia-js-and…</a>\n<a href=\"https://twitter.com/search?q=%23php\">#php</a> <a href=\"https://twitter.com/search?q=%23javascript\">#javascript</a> <a href=\"https://twitter.com/search?q=%23laravel\">#laravel</a>",
-      "text": "🔗 Inertia.js and Livewire: a high level comparison\nsebastiandedeyne.com/inertia-js-and…\n#php #javascript #laravel"
-    },
-    "mention-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "wm-property": "mention-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Stephen Jude",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/a8cd58c7157e67a8f979fb8d39365d7f12eafdce9bd7120ca15548328cfd451e.jpg",
-      "url": "https://twitter.com/stephenjudeso"
-    },
-    "url": "https://twitter.com/stephenjudeso/status/1178984431744376833",
-    "published": "2019-10-01T10:46:07+00:00",
-    "wm-received": "2019-10-01T10:54:37Z",
-    "wm-id": 702568,
-    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1178984431744376833",
-    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "content": {
-      "html": "Inertia.js and Livewire: a high level comparison - <a href=\"https://twitter.com/sebdedeyne\">@sebdedeyne</a>\n\n<a href=\"https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/\">sebastiandedeyne.com/inertia-js-and…</a>",
-      "text": "Inertia.js and Livewire: a high level comparison - @sebdedeyne\n\nsebastiandedeyne.com/inertia-js-and…"
-    },
-    "mention-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "wm-property": "mention-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Jino Antony",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/61c36b8febfb0e5dcd5dd452f4ade6ee2a234dba50a756aa4d268dd920b023c3.jpg",
-      "url": "https://twitter.com/Jino_Antony17"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-2592739074",
-    "published": null,
-    "wm-received": "2019-10-01T08:18:46Z",
-    "wm-id": 702504,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/2592739074",
-    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Laravel News Links",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/66b9e5493c2834de5b960b89eb6b16976ed1c2db880330ec4b37aff5b9dc3414.jpg",
-      "url": "https://twitter.com/LaravelLinks"
-    },
-    "url": "https://twitter.com/LaravelLinks/status/1178842213767401472",
-    "published": "2019-10-01T01:21:00+00:00",
-    "wm-received": "2019-10-01T01:44:13Z",
-    "wm-id": 702354,
-    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1178842213767401472",
-    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "content": {
-      "html": "Inertia.js and Livewire: a high level comparison <a href=\"https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/\">sebastiandedeyne.com/inertia-js-and…</a>",
-      "text": "Inertia.js and Livewire: a high level comparison sebastiandedeyne.com/inertia-js-and…"
-    },
-    "mention-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "wm-property": "mention-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Tony Messias",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/aa2b182324f67f84855c8cb4da0a851a841057d1e2573f6da49bb8eba97aad6f.png",
-      "url": "https://twitter.com/tony0x01"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-55294160",
-    "published": null,
-    "wm-received": "2019-09-30T22:39:33Z",
-    "wm-id": 702290,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/55294160",
-    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Francesco Mugnai",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/2b184e9f6a964f2c1b5766312cf8ae7ce451f8ac7e02ea2840b0671feb3e795c.jpg",
-      "url": "https://twitter.com/francescomugnai"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-14942713",
-    "published": null,
-    "wm-received": "2019-09-30T20:13:57Z",
-    "wm-id": 702242,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/14942713",
-    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Makabi Yelmis",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/f3d56cb9ef5efe942ec04245236d67e1a8c55324a224eb8902236af2c8696586.jpg",
-      "url": "https://twitter.com/gyelmis"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-1623442548",
-    "published": null,
-    "wm-received": "2019-09-30T19:05:10Z",
-    "wm-id": 702208,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/1623442548",
-    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Cosmin",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/81f0e4c7363c7b01603c4b6a994cd33976baccb75382626c6014d39c42c0da04.png",
-      "url": "https://twitter.com/cossssmin"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-195382315",
-    "published": null,
-    "wm-received": "2019-09-30T18:11:05Z",
-    "wm-id": 702185,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/195382315",
-    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Frederik Heyninck",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/febf4f28d9f52561b1e7d183d3faf3149c3f1fd29e44644075c6c8e10d94e9ad.jpg",
-      "url": "https://twitter.com/heyfrederik"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-14477725",
-    "published": null,
-    "wm-received": "2019-09-30T17:41:42Z",
-    "wm-id": 702174,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/14477725",
-    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Livewire",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/4b1959826d3659104332f3ad9cd1e8af3e8edb46459e3f079f436c31b180f179.jpg",
-      "url": "https://twitter.com/LaravelLivewire"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-1154379830848303105",
-    "published": null,
-    "wm-received": "2019-09-30T17:41:42Z",
-    "wm-id": 702173,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/1154379830848303105",
-    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Roman Pronskiy",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/9373f62b650e88f9265f5742739d93f3fbaa1f7d60d8593c694c25821996528e.png",
-      "url": "https://twitter.com/pronskiy"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-156592964",
-    "published": null,
-    "wm-received": "2019-09-28T04:30:48Z",
-    "wm-id": 700321,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/156592964",
-    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Adrian Nürnberger 🐙",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/863cfa16ee0e48a6aa53e495ddbfb0da79cb60e9662f1a6b55a39fb7d9a2e467.jpg",
-      "url": "https://twitter.com/nuernberger_me"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-3220622807",
-    "published": null,
-    "wm-received": "2019-09-28T03:02:44Z",
-    "wm-id": 700296,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/3220622807",
-    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Knight ",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/7ae95cbb9d7edbc3318e7177a86fe10db00a90709348bfa6843fc881a731f237.jpeg",
-      "url": "https://twitter.com/imknight"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-1569331",
-    "published": null,
-    "wm-received": "2019-09-27T19:29:40Z",
-    "wm-id": 700125,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/1569331",
-    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Divan",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/3340b66c9e6d65a01278ea0322844cb324246e8d4238bb0046989db7693c4efb.jpg",
-      "url": "https://twitter.com/ddevdreamer"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-3236434988",
-    "published": null,
-    "wm-received": "2019-09-27T09:49:14Z",
-    "wm-id": 699753,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/3236434988",
-    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "mahmod",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/676649a5e60e1092100e3fd5b42351f06e18072b3b4f7a2f9d1769c8013732c1.jpg",
-      "url": "https://twitter.com/mahmoodnet"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-1555503038",
-    "published": null,
-    "wm-received": "2019-09-27T07:50:47Z",
-    "wm-id": 699719,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/1555503038",
-    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Michaël De Boey",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/4c253771a8d1f79422524c6dd9f74ea83b1255def284013494330c1b3792bdf1.jpg",
-      "url": "https://twitter.com/MichaelDeBoey93"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-148502139",
-    "published": null,
-    "wm-received": "2019-09-27T07:18:02Z",
-    "wm-id": 699707,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/148502139",
-    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Malik Krehic",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/33a4b763d1e019ee447c051b2d10d7b260c0ed74dbfd13952865793b44a93cf4.jpg",
-      "url": "https://twitter.com/krehicm"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-876165188873060352",
-    "published": null,
-    "wm-received": "2019-09-27T06:45:49Z",
-    "wm-id": 699691,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/876165188873060352",
-    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Zaher Ghaibeh",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/5c4751bf23d72ecc8b8f9e1662794d48baacee3629e2741c081bae718e08b7ac.jpg",
-      "url": "https://twitter.com/zaherg"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-14808990",
-    "published": null,
-    "wm-received": "2019-09-27T05:48:50Z",
-    "wm-id": 699662,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/14808990",
-    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Pieter Van Leuven",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/c8b1e2c4fa7079fc6e5c6368009e2279efcc969a379cbb53b785eb4e1405d4ec.jpg",
-      "url": "https://twitter.com/pietervanleuven"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-140119151",
-    "published": null,
-    "wm-received": "2019-09-27T05:48:49Z",
-    "wm-id": 699661,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/140119151",
-    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Saibal Roy",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/20dfe8b4905e2ed8065c4620e57a991740b520cdc1ad6392d89d6fe7c9992ddf.jpg",
-      "url": "https://twitter.com/sunnyroy21"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-2343423780",
-    "published": null,
-    "wm-received": "2019-09-27T03:49:20Z",
-    "wm-id": 699613,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/2343423780",
-    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Camilo Caquimbo",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/63e3b11fbd7fb9a6ae11be46cc239bb28d8697673ae9f87c47bfa8b27fe1f205.jpg",
-      "url": "https://twitter.com/CCaquimbo"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-447532863",
-    "published": null,
-    "wm-received": "2019-09-27T03:49:19Z",
-    "wm-id": 699612,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/447532863",
-    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Saibal Roy",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/20dfe8b4905e2ed8065c4620e57a991740b520cdc1ad6392d89d6fe7c9992ddf.jpg",
-      "url": "https://twitter.com/sunnyroy21"
-    },
-    "url": "https://twitter.com/sunnyroy21/status/1177427702699053056",
-    "published": "2019-09-27T03:40:14+00:00",
-    "wm-received": "2019-09-27T03:49:15Z",
-    "wm-id": 699611,
-    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1177182075134365697/1177427702699053056",
+    "url": "https://twitter.com/freekmurze/status/1177204419265515521",
+    "published": "2019-09-26T12:52:59+00:00",
+    "wm-received": "2019-09-26T13:07:15Z",
+    "wm-id": 699217,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1177182075134365697/1177204419265515521",
     "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
     "content": {
       "text": "✒️ Blog post time! I made a high-level comparison between @inertiajs and @LaravelLivewire\n\nsebastiandedeyne.com/inertia-js-and…\n\nIt explains which proble"
     },
     "repost-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
     "wm-property": "repost-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Aaron Francis",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/bd4ef5f98a633056fa7d93d77326625b8ca883c07b17e7ee43b9af59db0fa409.jpg",
-      "url": "https://twitter.com/aarondfrancis"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-20963591",
-    "published": null,
-    "wm-received": "2019-09-27T02:53:51Z",
-    "wm-id": 699584,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/20963591",
-    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Martin Carlin",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/7f37449c3c90c7a645784d54efb247a243cb4623942c5d7457834626f0e57ffa.jpg",
-      "url": "https://twitter.com/martincarlin87"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-34239168",
-    "published": null,
-    "wm-received": "2019-09-26T23:26:46Z",
-    "wm-id": 699519,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/34239168",
-    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "570 Studio",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/cc2bc7748d9fc1d47014c3820ad252eb9d632c6550515bcec0094c29679c857b.jpg",
-      "url": "https://twitter.com/570Studio"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-2184887796",
-    "published": null,
-    "wm-received": "2019-09-26T22:23:17Z",
-    "wm-id": 699491,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/2184887796",
-    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Alejandro Vásquez N.",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/cd7924a6f37af811ba542ce34a958e23612525ccffa1dacbc63ff31eec3203c8.jpg",
-      "url": "https://twitter.com/Neurotools"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-26308895",
-    "published": null,
-    "wm-received": "2019-09-26T22:23:16Z",
-    "wm-id": 699490,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/26308895",
-    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Karel",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/ec7dbb3131dfbd93d689216c13e69c42350363722bed29e6fd12966dc8a4c650.jpg",
-      "url": "https://twitter.com/Shaffe"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-6856672",
-    "published": null,
-    "wm-received": "2019-09-26T21:54:48Z",
-    "wm-id": 699479,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/6856672",
-    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Kofi Boakye",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/0be56dfd7b29b4890038a3afe8cc9361481f68584d251a3eba0f9830bb048ed1.jpg",
-      "url": "https://twitter.com/2kodes"
-    },
-    "url": "https://twitter.com/2kodes/status/1177328827158138885",
-    "published": "2019-09-26T21:07:20+00:00",
-    "wm-received": "2019-09-26T21:25:10Z",
-    "wm-id": 699468,
-    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1177182075134365697/1177328827158138885",
-    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "content": {
-      "text": "✒️ Blog post time! I made a high-level comparison between @inertiajs and @LaravelLivewire\n\nsebastiandedeyne.com/inertia-js-and…\n\nIt explains which proble"
-    },
-    "repost-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "wm-property": "repost-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "ArielSalvadorDev",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/0a83006ed4632d49e41a6f9c085d9c9346136c8487e017783ee4fc03095adee8.jpg",
-      "url": "https://twitter.com/ArielSalvadorD1"
-    },
-    "url": "https://twitter.com/ArielSalvadorD1/status/1177330212603858946",
-    "published": "2019-09-26T21:12:51+00:00",
-    "wm-received": "2019-09-26T21:25:10Z",
-    "wm-id": 699467,
-    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1177182075134365697/1177330212603858946",
-    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "content": {
-      "text": "✒️ Blog post time! I made a high-level comparison between @inertiajs and @LaravelLivewire\n\nsebastiandedeyne.com/inertia-js-and…\n\nIt explains which proble"
-    },
-    "repost-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "wm-property": "repost-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "ArielSalvadorDev",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/0a83006ed4632d49e41a6f9c085d9c9346136c8487e017783ee4fc03095adee8.jpg",
-      "url": "https://twitter.com/ArielSalvadorD1"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-1089643802300727309",
-    "published": null,
-    "wm-received": "2019-09-26T21:25:09Z",
-    "wm-id": 699466,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/1089643802300727309",
-    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Zubair Mohsin",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/9ee91d9a429bd49d23733e4ad0975a2bfece50d83b11ad8fe30af485a64c32af.jpg",
-      "url": "https://twitter.com/Zubairmohsin33"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-2972870264",
-    "published": null,
-    "wm-received": "2019-09-26T21:03:14Z",
-    "wm-id": 699455,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/2972870264",
-    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Zubair Mohsin",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/9ee91d9a429bd49d23733e4ad0975a2bfece50d83b11ad8fe30af485a64c32af.jpg",
-      "url": "https://twitter.com/Zubairmohsin33"
-    },
-    "url": "https://twitter.com/Zubairmohsin33/status/1177317574406737929",
-    "published": "2019-09-26T20:22:37+00:00",
-    "wm-received": "2019-09-26T21:03:11Z",
-    "wm-id": 699454,
-    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1177182075134365697/1177317574406737929",
-    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "content": {
-      "text": "✒️ Blog post time! I made a high-level comparison between @inertiajs and @LaravelLivewire\n\nsebastiandedeyne.com/inertia-js-and…\n\nIt explains which proble"
-    },
-    "repost-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "wm-property": "repost-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "JuanDMeGon",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/068b719f4f674c1750fc42189350bd59a45dfac3ebc5cc0e953c95ef4433a6b1.jpg",
-      "url": "https://twitter.com/JuanDMeGon"
-    },
-    "url": "https://twitter.com/JuanDMeGon/status/1177313981507211265",
-    "published": "2019-09-26T20:08:21+00:00",
-    "wm-received": "2019-09-26T20:17:37Z",
-    "wm-id": 699426,
-    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1177182075134365697/1177313981507211265",
-    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "content": {
-      "text": "✒️ Blog post time! I made a high-level comparison between @inertiajs and @LaravelLivewire\n\nsebastiandedeyne.com/inertia-js-and…\n\nIt explains which proble"
-    },
-    "repost-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "wm-property": "repost-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Ryan Chandler",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/f01ba2ebadda5ba079a48fefa2155822987e0394efe8181f753dc681bd7526e5.jpg",
-      "url": "https://twitter.com/ryangjchandler"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-1088489047260041217",
-    "published": null,
-    "wm-received": "2019-09-26T20:17:36Z",
-    "wm-id": 699425,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/1088489047260041217",
-    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "I Can Eat!",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/27572d98ed39dc64c4cad9feab20b6a1706802da5ed31a68ff54158c965c0bd0.jpg",
-      "url": "https://twitter.com/kiiyanatz"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-3665986227",
-    "published": null,
-    "wm-received": "2019-09-26T20:17:35Z",
-    "wm-id": 699424,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/3665986227",
-    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "JuanDMeGon",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/068b719f4f674c1750fc42189350bd59a45dfac3ebc5cc0e953c95ef4433a6b1.jpg",
-      "url": "https://twitter.com/JuanDMeGon"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-379982984",
-    "published": null,
-    "wm-received": "2019-09-26T20:17:35Z",
-    "wm-id": 699423,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/379982984",
-    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Ryan Chandler",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/f01ba2ebadda5ba079a48fefa2155822987e0394efe8181f753dc681bd7526e5.jpg",
-      "url": "https://twitter.com/ryangjchandler"
-    },
-    "url": "https://twitter.com/ryangjchandler/status/1177310241815453698",
-    "published": "2019-09-26T19:53:29+00:00",
-    "wm-received": "2019-09-26T20:17:34Z",
-    "wm-id": 699422,
-    "wm-source": "https://brid-gy.appspot.com/comment/twitter/sebdedeyne/1177182075134365697/1177310241815453698",
-    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "content": {
-      "html": "Very interesting article, having used both its hard to choose a favourite.\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/LaravelLivewire\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/inertiajs\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/sebdedeyne\"></a>",
-      "text": "Very interesting article, having used both its hard to choose a favourite."
-    },
-    "in-reply-to": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "wm-property": "in-reply-to",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "I Can Eat!",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/27572d98ed39dc64c4cad9feab20b6a1706802da5ed31a68ff54158c965c0bd0.jpg",
-      "url": "https://twitter.com/kiiyanatz"
-    },
-    "url": "https://twitter.com/kiiyanatz/status/1177311512668647424",
-    "published": "2019-09-26T19:58:32+00:00",
-    "wm-received": "2019-09-26T20:17:33Z",
-    "wm-id": 699421,
-    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1177182075134365697/1177311512668647424",
-    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "content": {
-      "text": "✒️ Blog post time! I made a high-level comparison between @inertiajs and @LaravelLivewire\n\nsebastiandedeyne.com/inertia-js-and…\n\nIt explains which proble"
-    },
-    "repost-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "wm-property": "repost-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Cyril de Wit",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/024226e454853ac712e85cd3c646b7f3aea99b8adb6399176042dbc5db88903c.jpg",
-      "url": "https://twitter.com/cyrildewit"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-2172253302",
-    "published": null,
-    "wm-received": "2019-09-26T18:56:12Z",
-    "wm-id": 699389,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/2172253302",
-    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Rebel Dev News",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/12df11c1776d0ea08f676084acaf71e3bf280e370e5e5cbdf3b1029ca4b8cab2.jpg",
-      "url": "https://twitter.com/RebelDevNews"
-    },
-    "url": "https://twitter.com/RebelDevNews/status/1177281039955349506",
-    "published": "2019-09-26T17:57:27+00:00",
-    "wm-received": "2019-09-26T18:25:15Z",
-    "wm-id": 699377,
-    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1177281039955349506",
-    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "content": {
-      "html": "\"Inertia.js and Livewire: a high level comparison\" <a href=\"https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/\">sebastiandedeyne.com/inertia-js-and…</a>",
-      "text": "\"Inertia.js and Livewire: a high level comparison\" sebastiandedeyne.com/inertia-js-and…"
-    },
-    "mention-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "wm-property": "mention-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Simon Kollross",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/a8d22317feb0b3a3acf2595eab7fb9b586add9155c5c59735524342735d25e39.jpg",
-      "url": "https://twitter.com/skollro"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-3315859774",
-    "published": null,
-    "wm-received": "2019-09-26T18:25:15Z",
-    "wm-id": 699376,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/3315859774",
-    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Rias Van der Veken",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/4d90619c3206b3cd5717b1da4faeda9a43f17617074f32f5e7b25878944df2a0.jpg",
-      "url": "https://twitter.com/Riasvdv"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-124591560",
-    "published": null,
-    "wm-received": "2019-09-26T17:57:05Z",
-    "wm-id": 699367,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/124591560",
-    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "im.mister.j",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/b373a6f1c7ed0ec1c434dc612e188c977bfcc23eb6d541646ba3139077a9c049.jpg",
-      "url": "https://twitter.com/nerdroid95"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-305192622",
-    "published": null,
-    "wm-received": "2019-09-26T17:23:08Z",
-    "wm-id": 699352,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/305192622",
-    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Muhammad Sumon Molla Selim",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/d3318ef9a049d881d55a16a807564c91bcb8badc7a168d8c268f6440bfcdedd5.png",
-      "url": "https://twitter.com/SumonMSelim"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-83314233",
-    "published": null,
-    "wm-received": "2019-09-26T17:23:07Z",
-    "wm-id": 699351,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/83314233",
-    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Guus",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/c55bd1a74d51bb3d9e2900a1124ede7f4846c19bf92734fe217b63adc2ff1ad0.jpg",
-      "url": "https://twitter.com/guuspor"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-2979558448",
-    "published": null,
-    "wm-received": "2019-09-26T16:47:58Z",
-    "wm-id": 699335,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/2979558448",
-    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "wm-property": "like-of",
     "wm-private": false
   },
   {
@@ -949,11 +418,29 @@
       "photo": "https://webmention.io/avatar/pbs.twimg.com/4705db88140db684bf10ec39167ef79ab3b955af3073b1c527298e35daa0e37b.jpg",
       "url": "https://twitter.com/josiahoyahaya"
     },
-    "url": "https://twitter.com/josiahoyahaya/status/1177256968379076608",
-    "published": "2019-09-26T16:21:48+00:00",
-    "wm-received": "2019-09-26T16:47:57Z",
-    "wm-id": 699334,
-    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1177182075134365697/1177256968379076608",
+    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-303949169",
+    "published": null,
+    "wm-received": "2019-09-26T13:07:16Z",
+    "wm-id": 699218,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/303949169",
+    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Spatie",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/3efb487e7f3a0bc3690580277105f93eda590d65e4d9eb01135a184a9df60b18.jpg",
+      "url": "https://twitter.com/spatie_be"
+    },
+    "url": "https://twitter.com/spatie_be/status/1177204552031985664",
+    "published": "2019-09-26T12:53:31+00:00",
+    "wm-received": "2019-09-26T13:07:17Z",
+    "wm-id": 699219,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1177182075134365697/1177204552031985664",
     "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
     "content": {
       "text": "✒️ Blog post time! I made a high-level comparison between @inertiajs and @LaravelLivewire\n\nsebastiandedeyne.com/inertia-js-and…\n\nIt explains which proble"
@@ -966,36 +453,15 @@
     "type": "entry",
     "author": {
       "type": "card",
-      "name": "Guus",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/c55bd1a74d51bb3d9e2900a1124ede7f4846c19bf92734fe217b63adc2ff1ad0.jpg",
-      "url": "https://twitter.com/guuspor"
+      "name": "TheVikingDev",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/44fb35e6981d66ec3626bfa18ac3c6fc14043f5ad7812014b9c3b80bf4d8e48b.jpg",
+      "url": "https://twitter.com/TheVikingDev"
     },
-    "url": "https://twitter.com/guuspor/status/1177260628626628610",
-    "published": "2019-09-26T16:36:20+00:00",
-    "wm-received": "2019-09-26T16:47:56Z",
-    "wm-id": 699333,
-    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1177182075134365697/1177260628626628610",
-    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "content": {
-      "text": "✒️ Blog post time! I made a high-level comparison between @inertiajs and @LaravelLivewire\n\nsebastiandedeyne.com/inertia-js-and…\n\nIt explains which proble"
-    },
-    "repost-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "wm-property": "repost-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Alejandro Barrera A.",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/9c84b199ee5ea30bd9c1297086092951bd88d7b148774e951d7fd19dc74aa58d.jpg",
-      "url": "https://twitter.com/abarreraaponte"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-68850451",
+    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-1157307263142354944",
     "published": null,
-    "wm-received": "2019-09-26T16:47:55Z",
-    "wm-id": 699332,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/68850451",
+    "wm-received": "2019-09-26T13:07:18Z",
+    "wm-id": 699220,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/1157307263142354944",
     "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
     "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
     "wm-property": "like-of",
@@ -1005,15 +471,15 @@
     "type": "entry",
     "author": {
       "type": "card",
-      "name": "Adam 🤙🏼 Mench",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/fa3f7af092ecd7dc2f9d9a1768f9b49604279923d1d8f61281bc780010aaeb9a.jpg",
-      "url": "https://twitter.com/adammench"
+      "name": "CG",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/14a7a6a7817705b821fd115ae49edf3cb39de1b4d5b06b0bfde8e7fb9dde2e4d.jpg",
+      "url": "https://twitter.com/CristoferAGL"
     },
-    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-190017421",
+    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-285141719",
     "published": null,
-    "wm-received": "2019-09-26T16:14:29Z",
-    "wm-id": 699318,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/190017421",
+    "wm-received": "2019-09-26T13:07:19Z",
+    "wm-id": 699221,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/285141719",
     "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
     "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
     "wm-property": "like-of",
@@ -1023,457 +489,15 @@
     "type": "entry",
     "author": {
       "type": "card",
-      "name": "Adam 🤙🏼 Mench",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/fa3f7af092ecd7dc2f9d9a1768f9b49604279923d1d8f61281bc780010aaeb9a.jpg",
-      "url": "https://twitter.com/adammench"
+      "name": "Brandon Surowiec",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/45226abada2bd500360af6839fd38fea1257e6692dd36a1f2b659145135a4e48.jpg",
+      "url": "https://twitter.com/brandonsurowiec"
     },
-    "url": "https://twitter.com/adammench/status/1177253329509998592",
-    "published": "2019-09-26T16:07:20+00:00",
-    "wm-received": "2019-09-26T16:14:29Z",
-    "wm-id": 699317,
-    "wm-source": "https://brid-gy.appspot.com/comment/twitter/sebdedeyne/1177182075134365697/1177253329509998592",
-    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "content": {
-      "html": "Thanks Sebastian! Great write up!\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/LaravelLivewire\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/inertiajs\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/sebdedeyne\"></a>",
-      "text": "Thanks Sebastian! Great write up!"
-    },
-    "in-reply-to": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "wm-property": "in-reply-to",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Anne Koep",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/00866b6b3cf360188c4ebb4546a93e0dcd77b80d6ca493c5ec325cedaea3c321.png",
-      "url": "https://twitter.com/AnneKoep"
-    },
-    "url": "https://twitter.com/AnneKoep/status/1177242812871524352",
-    "published": "2019-09-26T15:25:33+00:00",
-    "wm-received": "2019-09-26T15:42:37Z",
-    "wm-id": 699306,
-    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1177182075134365697/1177242812871524352",
-    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "content": {
-      "text": "✒️ Blog post time! I made a high-level comparison between @inertiajs and @LaravelLivewire\n\nsebastiandedeyne.com/inertia-js-and…\n\nIt explains which proble"
-    },
-    "repost-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "wm-property": "repost-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "oluwajubelo loves VueJS 🚨",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/b46941f64275ee2ae7ae9618ba0d3b60e9ab8ce6a343ff90b0e905321a4c24de.jpg",
-      "url": "https://twitter.com/igeoluwasegun1"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-982451690",
-    "published": null,
-    "wm-received": "2019-09-26T15:42:36Z",
-    "wm-id": 699305,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/982451690",
-    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Anne Koep",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/00866b6b3cf360188c4ebb4546a93e0dcd77b80d6ca493c5ec325cedaea3c321.png",
-      "url": "https://twitter.com/AnneKoep"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-2374240340",
-    "published": null,
-    "wm-received": "2019-09-26T15:42:35Z",
-    "wm-id": 699304,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/2374240340",
-    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "oluwajubelo loves VueJS 🚨",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/b46941f64275ee2ae7ae9618ba0d3b60e9ab8ce6a343ff90b0e905321a4c24de.jpg",
-      "url": "https://twitter.com/igeoluwasegun1"
-    },
-    "url": "https://twitter.com/igeoluwasegun1/status/1177245067796459520",
-    "published": "2019-09-26T15:34:30+00:00",
-    "wm-received": "2019-09-26T15:42:33Z",
-    "wm-id": 699303,
-    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1177182075134365697/1177245067796459520",
-    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "content": {
-      "text": "✒️ Blog post time! I made a high-level comparison between @inertiajs and @LaravelLivewire\n\nsebastiandedeyne.com/inertia-js-and…\n\nIt explains which proble"
-    },
-    "repost-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "wm-property": "repost-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Matthew Poulter",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/617aa055cbdeefbb99860fe70db9bc247085ce32f600ea972585bf0b92237964.jpg",
-      "url": "https://twitter.com/mdpoulter"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-152526668",
-    "published": null,
-    "wm-received": "2019-09-26T15:07:02Z",
-    "wm-id": 699291,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/152526668",
-    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Maurizio",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/dc5452fde227c0087afca895e3b9725b45548500908d0b54fc6abfe4d009481a.jpg",
-      "url": "https://twitter.com/MaurizioLepora"
-    },
-    "url": "https://twitter.com/MaurizioLepora/status/1177236718057136129",
-    "published": "2019-09-26T15:01:20+00:00",
-    "wm-received": "2019-09-26T15:07:01Z",
-    "wm-id": 699290,
-    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1177182075134365697/1177236718057136129",
-    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "content": {
-      "text": "✒️ Blog post time! I made a high-level comparison between @inertiajs and @LaravelLivewire\n\nsebastiandedeyne.com/inertia-js-and…\n\nIt explains which proble"
-    },
-    "repost-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "wm-property": "repost-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Maurizio",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/dc5452fde227c0087afca895e3b9725b45548500908d0b54fc6abfe4d009481a.jpg",
-      "url": "https://twitter.com/MaurizioLepora"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-769472290639740929",
-    "published": null,
-    "wm-received": "2019-09-26T15:07:01Z",
-    "wm-id": 699289,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/769472290639740929",
-    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Franco Gilio",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/344bd6597943463b80117b7639c17b37de1d2eee55becadaf85c6a1fadf159d5.jpg",
-      "url": "https://twitter.com/fgili0"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-305749158",
-    "published": null,
-    "wm-received": "2019-09-26T15:07:00Z",
-    "wm-id": 699288,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/305749158",
-    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Daniel Schmitz",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/ece1042e9242019cf9f90d834fff5c451612ed4b5135f08343a7428d313e703f.jpg",
-      "url": "https://twitter.com/bashgeek"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-48294665",
-    "published": null,
-    "wm-received": "2019-09-26T15:06:59Z",
-    "wm-id": 699287,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/48294665",
-    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Wyatt",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/d2450d3284e8d38d88102d508c02f4095e3eee613cc83e87e45d58ded3d90c8f.jpg",
-      "url": "https://twitter.com/WyattCastaned44"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-534528249",
-    "published": null,
-    "wm-received": "2019-09-26T14:39:18Z",
-    "wm-id": 699279,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/534528249",
-    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "kapil",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/4b9f1c40568f0980d0d24eccac0a99f78f34d08e7136eda3436bf9e2b33cfc92.jpg",
-      "url": "https://twitter.com/kapilsofteng"
-    },
-    "url": "https://twitter.com/kapilsofteng/status/1177224329022435329",
-    "published": "2019-09-26T14:12:06+00:00",
-    "wm-received": "2019-09-26T14:39:16Z",
-    "wm-id": 699278,
-    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1177182075134365697/1177224329022435329",
-    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "content": {
-      "text": "✒️ Blog post time! I made a high-level comparison between @inertiajs and @LaravelLivewire\n\nsebastiandedeyne.com/inertia-js-and…\n\nIt explains which proble"
-    },
-    "repost-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "wm-property": "repost-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "John Braun",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/d0d672a3db0638fae323d34fea58f79aeeb8bcecf8488fdafdf45258df5f97b4.jpg",
-      "url": "https://twitter.com/JhnBrn90"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-965178689737691136",
-    "published": null,
-    "wm-received": "2019-09-26T14:39:16Z",
-    "wm-id": 699277,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/965178689737691136",
-    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Miguel Piedrafita🛸",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/fa2e9a8dd19a716f2e068d287cc1edadff32bfe0ea77dc35362f10c903813132.png",
-      "url": "https://twitter.com/m1guelpf"
-    },
-    "url": "https://twitter.com/m1guelpf/status/1177229762298830848",
-    "published": "2019-09-26T14:33:41+00:00",
-    "wm-received": "2019-09-26T14:39:14Z",
-    "wm-id": 699276,
-    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1177182075134365697/1177229762298830848",
-    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "content": {
-      "text": "✒️ Blog post time! I made a high-level comparison between @inertiajs and @LaravelLivewire\n\nsebastiandedeyne.com/inertia-js-and…\n\nIt explains which proble"
-    },
-    "repost-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "wm-property": "repost-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Miguel Piedrafita 🛸",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/fa2e9a8dd19a716f2e068d287cc1edadff32bfe0ea77dc35362f10c903813132.png",
-      "url": "https://twitter.com/m1guelpf"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-713094195955830785",
-    "published": null,
-    "wm-received": "2019-09-26T14:39:14Z",
-    "wm-id": 699275,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/713094195955830785",
-    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "ダビッド トレス",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/d0994d73b96fc0a00dfcaa8a0124a684ce7cb336c9130d37dc989ef26ed08d54.jpg",
-      "url": "https://twitter.com/DabiddoKun"
-    },
-    "url": "https://twitter.com/DabiddoKun/status/1177220030041182208",
-    "published": "2019-09-26T13:55:01+00:00",
-    "wm-received": "2019-09-26T14:03:50Z",
-    "wm-id": 699260,
-    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1177182075134365697/1177220030041182208",
-    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "content": {
-      "text": "✒️ Blog post time! I made a high-level comparison between @inertiajs and @LaravelLivewire\n\nsebastiandedeyne.com/inertia-js-and…\n\nIt explains which proble"
-    },
-    "repost-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "wm-property": "repost-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "ダビッド トレス",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/d0994d73b96fc0a00dfcaa8a0124a684ce7cb336c9130d37dc989ef26ed08d54.jpg",
-      "url": "https://twitter.com/DabiddoKun"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-21840119",
-    "published": null,
-    "wm-received": "2019-09-26T14:03:47Z",
-    "wm-id": 699259,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/21840119",
-    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Omar Andrés Barbosa Ortiz",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/bfaad654b5281da416fd8076108e1ab9d2c7641bc392ec82851b61adbc7ecd68.jpg",
-      "url": "https://twitter.com/Omar_Andres_Bar"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-1377043825",
-    "published": null,
-    "wm-received": "2019-09-26T14:03:46Z",
-    "wm-id": 699258,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/1377043825",
-    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Mior Muhammad Zaki",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/400f22297dc8365d4d7aa8719b54aa087cd6d04b696cf4543b2145dfea7c628f.jpg",
-      "url": "https://twitter.com/crynobone"
-    },
-    "url": "https://twitter.com/crynobone/status/1177218260736962560",
-    "published": "2019-09-26T13:47:59+00:00",
-    "wm-received": "2019-09-26T14:03:45Z",
-    "wm-id": 699257,
-    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1177182075134365697/1177218260736962560",
-    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "content": {
-      "text": "✒️ Blog post time! I made a high-level comparison between @inertiajs and @LaravelLivewire\n\nsebastiandedeyne.com/inertia-js-and…\n\nIt explains which proble"
-    },
-    "repost-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "wm-property": "repost-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Kalle Palokankare",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/825cd24e1c94e1ba0f0b11ba7be897e1cec352c9182c010d9197efcfb0b69f02.jpg",
-      "url": "https://twitter.com/palokankare"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-2207288388",
-    "published": null,
-    "wm-received": "2019-09-26T14:03:43Z",
-    "wm-id": 699256,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/2207288388",
-    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Muhammet Sait",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/12a80e4ba4c589ac8f6c0ac9a67633ff34acf4f54e5eab9010830272107b7451.jpg",
-      "url": "https://twitter.com/muhammetsait_"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-2288402202",
-    "published": null,
-    "wm-received": "2019-09-26T14:03:42Z",
-    "wm-id": 699255,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/2288402202",
-    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Dylan Ryan",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/b78454be7df55d4e04452d7962248f7f400aa0d86ba6f5fd396157fcb06481f9.jpg",
-      "url": "https://twitter.com/dylanryan81"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-1030133910682914817",
-    "published": null,
-    "wm-received": "2019-09-26T13:34:06Z",
-    "wm-id": 699237,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/1030133910682914817",
-    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Orchestra Platform",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/9f6f792a593cc5574c44207a91e29105b5af34222ab8e0a5607c02f6f1dbec43.png",
-      "url": "https://twitter.com/getorchestra"
-    },
-    "url": "https://twitter.com/getorchestra/status/1177211622500134913",
-    "published": "2019-09-26T13:21:36+00:00",
-    "wm-received": "2019-09-26T13:34:04Z",
-    "wm-id": 699236,
-    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1177182075134365697/1177211622500134913",
-    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "content": {
-      "text": "✒️ Blog post time! I made a high-level comparison between @inertiajs and @LaravelLivewire\n\nsebastiandedeyne.com/inertia-js-and…\n\nIt explains which proble"
-    },
-    "repost-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "wm-property": "repost-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Dylan Ryan",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/b78454be7df55d4e04452d7962248f7f400aa0d86ba6f5fd396157fcb06481f9.jpg",
-      "url": "https://twitter.com/dylanryan81"
-    },
-    "url": "https://twitter.com/dylanryan81/status/1177208674374365184",
-    "published": "2019-09-26T13:09:54+00:00",
-    "wm-received": "2019-09-26T13:34:03Z",
-    "wm-id": 699235,
-    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1177182075134365697/1177208674374365184",
+    "url": "https://twitter.com/brandonsurowiec/status/1177208856868544515",
+    "published": "2019-09-26T13:10:37+00:00",
+    "wm-received": "2019-09-26T13:33:58Z",
+    "wm-id": 699233,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1177182075134365697/1177208856868544515",
     "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
     "content": {
       "text": "✒️ Blog post time! I made a high-level comparison between @inertiajs and @LaravelLivewire\n\nsebastiandedeyne.com/inertia-js-and…\n\nIt explains which proble"
@@ -1508,15 +532,15 @@
     "type": "entry",
     "author": {
       "type": "card",
-      "name": "Brandon Surowiec",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/45226abada2bd500360af6839fd38fea1257e6692dd36a1f2b659145135a4e48.jpg",
-      "url": "https://twitter.com/brandonsurowiec"
+      "name": "Dylan Ryan",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/b78454be7df55d4e04452d7962248f7f400aa0d86ba6f5fd396157fcb06481f9.jpg",
+      "url": "https://twitter.com/dylanryan81"
     },
-    "url": "https://twitter.com/brandonsurowiec/status/1177208856868544515",
-    "published": "2019-09-26T13:10:37+00:00",
-    "wm-received": "2019-09-26T13:33:58Z",
-    "wm-id": 699233,
-    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1177182075134365697/1177208856868544515",
+    "url": "https://twitter.com/dylanryan81/status/1177208674374365184",
+    "published": "2019-09-26T13:09:54+00:00",
+    "wm-received": "2019-09-26T13:34:03Z",
+    "wm-id": 699235,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1177182075134365697/1177208674374365184",
     "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
     "content": {
       "text": "✒️ Blog post time! I made a high-level comparison between @inertiajs and @LaravelLivewire\n\nsebastiandedeyne.com/inertia-js-and…\n\nIt explains which proble"
@@ -1529,15 +553,36 @@
     "type": "entry",
     "author": {
       "type": "card",
-      "name": "CG",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/14a7a6a7817705b821fd115ae49edf3cb39de1b4d5b06b0bfde8e7fb9dde2e4d.jpg",
-      "url": "https://twitter.com/CristoferAGL"
+      "name": "Orchestra Platform",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/9f6f792a593cc5574c44207a91e29105b5af34222ab8e0a5607c02f6f1dbec43.png",
+      "url": "https://twitter.com/getorchestra"
     },
-    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-285141719",
+    "url": "https://twitter.com/getorchestra/status/1177211622500134913",
+    "published": "2019-09-26T13:21:36+00:00",
+    "wm-received": "2019-09-26T13:34:04Z",
+    "wm-id": 699236,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1177182075134365697/1177211622500134913",
+    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "content": {
+      "text": "✒️ Blog post time! I made a high-level comparison between @inertiajs and @LaravelLivewire\n\nsebastiandedeyne.com/inertia-js-and…\n\nIt explains which proble"
+    },
+    "repost-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Dylan Ryan",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/b78454be7df55d4e04452d7962248f7f400aa0d86ba6f5fd396157fcb06481f9.jpg",
+      "url": "https://twitter.com/dylanryan81"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-1030133910682914817",
     "published": null,
-    "wm-received": "2019-09-26T13:07:19Z",
-    "wm-id": 699221,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/285141719",
+    "wm-received": "2019-09-26T13:34:06Z",
+    "wm-id": 699237,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/1030133910682914817",
     "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
     "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
     "wm-property": "like-of",
@@ -1547,15 +592,15 @@
     "type": "entry",
     "author": {
       "type": "card",
-      "name": "TheVikingDev",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/44fb35e6981d66ec3626bfa18ac3c6fc14043f5ad7812014b9c3b80bf4d8e48b.jpg",
-      "url": "https://twitter.com/TheVikingDev"
+      "name": "Muhammet Sait",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/12a80e4ba4c589ac8f6c0ac9a67633ff34acf4f54e5eab9010830272107b7451.jpg",
+      "url": "https://twitter.com/muhammetsait_"
     },
-    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-1157307263142354944",
+    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-2288402202",
     "published": null,
-    "wm-received": "2019-09-26T13:07:18Z",
-    "wm-id": 699220,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/1157307263142354944",
+    "wm-received": "2019-09-26T14:03:42Z",
+    "wm-id": 699255,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/2288402202",
     "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
     "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
     "wm-property": "like-of",
@@ -1565,15 +610,436 @@
     "type": "entry",
     "author": {
       "type": "card",
-      "name": "Spatie",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/3efb487e7f3a0bc3690580277105f93eda590d65e4d9eb01135a184a9df60b18.jpg",
-      "url": "https://twitter.com/spatie_be"
+      "name": "Kalle Palokankare",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/825cd24e1c94e1ba0f0b11ba7be897e1cec352c9182c010d9197efcfb0b69f02.jpg",
+      "url": "https://twitter.com/palokankare"
     },
-    "url": "https://twitter.com/spatie_be/status/1177204552031985664",
-    "published": "2019-09-26T12:53:31+00:00",
-    "wm-received": "2019-09-26T13:07:17Z",
-    "wm-id": 699219,
-    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1177182075134365697/1177204552031985664",
+    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-2207288388",
+    "published": null,
+    "wm-received": "2019-09-26T14:03:43Z",
+    "wm-id": 699256,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/2207288388",
+    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Mior Muhammad Zaki",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/400f22297dc8365d4d7aa8719b54aa087cd6d04b696cf4543b2145dfea7c628f.jpg",
+      "url": "https://twitter.com/crynobone"
+    },
+    "url": "https://twitter.com/crynobone/status/1177218260736962560",
+    "published": "2019-09-26T13:47:59+00:00",
+    "wm-received": "2019-09-26T14:03:45Z",
+    "wm-id": 699257,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1177182075134365697/1177218260736962560",
+    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "content": {
+      "text": "✒️ Blog post time! I made a high-level comparison between @inertiajs and @LaravelLivewire\n\nsebastiandedeyne.com/inertia-js-and…\n\nIt explains which proble"
+    },
+    "repost-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Omar Andrés Barbosa Ortiz",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/bfaad654b5281da416fd8076108e1ab9d2c7641bc392ec82851b61adbc7ecd68.jpg",
+      "url": "https://twitter.com/Omar_Andres_Bar"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-1377043825",
+    "published": null,
+    "wm-received": "2019-09-26T14:03:46Z",
+    "wm-id": 699258,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/1377043825",
+    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "ダビッド トレス",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/d0994d73b96fc0a00dfcaa8a0124a684ce7cb336c9130d37dc989ef26ed08d54.jpg",
+      "url": "https://twitter.com/DabiddoKun"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-21840119",
+    "published": null,
+    "wm-received": "2019-09-26T14:03:47Z",
+    "wm-id": 699259,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/21840119",
+    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "ダビッド トレス",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/d0994d73b96fc0a00dfcaa8a0124a684ce7cb336c9130d37dc989ef26ed08d54.jpg",
+      "url": "https://twitter.com/DabiddoKun"
+    },
+    "url": "https://twitter.com/DabiddoKun/status/1177220030041182208",
+    "published": "2019-09-26T13:55:01+00:00",
+    "wm-received": "2019-09-26T14:03:50Z",
+    "wm-id": 699260,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1177182075134365697/1177220030041182208",
+    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "content": {
+      "text": "✒️ Blog post time! I made a high-level comparison between @inertiajs and @LaravelLivewire\n\nsebastiandedeyne.com/inertia-js-and…\n\nIt explains which proble"
+    },
+    "repost-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Miguel Piedrafita 🛸",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/fa2e9a8dd19a716f2e068d287cc1edadff32bfe0ea77dc35362f10c903813132.png",
+      "url": "https://twitter.com/m1guelpf"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-713094195955830785",
+    "published": null,
+    "wm-received": "2019-09-26T14:39:14Z",
+    "wm-id": 699275,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/713094195955830785",
+    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Miguel Piedrafita🛸",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/fa2e9a8dd19a716f2e068d287cc1edadff32bfe0ea77dc35362f10c903813132.png",
+      "url": "https://twitter.com/m1guelpf"
+    },
+    "url": "https://twitter.com/m1guelpf/status/1177229762298830848",
+    "published": "2019-09-26T14:33:41+00:00",
+    "wm-received": "2019-09-26T14:39:14Z",
+    "wm-id": 699276,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1177182075134365697/1177229762298830848",
+    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "content": {
+      "text": "✒️ Blog post time! I made a high-level comparison between @inertiajs and @LaravelLivewire\n\nsebastiandedeyne.com/inertia-js-and…\n\nIt explains which proble"
+    },
+    "repost-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "John Braun",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/d0d672a3db0638fae323d34fea58f79aeeb8bcecf8488fdafdf45258df5f97b4.jpg",
+      "url": "https://twitter.com/JhnBrn90"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-965178689737691136",
+    "published": null,
+    "wm-received": "2019-09-26T14:39:16Z",
+    "wm-id": 699277,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/965178689737691136",
+    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "kapil",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/4b9f1c40568f0980d0d24eccac0a99f78f34d08e7136eda3436bf9e2b33cfc92.jpg",
+      "url": "https://twitter.com/kapilsofteng"
+    },
+    "url": "https://twitter.com/kapilsofteng/status/1177224329022435329",
+    "published": "2019-09-26T14:12:06+00:00",
+    "wm-received": "2019-09-26T14:39:16Z",
+    "wm-id": 699278,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1177182075134365697/1177224329022435329",
+    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "content": {
+      "text": "✒️ Blog post time! I made a high-level comparison between @inertiajs and @LaravelLivewire\n\nsebastiandedeyne.com/inertia-js-and…\n\nIt explains which proble"
+    },
+    "repost-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Wyatt",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/d2450d3284e8d38d88102d508c02f4095e3eee613cc83e87e45d58ded3d90c8f.jpg",
+      "url": "https://twitter.com/WyattCastaned44"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-534528249",
+    "published": null,
+    "wm-received": "2019-09-26T14:39:18Z",
+    "wm-id": 699279,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/534528249",
+    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Daniel Schmitz",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/ece1042e9242019cf9f90d834fff5c451612ed4b5135f08343a7428d313e703f.jpg",
+      "url": "https://twitter.com/bashgeek"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-48294665",
+    "published": null,
+    "wm-received": "2019-09-26T15:06:59Z",
+    "wm-id": 699287,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/48294665",
+    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Franco Gilio",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/344bd6597943463b80117b7639c17b37de1d2eee55becadaf85c6a1fadf159d5.jpg",
+      "url": "https://twitter.com/fgili0"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-305749158",
+    "published": null,
+    "wm-received": "2019-09-26T15:07:00Z",
+    "wm-id": 699288,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/305749158",
+    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Maurizio",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/dc5452fde227c0087afca895e3b9725b45548500908d0b54fc6abfe4d009481a.jpg",
+      "url": "https://twitter.com/MaurizioLepora"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-769472290639740929",
+    "published": null,
+    "wm-received": "2019-09-26T15:07:01Z",
+    "wm-id": 699289,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/769472290639740929",
+    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Maurizio",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/dc5452fde227c0087afca895e3b9725b45548500908d0b54fc6abfe4d009481a.jpg",
+      "url": "https://twitter.com/MaurizioLepora"
+    },
+    "url": "https://twitter.com/MaurizioLepora/status/1177236718057136129",
+    "published": "2019-09-26T15:01:20+00:00",
+    "wm-received": "2019-09-26T15:07:01Z",
+    "wm-id": 699290,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1177182075134365697/1177236718057136129",
+    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "content": {
+      "text": "✒️ Blog post time! I made a high-level comparison between @inertiajs and @LaravelLivewire\n\nsebastiandedeyne.com/inertia-js-and…\n\nIt explains which proble"
+    },
+    "repost-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Matthew Poulter",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/617aa055cbdeefbb99860fe70db9bc247085ce32f600ea972585bf0b92237964.jpg",
+      "url": "https://twitter.com/mdpoulter"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-152526668",
+    "published": null,
+    "wm-received": "2019-09-26T15:07:02Z",
+    "wm-id": 699291,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/152526668",
+    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "oluwajubelo loves VueJS 🚨",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/b46941f64275ee2ae7ae9618ba0d3b60e9ab8ce6a343ff90b0e905321a4c24de.jpg",
+      "url": "https://twitter.com/igeoluwasegun1"
+    },
+    "url": "https://twitter.com/igeoluwasegun1/status/1177245067796459520",
+    "published": "2019-09-26T15:34:30+00:00",
+    "wm-received": "2019-09-26T15:42:33Z",
+    "wm-id": 699303,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1177182075134365697/1177245067796459520",
+    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "content": {
+      "text": "✒️ Blog post time! I made a high-level comparison between @inertiajs and @LaravelLivewire\n\nsebastiandedeyne.com/inertia-js-and…\n\nIt explains which proble"
+    },
+    "repost-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Anne Koep",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/00866b6b3cf360188c4ebb4546a93e0dcd77b80d6ca493c5ec325cedaea3c321.png",
+      "url": "https://twitter.com/AnneKoep"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-2374240340",
+    "published": null,
+    "wm-received": "2019-09-26T15:42:35Z",
+    "wm-id": 699304,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/2374240340",
+    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "oluwajubelo loves VueJS 🚨",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/b46941f64275ee2ae7ae9618ba0d3b60e9ab8ce6a343ff90b0e905321a4c24de.jpg",
+      "url": "https://twitter.com/igeoluwasegun1"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-982451690",
+    "published": null,
+    "wm-received": "2019-09-26T15:42:36Z",
+    "wm-id": 699305,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/982451690",
+    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Anne Koep",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/00866b6b3cf360188c4ebb4546a93e0dcd77b80d6ca493c5ec325cedaea3c321.png",
+      "url": "https://twitter.com/AnneKoep"
+    },
+    "url": "https://twitter.com/AnneKoep/status/1177242812871524352",
+    "published": "2019-09-26T15:25:33+00:00",
+    "wm-received": "2019-09-26T15:42:37Z",
+    "wm-id": 699306,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1177182075134365697/1177242812871524352",
+    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "content": {
+      "text": "✒️ Blog post time! I made a high-level comparison between @inertiajs and @LaravelLivewire\n\nsebastiandedeyne.com/inertia-js-and…\n\nIt explains which proble"
+    },
+    "repost-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Adam 🤙🏼 Mench",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/fa3f7af092ecd7dc2f9d9a1768f9b49604279923d1d8f61281bc780010aaeb9a.jpg",
+      "url": "https://twitter.com/adammench"
+    },
+    "url": "https://twitter.com/adammench/status/1177253329509998592",
+    "published": "2019-09-26T16:07:20+00:00",
+    "wm-received": "2019-09-26T16:14:29Z",
+    "wm-id": 699317,
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/sebdedeyne/1177182075134365697/1177253329509998592",
+    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "content": {
+      "html": "Thanks Sebastian! Great write up!\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/LaravelLivewire\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/inertiajs\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/sebdedeyne\"></a>",
+      "text": "Thanks Sebastian! Great write up!"
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Adam 🤙🏼 Mench",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/fa3f7af092ecd7dc2f9d9a1768f9b49604279923d1d8f61281bc780010aaeb9a.jpg",
+      "url": "https://twitter.com/adammench"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-190017421",
+    "published": null,
+    "wm-received": "2019-09-26T16:14:29Z",
+    "wm-id": 699318,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/190017421",
+    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Alejandro Barrera A.",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/9c84b199ee5ea30bd9c1297086092951bd88d7b148774e951d7fd19dc74aa58d.jpg",
+      "url": "https://twitter.com/abarreraaponte"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-68850451",
+    "published": null,
+    "wm-received": "2019-09-26T16:47:55Z",
+    "wm-id": 699332,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/68850451",
+    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Guus",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/c55bd1a74d51bb3d9e2900a1124ede7f4846c19bf92734fe217b63adc2ff1ad0.jpg",
+      "url": "https://twitter.com/guuspor"
+    },
+    "url": "https://twitter.com/guuspor/status/1177260628626628610",
+    "published": "2019-09-26T16:36:20+00:00",
+    "wm-received": "2019-09-26T16:47:56Z",
+    "wm-id": 699333,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1177182075134365697/1177260628626628610",
     "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
     "content": {
       "text": "✒️ Blog post time! I made a high-level comparison between @inertiajs and @LaravelLivewire\n\nsebastiandedeyne.com/inertia-js-and…\n\nIt explains which proble"
@@ -1590,14 +1056,843 @@
       "photo": "https://webmention.io/avatar/pbs.twimg.com/4705db88140db684bf10ec39167ef79ab3b955af3073b1c527298e35daa0e37b.jpg",
       "url": "https://twitter.com/josiahoyahaya"
     },
-    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-303949169",
+    "url": "https://twitter.com/josiahoyahaya/status/1177256968379076608",
+    "published": "2019-09-26T16:21:48+00:00",
+    "wm-received": "2019-09-26T16:47:57Z",
+    "wm-id": 699334,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1177182075134365697/1177256968379076608",
+    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "content": {
+      "text": "✒️ Blog post time! I made a high-level comparison between @inertiajs and @LaravelLivewire\n\nsebastiandedeyne.com/inertia-js-and…\n\nIt explains which proble"
+    },
+    "repost-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Guus",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/c55bd1a74d51bb3d9e2900a1124ede7f4846c19bf92734fe217b63adc2ff1ad0.jpg",
+      "url": "https://twitter.com/guuspor"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-2979558448",
     "published": null,
-    "wm-received": "2019-09-26T13:07:16Z",
-    "wm-id": 699218,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/303949169",
+    "wm-received": "2019-09-26T16:47:58Z",
+    "wm-id": 699335,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/2979558448",
     "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
     "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
     "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Muhammad Sumon Molla Selim",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/d3318ef9a049d881d55a16a807564c91bcb8badc7a168d8c268f6440bfcdedd5.png",
+      "url": "https://twitter.com/SumonMSelim"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-83314233",
+    "published": null,
+    "wm-received": "2019-09-26T17:23:07Z",
+    "wm-id": 699351,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/83314233",
+    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "im.mister.j",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/b373a6f1c7ed0ec1c434dc612e188c977bfcc23eb6d541646ba3139077a9c049.jpg",
+      "url": "https://twitter.com/nerdroid95"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-305192622",
+    "published": null,
+    "wm-received": "2019-09-26T17:23:08Z",
+    "wm-id": 699352,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/305192622",
+    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Rias Van der Veken",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/4d90619c3206b3cd5717b1da4faeda9a43f17617074f32f5e7b25878944df2a0.jpg",
+      "url": "https://twitter.com/Riasvdv"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-124591560",
+    "published": null,
+    "wm-received": "2019-09-26T17:57:05Z",
+    "wm-id": 699367,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/124591560",
+    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Simon Kollross",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/a8d22317feb0b3a3acf2595eab7fb9b586add9155c5c59735524342735d25e39.jpg",
+      "url": "https://twitter.com/skollro"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-3315859774",
+    "published": null,
+    "wm-received": "2019-09-26T18:25:15Z",
+    "wm-id": 699376,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/3315859774",
+    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Rebel Dev News",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/12df11c1776d0ea08f676084acaf71e3bf280e370e5e5cbdf3b1029ca4b8cab2.jpg",
+      "url": "https://twitter.com/RebelDevNews"
+    },
+    "url": "https://twitter.com/RebelDevNews/status/1177281039955349506",
+    "published": "2019-09-26T17:57:27+00:00",
+    "wm-received": "2019-09-26T18:25:15Z",
+    "wm-id": 699377,
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1177281039955349506",
+    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "content": {
+      "html": "\"Inertia.js and Livewire: a high level comparison\" <a href=\"https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/\">sebastiandedeyne.com/inertia-js-and…</a>",
+      "text": "\"Inertia.js and Livewire: a high level comparison\" sebastiandedeyne.com/inertia-js-and…"
+    },
+    "mention-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "wm-property": "mention-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Cyril de Wit",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/024226e454853ac712e85cd3c646b7f3aea99b8adb6399176042dbc5db88903c.jpg",
+      "url": "https://twitter.com/cyrildewit"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-2172253302",
+    "published": null,
+    "wm-received": "2019-09-26T18:56:12Z",
+    "wm-id": 699389,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/2172253302",
+    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "I Can Eat!",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/27572d98ed39dc64c4cad9feab20b6a1706802da5ed31a68ff54158c965c0bd0.jpg",
+      "url": "https://twitter.com/kiiyanatz"
+    },
+    "url": "https://twitter.com/kiiyanatz/status/1177311512668647424",
+    "published": "2019-09-26T19:58:32+00:00",
+    "wm-received": "2019-09-26T20:17:33Z",
+    "wm-id": 699421,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1177182075134365697/1177311512668647424",
+    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "content": {
+      "text": "✒️ Blog post time! I made a high-level comparison between @inertiajs and @LaravelLivewire\n\nsebastiandedeyne.com/inertia-js-and…\n\nIt explains which proble"
+    },
+    "repost-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Ryan Chandler",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/f01ba2ebadda5ba079a48fefa2155822987e0394efe8181f753dc681bd7526e5.jpg",
+      "url": "https://twitter.com/ryangjchandler"
+    },
+    "url": "https://twitter.com/ryangjchandler/status/1177310241815453698",
+    "published": "2019-09-26T19:53:29+00:00",
+    "wm-received": "2019-09-26T20:17:34Z",
+    "wm-id": 699422,
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/sebdedeyne/1177182075134365697/1177310241815453698",
+    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "content": {
+      "html": "Very interesting article, having used both its hard to choose a favourite.\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/LaravelLivewire\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/inertiajs\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/sebdedeyne\"></a>",
+      "text": "Very interesting article, having used both its hard to choose a favourite."
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "JuanDMeGon",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/068b719f4f674c1750fc42189350bd59a45dfac3ebc5cc0e953c95ef4433a6b1.jpg",
+      "url": "https://twitter.com/JuanDMeGon"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-379982984",
+    "published": null,
+    "wm-received": "2019-09-26T20:17:35Z",
+    "wm-id": 699423,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/379982984",
+    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "I Can Eat!",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/27572d98ed39dc64c4cad9feab20b6a1706802da5ed31a68ff54158c965c0bd0.jpg",
+      "url": "https://twitter.com/kiiyanatz"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-3665986227",
+    "published": null,
+    "wm-received": "2019-09-26T20:17:35Z",
+    "wm-id": 699424,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/3665986227",
+    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Ryan Chandler",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/f01ba2ebadda5ba079a48fefa2155822987e0394efe8181f753dc681bd7526e5.jpg",
+      "url": "https://twitter.com/ryangjchandler"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-1088489047260041217",
+    "published": null,
+    "wm-received": "2019-09-26T20:17:36Z",
+    "wm-id": 699425,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/1088489047260041217",
+    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "JuanDMeGon",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/068b719f4f674c1750fc42189350bd59a45dfac3ebc5cc0e953c95ef4433a6b1.jpg",
+      "url": "https://twitter.com/JuanDMeGon"
+    },
+    "url": "https://twitter.com/JuanDMeGon/status/1177313981507211265",
+    "published": "2019-09-26T20:08:21+00:00",
+    "wm-received": "2019-09-26T20:17:37Z",
+    "wm-id": 699426,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1177182075134365697/1177313981507211265",
+    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "content": {
+      "text": "✒️ Blog post time! I made a high-level comparison between @inertiajs and @LaravelLivewire\n\nsebastiandedeyne.com/inertia-js-and…\n\nIt explains which proble"
+    },
+    "repost-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Zubair Mohsin",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/9ee91d9a429bd49d23733e4ad0975a2bfece50d83b11ad8fe30af485a64c32af.jpg",
+      "url": "https://twitter.com/Zubairmohsin33"
+    },
+    "url": "https://twitter.com/Zubairmohsin33/status/1177317574406737929",
+    "published": "2019-09-26T20:22:37+00:00",
+    "wm-received": "2019-09-26T21:03:11Z",
+    "wm-id": 699454,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1177182075134365697/1177317574406737929",
+    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "content": {
+      "text": "✒️ Blog post time! I made a high-level comparison between @inertiajs and @LaravelLivewire\n\nsebastiandedeyne.com/inertia-js-and…\n\nIt explains which proble"
+    },
+    "repost-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Zubair Mohsin",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/9ee91d9a429bd49d23733e4ad0975a2bfece50d83b11ad8fe30af485a64c32af.jpg",
+      "url": "https://twitter.com/Zubairmohsin33"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-2972870264",
+    "published": null,
+    "wm-received": "2019-09-26T21:03:14Z",
+    "wm-id": 699455,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/2972870264",
+    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "ArielSalvadorDev",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/0a83006ed4632d49e41a6f9c085d9c9346136c8487e017783ee4fc03095adee8.jpg",
+      "url": "https://twitter.com/ArielSalvadorD1"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-1089643802300727309",
+    "published": null,
+    "wm-received": "2019-09-26T21:25:09Z",
+    "wm-id": 699466,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/1089643802300727309",
+    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "ArielSalvadorDev",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/0a83006ed4632d49e41a6f9c085d9c9346136c8487e017783ee4fc03095adee8.jpg",
+      "url": "https://twitter.com/ArielSalvadorD1"
+    },
+    "url": "https://twitter.com/ArielSalvadorD1/status/1177330212603858946",
+    "published": "2019-09-26T21:12:51+00:00",
+    "wm-received": "2019-09-26T21:25:10Z",
+    "wm-id": 699467,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1177182075134365697/1177330212603858946",
+    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "content": {
+      "text": "✒️ Blog post time! I made a high-level comparison between @inertiajs and @LaravelLivewire\n\nsebastiandedeyne.com/inertia-js-and…\n\nIt explains which proble"
+    },
+    "repost-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Kofi Boakye",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/0be56dfd7b29b4890038a3afe8cc9361481f68584d251a3eba0f9830bb048ed1.jpg",
+      "url": "https://twitter.com/2kodes"
+    },
+    "url": "https://twitter.com/2kodes/status/1177328827158138885",
+    "published": "2019-09-26T21:07:20+00:00",
+    "wm-received": "2019-09-26T21:25:10Z",
+    "wm-id": 699468,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1177182075134365697/1177328827158138885",
+    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "content": {
+      "text": "✒️ Blog post time! I made a high-level comparison between @inertiajs and @LaravelLivewire\n\nsebastiandedeyne.com/inertia-js-and…\n\nIt explains which proble"
+    },
+    "repost-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Karel",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/ec7dbb3131dfbd93d689216c13e69c42350363722bed29e6fd12966dc8a4c650.jpg",
+      "url": "https://twitter.com/Shaffe"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-6856672",
+    "published": null,
+    "wm-received": "2019-09-26T21:54:48Z",
+    "wm-id": 699479,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/6856672",
+    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Alejandro Vásquez N.",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/cd7924a6f37af811ba542ce34a958e23612525ccffa1dacbc63ff31eec3203c8.jpg",
+      "url": "https://twitter.com/Neurotools"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-26308895",
+    "published": null,
+    "wm-received": "2019-09-26T22:23:16Z",
+    "wm-id": 699490,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/26308895",
+    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "570 Studio",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/cc2bc7748d9fc1d47014c3820ad252eb9d632c6550515bcec0094c29679c857b.jpg",
+      "url": "https://twitter.com/570Studio"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-2184887796",
+    "published": null,
+    "wm-received": "2019-09-26T22:23:17Z",
+    "wm-id": 699491,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/2184887796",
+    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Martin Carlin",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/7f37449c3c90c7a645784d54efb247a243cb4623942c5d7457834626f0e57ffa.jpg",
+      "url": "https://twitter.com/martincarlin87"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-34239168",
+    "published": null,
+    "wm-received": "2019-09-26T23:26:46Z",
+    "wm-id": 699519,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/34239168",
+    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Aaron Francis",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/bd4ef5f98a633056fa7d93d77326625b8ca883c07b17e7ee43b9af59db0fa409.jpg",
+      "url": "https://twitter.com/aarondfrancis"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-20963591",
+    "published": null,
+    "wm-received": "2019-09-27T02:53:51Z",
+    "wm-id": 699584,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/20963591",
+    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Saibal Roy",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/20dfe8b4905e2ed8065c4620e57a991740b520cdc1ad6392d89d6fe7c9992ddf.jpg",
+      "url": "https://twitter.com/sunnyroy21"
+    },
+    "url": "https://twitter.com/sunnyroy21/status/1177427702699053056",
+    "published": "2019-09-27T03:40:14+00:00",
+    "wm-received": "2019-09-27T03:49:15Z",
+    "wm-id": 699611,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1177182075134365697/1177427702699053056",
+    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "content": {
+      "text": "✒️ Blog post time! I made a high-level comparison between @inertiajs and @LaravelLivewire\n\nsebastiandedeyne.com/inertia-js-and…\n\nIt explains which proble"
+    },
+    "repost-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Camilo Caquimbo",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/63e3b11fbd7fb9a6ae11be46cc239bb28d8697673ae9f87c47bfa8b27fe1f205.jpg",
+      "url": "https://twitter.com/CCaquimbo"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-447532863",
+    "published": null,
+    "wm-received": "2019-09-27T03:49:19Z",
+    "wm-id": 699612,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/447532863",
+    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Saibal Roy",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/20dfe8b4905e2ed8065c4620e57a991740b520cdc1ad6392d89d6fe7c9992ddf.jpg",
+      "url": "https://twitter.com/sunnyroy21"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-2343423780",
+    "published": null,
+    "wm-received": "2019-09-27T03:49:20Z",
+    "wm-id": 699613,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/2343423780",
+    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Pieter Van Leuven",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/c8b1e2c4fa7079fc6e5c6368009e2279efcc969a379cbb53b785eb4e1405d4ec.jpg",
+      "url": "https://twitter.com/pietervanleuven"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-140119151",
+    "published": null,
+    "wm-received": "2019-09-27T05:48:49Z",
+    "wm-id": 699661,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/140119151",
+    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Zaher Ghaibeh",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/5c4751bf23d72ecc8b8f9e1662794d48baacee3629e2741c081bae718e08b7ac.jpg",
+      "url": "https://twitter.com/zaherg"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-14808990",
+    "published": null,
+    "wm-received": "2019-09-27T05:48:50Z",
+    "wm-id": 699662,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/14808990",
+    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Malik Krehic",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/33a4b763d1e019ee447c051b2d10d7b260c0ed74dbfd13952865793b44a93cf4.jpg",
+      "url": "https://twitter.com/krehicm"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-876165188873060352",
+    "published": null,
+    "wm-received": "2019-09-27T06:45:49Z",
+    "wm-id": 699691,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/876165188873060352",
+    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Michaël De Boey",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/4c253771a8d1f79422524c6dd9f74ea83b1255def284013494330c1b3792bdf1.jpg",
+      "url": "https://twitter.com/MichaelDeBoey93"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-148502139",
+    "published": null,
+    "wm-received": "2019-09-27T07:18:02Z",
+    "wm-id": 699707,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/148502139",
+    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "mahmod",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/676649a5e60e1092100e3fd5b42351f06e18072b3b4f7a2f9d1769c8013732c1.jpg",
+      "url": "https://twitter.com/mahmoodnet"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-1555503038",
+    "published": null,
+    "wm-received": "2019-09-27T07:50:47Z",
+    "wm-id": 699719,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/1555503038",
+    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Divan",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/3340b66c9e6d65a01278ea0322844cb324246e8d4238bb0046989db7693c4efb.jpg",
+      "url": "https://twitter.com/ddevdreamer"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-3236434988",
+    "published": null,
+    "wm-received": "2019-09-27T09:49:14Z",
+    "wm-id": 699753,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/3236434988",
+    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Knight ",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/7ae95cbb9d7edbc3318e7177a86fe10db00a90709348bfa6843fc881a731f237.jpeg",
+      "url": "https://twitter.com/imknight"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-1569331",
+    "published": null,
+    "wm-received": "2019-09-27T19:29:40Z",
+    "wm-id": 700125,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/1569331",
+    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Adrian Nürnberger 🐙",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/863cfa16ee0e48a6aa53e495ddbfb0da79cb60e9662f1a6b55a39fb7d9a2e467.jpg",
+      "url": "https://twitter.com/nuernberger_me"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-3220622807",
+    "published": null,
+    "wm-received": "2019-09-28T03:02:44Z",
+    "wm-id": 700296,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/3220622807",
+    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Roman Pronskiy",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/9373f62b650e88f9265f5742739d93f3fbaa1f7d60d8593c694c25821996528e.png",
+      "url": "https://twitter.com/pronskiy"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-156592964",
+    "published": null,
+    "wm-received": "2019-09-28T04:30:48Z",
+    "wm-id": 700321,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/156592964",
+    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Livewire",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/4b1959826d3659104332f3ad9cd1e8af3e8edb46459e3f079f436c31b180f179.jpg",
+      "url": "https://twitter.com/LaravelLivewire"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-1154379830848303105",
+    "published": null,
+    "wm-received": "2019-09-30T17:41:42Z",
+    "wm-id": 702173,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/1154379830848303105",
+    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Frederik Heyninck",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/febf4f28d9f52561b1e7d183d3faf3149c3f1fd29e44644075c6c8e10d94e9ad.jpg",
+      "url": "https://twitter.com/heyfrederik"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-14477725",
+    "published": null,
+    "wm-received": "2019-09-30T17:41:42Z",
+    "wm-id": 702174,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/14477725",
+    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Cosmin",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/81f0e4c7363c7b01603c4b6a994cd33976baccb75382626c6014d39c42c0da04.png",
+      "url": "https://twitter.com/cossssmin"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-195382315",
+    "published": null,
+    "wm-received": "2019-09-30T18:11:05Z",
+    "wm-id": 702185,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/195382315",
+    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Makabi Yelmis",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/f3d56cb9ef5efe942ec04245236d67e1a8c55324a224eb8902236af2c8696586.jpg",
+      "url": "https://twitter.com/gyelmis"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-1623442548",
+    "published": null,
+    "wm-received": "2019-09-30T19:05:10Z",
+    "wm-id": 702208,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/1623442548",
+    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Francesco Mugnai",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/2b184e9f6a964f2c1b5766312cf8ae7ce451f8ac7e02ea2840b0671feb3e795c.jpg",
+      "url": "https://twitter.com/francescomugnai"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-14942713",
+    "published": null,
+    "wm-received": "2019-09-30T20:13:57Z",
+    "wm-id": 702242,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/14942713",
+    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Tony Messias",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/aa2b182324f67f84855c8cb4da0a851a841057d1e2573f6da49bb8eba97aad6f.png",
+      "url": "https://twitter.com/tony0x01"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-55294160",
+    "published": null,
+    "wm-received": "2019-09-30T22:39:33Z",
+    "wm-id": 702290,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/55294160",
+    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Laravel News Links",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/66b9e5493c2834de5b960b89eb6b16976ed1c2db880330ec4b37aff5b9dc3414.jpg",
+      "url": "https://twitter.com/LaravelLinks"
+    },
+    "url": "https://twitter.com/LaravelLinks/status/1178842213767401472",
+    "published": "2019-10-01T01:21:00+00:00",
+    "wm-received": "2019-10-01T01:44:13Z",
+    "wm-id": 702354,
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1178842213767401472",
+    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "content": {
+      "html": "Inertia.js and Livewire: a high level comparison <a href=\"https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/\">sebastiandedeyne.com/inertia-js-and…</a>",
+      "text": "Inertia.js and Livewire: a high level comparison sebastiandedeyne.com/inertia-js-and…"
+    },
+    "mention-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "wm-property": "mention-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Jino Antony",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/61c36b8febfb0e5dcd5dd452f4ade6ee2a234dba50a756aa4d268dd920b023c3.jpg",
+      "url": "https://twitter.com/Jino_Antony17"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-2592739074",
+    "published": null,
+    "wm-received": "2019-10-01T08:18:46Z",
+    "wm-id": 702504,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/2592739074",
+    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Stephen Jude",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/a8cd58c7157e67a8f979fb8d39365d7f12eafdce9bd7120ca15548328cfd451e.jpg",
+      "url": "https://twitter.com/stephenjudeso"
+    },
+    "url": "https://twitter.com/stephenjudeso/status/1178984431744376833",
+    "published": "2019-10-01T10:46:07+00:00",
+    "wm-received": "2019-10-01T10:54:37Z",
+    "wm-id": 702568,
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1178984431744376833",
+    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "content": {
+      "html": "Inertia.js and Livewire: a high level comparison - <a href=\"https://twitter.com/sebdedeyne\">@sebdedeyne</a>\n\n<a href=\"https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/\">sebastiandedeyne.com/inertia-js-and…</a>",
+      "text": "Inertia.js and Livewire: a high level comparison - @sebdedeyne\n\nsebastiandedeyne.com/inertia-js-and…"
+    },
+    "mention-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "wm-property": "mention-of",
     "wm-private": false
   },
   {
@@ -1608,32 +1903,33 @@
       "photo": "https://webmention.io/avatar/pbs.twimg.com/fc87f4abfee522403bfb9d8ebbdd1bde483d020713c137b63e94bec043c45cfa.jpg",
       "url": "https://twitter.com/freekmurze"
     },
-    "url": "https://twitter.com/freekmurze/status/1177204419265515521",
-    "published": "2019-09-26T12:52:59+00:00",
-    "wm-received": "2019-09-26T13:07:15Z",
-    "wm-id": 699217,
-    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1177182075134365697/1177204419265515521",
+    "url": "https://twitter.com/freekmurze/status/1179365424380678145",
+    "published": "2019-10-02T12:00:03+00:00",
+    "wm-received": "2019-10-02T12:21:29Z",
+    "wm-id": 703335,
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1179365424380678145",
     "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
     "content": {
-      "text": "✒️ Blog post time! I made a high-level comparison between @inertiajs and @LaravelLivewire\n\nsebastiandedeyne.com/inertia-js-and…\n\nIt explains which proble"
+      "html": "🔗 Inertia.js and Livewire: a high level comparison\n<a href=\"https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/\">sebastiandedeyne.com/inertia-js-and…</a>\n<a href=\"https://twitter.com/search?q=%23php\">#php</a> <a href=\"https://twitter.com/search?q=%23javascript\">#javascript</a> <a href=\"https://twitter.com/search?q=%23laravel\">#laravel</a>",
+      "text": "🔗 Inertia.js and Livewire: a high level comparison\nsebastiandedeyne.com/inertia-js-and…\n#php #javascript #laravel"
     },
-    "repost-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "wm-property": "repost-of",
+    "mention-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "wm-property": "mention-of",
     "wm-private": false
   },
   {
     "type": "entry",
     "author": {
       "type": "card",
-      "name": "Kevin Bond",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/5c842a85c5416117dfa414af5b58d6b6fadb59a56e250167e3b435adddd70213.jpg",
-      "url": "https://twitter.com/zenstruck"
+      "name": "Dominik Kowalski",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/8a12d0750068b3bbe9f249941cd92f014167e97e74986f287e38d4172a1f8330.jpg",
+      "url": "https://twitter.com/dokoit"
     },
-    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-26730358",
+    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-1335202824",
     "published": null,
-    "wm-received": "2019-09-26T13:07:14Z",
-    "wm-id": 699216,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/26730358",
+    "wm-received": "2019-10-07T03:41:25Z",
+    "wm-id": 706053,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/1335202824",
     "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
     "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
     "wm-property": "like-of",
@@ -1643,15 +1939,15 @@
     "type": "entry",
     "author": {
       "type": "card",
-      "name": "Brandon Surowiec",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/45226abada2bd500360af6839fd38fea1257e6692dd36a1f2b659145135a4e48.jpg",
-      "url": "https://twitter.com/brandonsurowiec"
+      "name": "MSKhoshnazar",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/fabf3ee67d92b2234e0320f6a506fcd33c6f383b1fc0ce1b1b887b95170b2b9e.jpg",
+      "url": "https://twitter.com/mskhoshnazar"
     },
-    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-358715811",
+    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-25143570",
     "published": null,
-    "wm-received": "2019-09-26T13:07:14Z",
-    "wm-id": 699215,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/358715811",
+    "wm-received": "2019-10-08T04:23:31Z",
+    "wm-id": 706639,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/25143570",
     "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
     "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
     "wm-property": "like-of",
@@ -1661,15 +1957,15 @@
     "type": "entry",
     "author": {
       "type": "card",
-      "name": "Cristian N",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/bd537854c03bfa7d429aca3493588386d24de9e444bb24c16aa6a36dac940d6e.jpg",
-      "url": "https://twitter.com/cristian_nebunu"
+      "name": "Rolando Rojas",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/e18e8af39361d8072fe87b919e5b3e40e69bf5d0050d87be0336d1a206c8a8f2.jpg",
+      "url": "https://twitter.com/Rolando_Rojas1"
     },
-    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-160496176",
+    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-157400341",
     "published": null,
-    "wm-received": "2019-09-26T12:34:14Z",
-    "wm-id": 699190,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/160496176",
+    "wm-received": "2019-10-09T13:10:51Z",
+    "wm-id": 707622,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/157400341",
     "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
     "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
     "wm-property": "like-of",
@@ -1679,15 +1975,15 @@
     "type": "entry",
     "author": {
       "type": "card",
-      "name": "Esteban De la Rosa",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/9b0ac836d64873ff043bb3c066136de721689528e748ffbb55e972dda7f5d1ee.jpg",
-      "url": "https://twitter.com/GabbanaEsteban"
+      "name": "Norio De Sousa",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/1d6003cd40561ea50043e50fadf50805a5e184ea77534624a9c5b0693a86e64b.jpg",
+      "url": "https://twitter.com/noriods"
     },
-    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-1417223695",
+    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-12043732",
     "published": null,
-    "wm-received": "2019-09-26T12:34:13Z",
-    "wm-id": 699189,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/1417223695",
+    "wm-received": "2019-10-09T19:39:47Z",
+    "wm-id": 707811,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/12043732",
     "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
     "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
     "wm-property": "like-of",
@@ -1697,318 +1993,22 @@
     "type": "entry",
     "author": {
       "type": "card",
-      "name": "Zimty",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/e8eda78c53dd23ae423190db0335802c62172a9dd8e4ddfbd99d98a8ab8d0ee3.jpg",
-      "url": "https://twitter.com/zimt28"
+      "name": "João Patrício",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/5a9bcef593553189a0e1a40670044bfc215729dd54992fab82ac41604223ac26.jpg",
+      "url": "https://twitter.com/ijpatricio"
     },
-    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-514944025",
-    "published": null,
-    "wm-received": "2019-09-26T12:34:12Z",
-    "wm-id": 699188,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/514944025",
-    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Hadyan Ahmad",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/e8702f63214890979c2cb82981631d9cacf707581c3fd4133edcf7775a097492.jpg",
-      "url": "https://twitter.com/hadyandev"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-168844815",
-    "published": null,
-    "wm-received": "2019-09-26T12:34:11Z",
-    "wm-id": 699187,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/168844815",
-    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Alexander Makhaev",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/d0e288ca636669216f553ec58f2075cc256afe80a6760731e9e362983fdb3952.jpg",
-      "url": "https://twitter.com/mankms"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-91294325",
-    "published": null,
-    "wm-received": "2019-09-26T12:34:09Z",
-    "wm-id": 699186,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/91294325",
-    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Ben",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/891c5269b95980ecc030df6f60d486b679d5a9b2e692dd5062e706c884e581d6.jpg",
-      "url": "https://twitter.com/gotfunc"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-8316532",
-    "published": null,
-    "wm-received": "2019-09-26T12:34:08Z",
-    "wm-id": 699185,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/8316532",
-    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Jens Twesmann",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/f14e94855ec3f7cf427242dd9b970255aacd3f95f65ecf3f20408dd923733053.png",
-      "url": "https://twitter.com/jtwesmann"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-1054743487",
-    "published": null,
-    "wm-received": "2019-09-26T12:34:06Z",
-    "wm-id": 699184,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/1054743487",
-    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Laravel Türkiye",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/3736388bea22247686ec89b0cade4dbe251d46eaed7d575be03037c22bb2fd7a.png",
-      "url": "https://twitter.com/LaravelTr"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-835370485",
-    "published": null,
-    "wm-received": "2019-09-26T12:34:02Z",
-    "wm-id": 699183,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/835370485",
-    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Alexander Makhaev",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/d0e288ca636669216f553ec58f2075cc256afe80a6760731e9e362983fdb3952.jpg",
-      "url": "https://twitter.com/mankms"
-    },
-    "url": "https://twitter.com/mankms/status/1177197637260513280",
-    "published": "2019-09-26T12:26:02+00:00",
-    "wm-received": "2019-09-26T12:34:01Z",
-    "wm-id": 699182,
-    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1177182075134365697/1177197637260513280",
+    "url": "https://twitter.com/ijpatricio/status/1183686102613417985",
+    "published": "2019-10-14T10:08:53+00:00",
+    "wm-received": "2019-10-14T10:23:17Z",
+    "wm-id": 711239,
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1183686102613417985",
     "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
     "content": {
-      "text": "✒️ Blog post time! I made a high-level comparison between @inertiajs and @LaravelLivewire\n\nsebastiandedeyne.com/inertia-js-and…\n\nIt explains which proble"
+      "html": "Good read by <a href=\"https://twitter.com/sebdedeyne\">@sebdedeyne</a> \n\n<a href=\"https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/\">sebastiandedeyne.com/inertia-js-and…</a>",
+      "text": "Good read by @sebdedeyne \n\nsebastiandedeyne.com/inertia-js-and…"
     },
-    "repost-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "wm-property": "repost-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "pbruklyn",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/f304b6ed5bdb2fd32df95d1abf0a36d0210946c95d2e3c3df390f3dc8d892eb9.jpg",
-      "url": "https://twitter.com/bruklyntowne"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-36303689",
-    "published": null,
-    "wm-received": "2019-09-26T12:33:58Z",
-    "wm-id": 699180,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/36303689",
-    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Fabio",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/c66e8a9dede9250502a3181955bd06b98338297dfcc549b80082e7f983c854d3.jpg",
-      "url": "https://twitter.com/FabioIngra"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-2325497114",
-    "published": null,
-    "wm-received": "2019-09-26T12:33:55Z",
-    "wm-id": 699179,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/2325497114",
-    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Fabio",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/c66e8a9dede9250502a3181955bd06b98338297dfcc549b80082e7f983c854d3.jpg",
-      "url": "https://twitter.com/FabioIngra"
-    },
-    "url": "https://twitter.com/FabioIngra/status/1177193875531796480",
-    "published": "2019-09-26T12:11:05+00:00",
-    "wm-received": "2019-09-26T12:33:54Z",
-    "wm-id": 699178,
-    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1177182075134365697/1177193875531796480",
-    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "content": {
-      "text": "✒️ Blog post time! I made a high-level comparison between @inertiajs and @LaravelLivewire\n\nsebastiandedeyne.com/inertia-js-and…\n\nIt explains which proble"
-    },
-    "repost-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "wm-property": "repost-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Mithicher Baro",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/b4ee0c303dd27e391b702d9713c984efbbf051c6948b0dc2164dc17a3747bdd7.png",
-      "url": "https://twitter.com/mithicher"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-1315799845",
-    "published": null,
-    "wm-received": "2019-09-26T12:02:29Z",
-    "wm-id": 699168,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/1315799845",
-    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Mithicher Baro",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/b4ee0c303dd27e391b702d9713c984efbbf051c6948b0dc2164dc17a3747bdd7.png",
-      "url": "https://twitter.com/mithicher"
-    },
-    "url": "https://twitter.com/mithicher/status/1177187142969090048",
-    "published": "2019-09-26T11:44:20+00:00",
-    "wm-received": "2019-09-26T12:02:28Z",
-    "wm-id": 699167,
-    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1177182075134365697/1177187142969090048",
-    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "content": {
-      "text": "✒️ Blog post time! I made a high-level comparison between @inertiajs and @LaravelLivewire\n\nsebastiandedeyne.com/inertia-js-and…\n\nIt explains which proble"
-    },
-    "repost-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "wm-property": "repost-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "welt101",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/a616d06010efb4489944fbcf80031803c6e56937014052122f344555c5dc26b2.jpg",
-      "url": "https://twitter.com/welt101"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-3977839061",
-    "published": null,
-    "wm-received": "2019-09-26T12:02:28Z",
-    "wm-id": 699166,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/3977839061",
-    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Inertia.js",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/fa424f3aabd79d077a30fbdf8a8da1508d816309811903c5c1e7f98a8b66bf08.jpg",
-      "url": "https://twitter.com/inertiajs"
-    },
-    "url": "https://twitter.com/inertiajs/status/1177186338367578113",
-    "published": "2019-09-26T11:41:08+00:00",
-    "wm-received": "2019-09-26T12:02:27Z",
-    "wm-id": 699165,
-    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1177182075134365697/1177186338367578113",
-    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "content": {
-      "text": "✒️ Blog post time! I made a high-level comparison between @inertiajs and @LaravelLivewire\n\nsebastiandedeyne.com/inertia-js-and…\n\nIt explains which proble"
-    },
-    "repost-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "wm-property": "repost-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Emre 👨🏻‍💻",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/8e214ac228bd72d4dff428912d596c78557a3414559792266eedfb0f930811c4.png",
-      "url": "https://twitter.com/emredipi"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-174678409",
-    "published": null,
-    "wm-received": "2019-09-26T12:02:26Z",
-    "wm-id": 699164,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/174678409",
-    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Inertia.js",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/fa424f3aabd79d077a30fbdf8a8da1508d816309811903c5c1e7f98a8b66bf08.jpg",
-      "url": "https://twitter.com/inertiajs"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-1096924668009857024",
-    "published": null,
-    "wm-received": "2019-09-26T12:02:25Z",
-    "wm-id": 699163,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/1096924668009857024",
-    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "M. Vug",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/fcc72d671c32c72d093c77f1ab83e8be120a03d4062bc984a10150cee632b9e8.jpg",
-      "url": "https://twitter.com/mvug"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1177182075134365697#favorited-by-125585595",
-    "published": null,
-    "wm-received": "2019-09-26T12:02:25Z",
-    "wm-id": 699162,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1177182075134365697/125585595",
-    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "like-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
-    "wm-property": "like-of",
+    "mention-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "wm-property": "mention-of",
     "wm-private": false
   }
 ]

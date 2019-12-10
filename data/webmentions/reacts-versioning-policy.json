@@ -3,15 +3,15 @@
     "type": "entry",
     "author": {
       "type": "card",
-      "name": "Tony Messias",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/aa2b182324f67f84855c8cb4da0a851a841057d1e2573f6da49bb8eba97aad6f.png",
-      "url": "https://twitter.com/tony0x01"
+      "name": "Denis Duliçi",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/3c5d2b74d39ef6d446b8172d449a4735c0aaa706860452d41f2d6249a583c742.jpg",
+      "url": "https://twitter.com/DenisDulici"
     },
-    "url": "https://twitter.com/sebdedeyne/status/1181502679148838913#favorited-by-55294160",
+    "url": "https://twitter.com/sebdedeyne/status/1181502679148838913#favorited-by-107835892",
     "published": null,
-    "wm-received": "2019-10-08T16:10:41Z",
-    "wm-id": 706943,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1181502679148838913/55294160",
+    "wm-received": "2019-10-08T09:45:15Z",
+    "wm-id": 706752,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1181502679148838913/107835892",
     "wm-target": "https://sebastiandedeyne.com/reacts-versioning-policy/",
     "like-of": "https://sebastiandedeyne.com/reacts-versioning-policy/",
     "wm-property": "like-of",
@@ -21,98 +21,15 @@
     "type": "entry",
     "author": {
       "type": "card",
-      "name": "meduz'",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/3189cad6888c1c9c8d582fdb7d85842e9d9396255076af59aacf65fd4ac8f9d2.jpg",
-      "url": "https://twitter.com/meduzen"
+      "name": "Rias Van der Veken",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/4d90619c3206b3cd5717b1da4faeda9a43f17617074f32f5e7b25878944df2a0.jpg",
+      "url": "https://twitter.com/Riasvdv"
     },
-    "url": "https://twitter.com/meduzen/status/1181540919272710144",
-    "published": "2019-10-08T12:04:41+00:00",
-    "wm-received": "2019-10-08T12:36:51Z",
-    "wm-id": 706826,
-    "wm-source": "https://brid-gy.appspot.com/comment/twitter/sebdedeyne/1181502679148838913/1181540919272710144",
-    "wm-target": "https://sebastiandedeyne.com/reacts-versioning-policy/",
-    "content": {
-      "html": "I don’t agree with “Feature or bugfix doesn’t really matter from a technical point of view”: as a framework/lib user, you immediately know if a new feature has been added just with the bump on the “major” number. On `npm update`, I find this very useful.\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/sebdedeyne\"></a>",
-      "text": "I don’t agree with “Feature or bugfix doesn’t really matter from a technical point of view”: as a framework/lib user, you immediately know if a new feature has been added just with the bump on the “major” number. On `npm update`, I find this very useful."
-    },
-    "in-reply-to": "https://sebastiandedeyne.com/reacts-versioning-policy/",
-    "wm-property": "in-reply-to",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Sebastian De Deyne",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/3ce609991342657b8b7e99eb7a5c6e3656fbdb1c51575f1464d354b81aaeda86.jpg",
-      "url": "https://twitter.com/sebdedeyne"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1181544901613408256",
-    "published": "2019-10-08T12:20:31+00:00",
-    "wm-received": "2019-10-08T12:36:50Z",
-    "wm-id": 706825,
-    "wm-source": "https://brid-gy.appspot.com/comment/twitter/sebdedeyne/1181502679148838913/1181544901613408256",
-    "wm-target": "https://sebastiandedeyne.com/reacts-versioning-policy/",
-    "content": {
-      "html": "It's potentially useful to you, but it doesn't affect whether or not your application will be compatible with the newer version. That's what I mean with \"a technical point of view\"\n<a class=\"u-mention\" href=\"https://twitter.com/meduzen\"></a>",
-      "text": "It's potentially useful to you, but it doesn't affect whether or not your application will be compatible with the newer version. That's what I mean with \"a technical point of view\""
-    },
-    "in-reply-to": "https://sebastiandedeyne.com/reacts-versioning-policy/",
-    "wm-property": "in-reply-to",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Spatie",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/3efb487e7f3a0bc3690580277105f93eda590d65e4d9eb01135a184a9df60b18.jpg",
-      "url": "https://twitter.com/spatie_be"
-    },
-    "url": "https://twitter.com/spatie_be/status/1181533244518535169",
-    "published": "2019-10-08T11:34:11+00:00",
-    "wm-received": "2019-10-08T11:39:05Z",
-    "wm-id": 706800,
-    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1181502679148838913/1181533244518535169",
-    "wm-target": "https://sebastiandedeyne.com/reacts-versioning-policy/",
-    "content": {
-      "text": "✒️ React's versioning policy sebastiandedeyne.com/reacts-version…"
-    },
-    "repost-of": "https://sebastiandedeyne.com/reacts-versioning-policy/",
-    "wm-property": "repost-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Loris Leiva",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/5f532e8e0aaea324c0e154929dfc300e22b926b23d5e68680d002977f8073d25.jpg",
-      "url": "https://twitter.com/lorismatic"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1181502679148838913#favorited-by-98965263",
+    "url": "https://twitter.com/sebdedeyne/status/1181502679148838913#favorited-by-124591560",
     "published": null,
-    "wm-received": "2019-10-08T10:16:04Z",
-    "wm-id": 706765,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1181502679148838913/98965263",
-    "wm-target": "https://sebastiandedeyne.com/reacts-versioning-policy/",
-    "like-of": "https://sebastiandedeyne.com/reacts-versioning-policy/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Freek Van der Herten",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/fc87f4abfee522403bfb9d8ebbdd1bde483d020713c137b63e94bec043c45cfa.jpg",
-      "url": "https://twitter.com/freekmurze"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1181502679148838913#favorited-by-97178022",
-    "published": null,
-    "wm-received": "2019-10-08T09:45:16Z",
-    "wm-id": 706755,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1181502679148838913/97178022",
+    "wm-received": "2019-10-08T09:45:15Z",
+    "wm-id": 706753,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1181502679148838913/124591560",
     "wm-target": "https://sebastiandedeyne.com/reacts-versioning-policy/",
     "like-of": "https://sebastiandedeyne.com/reacts-versioning-policy/",
     "wm-property": "like-of",
@@ -144,15 +61,15 @@
     "type": "entry",
     "author": {
       "type": "card",
-      "name": "Rias Van der Veken",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/4d90619c3206b3cd5717b1da4faeda9a43f17617074f32f5e7b25878944df2a0.jpg",
-      "url": "https://twitter.com/Riasvdv"
+      "name": "Freek Van der Herten",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/fc87f4abfee522403bfb9d8ebbdd1bde483d020713c137b63e94bec043c45cfa.jpg",
+      "url": "https://twitter.com/freekmurze"
     },
-    "url": "https://twitter.com/sebdedeyne/status/1181502679148838913#favorited-by-124591560",
+    "url": "https://twitter.com/sebdedeyne/status/1181502679148838913#favorited-by-97178022",
     "published": null,
-    "wm-received": "2019-10-08T09:45:15Z",
-    "wm-id": 706753,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1181502679148838913/124591560",
+    "wm-received": "2019-10-08T09:45:16Z",
+    "wm-id": 706755,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1181502679148838913/97178022",
     "wm-target": "https://sebastiandedeyne.com/reacts-versioning-policy/",
     "like-of": "https://sebastiandedeyne.com/reacts-versioning-policy/",
     "wm-property": "like-of",
@@ -162,15 +79,98 @@
     "type": "entry",
     "author": {
       "type": "card",
-      "name": "Denis Duliçi",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/3c5d2b74d39ef6d446b8172d449a4735c0aaa706860452d41f2d6249a583c742.jpg",
-      "url": "https://twitter.com/DenisDulici"
+      "name": "Loris Leiva",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/5f532e8e0aaea324c0e154929dfc300e22b926b23d5e68680d002977f8073d25.jpg",
+      "url": "https://twitter.com/lorismatic"
     },
-    "url": "https://twitter.com/sebdedeyne/status/1181502679148838913#favorited-by-107835892",
+    "url": "https://twitter.com/sebdedeyne/status/1181502679148838913#favorited-by-98965263",
     "published": null,
-    "wm-received": "2019-10-08T09:45:15Z",
-    "wm-id": 706752,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1181502679148838913/107835892",
+    "wm-received": "2019-10-08T10:16:04Z",
+    "wm-id": 706765,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1181502679148838913/98965263",
+    "wm-target": "https://sebastiandedeyne.com/reacts-versioning-policy/",
+    "like-of": "https://sebastiandedeyne.com/reacts-versioning-policy/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Spatie",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/3efb487e7f3a0bc3690580277105f93eda590d65e4d9eb01135a184a9df60b18.jpg",
+      "url": "https://twitter.com/spatie_be"
+    },
+    "url": "https://twitter.com/spatie_be/status/1181533244518535169",
+    "published": "2019-10-08T11:34:11+00:00",
+    "wm-received": "2019-10-08T11:39:05Z",
+    "wm-id": 706800,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1181502679148838913/1181533244518535169",
+    "wm-target": "https://sebastiandedeyne.com/reacts-versioning-policy/",
+    "content": {
+      "text": "✒️ React's versioning policy sebastiandedeyne.com/reacts-version…"
+    },
+    "repost-of": "https://sebastiandedeyne.com/reacts-versioning-policy/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Sebastian De Deyne",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/3ce609991342657b8b7e99eb7a5c6e3656fbdb1c51575f1464d354b81aaeda86.jpg",
+      "url": "https://twitter.com/sebdedeyne"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1181544901613408256",
+    "published": "2019-10-08T12:20:31+00:00",
+    "wm-received": "2019-10-08T12:36:50Z",
+    "wm-id": 706825,
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/sebdedeyne/1181502679148838913/1181544901613408256",
+    "wm-target": "https://sebastiandedeyne.com/reacts-versioning-policy/",
+    "content": {
+      "html": "It's potentially useful to you, but it doesn't affect whether or not your application will be compatible with the newer version. That's what I mean with \"a technical point of view\"\n<a class=\"u-mention\" href=\"https://twitter.com/meduzen\"></a>",
+      "text": "It's potentially useful to you, but it doesn't affect whether or not your application will be compatible with the newer version. That's what I mean with \"a technical point of view\""
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/reacts-versioning-policy/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "meduz'",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/3189cad6888c1c9c8d582fdb7d85842e9d9396255076af59aacf65fd4ac8f9d2.jpg",
+      "url": "https://twitter.com/meduzen"
+    },
+    "url": "https://twitter.com/meduzen/status/1181540919272710144",
+    "published": "2019-10-08T12:04:41+00:00",
+    "wm-received": "2019-10-08T12:36:51Z",
+    "wm-id": 706826,
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/sebdedeyne/1181502679148838913/1181540919272710144",
+    "wm-target": "https://sebastiandedeyne.com/reacts-versioning-policy/",
+    "content": {
+      "html": "I don’t agree with “Feature or bugfix doesn’t really matter from a technical point of view”: as a framework/lib user, you immediately know if a new feature has been added just with the bump on the “major” number. On `npm update`, I find this very useful.\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/sebdedeyne\"></a>",
+      "text": "I don’t agree with “Feature or bugfix doesn’t really matter from a technical point of view”: as a framework/lib user, you immediately know if a new feature has been added just with the bump on the “major” number. On `npm update`, I find this very useful."
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/reacts-versioning-policy/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Tony Messias",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/aa2b182324f67f84855c8cb4da0a851a841057d1e2573f6da49bb8eba97aad6f.png",
+      "url": "https://twitter.com/tony0x01"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1181502679148838913#favorited-by-55294160",
+    "published": null,
+    "wm-received": "2019-10-08T16:10:41Z",
+    "wm-id": 706943,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1181502679148838913/55294160",
     "wm-target": "https://sebastiandedeyne.com/reacts-versioning-policy/",
     "like-of": "https://sebastiandedeyne.com/reacts-versioning-policy/",
     "wm-property": "like-of",

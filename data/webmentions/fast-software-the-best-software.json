@@ -3,33 +3,15 @@
     "type": "entry",
     "author": {
       "type": "card",
-      "name": "Tony Messias",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/aa2b182324f67f84855c8cb4da0a851a841057d1e2573f6da49bb8eba97aad6f.png",
-      "url": "https://twitter.com/tony0x01"
+      "name": "Mike Healy",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/331b7cb30c6eb54b58eba49230df5ed6a71649263b772e1e17b5704e3f1d7427.jpg",
+      "url": "https://twitter.com/mike_hasarms"
     },
-    "url": "https://twitter.com/sebdedeyne/status/1156838886347333632#favorited-by-55294160",
+    "url": "https://twitter.com/sebdedeyne/status/1156838886347333632#favorited-by-123131219",
     "published": null,
-    "wm-received": "2019-08-01T11:41:10Z",
-    "wm-id": 659341,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1156838886347333632/55294160",
-    "wm-target": "https://sebastiandedeyne.com/fast-software-the-best-software/",
-    "like-of": "https://sebastiandedeyne.com/fast-software-the-best-software/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Wilman Barrios",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/f53e5a8b6b620f5ce6345b632a8f2f5d6b555bcaf8c65c74e965ad9d536d6d08.jpg",
-      "url": "https://twitter.com/BarriosWilman"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1156838886347333632#favorited-by-713161424",
-    "published": null,
-    "wm-received": "2019-08-01T10:41:50Z",
-    "wm-id": 659300,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1156838886347333632/713161424",
+    "wm-received": "2019-08-01T08:37:50Z",
+    "wm-id": 659196,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1156838886347333632/123131219",
     "wm-target": "https://sebastiandedeyne.com/fast-software-the-best-software/",
     "like-of": "https://sebastiandedeyne.com/fast-software-the-best-software/",
     "wm-property": "like-of",
@@ -57,15 +39,33 @@
     "type": "entry",
     "author": {
       "type": "card",
-      "name": "Mike Healy",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/331b7cb30c6eb54b58eba49230df5ed6a71649263b772e1e17b5704e3f1d7427.jpg",
-      "url": "https://twitter.com/mike_hasarms"
+      "name": "Wilman Barrios",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/f53e5a8b6b620f5ce6345b632a8f2f5d6b555bcaf8c65c74e965ad9d536d6d08.jpg",
+      "url": "https://twitter.com/BarriosWilman"
     },
-    "url": "https://twitter.com/sebdedeyne/status/1156838886347333632#favorited-by-123131219",
+    "url": "https://twitter.com/sebdedeyne/status/1156838886347333632#favorited-by-713161424",
     "published": null,
-    "wm-received": "2019-08-01T08:37:50Z",
-    "wm-id": 659196,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1156838886347333632/123131219",
+    "wm-received": "2019-08-01T10:41:50Z",
+    "wm-id": 659300,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1156838886347333632/713161424",
+    "wm-target": "https://sebastiandedeyne.com/fast-software-the-best-software/",
+    "like-of": "https://sebastiandedeyne.com/fast-software-the-best-software/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Tony Messias",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/aa2b182324f67f84855c8cb4da0a851a841057d1e2573f6da49bb8eba97aad6f.png",
+      "url": "https://twitter.com/tony0x01"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1156838886347333632#favorited-by-55294160",
+    "published": null,
+    "wm-received": "2019-08-01T11:41:10Z",
+    "wm-id": 659341,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1156838886347333632/55294160",
     "wm-target": "https://sebastiandedeyne.com/fast-software-the-best-software/",
     "like-of": "https://sebastiandedeyne.com/fast-software-the-best-software/",
     "wm-property": "like-of",

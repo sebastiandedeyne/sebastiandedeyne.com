@@ -3,33 +3,15 @@
     "type": "entry",
     "author": {
       "type": "card",
-      "name": "Marco",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/1393e059f4c2763e2b5b12c69a6b78c99c3a621e9be2eb03ff3c2c74fd2d49e8.jpg",
-      "url": "https://twitter.com/thtg88"
+      "name": "Full Stack Belgium",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/670ff7ebf9c83404336b791626f3c426c80914384d58eefb63874f3d567960bf.jpg",
+      "url": "https://twitter.com/fullstackbe"
     },
-    "url": "https://twitter.com/sebdedeyne/status/1186342711269441537#favorited-by-1162669114281877504",
-    "published": null,
-    "wm-received": "2019-10-27T22:13:21Z",
-    "wm-id": 717936,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1186342711269441537/1162669114281877504",
-    "wm-target": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
-    "like-of": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Mark Charlez",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/c92cd359cca3030e11ef34cace1bf2c4f110f8ee3c5479ab3240d2def10ad610.png",
-      "url": "https://twitter.com/fullstackgay"
-    },
-    "url": "https://twitter.com/fullstackgay/status/1186744895320444929",
-    "published": "2019-10-22T20:43:26+00:00",
-    "wm-received": "2019-10-22T21:07:18Z",
-    "wm-id": 716334,
-    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1186342711269441537/1186744895320444929",
+    "url": "https://twitter.com/fullstackbe/status/1186344765115260930",
+    "published": "2019-10-21T18:13:27+00:00",
+    "wm-received": "2019-10-21T18:22:21Z",
+    "wm-id": 715889,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1186342711269441537/1186344765115260930",
     "wm-target": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
     "content": {
       "text": "✒️ Laravel Mix Preload v1\n\nsebastiandedeyne.com/laravel-mix-pr…"
@@ -42,195 +24,15 @@
     "type": "entry",
     "author": {
       "type": "card",
-      "name": "Mark Charlez",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/c92cd359cca3030e11ef34cace1bf2c4f110f8ee3c5479ab3240d2def10ad610.png",
-      "url": "https://twitter.com/fullstackgay"
+      "name": "Dries Vints",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/72bc78fda48606b087fd3c7aa6412255505e5045c496385bf1f57a764b64fd4a.jpg",
+      "url": "https://twitter.com/driesvints"
     },
-    "url": "https://twitter.com/sebdedeyne/status/1186342711269441537#favorited-by-1064610906552684544",
-    "published": null,
-    "wm-received": "2019-10-22T21:07:16Z",
-    "wm-id": 716333,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1186342711269441537/1064610906552684544",
-    "wm-target": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
-    "like-of": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Aaron Huisinga",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/656a0ce6e28e0e58a6b6720f8cf859d600d557dcfc6dcdc96e3accbb9e46e233.jpg",
-      "url": "https://twitter.com/aaronhuisinga"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1186342711269441537#favorited-by-223375689",
-    "published": null,
-    "wm-received": "2019-10-22T16:18:22Z",
-    "wm-id": 716230,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1186342711269441537/223375689",
-    "wm-target": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
-    "like-of": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Axel Alvarado",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/fd6f15ce14f0dba87f1eed5b9dbcec07885b636652b6f3c01e2dafb0602b0ae1.jpg",
-      "url": "https://twitter.com/axel_bol"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1186342711269441537#favorited-by-788186706",
-    "published": null,
-    "wm-received": "2019-10-22T13:10:05Z",
-    "wm-id": 716133,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1186342711269441537/788186706",
-    "wm-target": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
-    "like-of": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Rabi3",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/aeff8e8b2ed4aa007a57a8370ff8fdcce10f838db9d3134c460262064bb2f3af.jpg",
-      "url": "https://twitter.com/rabieali_"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1186342711269441537#favorited-by-848818466643734529",
-    "published": null,
-    "wm-received": "2019-10-22T12:19:48Z",
-    "wm-id": 716120,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1186342711269441537/848818466643734529",
-    "wm-target": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
-    "like-of": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Mikael Jorhult",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/3faad27691d2ac877f4e87d5f9387a4c7482f5a8b3735e0ee738cfae61be2f1d.jpg",
-      "url": "https://twitter.com/mikaeljorhult"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1186342711269441537#favorited-by-107094214",
-    "published": null,
-    "wm-received": "2019-10-22T10:31:16Z",
-    "wm-id": 716096,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1186342711269441537/107094214",
-    "wm-target": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
-    "like-of": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "James Hemery",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/dd2337612d6b05b9957c1d8edb085eabb962fd0260df4593210684b348e77237.jpg",
-      "url": "https://twitter.com/JamesHemery_"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1186342711269441537#favorited-by-787358440393961472",
-    "published": null,
-    "wm-received": "2019-10-22T07:46:39Z",
-    "wm-id": 716074,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1186342711269441537/787358440393961472",
-    "wm-target": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
-    "like-of": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Robin Dirksen",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/21c285970183e6c593d08e5877e992f144bbccaa434174e8e3b1c5a8eb571326.jpg",
-      "url": "https://twitter.com/robindirksen1"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1186342711269441537#favorited-by-826787304165560321",
-    "published": null,
-    "wm-received": "2019-10-22T05:43:53Z",
-    "wm-id": 716058,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1186342711269441537/826787304165560321",
-    "wm-target": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
-    "like-of": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Kavan Pancholi",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/bd4d4bee6f1c902f66a9b22d299c69243a7efe8b926da74d67b885aad55d7cb2.jpg",
-      "url": "https://twitter.com/kavanpancholi"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1186342711269441537#favorited-by-78233298",
-    "published": null,
-    "wm-received": "2019-10-22T03:46:33Z",
-    "wm-id": 716040,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1186342711269441537/78233298",
-    "wm-target": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
-    "like-of": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Paulo Dessimoni",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/039719b9dc971d467e0556e5d217f7765e90bb937e78cb734307881a1418757e.jpg",
-      "url": "https://twitter.com/dessimoni"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1186342711269441537#favorited-by-14226474",
-    "published": null,
-    "wm-received": "2019-10-22T01:10:42Z",
-    "wm-id": 716020,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1186342711269441537/14226474",
-    "wm-target": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
-    "like-of": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Craig Paul",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/7b34dffc93784726af0ab85e96312abb36f8bf57b349fc735a2eb8874ad95a41.jpg",
-      "url": "https://twitter.com/TheCraigPaul"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1186342711269441537#favorited-by-636472279",
-    "published": null,
-    "wm-received": "2019-10-21T23:45:06Z",
-    "wm-id": 716011,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1186342711269441537/636472279",
-    "wm-target": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
-    "like-of": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Craig Paul",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/7b34dffc93784726af0ab85e96312abb36f8bf57b349fc735a2eb8874ad95a41.jpg",
-      "url": "https://twitter.com/TheCraigPaul"
-    },
-    "url": "https://twitter.com/TheCraigPaul/status/1186422807607087107",
-    "published": "2019-10-21T23:23:34+00:00",
-    "wm-received": "2019-10-21T23:45:05Z",
-    "wm-id": 716010,
-    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1186342711269441537/1186422807607087107",
+    "url": "https://twitter.com/driesvints/status/1186344713328189440",
+    "published": "2019-10-21T18:13:15+00:00",
+    "wm-received": "2019-10-21T18:22:21Z",
+    "wm-id": 715890,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1186342711269441537/1186344713328189440",
     "wm-target": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
     "content": {
       "text": "✒️ Laravel Mix Preload v1\n\nsebastiandedeyne.com/laravel-mix-pr…"
@@ -243,447 +45,15 @@
     "type": "entry",
     "author": {
       "type": "card",
-      "name": "Devon Mather",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/21155d5cbc5840690917a9f0f04e70a6e39ef5b69603995d21be02ee7608c0d7.jpg",
-      "url": "https://twitter.com/devonmather"
+      "name": "Dries Vints",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/72bc78fda48606b087fd3c7aa6412255505e5045c496385bf1f57a764b64fd4a.jpg",
+      "url": "https://twitter.com/driesvints"
     },
-    "url": "https://twitter.com/sebdedeyne/status/1186342711269441537#favorited-by-10056032",
+    "url": "https://twitter.com/sebdedeyne/status/1186342711269441537#favorited-by-226496901",
     "published": null,
-    "wm-received": "2019-10-21T22:22:47Z",
-    "wm-id": 715999,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1186342711269441537/10056032",
-    "wm-target": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
-    "like-of": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Cyril de Wit",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/024226e454853ac712e85cd3c646b7f3aea99b8adb6399176042dbc5db88903c.jpg",
-      "url": "https://twitter.com/cyrildewit"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1186342711269441537#favorited-by-2172253302",
-    "published": null,
-    "wm-received": "2019-10-21T22:22:45Z",
-    "wm-id": 715997,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1186342711269441537/2172253302",
-    "wm-target": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
-    "like-of": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "ArielSalvadorDev",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/0a83006ed4632d49e41a6f9c085d9c9346136c8487e017783ee4fc03095adee8.jpg",
-      "url": "https://twitter.com/ArielSalvadorD1"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1186342711269441537#favorited-by-1089643802300727309",
-    "published": null,
-    "wm-received": "2019-10-21T21:50:21Z",
-    "wm-id": 715987,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1186342711269441537/1089643802300727309",
-    "wm-target": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
-    "like-of": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "ArielSalvadorDev",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/0a83006ed4632d49e41a6f9c085d9c9346136c8487e017783ee4fc03095adee8.jpg",
-      "url": "https://twitter.com/ArielSalvadorD1"
-    },
-    "url": "https://twitter.com/ArielSalvadorD1/status/1186397745831174144",
-    "published": "2019-10-21T21:43:59+00:00",
-    "wm-received": "2019-10-21T21:50:21Z",
-    "wm-id": 715986,
-    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1186342711269441537/1186397745831174144",
-    "wm-target": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
-    "content": {
-      "text": "✒️ Laravel Mix Preload v1\n\nsebastiandedeyne.com/laravel-mix-pr…"
-    },
-    "repost-of": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
-    "wm-property": "repost-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Zubair Mohsin",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/9ee91d9a429bd49d23733e4ad0975a2bfece50d83b11ad8fe30af485a64c32af.jpg",
-      "url": "https://twitter.com/Zubairmohsin33"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1186342711269441537#favorited-by-2972870264",
-    "published": null,
-    "wm-received": "2019-10-21T21:50:18Z",
-    "wm-id": 715985,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1186342711269441537/2972870264",
-    "wm-target": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
-    "like-of": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Roman Pronskiy",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/9373f62b650e88f9265f5742739d93f3fbaa1f7d60d8593c694c25821996528e.png",
-      "url": "https://twitter.com/pronskiy"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1186342711269441537#favorited-by-156592964",
-    "published": null,
-    "wm-received": "2019-10-21T21:50:17Z",
-    "wm-id": 715984,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1186342711269441537/156592964",
-    "wm-target": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
-    "like-of": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Grégory Parrot",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/ff9e94d08b0c02dde66fec6201a30db45f038250a15764332a7668aca4413169.jpg",
-      "url": "https://twitter.com/MrSlayers"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1186342711269441537#favorited-by-85332095",
-    "published": null,
-    "wm-received": "2019-10-21T21:50:14Z",
-    "wm-id": 715983,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1186342711269441537/85332095",
-    "wm-target": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
-    "like-of": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "M. Vug",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/fcc72d671c32c72d093c77f1ab83e8be120a03d4062bc984a10150cee632b9e8.jpg",
-      "url": "https://twitter.com/mvug"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1186342711269441537#favorited-by-125585595",
-    "published": null,
-    "wm-received": "2019-10-21T20:43:10Z",
-    "wm-id": 715964,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1186342711269441537/125585595",
-    "wm-target": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
-    "like-of": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Daniele Rosario",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/71f8c6244e9be03b1d253dbeb50857cae04cf3abfb0ecaf169e06ab9cdcde038.jpg",
-      "url": "https://twitter.com/Skullbock"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1186342711269441537#favorited-by-26766612",
-    "published": null,
-    "wm-received": "2019-10-21T20:16:18Z",
-    "wm-id": 715956,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1186342711269441537/26766612",
-    "wm-target": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
-    "like-of": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Christian Leo-Pernold",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/e0b78e39e9f0fc248cf706c4152e81c4853edc96b823afb828113c9cf0fe582d.jpg",
-      "url": "https://twitter.com/mazedlx"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1186342711269441537#favorited-by-14218745",
-    "published": null,
-    "wm-received": "2019-10-21T19:48:18Z",
-    "wm-id": 715949,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1186342711269441537/14218745",
-    "wm-target": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
-    "like-of": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Stefan Bauer",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/78b2190e94eb28cab02d6d26cde10e1c5bc6dd7fd544876afda443572069f642.jpg",
-      "url": "https://twitter.com/stefanbauerme"
-    },
-    "url": "https://twitter.com/stefanbauerme/status/1186363038078787585",
-    "published": "2019-10-21T19:26:04+00:00",
-    "wm-received": "2019-10-21T19:48:18Z",
-    "wm-id": 715948,
-    "wm-source": "https://brid-gy.appspot.com/comment/twitter/sebdedeyne/1186342711269441537/1186363038078787585",
-    "wm-target": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
-    "content": {
-      "html": "Auspiciously! 👍\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/sebdedeyne\"></a>",
-      "text": "Auspiciously! 👍"
-    },
-    "in-reply-to": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
-    "wm-property": "in-reply-to",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Clayton Stone 🧢",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/a9276b6792f15fc5e5189671afc0b51e4242440cfb9be5749feaaafc1eb79edd.jpg",
-      "url": "https://twitter.com/DevCircus"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1186342711269441537#favorited-by-2941091078",
-    "published": null,
-    "wm-received": "2019-10-21T19:48:17Z",
-    "wm-id": 715947,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1186342711269441537/2941091078",
-    "wm-target": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
-    "like-of": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Sebastian De Deyne",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/3ce609991342657b8b7e99eb7a5c6e3656fbdb1c51575f1464d354b81aaeda86.jpg",
-      "url": "https://twitter.com/sebdedeyne"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1186365967892398086",
-    "published": "2019-10-21T19:37:43+00:00",
-    "wm-received": "2019-10-21T19:48:16Z",
-    "wm-id": 715946,
-    "wm-source": "https://brid-gy.appspot.com/comment/twitter/sebdedeyne/1186342711269441537/1186365967892398086",
-    "wm-target": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
-    "content": {
-      "html": "I learned a new word :D\n<a class=\"u-mention\" href=\"https://twitter.com/stefanbauerme\"></a>",
-      "text": "I learned a new word :D"
-    },
-    "in-reply-to": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
-    "wm-property": "in-reply-to",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Stefan Bauer",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/78b2190e94eb28cab02d6d26cde10e1c5bc6dd7fd544876afda443572069f642.jpg",
-      "url": "https://twitter.com/stefanbauerme"
-    },
-    "url": "https://twitter.com/stefanbauerme/status/1186366263565705217",
-    "published": "2019-10-21T19:38:53+00:00",
-    "wm-received": "2019-10-21T19:48:16Z",
-    "wm-id": 715945,
-    "wm-source": "https://brid-gy.appspot.com/comment/twitter/sebdedeyne/1186342711269441537/1186366263565705217",
-    "wm-target": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
-    "content": {
-      "html": "Learned it some weeks ago as well. Now I had the chance to use it 🤪\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/sebdedeyne\"></a>",
-      "text": "Learned it some weeks ago as well. Now I had the chance to use it 🤪"
-    },
-    "in-reply-to": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
-    "wm-property": "in-reply-to",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Hunter Skrasek",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/589fd30f26c16fcd682e3edea4b74ff23f7bb78e85ce69ff9d740d8768874d42.jpg",
-      "url": "https://twitter.com/HSkrasek"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1186342711269441537#favorited-by-123813466",
-    "published": null,
-    "wm-received": "2019-10-21T19:18:15Z",
-    "wm-id": 715940,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1186342711269441537/123813466",
-    "wm-target": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
-    "like-of": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Matthew Poulter",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/617aa055cbdeefbb99860fe70db9bc247085ce32f600ea972585bf0b92237964.jpg",
-      "url": "https://twitter.com/mdpoulter"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1186342711269441537#favorited-by-152526668",
-    "published": null,
-    "wm-received": "2019-10-21T19:18:14Z",
-    "wm-id": 715939,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1186342711269441537/152526668",
-    "wm-target": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
-    "like-of": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "oluwajubelo loves VueJS 🚨",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/b46941f64275ee2ae7ae9618ba0d3b60e9ab8ce6a343ff90b0e905321a4c24de.jpg",
-      "url": "https://twitter.com/igeoluwasegun1"
-    },
-    "url": "https://twitter.com/igeoluwasegun1/status/1186356085239799809",
-    "published": "2019-10-21T18:58:26+00:00",
-    "wm-received": "2019-10-21T19:18:12Z",
-    "wm-id": 715937,
-    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1186342711269441537/1186356085239799809",
-    "wm-target": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
-    "content": {
-      "text": "✒️ Laravel Mix Preload v1\n\nsebastiandedeyne.com/laravel-mix-pr…"
-    },
-    "repost-of": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
-    "wm-property": "repost-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "oluwajubelo loves VueJS 🚨",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/b46941f64275ee2ae7ae9618ba0d3b60e9ab8ce6a343ff90b0e905321a4c24de.jpg",
-      "url": "https://twitter.com/igeoluwasegun1"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1186342711269441537#favorited-by-982451690",
-    "published": null,
-    "wm-received": "2019-10-21T19:18:10Z",
-    "wm-id": 715934,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1186342711269441537/982451690",
-    "wm-target": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
-    "like-of": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Freek Van der Herten",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/fc87f4abfee522403bfb9d8ebbdd1bde483d020713c137b63e94bec043c45cfa.jpg",
-      "url": "https://twitter.com/freekmurze"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1186342711269441537#favorited-by-97178022",
-    "published": null,
-    "wm-received": "2019-10-21T18:53:36Z",
-    "wm-id": 715923,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1186342711269441537/97178022",
-    "wm-target": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
-    "like-of": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Niels",
-      "photo": "https://webmention.io/avatar/abs.twimg.com/0e6b2cd70aa5b35dec24ca4e1e63f8963f0118736d9ec3bba77e3a8c99a27bc2.png",
-      "url": "https://twitter.com/__dev__account"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1186342711269441537#favorited-by-1022192241677426688",
-    "published": null,
-    "wm-received": "2019-10-21T18:53:35Z",
-    "wm-id": 715922,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1186342711269441537/1022192241677426688",
-    "wm-target": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
-    "like-of": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Samuel De Backer",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/c9c3cb7f7a5a458a7e852f04b3a4e75988b9ad8330d7cd14fb2539b9fd67d2a0.png",
-      "url": "https://twitter.com/samueldebacker"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1186342711269441537#favorited-by-325060439",
-    "published": null,
-    "wm-received": "2019-10-21T18:53:34Z",
-    "wm-id": 715921,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1186342711269441537/325060439",
-    "wm-target": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
-    "like-of": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Benjamin Crozat",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/75ac34c8b625df7713df2f7a3bd58e100b8a3e8c525b3256d6787a6ad9d21dab.jpg",
-      "url": "https://twitter.com/benjamincrozat"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1186342711269441537#favorited-by-71785320",
-    "published": null,
-    "wm-received": "2019-10-21T18:53:30Z",
-    "wm-id": 715920,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1186342711269441537/71785320",
-    "wm-target": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
-    "like-of": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Paul Redmond 🇺🇸",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/268ef2d8db48537326b50858bf546e09c7463518acd63d8d88994818476be0bc.jpg",
-      "url": "https://twitter.com/paulredmond"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1186342711269441537#favorited-by-14081470",
-    "published": null,
-    "wm-received": "2019-10-21T18:22:25Z",
-    "wm-id": 715894,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1186342711269441537/14081470",
-    "wm-target": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
-    "like-of": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Tony Messias",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/16c96094ff1635ce32551e11eb19d4a329c069bd4fcebcff1422b63b7a098f82.jpg",
-      "url": "https://twitter.com/tony0x01"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1186342711269441537#favorited-by-55294160",
-    "published": null,
-    "wm-received": "2019-10-21T18:22:24Z",
-    "wm-id": 715893,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1186342711269441537/55294160",
+    "wm-received": "2019-10-21T18:22:22Z",
+    "wm-id": 715891,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1186342711269441537/226496901",
     "wm-target": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
     "like-of": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
     "wm-property": "like-of",
@@ -715,15 +85,15 @@
     "type": "entry",
     "author": {
       "type": "card",
-      "name": "Dries Vints",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/72bc78fda48606b087fd3c7aa6412255505e5045c496385bf1f57a764b64fd4a.jpg",
-      "url": "https://twitter.com/driesvints"
+      "name": "Tony Messias",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/16c96094ff1635ce32551e11eb19d4a329c069bd4fcebcff1422b63b7a098f82.jpg",
+      "url": "https://twitter.com/tony0x01"
     },
-    "url": "https://twitter.com/sebdedeyne/status/1186342711269441537#favorited-by-226496901",
+    "url": "https://twitter.com/sebdedeyne/status/1186342711269441537#favorited-by-55294160",
     "published": null,
-    "wm-received": "2019-10-21T18:22:22Z",
-    "wm-id": 715891,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1186342711269441537/226496901",
+    "wm-received": "2019-10-21T18:22:24Z",
+    "wm-id": 715893,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1186342711269441537/55294160",
     "wm-target": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
     "like-of": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
     "wm-property": "like-of",
@@ -733,15 +103,123 @@
     "type": "entry",
     "author": {
       "type": "card",
-      "name": "Dries Vints",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/72bc78fda48606b087fd3c7aa6412255505e5045c496385bf1f57a764b64fd4a.jpg",
-      "url": "https://twitter.com/driesvints"
+      "name": "Paul Redmond 🇺🇸",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/268ef2d8db48537326b50858bf546e09c7463518acd63d8d88994818476be0bc.jpg",
+      "url": "https://twitter.com/paulredmond"
     },
-    "url": "https://twitter.com/driesvints/status/1186344713328189440",
-    "published": "2019-10-21T18:13:15+00:00",
-    "wm-received": "2019-10-21T18:22:21Z",
-    "wm-id": 715890,
-    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1186342711269441537/1186344713328189440",
+    "url": "https://twitter.com/sebdedeyne/status/1186342711269441537#favorited-by-14081470",
+    "published": null,
+    "wm-received": "2019-10-21T18:22:25Z",
+    "wm-id": 715894,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1186342711269441537/14081470",
+    "wm-target": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
+    "like-of": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Benjamin Crozat",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/75ac34c8b625df7713df2f7a3bd58e100b8a3e8c525b3256d6787a6ad9d21dab.jpg",
+      "url": "https://twitter.com/benjamincrozat"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1186342711269441537#favorited-by-71785320",
+    "published": null,
+    "wm-received": "2019-10-21T18:53:30Z",
+    "wm-id": 715920,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1186342711269441537/71785320",
+    "wm-target": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
+    "like-of": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Samuel De Backer",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/c9c3cb7f7a5a458a7e852f04b3a4e75988b9ad8330d7cd14fb2539b9fd67d2a0.png",
+      "url": "https://twitter.com/samueldebacker"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1186342711269441537#favorited-by-325060439",
+    "published": null,
+    "wm-received": "2019-10-21T18:53:34Z",
+    "wm-id": 715921,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1186342711269441537/325060439",
+    "wm-target": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
+    "like-of": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Niels",
+      "photo": "https://webmention.io/avatar/abs.twimg.com/0e6b2cd70aa5b35dec24ca4e1e63f8963f0118736d9ec3bba77e3a8c99a27bc2.png",
+      "url": "https://twitter.com/__dev__account"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1186342711269441537#favorited-by-1022192241677426688",
+    "published": null,
+    "wm-received": "2019-10-21T18:53:35Z",
+    "wm-id": 715922,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1186342711269441537/1022192241677426688",
+    "wm-target": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
+    "like-of": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Freek Van der Herten",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/fc87f4abfee522403bfb9d8ebbdd1bde483d020713c137b63e94bec043c45cfa.jpg",
+      "url": "https://twitter.com/freekmurze"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1186342711269441537#favorited-by-97178022",
+    "published": null,
+    "wm-received": "2019-10-21T18:53:36Z",
+    "wm-id": 715923,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1186342711269441537/97178022",
+    "wm-target": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
+    "like-of": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "oluwajubelo loves VueJS 🚨",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/b46941f64275ee2ae7ae9618ba0d3b60e9ab8ce6a343ff90b0e905321a4c24de.jpg",
+      "url": "https://twitter.com/igeoluwasegun1"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1186342711269441537#favorited-by-982451690",
+    "published": null,
+    "wm-received": "2019-10-21T19:18:10Z",
+    "wm-id": 715934,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1186342711269441537/982451690",
+    "wm-target": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
+    "like-of": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "oluwajubelo loves VueJS 🚨",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/b46941f64275ee2ae7ae9618ba0d3b60e9ab8ce6a343ff90b0e905321a4c24de.jpg",
+      "url": "https://twitter.com/igeoluwasegun1"
+    },
+    "url": "https://twitter.com/igeoluwasegun1/status/1186356085239799809",
+    "published": "2019-10-21T18:58:26+00:00",
+    "wm-received": "2019-10-21T19:18:12Z",
+    "wm-id": 715937,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1186342711269441537/1186356085239799809",
     "wm-target": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
     "content": {
       "text": "✒️ Laravel Mix Preload v1\n\nsebastiandedeyne.com/laravel-mix-pr…"
@@ -754,21 +232,543 @@
     "type": "entry",
     "author": {
       "type": "card",
-      "name": "Full Stack Belgium",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/670ff7ebf9c83404336b791626f3c426c80914384d58eefb63874f3d567960bf.jpg",
-      "url": "https://twitter.com/fullstackbe"
+      "name": "Matthew Poulter",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/617aa055cbdeefbb99860fe70db9bc247085ce32f600ea972585bf0b92237964.jpg",
+      "url": "https://twitter.com/mdpoulter"
     },
-    "url": "https://twitter.com/fullstackbe/status/1186344765115260930",
-    "published": "2019-10-21T18:13:27+00:00",
-    "wm-received": "2019-10-21T18:22:21Z",
-    "wm-id": 715889,
-    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1186342711269441537/1186344765115260930",
+    "url": "https://twitter.com/sebdedeyne/status/1186342711269441537#favorited-by-152526668",
+    "published": null,
+    "wm-received": "2019-10-21T19:18:14Z",
+    "wm-id": 715939,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1186342711269441537/152526668",
+    "wm-target": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
+    "like-of": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Hunter Skrasek",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/589fd30f26c16fcd682e3edea4b74ff23f7bb78e85ce69ff9d740d8768874d42.jpg",
+      "url": "https://twitter.com/HSkrasek"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1186342711269441537#favorited-by-123813466",
+    "published": null,
+    "wm-received": "2019-10-21T19:18:15Z",
+    "wm-id": 715940,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1186342711269441537/123813466",
+    "wm-target": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
+    "like-of": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Stefan Bauer",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/78b2190e94eb28cab02d6d26cde10e1c5bc6dd7fd544876afda443572069f642.jpg",
+      "url": "https://twitter.com/stefanbauerme"
+    },
+    "url": "https://twitter.com/stefanbauerme/status/1186366263565705217",
+    "published": "2019-10-21T19:38:53+00:00",
+    "wm-received": "2019-10-21T19:48:16Z",
+    "wm-id": 715945,
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/sebdedeyne/1186342711269441537/1186366263565705217",
+    "wm-target": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
+    "content": {
+      "html": "Learned it some weeks ago as well. Now I had the chance to use it 🤪\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/sebdedeyne\"></a>",
+      "text": "Learned it some weeks ago as well. Now I had the chance to use it 🤪"
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Sebastian De Deyne",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/3ce609991342657b8b7e99eb7a5c6e3656fbdb1c51575f1464d354b81aaeda86.jpg",
+      "url": "https://twitter.com/sebdedeyne"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1186365967892398086",
+    "published": "2019-10-21T19:37:43+00:00",
+    "wm-received": "2019-10-21T19:48:16Z",
+    "wm-id": 715946,
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/sebdedeyne/1186342711269441537/1186365967892398086",
+    "wm-target": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
+    "content": {
+      "html": "I learned a new word :D\n<a class=\"u-mention\" href=\"https://twitter.com/stefanbauerme\"></a>",
+      "text": "I learned a new word :D"
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Clayton Stone 🧢",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/a9276b6792f15fc5e5189671afc0b51e4242440cfb9be5749feaaafc1eb79edd.jpg",
+      "url": "https://twitter.com/DevCircus"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1186342711269441537#favorited-by-2941091078",
+    "published": null,
+    "wm-received": "2019-10-21T19:48:17Z",
+    "wm-id": 715947,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1186342711269441537/2941091078",
+    "wm-target": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
+    "like-of": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Stefan Bauer",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/78b2190e94eb28cab02d6d26cde10e1c5bc6dd7fd544876afda443572069f642.jpg",
+      "url": "https://twitter.com/stefanbauerme"
+    },
+    "url": "https://twitter.com/stefanbauerme/status/1186363038078787585",
+    "published": "2019-10-21T19:26:04+00:00",
+    "wm-received": "2019-10-21T19:48:18Z",
+    "wm-id": 715948,
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/sebdedeyne/1186342711269441537/1186363038078787585",
+    "wm-target": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
+    "content": {
+      "html": "Auspiciously! 👍\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/sebdedeyne\"></a>",
+      "text": "Auspiciously! 👍"
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Christian Leo-Pernold",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/e0b78e39e9f0fc248cf706c4152e81c4853edc96b823afb828113c9cf0fe582d.jpg",
+      "url": "https://twitter.com/mazedlx"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1186342711269441537#favorited-by-14218745",
+    "published": null,
+    "wm-received": "2019-10-21T19:48:18Z",
+    "wm-id": 715949,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1186342711269441537/14218745",
+    "wm-target": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
+    "like-of": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Daniele Rosario",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/71f8c6244e9be03b1d253dbeb50857cae04cf3abfb0ecaf169e06ab9cdcde038.jpg",
+      "url": "https://twitter.com/Skullbock"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1186342711269441537#favorited-by-26766612",
+    "published": null,
+    "wm-received": "2019-10-21T20:16:18Z",
+    "wm-id": 715956,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1186342711269441537/26766612",
+    "wm-target": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
+    "like-of": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "M. Vug",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/fcc72d671c32c72d093c77f1ab83e8be120a03d4062bc984a10150cee632b9e8.jpg",
+      "url": "https://twitter.com/mvug"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1186342711269441537#favorited-by-125585595",
+    "published": null,
+    "wm-received": "2019-10-21T20:43:10Z",
+    "wm-id": 715964,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1186342711269441537/125585595",
+    "wm-target": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
+    "like-of": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Grégory Parrot",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/ff9e94d08b0c02dde66fec6201a30db45f038250a15764332a7668aca4413169.jpg",
+      "url": "https://twitter.com/MrSlayers"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1186342711269441537#favorited-by-85332095",
+    "published": null,
+    "wm-received": "2019-10-21T21:50:14Z",
+    "wm-id": 715983,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1186342711269441537/85332095",
+    "wm-target": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
+    "like-of": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Roman Pronskiy",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/9373f62b650e88f9265f5742739d93f3fbaa1f7d60d8593c694c25821996528e.png",
+      "url": "https://twitter.com/pronskiy"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1186342711269441537#favorited-by-156592964",
+    "published": null,
+    "wm-received": "2019-10-21T21:50:17Z",
+    "wm-id": 715984,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1186342711269441537/156592964",
+    "wm-target": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
+    "like-of": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Zubair Mohsin",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/9ee91d9a429bd49d23733e4ad0975a2bfece50d83b11ad8fe30af485a64c32af.jpg",
+      "url": "https://twitter.com/Zubairmohsin33"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1186342711269441537#favorited-by-2972870264",
+    "published": null,
+    "wm-received": "2019-10-21T21:50:18Z",
+    "wm-id": 715985,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1186342711269441537/2972870264",
+    "wm-target": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
+    "like-of": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "ArielSalvadorDev",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/0a83006ed4632d49e41a6f9c085d9c9346136c8487e017783ee4fc03095adee8.jpg",
+      "url": "https://twitter.com/ArielSalvadorD1"
+    },
+    "url": "https://twitter.com/ArielSalvadorD1/status/1186397745831174144",
+    "published": "2019-10-21T21:43:59+00:00",
+    "wm-received": "2019-10-21T21:50:21Z",
+    "wm-id": 715986,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1186342711269441537/1186397745831174144",
     "wm-target": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
     "content": {
       "text": "✒️ Laravel Mix Preload v1\n\nsebastiandedeyne.com/laravel-mix-pr…"
     },
     "repost-of": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
     "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "ArielSalvadorDev",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/0a83006ed4632d49e41a6f9c085d9c9346136c8487e017783ee4fc03095adee8.jpg",
+      "url": "https://twitter.com/ArielSalvadorD1"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1186342711269441537#favorited-by-1089643802300727309",
+    "published": null,
+    "wm-received": "2019-10-21T21:50:21Z",
+    "wm-id": 715987,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1186342711269441537/1089643802300727309",
+    "wm-target": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
+    "like-of": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Cyril de Wit",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/024226e454853ac712e85cd3c646b7f3aea99b8adb6399176042dbc5db88903c.jpg",
+      "url": "https://twitter.com/cyrildewit"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1186342711269441537#favorited-by-2172253302",
+    "published": null,
+    "wm-received": "2019-10-21T22:22:45Z",
+    "wm-id": 715997,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1186342711269441537/2172253302",
+    "wm-target": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
+    "like-of": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Devon Mather",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/21155d5cbc5840690917a9f0f04e70a6e39ef5b69603995d21be02ee7608c0d7.jpg",
+      "url": "https://twitter.com/devonmather"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1186342711269441537#favorited-by-10056032",
+    "published": null,
+    "wm-received": "2019-10-21T22:22:47Z",
+    "wm-id": 715999,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1186342711269441537/10056032",
+    "wm-target": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
+    "like-of": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Craig Paul",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/7b34dffc93784726af0ab85e96312abb36f8bf57b349fc735a2eb8874ad95a41.jpg",
+      "url": "https://twitter.com/TheCraigPaul"
+    },
+    "url": "https://twitter.com/TheCraigPaul/status/1186422807607087107",
+    "published": "2019-10-21T23:23:34+00:00",
+    "wm-received": "2019-10-21T23:45:05Z",
+    "wm-id": 716010,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1186342711269441537/1186422807607087107",
+    "wm-target": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
+    "content": {
+      "text": "✒️ Laravel Mix Preload v1\n\nsebastiandedeyne.com/laravel-mix-pr…"
+    },
+    "repost-of": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Craig Paul",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/7b34dffc93784726af0ab85e96312abb36f8bf57b349fc735a2eb8874ad95a41.jpg",
+      "url": "https://twitter.com/TheCraigPaul"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1186342711269441537#favorited-by-636472279",
+    "published": null,
+    "wm-received": "2019-10-21T23:45:06Z",
+    "wm-id": 716011,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1186342711269441537/636472279",
+    "wm-target": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
+    "like-of": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Paulo Dessimoni",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/039719b9dc971d467e0556e5d217f7765e90bb937e78cb734307881a1418757e.jpg",
+      "url": "https://twitter.com/dessimoni"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1186342711269441537#favorited-by-14226474",
+    "published": null,
+    "wm-received": "2019-10-22T01:10:42Z",
+    "wm-id": 716020,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1186342711269441537/14226474",
+    "wm-target": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
+    "like-of": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Kavan Pancholi",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/bd4d4bee6f1c902f66a9b22d299c69243a7efe8b926da74d67b885aad55d7cb2.jpg",
+      "url": "https://twitter.com/kavanpancholi"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1186342711269441537#favorited-by-78233298",
+    "published": null,
+    "wm-received": "2019-10-22T03:46:33Z",
+    "wm-id": 716040,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1186342711269441537/78233298",
+    "wm-target": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
+    "like-of": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Robin Dirksen",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/21c285970183e6c593d08e5877e992f144bbccaa434174e8e3b1c5a8eb571326.jpg",
+      "url": "https://twitter.com/robindirksen1"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1186342711269441537#favorited-by-826787304165560321",
+    "published": null,
+    "wm-received": "2019-10-22T05:43:53Z",
+    "wm-id": 716058,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1186342711269441537/826787304165560321",
+    "wm-target": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
+    "like-of": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "James Hemery",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/dd2337612d6b05b9957c1d8edb085eabb962fd0260df4593210684b348e77237.jpg",
+      "url": "https://twitter.com/JamesHemery_"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1186342711269441537#favorited-by-787358440393961472",
+    "published": null,
+    "wm-received": "2019-10-22T07:46:39Z",
+    "wm-id": 716074,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1186342711269441537/787358440393961472",
+    "wm-target": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
+    "like-of": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Mikael Jorhult",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/3faad27691d2ac877f4e87d5f9387a4c7482f5a8b3735e0ee738cfae61be2f1d.jpg",
+      "url": "https://twitter.com/mikaeljorhult"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1186342711269441537#favorited-by-107094214",
+    "published": null,
+    "wm-received": "2019-10-22T10:31:16Z",
+    "wm-id": 716096,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1186342711269441537/107094214",
+    "wm-target": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
+    "like-of": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Rabi3",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/aeff8e8b2ed4aa007a57a8370ff8fdcce10f838db9d3134c460262064bb2f3af.jpg",
+      "url": "https://twitter.com/rabieali_"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1186342711269441537#favorited-by-848818466643734529",
+    "published": null,
+    "wm-received": "2019-10-22T12:19:48Z",
+    "wm-id": 716120,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1186342711269441537/848818466643734529",
+    "wm-target": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
+    "like-of": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Axel Alvarado",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/fd6f15ce14f0dba87f1eed5b9dbcec07885b636652b6f3c01e2dafb0602b0ae1.jpg",
+      "url": "https://twitter.com/axel_bol"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1186342711269441537#favorited-by-788186706",
+    "published": null,
+    "wm-received": "2019-10-22T13:10:05Z",
+    "wm-id": 716133,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1186342711269441537/788186706",
+    "wm-target": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
+    "like-of": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Aaron Huisinga",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/656a0ce6e28e0e58a6b6720f8cf859d600d557dcfc6dcdc96e3accbb9e46e233.jpg",
+      "url": "https://twitter.com/aaronhuisinga"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1186342711269441537#favorited-by-223375689",
+    "published": null,
+    "wm-received": "2019-10-22T16:18:22Z",
+    "wm-id": 716230,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1186342711269441537/223375689",
+    "wm-target": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
+    "like-of": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Mark Charlez",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/c92cd359cca3030e11ef34cace1bf2c4f110f8ee3c5479ab3240d2def10ad610.png",
+      "url": "https://twitter.com/fullstackgay"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1186342711269441537#favorited-by-1064610906552684544",
+    "published": null,
+    "wm-received": "2019-10-22T21:07:16Z",
+    "wm-id": 716333,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1186342711269441537/1064610906552684544",
+    "wm-target": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
+    "like-of": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Mark Charlez",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/c92cd359cca3030e11ef34cace1bf2c4f110f8ee3c5479ab3240d2def10ad610.png",
+      "url": "https://twitter.com/fullstackgay"
+    },
+    "url": "https://twitter.com/fullstackgay/status/1186744895320444929",
+    "published": "2019-10-22T20:43:26+00:00",
+    "wm-received": "2019-10-22T21:07:18Z",
+    "wm-id": 716334,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1186342711269441537/1186744895320444929",
+    "wm-target": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
+    "content": {
+      "text": "✒️ Laravel Mix Preload v1\n\nsebastiandedeyne.com/laravel-mix-pr…"
+    },
+    "repost-of": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Marco",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/1393e059f4c2763e2b5b12c69a6b78c99c3a621e9be2eb03ff3c2c74fd2d49e8.jpg",
+      "url": "https://twitter.com/thtg88"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1186342711269441537#favorited-by-1162669114281877504",
+    "published": null,
+    "wm-received": "2019-10-27T22:13:21Z",
+    "wm-id": 717936,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1186342711269441537/1162669114281877504",
+    "wm-target": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
+    "like-of": "https://sebastiandedeyne.com/laravel-mix-preload-v1/",
+    "wm-property": "like-of",
     "wm-private": false
   }
 ]

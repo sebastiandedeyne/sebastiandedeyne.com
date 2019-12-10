@@ -30,7 +30,7 @@ fetch(url)
       const entries = JSON.parse(fs.readFileSync(filename));
 
       const newEntries = uniqBy([entry, ...entries], entry => entry["wm-id"]);
-      newEntries.sort((a, b) => b["wm-id"] - a["wm-id"]);
+      newEntries.sort((a, b) => a["wm-id"] - b["wm-id"]);
 
       fs.writeFileSync(filename, JSON.stringify(newEntries, null, 2));
     });

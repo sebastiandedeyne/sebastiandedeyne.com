@@ -3,58 +3,15 @@
     "type": "entry",
     "author": {
       "type": "card",
-      "name": "Alexander Makhaev",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/d0e288ca636669216f553ec58f2075cc256afe80a6760731e9e362983fdb3952.jpg",
-      "url": "https://twitter.com/mankms"
+      "name": "Full Stack Europe",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/c0b6a8d691be1ba4a1270bbd6fa1aa127d25f56cfe62fd2b7c3ee0cd92e506be.jpg",
+      "url": "https://twitter.com/FullStackEU"
     },
-    "url": "https://twitter.com/mankms/status/1201003751525490688",
-    "published": "2019-12-01T05:03:02+00:00",
-    "wm-received": "2019-12-01T05:13:40Z",
-    "wm-id": 729217,
-    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1201003751525490688",
-    "wm-target": "https://sebastiandedeyne.com/prioritization-systems/",
-    "photo": [
-      "https://pbs.twimg.com/media/EKrSi-VWsAcduYz.jpg"
-    ],
-    "content": {
-      "html": "Prioritization systems, <a href=\"https://twitter.com/sebdedeyne\">@sebdedeyne</a>\n\nLarge long-living projects are constant moving targets. It’s harder to estimate things and technical debt can become a real issue. A chronological task list won’t do it anymore, we need to start prioritizing things.\n\n<a href=\"https://sebastiandedeyne.com/prioritization-systems/\">sebastiandedeyne.com/prioritization…</a>",
-      "text": "Prioritization systems, @sebdedeyne\n\nLarge long-living projects are constant moving targets. It’s harder to estimate things and technical debt can become a real issue. A chronological task list won’t do it anymore, we need to start prioritizing things.\n\nsebastiandedeyne.com/prioritization…"
-    },
-    "mention-of": "https://sebastiandedeyne.com/prioritization-systems/",
-    "wm-property": "mention-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Rod Elias",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/87188c75640a503c88e20f219c9a7a8fcd6a02b1d1f290e51c27a6280b848681.jpg",
-      "url": "https://twitter.com/chapeupreto"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1189479095589068801#favorited-by-57721392",
-    "published": null,
-    "wm-received": "2019-10-31T01:47:18Z",
-    "wm-id": 719871,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1189479095589068801/57721392",
-    "wm-target": "https://sebastiandedeyne.com/prioritization-systems/",
-    "like-of": "https://sebastiandedeyne.com/prioritization-systems/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Spatie",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/3efb487e7f3a0bc3690580277105f93eda590d65e4d9eb01135a184a9df60b18.jpg",
-      "url": "https://twitter.com/spatie_be"
-    },
-    "url": "https://twitter.com/spatie_be/status/1189696017274298368",
-    "published": "2019-10-31T00:10:08+00:00",
-    "wm-received": "2019-10-31T00:34:49Z",
-    "wm-id": 719860,
-    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1189479095589068801/1189696017274298368",
+    "url": "https://twitter.com/FullStackEU/status/1189480695611215872",
+    "published": "2019-10-30T09:54:31+00:00",
+    "wm-received": "2019-10-30T09:58:11Z",
+    "wm-id": 719602,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1189479095589068801/1189480695611215872",
     "wm-target": "https://sebastiandedeyne.com/prioritization-systems/",
     "content": {
       "text": "✒️ I just published a written version of my second @FullStackEU lightning talk about prioritizing things\n\nsebastiandedeyne.com/prioritization…"
@@ -67,15 +24,36 @@
     "type": "entry",
     "author": {
       "type": "card",
-      "name": "Kenneth Schabrechts",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/37200976fab3f89aa66ff8cc1a39e87970729c436703e00e301106fa8e844b0e.jpg",
-      "url": "https://twitter.com/schabrechtsk"
+      "name": "Dries Vints",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/72bc78fda48606b087fd3c7aa6412255505e5045c496385bf1f57a764b64fd4a.jpg",
+      "url": "https://twitter.com/driesvints"
     },
-    "url": "https://twitter.com/sebdedeyne/status/1189479095589068801#favorited-by-986701140967510017",
+    "url": "https://twitter.com/driesvints/status/1189481019373690881",
+    "published": "2019-10-30T09:55:49+00:00",
+    "wm-received": "2019-10-30T09:58:13Z",
+    "wm-id": 719603,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1189479095589068801/1189481019373690881",
+    "wm-target": "https://sebastiandedeyne.com/prioritization-systems/",
+    "content": {
+      "text": "✒️ I just published a written version of my second @FullStackEU lightning talk about prioritizing things\n\nsebastiandedeyne.com/prioritization…"
+    },
+    "repost-of": "https://sebastiandedeyne.com/prioritization-systems/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Rias Van der Veken",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/4d90619c3206b3cd5717b1da4faeda9a43f17617074f32f5e7b25878944df2a0.jpg",
+      "url": "https://twitter.com/Riasvdv"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1189479095589068801#favorited-by-124591560",
     "published": null,
-    "wm-received": "2019-10-30T13:59:11Z",
-    "wm-id": 719667,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1189479095589068801/986701140967510017",
+    "wm-received": "2019-10-30T09:58:13Z",
+    "wm-id": 719604,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1189479095589068801/124591560",
     "wm-target": "https://sebastiandedeyne.com/prioritization-systems/",
     "like-of": "https://sebastiandedeyne.com/prioritization-systems/",
     "wm-property": "like-of",
@@ -85,69 +63,15 @@
     "type": "entry",
     "author": {
       "type": "card",
-      "name": "Cyril de Wit",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/024226e454853ac712e85cd3c646b7f3aea99b8adb6399176042dbc5db88903c.jpg",
-      "url": "https://twitter.com/cyrildewit"
+      "name": "Full Stack Europe",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/c0b6a8d691be1ba4a1270bbd6fa1aa127d25f56cfe62fd2b7c3ee0cd92e506be.jpg",
+      "url": "https://twitter.com/FullStackEU"
     },
-    "url": "https://twitter.com/sebdedeyne/status/1189479095589068801#favorited-by-2172253302",
+    "url": "https://twitter.com/sebdedeyne/status/1189479095589068801#favorited-by-990913127259795456",
     "published": null,
-    "wm-received": "2019-10-30T11:55:14Z",
-    "wm-id": 719636,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1189479095589068801/2172253302",
-    "wm-target": "https://sebastiandedeyne.com/prioritization-systems/",
-    "like-of": "https://sebastiandedeyne.com/prioritization-systems/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Michaël De Boey",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/4c253771a8d1f79422524c6dd9f74ea83b1255def284013494330c1b3792bdf1.jpg",
-      "url": "https://twitter.com/MichaelDeBoey93"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1189479095589068801#favorited-by-148502139",
-    "published": null,
-    "wm-received": "2019-10-30T11:21:44Z",
-    "wm-id": 719625,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1189479095589068801/148502139",
-    "wm-target": "https://sebastiandedeyne.com/prioritization-systems/",
-    "like-of": "https://sebastiandedeyne.com/prioritization-systems/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Robin Malfait",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/d8a4534858f7a43018c4d66bc57accd4888c56a86b45f2ffb8832419859fa55e.jpg",
-      "url": "https://twitter.com/malfaitrobin"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1189479095589068801#favorited-by-220481722",
-    "published": null,
-    "wm-received": "2019-10-30T10:53:38Z",
-    "wm-id": 719620,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1189479095589068801/220481722",
-    "wm-target": "https://sebastiandedeyne.com/prioritization-systems/",
-    "like-of": "https://sebastiandedeyne.com/prioritization-systems/",
-    "wm-property": "like-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Wisdom Ebong",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/061eba92b815ddfc6e6ebccf0492d3c009b16e9c6d98b15203c79d07c86fc048.jpg",
-      "url": "https://twitter.com/wisdomaebong"
-    },
-    "url": "https://twitter.com/sebdedeyne/status/1189479095589068801#favorited-by-2254209772",
-    "published": null,
-    "wm-received": "2019-10-30T10:24:35Z",
-    "wm-id": 719618,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1189479095589068801/2254209772",
+    "wm-received": "2019-10-30T09:58:14Z",
+    "wm-id": 719605,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1189479095589068801/990913127259795456",
     "wm-target": "https://sebastiandedeyne.com/prioritization-systems/",
     "like-of": "https://sebastiandedeyne.com/prioritization-systems/",
     "wm-property": "like-of",
@@ -178,15 +102,15 @@
     "type": "entry",
     "author": {
       "type": "card",
-      "name": "Full Stack Europe",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/c0b6a8d691be1ba4a1270bbd6fa1aa127d25f56cfe62fd2b7c3ee0cd92e506be.jpg",
-      "url": "https://twitter.com/FullStackEU"
+      "name": "Wisdom Ebong",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/061eba92b815ddfc6e6ebccf0492d3c009b16e9c6d98b15203c79d07c86fc048.jpg",
+      "url": "https://twitter.com/wisdomaebong"
     },
-    "url": "https://twitter.com/sebdedeyne/status/1189479095589068801#favorited-by-990913127259795456",
+    "url": "https://twitter.com/sebdedeyne/status/1189479095589068801#favorited-by-2254209772",
     "published": null,
-    "wm-received": "2019-10-30T09:58:14Z",
-    "wm-id": 719605,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1189479095589068801/990913127259795456",
+    "wm-received": "2019-10-30T10:24:35Z",
+    "wm-id": 719618,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1189479095589068801/2254209772",
     "wm-target": "https://sebastiandedeyne.com/prioritization-systems/",
     "like-of": "https://sebastiandedeyne.com/prioritization-systems/",
     "wm-property": "like-of",
@@ -196,15 +120,15 @@
     "type": "entry",
     "author": {
       "type": "card",
-      "name": "Rias Van der Veken",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/4d90619c3206b3cd5717b1da4faeda9a43f17617074f32f5e7b25878944df2a0.jpg",
-      "url": "https://twitter.com/Riasvdv"
+      "name": "Robin Malfait",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/d8a4534858f7a43018c4d66bc57accd4888c56a86b45f2ffb8832419859fa55e.jpg",
+      "url": "https://twitter.com/malfaitrobin"
     },
-    "url": "https://twitter.com/sebdedeyne/status/1189479095589068801#favorited-by-124591560",
+    "url": "https://twitter.com/sebdedeyne/status/1189479095589068801#favorited-by-220481722",
     "published": null,
-    "wm-received": "2019-10-30T09:58:13Z",
-    "wm-id": 719604,
-    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1189479095589068801/124591560",
+    "wm-received": "2019-10-30T10:53:38Z",
+    "wm-id": 719620,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1189479095589068801/220481722",
     "wm-target": "https://sebastiandedeyne.com/prioritization-systems/",
     "like-of": "https://sebastiandedeyne.com/prioritization-systems/",
     "wm-property": "like-of",
@@ -214,15 +138,69 @@
     "type": "entry",
     "author": {
       "type": "card",
-      "name": "Dries Vints",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/72bc78fda48606b087fd3c7aa6412255505e5045c496385bf1f57a764b64fd4a.jpg",
-      "url": "https://twitter.com/driesvints"
+      "name": "Michaël De Boey",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/4c253771a8d1f79422524c6dd9f74ea83b1255def284013494330c1b3792bdf1.jpg",
+      "url": "https://twitter.com/MichaelDeBoey93"
     },
-    "url": "https://twitter.com/driesvints/status/1189481019373690881",
-    "published": "2019-10-30T09:55:49+00:00",
-    "wm-received": "2019-10-30T09:58:13Z",
-    "wm-id": 719603,
-    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1189479095589068801/1189481019373690881",
+    "url": "https://twitter.com/sebdedeyne/status/1189479095589068801#favorited-by-148502139",
+    "published": null,
+    "wm-received": "2019-10-30T11:21:44Z",
+    "wm-id": 719625,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1189479095589068801/148502139",
+    "wm-target": "https://sebastiandedeyne.com/prioritization-systems/",
+    "like-of": "https://sebastiandedeyne.com/prioritization-systems/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Cyril de Wit",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/024226e454853ac712e85cd3c646b7f3aea99b8adb6399176042dbc5db88903c.jpg",
+      "url": "https://twitter.com/cyrildewit"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1189479095589068801#favorited-by-2172253302",
+    "published": null,
+    "wm-received": "2019-10-30T11:55:14Z",
+    "wm-id": 719636,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1189479095589068801/2172253302",
+    "wm-target": "https://sebastiandedeyne.com/prioritization-systems/",
+    "like-of": "https://sebastiandedeyne.com/prioritization-systems/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Kenneth Schabrechts",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/37200976fab3f89aa66ff8cc1a39e87970729c436703e00e301106fa8e844b0e.jpg",
+      "url": "https://twitter.com/schabrechtsk"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1189479095589068801#favorited-by-986701140967510017",
+    "published": null,
+    "wm-received": "2019-10-30T13:59:11Z",
+    "wm-id": 719667,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1189479095589068801/986701140967510017",
+    "wm-target": "https://sebastiandedeyne.com/prioritization-systems/",
+    "like-of": "https://sebastiandedeyne.com/prioritization-systems/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Spatie",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/3efb487e7f3a0bc3690580277105f93eda590d65e4d9eb01135a184a9df60b18.jpg",
+      "url": "https://twitter.com/spatie_be"
+    },
+    "url": "https://twitter.com/spatie_be/status/1189696017274298368",
+    "published": "2019-10-31T00:10:08+00:00",
+    "wm-received": "2019-10-31T00:34:49Z",
+    "wm-id": 719860,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1189479095589068801/1189696017274298368",
     "wm-target": "https://sebastiandedeyne.com/prioritization-systems/",
     "content": {
       "text": "✒️ I just published a written version of my second @FullStackEU lightning talk about prioritizing things\n\nsebastiandedeyne.com/prioritization…"
@@ -235,21 +213,43 @@
     "type": "entry",
     "author": {
       "type": "card",
-      "name": "Full Stack Europe",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/c0b6a8d691be1ba4a1270bbd6fa1aa127d25f56cfe62fd2b7c3ee0cd92e506be.jpg",
-      "url": "https://twitter.com/FullStackEU"
+      "name": "Rod Elias",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/87188c75640a503c88e20f219c9a7a8fcd6a02b1d1f290e51c27a6280b848681.jpg",
+      "url": "https://twitter.com/chapeupreto"
     },
-    "url": "https://twitter.com/FullStackEU/status/1189480695611215872",
-    "published": "2019-10-30T09:54:31+00:00",
-    "wm-received": "2019-10-30T09:58:11Z",
-    "wm-id": 719602,
-    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1189479095589068801/1189480695611215872",
+    "url": "https://twitter.com/sebdedeyne/status/1189479095589068801#favorited-by-57721392",
+    "published": null,
+    "wm-received": "2019-10-31T01:47:18Z",
+    "wm-id": 719871,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1189479095589068801/57721392",
     "wm-target": "https://sebastiandedeyne.com/prioritization-systems/",
-    "content": {
-      "text": "✒️ I just published a written version of my second @FullStackEU lightning talk about prioritizing things\n\nsebastiandedeyne.com/prioritization…"
+    "like-of": "https://sebastiandedeyne.com/prioritization-systems/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Alexander Makhaev",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/d0e288ca636669216f553ec58f2075cc256afe80a6760731e9e362983fdb3952.jpg",
+      "url": "https://twitter.com/mankms"
     },
-    "repost-of": "https://sebastiandedeyne.com/prioritization-systems/",
-    "wm-property": "repost-of",
+    "url": "https://twitter.com/mankms/status/1201003751525490688",
+    "published": "2019-12-01T05:03:02+00:00",
+    "wm-received": "2019-12-01T05:13:40Z",
+    "wm-id": 729217,
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1201003751525490688",
+    "wm-target": "https://sebastiandedeyne.com/prioritization-systems/",
+    "photo": [
+      "https://pbs.twimg.com/media/EKrSi-VWsAcduYz.jpg"
+    ],
+    "content": {
+      "html": "Prioritization systems, <a href=\"https://twitter.com/sebdedeyne\">@sebdedeyne</a>\n\nLarge long-living projects are constant moving targets. It’s harder to estimate things and technical debt can become a real issue. A chronological task list won’t do it anymore, we need to start prioritizing things.\n\n<a href=\"https://sebastiandedeyne.com/prioritization-systems/\">sebastiandedeyne.com/prioritization…</a>",
+      "text": "Prioritization systems, @sebdedeyne\n\nLarge long-living projects are constant moving targets. It’s harder to estimate things and technical debt can become a real issue. A chronological task list won’t do it anymore, we need to start prioritizing things.\n\nsebastiandedeyne.com/prioritization…"
+    },
+    "mention-of": "https://sebastiandedeyne.com/prioritization-systems/",
+    "wm-property": "mention-of",
     "wm-private": false
   }
 ]

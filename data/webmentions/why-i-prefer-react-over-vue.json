@@ -3,44 +3,22 @@
     "type": "entry",
     "author": {
       "type": "card",
-      "name": "Rodrigo Pedra Brum",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/55982450d5e4bca205264bfddc8a6d30b988c2f1d04b01b2ff92778a83bab903.jpg",
-      "url": "https://twitter.com/rodrigopedra"
+      "name": "Mahboob Hussain",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/064e182134d097a811d211964ed4d8a4bbc8f082b6b241f15c2b68a34881b294.jpg",
+      "url": "https://twitter.com/mahboob_h"
     },
-    "url": "https://twitter.com/rodrigopedra/status/1195537801091178496",
-    "published": "2019-11-16T03:03:18+00:00",
-    "wm-received": "2019-11-16T03:26:25Z",
-    "wm-id": 724769,
-    "wm-source": "https://brid-gy.appspot.com/comment/twitter/freekmurze/1194898816958423040/1195537801091178496",
-    "wm-target": "https://sebastiandedeyne.com/why-i-prefer-react-over-vue/",
-    "content": {
-      "html": "Was it recorded? Really curious to see the demo parts on @flareappio codebase\n<a class=\"u-mention\" href=\"https://freek.dev/\"></a>\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/why-i-prefer-react-over-vue/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/flareappio\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/freekmurze\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/fullstackbe\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/spatie_be\"></a>",
-      "text": "Was it recorded? Really curious to see the demo parts on @flareappio codebase"
-    },
-    "in-reply-to": "https://sebastiandedeyne.com/why-i-prefer-react-over-vue/",
-    "wm-property": "in-reply-to",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Freek Van der Herten",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/fc87f4abfee522403bfb9d8ebbdd1bde483d020713c137b63e94bec043c45cfa.jpg",
-      "url": "https://twitter.com/freekmurze"
-    },
-    "url": "https://twitter.com/freekmurze/status/1194898816958423040",
-    "published": "2019-11-14T08:44:12+00:00",
-    "wm-received": "2019-11-14T09:03:59Z",
-    "wm-id": 724248,
-    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1194898816958423040",
+    "url": "https://twitter.com/mahboob_h/status/1136536774547726336",
+    "published": "2019-06-06T07:34:17+00:00",
+    "wm-received": "2019-06-17T20:44:22Z",
+    "wm-id": 627604,
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1136536774547726336",
     "wm-target": "https://sebastiandedeyne.com/why-i-prefer-react-over-vue/",
     "photo": [
-      "https://pbs.twimg.com/media/EJUiI39WkAEL3o0.jpg"
+      "https://pbs.twimg.com/media/D8XKKVQU0AIORAG.png"
     ],
     "content": {
-      "html": "Here are the slides I used yesterday on my talk about the <a href=\"https://twitter.com/flareappio\">@flareappio</a> codebase at <a href=\"https://twitter.com/fullstackbe\">@fullstackbe</a>\n<a href=\"https://speakerdeck.com/freekmurze/highlights-from-the-flare-codebase-full-stack-ghent\">speakerdeck.com/freekmurze/hig…</a>\n\nThere was somebody that asked why we prefer React nowadays at <a href=\"https://twitter.com/spatie_be\">@spatie_be</a> for certain projects. Here's the answer: <a href=\"https://sebastiandedeyne.com/why-i-prefer-react-over-vue/\">sebastiandedeyne.com/why-i-prefer-r…</a>",
-      "text": "Here are the slides I used yesterday on my talk about the @flareappio codebase at @fullstackbe\nspeakerdeck.com/freekmurze/hig…\n\nThere was somebody that asked why we prefer React nowadays at @spatie_be for certain projects. Here's the answer: sebastiandedeyne.com/why-i-prefer-r…"
+      "html": "Why I prefer React over Vue <a href=\"https://twitter.com/sebdedeyne\">@sebdedeyne</a><br /><a href=\"https://sebastiandedeyne.com/why-i-prefer-react-over-vue/\">sebastiandedeyne.com/why-i-prefer-r…</a>",
+      "text": "Why I prefer React over Vue @sebdedeyne\nsebastiandedeyne.com/why-i-prefer-r…"
     },
     "mention-of": "https://sebastiandedeyne.com/why-i-prefer-react-over-vue/",
     "wm-property": "mention-of",
@@ -72,25 +50,47 @@
     "type": "entry",
     "author": {
       "type": "card",
-      "name": "Mahboob Hussain",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/064e182134d097a811d211964ed4d8a4bbc8f082b6b241f15c2b68a34881b294.jpg",
-      "url": "https://twitter.com/mahboob_h"
+      "name": "Freek Van der Herten",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/fc87f4abfee522403bfb9d8ebbdd1bde483d020713c137b63e94bec043c45cfa.jpg",
+      "url": "https://twitter.com/freekmurze"
     },
-    "url": "https://twitter.com/mahboob_h/status/1136536774547726336",
-    "published": "2019-06-06T07:34:17+00:00",
-    "wm-received": "2019-06-17T20:44:22Z",
-    "wm-id": 627604,
-    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1136536774547726336",
+    "url": "https://twitter.com/freekmurze/status/1194898816958423040",
+    "published": "2019-11-14T08:44:12+00:00",
+    "wm-received": "2019-11-14T09:03:59Z",
+    "wm-id": 724248,
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1194898816958423040",
     "wm-target": "https://sebastiandedeyne.com/why-i-prefer-react-over-vue/",
     "photo": [
-      "https://pbs.twimg.com/media/D8XKKVQU0AIORAG.png"
+      "https://pbs.twimg.com/media/EJUiI39WkAEL3o0.jpg"
     ],
     "content": {
-      "html": "Why I prefer React over Vue <a href=\"https://twitter.com/sebdedeyne\">@sebdedeyne</a><br /><a href=\"https://sebastiandedeyne.com/why-i-prefer-react-over-vue/\">sebastiandedeyne.com/why-i-prefer-r…</a>",
-      "text": "Why I prefer React over Vue @sebdedeyne\nsebastiandedeyne.com/why-i-prefer-r…"
+      "html": "Here are the slides I used yesterday on my talk about the <a href=\"https://twitter.com/flareappio\">@flareappio</a> codebase at <a href=\"https://twitter.com/fullstackbe\">@fullstackbe</a>\n<a href=\"https://speakerdeck.com/freekmurze/highlights-from-the-flare-codebase-full-stack-ghent\">speakerdeck.com/freekmurze/hig…</a>\n\nThere was somebody that asked why we prefer React nowadays at <a href=\"https://twitter.com/spatie_be\">@spatie_be</a> for certain projects. Here's the answer: <a href=\"https://sebastiandedeyne.com/why-i-prefer-react-over-vue/\">sebastiandedeyne.com/why-i-prefer-r…</a>",
+      "text": "Here are the slides I used yesterday on my talk about the @flareappio codebase at @fullstackbe\nspeakerdeck.com/freekmurze/hig…\n\nThere was somebody that asked why we prefer React nowadays at @spatie_be for certain projects. Here's the answer: sebastiandedeyne.com/why-i-prefer-r…"
     },
     "mention-of": "https://sebastiandedeyne.com/why-i-prefer-react-over-vue/",
     "wm-property": "mention-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Rodrigo Pedra Brum",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/55982450d5e4bca205264bfddc8a6d30b988c2f1d04b01b2ff92778a83bab903.jpg",
+      "url": "https://twitter.com/rodrigopedra"
+    },
+    "url": "https://twitter.com/rodrigopedra/status/1195537801091178496",
+    "published": "2019-11-16T03:03:18+00:00",
+    "wm-received": "2019-11-16T03:26:25Z",
+    "wm-id": 724769,
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/freekmurze/1194898816958423040/1195537801091178496",
+    "wm-target": "https://sebastiandedeyne.com/why-i-prefer-react-over-vue/",
+    "content": {
+      "html": "Was it recorded? Really curious to see the demo parts on @flareappio codebase\n<a class=\"u-mention\" href=\"https://freek.dev/\"></a>\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/why-i-prefer-react-over-vue/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/flareappio\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/freekmurze\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/fullstackbe\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/spatie_be\"></a>",
+      "text": "Was it recorded? Really curious to see the demo parts on @flareappio codebase"
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/why-i-prefer-react-over-vue/",
+    "wm-property": "in-reply-to",
     "wm-private": false
   }
 ]

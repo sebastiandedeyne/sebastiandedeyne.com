@@ -3,305 +3,19 @@
     "type": "entry",
     "author": {
       "type": "card",
-      "name": "Wolfgang Werner",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/d34cb0364f6168288a6300d92b051734fc23b06ef9aa3ef6252e216612d81793.png",
-      "url": "https://twitter.com/0xcafebabe"
+      "name": "Chiaki Uehira",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/d37bcde98b800f6841dab07f7ae374d4d03865075918f1fc338b54ddf051fa42.jpg",
+      "url": "https://twitter.com/_uhck"
     },
-    "url": "https://twitter.com/0xcafebabe/status/1192038560209264641",
-    "published": "2019-11-06T11:18:34+00:00",
-    "wm-received": "2019-11-06T11:22:59Z",
-    "wm-id": 721993,
-    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1192038560209264641",
+    "url": "https://twitter.com/_uhck/status/1138422534746005504",
+    "published": "2019-06-11T12:27:37+00:00",
+    "wm-received": "2019-06-17T20:39:28Z",
+    "wm-id": 627592,
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1138422534746005504",
     "wm-target": "https://sebastiandedeyne.com/react-for-vue-developers/",
     "content": {
-      "html": "If you're using <a href=\"https://twitter.com/vuejs\">@vuejs</a> primarily and dabble in react from time to time, you might find this comparision useful. I did.\n\n<a href=\"https://sebastiandedeyne.com/react-for-vue-developers/\">sebastiandedeyne.com/react-for-vue-…</a>",
-      "text": "If you're using @vuejs primarily and dabble in react from time to time, you might find this comparision useful. I did.\n\nsebastiandedeyne.com/react-for-vue-…"
-    },
-    "mention-of": "https://sebastiandedeyne.com/react-for-vue-developers/",
-    "wm-property": "mention-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Daulet Urazalinov",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/cdcf8ce8134db709124217cc0eee1fdeb27b4fa0e68374bd092725c17d01453f.png",
-      "url": "https://twitter.com/Baidaly"
-    },
-    "url": "https://twitter.com/Baidaly/status/1158151158235402240",
-    "published": "2019-08-04T23:02:08+00:00",
-    "wm-received": "2019-08-04T23:04:15Z",
-    "wm-id": 661274,
-    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1158151158235402240",
-    "wm-target": "https://sebastiandedeyne.com/react-for-vue-developers/",
-    "content": {
-      "html": "Found a good article that explains React to Vue devs: <a href=\"https://sebastiandedeyne.com/react-for-vue-developers/\">sebastiandedeyne.com/react-for-vue-…</a>  by <a href=\"https://twitter.com/sebdedeyne\">@sebdedeyne</a>",
-      "text": "Found a good article that explains React to Vue devs: sebastiandedeyne.com/react-for-vue-…  by @sebdedeyne"
-    },
-    "mention-of": "https://sebastiandedeyne.com/react-for-vue-developers/",
-    "wm-property": "mention-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "えんぴつ",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/e22d72552d2afafa5b9e27a72a1d42ccec4896c8c9d53ba05908f32d0b0aefd0.jpg",
-      "url": "https://twitter.com/empitsu0813"
-    },
-    "url": "https://twitter.com/empitsu0813/status/1154598083772076034",
-    "published": "2019-07-26T03:43:29+00:00",
-    "wm-received": "2019-07-26T03:51:09Z",
-    "wm-id": 654814,
-    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1154598083772076034",
-    "wm-target": "https://sebastiandedeyne.com/react-for-vue-developers/",
-    "content": {
-      "html": "みてる\n\n<a href=\"https://sebastiandedeyne.com/react-for-vue-developers/\">sebastiandedeyne.com/react-for-vue-…</a>",
-      "text": "みてる\n\nsebastiandedeyne.com/react-for-vue-…"
-    },
-    "mention-of": "https://sebastiandedeyne.com/react-for-vue-developers/",
-    "wm-property": "mention-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "HsiangHui",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/5d3a7229cea85b181e940954d46bfa6f16898b0262dc34d7086f3b6b406849ad.jpg",
-      "url": "https://twitter.com/hsianghui"
-    },
-    "url": "https://twitter.com/hsianghui/status/1146247954769969157",
-    "published": "2019-07-03T02:43:03+00:00",
-    "wm-received": "2019-07-03T02:59:12Z",
-    "wm-id": 638499,
-    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1146247954769969157",
-    "wm-target": "https://sebastiandedeyne.com/react-for-vue-developers/",
-    "content": {
-      "html": "React for Vue developers <a href=\"https://twitter.com/search?q=%23javascript\">#javascript</a> <a href=\"https://twitter.com/search?q=%23coding\">#coding</a> <a href=\"https://sebastiandedeyne.com/react-for-vue-developers/\">sebastiandedeyne.com/react-for-vue-…</a>",
-      "text": "React for Vue developers #javascript #coding sebastiandedeyne.com/react-for-vue-…"
-    },
-    "mention-of": "https://sebastiandedeyne.com/react-for-vue-developers/",
-    "wm-property": "mention-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "React Tutorial",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/01bbfb7086e9dfffa200b60477243b195f11d3e734f1d399d913736b984ab303.jpg",
-      "url": "https://twitter.com/React_Tutorial"
-    },
-    "url": "https://twitter.com/React_Tutorial/status/1145975223965167616",
-    "published": "2019-07-02T08:39:19+00:00",
-    "wm-received": "2019-07-02T08:50:59Z",
-    "wm-id": 638065,
-    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1145975223965167616",
-    "wm-target": "https://sebastiandedeyne.com/react-for-vue-developers/",
-    "content": {
-      "html": "React for Vue developers. By <a href=\"https://twitter.com/sebdedeyne\">@sebdedeyne</a> <a href=\"http://bit.ly/2Wtvrb6\">bit.ly/2Wtvrb6</a>\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/react-for-vue-developers/\"></a>",
-      "text": "React for Vue developers. By @sebdedeyne bit.ly/2Wtvrb6"
-    },
-    "mention-of": "https://sebastiandedeyne.com/react-for-vue-developers/",
-    "wm-property": "mention-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Geoffroy Begouaussel",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/5cc2010c7504ab049b77e5d17760804ac3cf1c7a6f2dfba92842af6e00c27c5b.jpg",
-      "url": "https://twitter.com/Jeyffrey"
-    },
-    "url": "https://twitter.com/Jeyffrey/status/1143781030383558656",
-    "published": "2019-06-26T07:20:22+00:00",
-    "wm-received": "2019-06-26T07:40:48Z",
-    "wm-id": 633583,
-    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1143781030383558656",
-    "wm-target": "https://sebastiandedeyne.com/react-for-vue-developers/",
-    "content": {
-      "html": "React for Vue developers\n<a href=\"https://sebastiandedeyne.com/react-for-vue-developers/\">sebastiandedeyne.com/react-for-vue-…</a>",
-      "text": "React for Vue developers\nsebastiandedeyne.com/react-for-vue-…"
-    },
-    "mention-of": "https://sebastiandedeyne.com/react-for-vue-developers/",
-    "wm-property": "mention-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "JSMitrah",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/4dde98d30d82f671a133e1048e36211bf4d71f795f222ae18c1f87ac425b6d5b.jpg",
-      "url": "https://twitter.com/jsmitrah"
-    },
-    "url": "https://twitter.com/jsmitrah/status/1142163780484423681",
-    "published": "2019-06-21T20:14:00+00:00",
-    "wm-received": "2019-06-21T20:33:12Z",
-    "wm-id": 630562,
-    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1142163780484423681",
-    "wm-target": "https://sebastiandedeyne.com/react-for-vue-developers/",
-    "content": {
-      "html": "React for <a href=\"https://twitter.com/search?q=%23Vue\">#Vue</a> developers\n<a href=\"https://sebastiandedeyne.com/react-for-vue-developers/\">sebastiandedeyne.com/react-for-vue-…</a>",
-      "text": "React for #Vue developers\nsebastiandedeyne.com/react-for-vue-…"
-    },
-    "mention-of": "https://sebastiandedeyne.com/react-for-vue-developers/",
-    "wm-property": "mention-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Friday Front-End",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/855b6918a24f0b54d1366b6d3ed735bcf41580e64169aeb29872229b6e37b1d1.jpg",
-      "url": "https://twitter.com/fridayfrontend"
-    },
-    "url": "https://twitter.com/fridayfrontend/status/1142115192966406144",
-    "published": "2019-06-21T17:00:56+00:00",
-    "wm-received": "2019-06-21T17:11:07Z",
-    "wm-id": 630482,
-    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1142115192966406144",
-    "wm-target": "https://sebastiandedeyne.com/react-for-vue-developers/",
-    "content": {
-      "html": "React for Vue developers, by <a href=\"https://twitter.com/sebdedeyne\">@sebdedeyne</a> <a href=\"https://sebastiandedeyne.com/react-for-vue-developers/\">sebastiandedeyne.com/react-for-vue-…</a>",
-      "text": "React for Vue developers, by @sebdedeyne sebastiandedeyne.com/react-for-vue-…"
-    },
-    "mention-of": "https://sebastiandedeyne.com/react-for-vue-developers/",
-    "wm-property": "mention-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "React Tutorial",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/01bbfb7086e9dfffa200b60477243b195f11d3e734f1d399d913736b984ab303.jpg",
-      "url": "https://twitter.com/React_Tutorial"
-    },
-    "url": "https://twitter.com/React_Tutorial/status/1141653828154155008",
-    "published": "2019-06-20T10:27:38+00:00",
-    "wm-received": "2019-06-20T12:39:06Z",
-    "wm-id": 629576,
-    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1141653828154155008",
-    "wm-target": "https://sebastiandedeyne.com/react-for-vue-developers/",
-    "content": {
-      "html": "React for Vue developers. By <a href=\"https://twitter.com/sebdedeyne\">@sebdedeyne</a> <a href=\"http://bit.ly/2Wtvrb6\">bit.ly/2Wtvrb6</a>\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/react-for-vue-developers/\"></a>",
-      "text": "React for Vue developers. By @sebdedeyne bit.ly/2Wtvrb6"
-    },
-    "mention-of": "https://sebastiandedeyne.com/react-for-vue-developers/",
-    "wm-property": "mention-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Takepepe",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/1a4be75f815f0b39017229d78b6681494d326ae6b6c1a5ac56b5120d38bf7cdf.jpg",
-      "url": "https://twitter.com/takepepe"
-    },
-    "url": "https://twitter.com/takepepe/status/1138250696967446528",
-    "published": "2019-06-11T01:04:48+00:00",
-    "wm-received": "2019-06-17T20:45:41Z",
-    "wm-id": 627616,
-    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1138250696967446528",
-    "wm-target": "https://sebastiandedeyne.com/react-for-vue-developers/",
-    "content": {
-      "html": "Vue は出来るが、これから React やってみようか、って人に向けてよくまとまってて、雰囲気でわかる。 <a href=\"https://sebastiandedeyne.com/react-for-vue-developers/\">sebastiandedeyne.com/react-for-vue-…</a>",
-      "text": "Vue は出来るが、これから React やってみようか、って人に向けてよくまとまってて、雰囲気でわかる。 sebastiandedeyne.com/react-for-vue-…"
-    },
-    "mention-of": "https://sebastiandedeyne.com/react-for-vue-developers/",
-    "wm-property": "mention-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Nicole C ✨",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/18295aa660f21307db887998038bdc63e5aea743e3754a0431c11ba45d55106c.png",
-      "url": "https://twitter.com/nicocodes"
-    },
-    "url": "https://twitter.com/nicocodes/status/1137902921733951488",
-    "published": "2019-06-10T02:02:52+00:00",
-    "wm-received": "2019-06-17T20:45:33Z",
-    "wm-id": 627615,
-    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1137902921733951488",
-    "wm-target": "https://sebastiandedeyne.com/react-for-vue-developers/",
-    "content": {
-      "html": "React for Vue Developers <a href=\"https://sebastiandedeyne.com/react-for-vue-developers/\">sebastiandedeyne.com/react-for-vue-…</a>",
-      "text": "React for Vue Developers sebastiandedeyne.com/react-for-vue-…"
-    },
-    "mention-of": "https://sebastiandedeyne.com/react-for-vue-developers/",
-    "wm-property": "mention-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Tanner Linsley",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/4fdbc578c0bacebe615f76f701a03a7a82cf6f7561d5bc0ef1e245fd8c4da963.png",
-      "url": "https://twitter.com/tannerlinsley"
-    },
-    "url": "https://twitter.com/tannerlinsley/status/1138115227407437824",
-    "published": "2019-06-10T16:06:30+00:00",
-    "wm-received": "2019-06-17T20:45:32Z",
-    "wm-id": 627614,
-    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1138115227407437824",
-    "wm-target": "https://sebastiandedeyne.com/react-for-vue-developers/",
-    "content": {
-      "html": "While this article's purpose is meant to help Vue devs understand React...<br /><br />\nIt's true purpose should be to convince you that React (JSX hooks, etc) is amazing.<br /><br />\nWhat a fantastic and succinct comparison of the two. I respect Vue, but dang... React is great.<br /><br />\nThanks <a href=\"https://twitter.com/sebdedeyne\">@sebdedeyne</a>!\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/react-for-vue-developers/\"></a>",
-      "text": "While this article's purpose is meant to help Vue devs understand React...\n\n\nIt's true purpose should be to convince you that React (JSX hooks, etc) is amazing.\n\n\nWhat a fantastic and succinct comparison of the two. I respect Vue, but dang... React is great.\n\n\nThanks @sebdedeyne!"
-    },
-    "mention-of": "https://sebastiandedeyne.com/react-for-vue-developers/",
-    "wm-property": "mention-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "piro（ダンディ）",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/06b50b829b21ccef6b5cd6440fe36fc3a6c6c820647b21fa3d17531a97b9dde3.png",
-      "url": "https://twitter.com/piro9190"
-    },
-    "url": "https://twitter.com/piro9190/status/1138304321315958784",
-    "published": "2019-06-11T04:37:53+00:00",
-    "wm-received": "2019-06-17T20:45:12Z",
-    "wm-id": 627611,
-    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1138304321315958784",
-    "wm-target": "https://sebastiandedeyne.com/react-for-vue-developers/",
-    "content": {
-      "html": "<a href=\"https://sebastiandedeyne.com/react-for-vue-developers/\">sebastiandedeyne.com/react-for-vue-…</a><br />\nmemo",
-      "text": "sebastiandedeyne.com/react-for-vue-…\n\nmemo"
-    },
-    "mention-of": "https://sebastiandedeyne.com/react-for-vue-developers/",
-    "wm-property": "mention-of",
-    "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Dan Abramov",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/c5a457cf97ad712589fc4373585c41e717e1f4bdb3d595b27aba4624448b5e2a.png",
-      "url": "https://twitter.com/dan_abramov"
-    },
-    "url": "https://twitter.com/dan_abramov/status/1137987818486083584",
-    "published": "2019-06-10T07:40:13+00:00",
-    "wm-received": "2019-06-17T20:44:15Z",
-    "wm-id": 627601,
-    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1138024895600832513",
-    "wm-target": "https://sebastiandedeyne.com/react-for-vue-developers/",
-    "content": {
-      "html": "If you’re coming to React from Vue, this might be a handy reference to map the concepts! https://t.co/tUiDIOAro8\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/react-for-vue-developers/\"></a>",
-      "text": "If you’re coming to React from Vue, this might be a handy reference to map the concepts! https://t.co/tUiDIOAro8"
+      "html": "<a href=\"https://sebastiandedeyne.com/react-for-vue-developers/\">sebastiandedeyne.com/react-for-vue-…</a>",
+      "text": "sebastiandedeyne.com/react-for-vue-…"
     },
     "mention-of": "https://sebastiandedeyne.com/react-for-vue-developers/",
     "wm-property": "mention-of",
@@ -333,19 +47,305 @@
     "type": "entry",
     "author": {
       "type": "card",
-      "name": "Chiaki Uehira",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/d37bcde98b800f6841dab07f7ae374d4d03865075918f1fc338b54ddf051fa42.jpg",
-      "url": "https://twitter.com/_uhck"
+      "name": "Dan Abramov",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/c5a457cf97ad712589fc4373585c41e717e1f4bdb3d595b27aba4624448b5e2a.png",
+      "url": "https://twitter.com/dan_abramov"
     },
-    "url": "https://twitter.com/_uhck/status/1138422534746005504",
-    "published": "2019-06-11T12:27:37+00:00",
-    "wm-received": "2019-06-17T20:39:28Z",
-    "wm-id": 627592,
-    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1138422534746005504",
+    "url": "https://twitter.com/dan_abramov/status/1137987818486083584",
+    "published": "2019-06-10T07:40:13+00:00",
+    "wm-received": "2019-06-17T20:44:15Z",
+    "wm-id": 627601,
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1138024895600832513",
     "wm-target": "https://sebastiandedeyne.com/react-for-vue-developers/",
     "content": {
-      "html": "<a href=\"https://sebastiandedeyne.com/react-for-vue-developers/\">sebastiandedeyne.com/react-for-vue-…</a>",
-      "text": "sebastiandedeyne.com/react-for-vue-…"
+      "html": "If you’re coming to React from Vue, this might be a handy reference to map the concepts! https://t.co/tUiDIOAro8\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/react-for-vue-developers/\"></a>",
+      "text": "If you’re coming to React from Vue, this might be a handy reference to map the concepts! https://t.co/tUiDIOAro8"
+    },
+    "mention-of": "https://sebastiandedeyne.com/react-for-vue-developers/",
+    "wm-property": "mention-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "piro（ダンディ）",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/06b50b829b21ccef6b5cd6440fe36fc3a6c6c820647b21fa3d17531a97b9dde3.png",
+      "url": "https://twitter.com/piro9190"
+    },
+    "url": "https://twitter.com/piro9190/status/1138304321315958784",
+    "published": "2019-06-11T04:37:53+00:00",
+    "wm-received": "2019-06-17T20:45:12Z",
+    "wm-id": 627611,
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1138304321315958784",
+    "wm-target": "https://sebastiandedeyne.com/react-for-vue-developers/",
+    "content": {
+      "html": "<a href=\"https://sebastiandedeyne.com/react-for-vue-developers/\">sebastiandedeyne.com/react-for-vue-…</a><br />\nmemo",
+      "text": "sebastiandedeyne.com/react-for-vue-…\n\nmemo"
+    },
+    "mention-of": "https://sebastiandedeyne.com/react-for-vue-developers/",
+    "wm-property": "mention-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Tanner Linsley",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/4fdbc578c0bacebe615f76f701a03a7a82cf6f7561d5bc0ef1e245fd8c4da963.png",
+      "url": "https://twitter.com/tannerlinsley"
+    },
+    "url": "https://twitter.com/tannerlinsley/status/1138115227407437824",
+    "published": "2019-06-10T16:06:30+00:00",
+    "wm-received": "2019-06-17T20:45:32Z",
+    "wm-id": 627614,
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1138115227407437824",
+    "wm-target": "https://sebastiandedeyne.com/react-for-vue-developers/",
+    "content": {
+      "html": "While this article's purpose is meant to help Vue devs understand React...<br /><br />\nIt's true purpose should be to convince you that React (JSX hooks, etc) is amazing.<br /><br />\nWhat a fantastic and succinct comparison of the two. I respect Vue, but dang... React is great.<br /><br />\nThanks <a href=\"https://twitter.com/sebdedeyne\">@sebdedeyne</a>!\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/react-for-vue-developers/\"></a>",
+      "text": "While this article's purpose is meant to help Vue devs understand React...\n\n\nIt's true purpose should be to convince you that React (JSX hooks, etc) is amazing.\n\n\nWhat a fantastic and succinct comparison of the two. I respect Vue, but dang... React is great.\n\n\nThanks @sebdedeyne!"
+    },
+    "mention-of": "https://sebastiandedeyne.com/react-for-vue-developers/",
+    "wm-property": "mention-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Nicole C ✨",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/18295aa660f21307db887998038bdc63e5aea743e3754a0431c11ba45d55106c.png",
+      "url": "https://twitter.com/nicocodes"
+    },
+    "url": "https://twitter.com/nicocodes/status/1137902921733951488",
+    "published": "2019-06-10T02:02:52+00:00",
+    "wm-received": "2019-06-17T20:45:33Z",
+    "wm-id": 627615,
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1137902921733951488",
+    "wm-target": "https://sebastiandedeyne.com/react-for-vue-developers/",
+    "content": {
+      "html": "React for Vue Developers <a href=\"https://sebastiandedeyne.com/react-for-vue-developers/\">sebastiandedeyne.com/react-for-vue-…</a>",
+      "text": "React for Vue Developers sebastiandedeyne.com/react-for-vue-…"
+    },
+    "mention-of": "https://sebastiandedeyne.com/react-for-vue-developers/",
+    "wm-property": "mention-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Takepepe",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/1a4be75f815f0b39017229d78b6681494d326ae6b6c1a5ac56b5120d38bf7cdf.jpg",
+      "url": "https://twitter.com/takepepe"
+    },
+    "url": "https://twitter.com/takepepe/status/1138250696967446528",
+    "published": "2019-06-11T01:04:48+00:00",
+    "wm-received": "2019-06-17T20:45:41Z",
+    "wm-id": 627616,
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1138250696967446528",
+    "wm-target": "https://sebastiandedeyne.com/react-for-vue-developers/",
+    "content": {
+      "html": "Vue は出来るが、これから React やってみようか、って人に向けてよくまとまってて、雰囲気でわかる。 <a href=\"https://sebastiandedeyne.com/react-for-vue-developers/\">sebastiandedeyne.com/react-for-vue-…</a>",
+      "text": "Vue は出来るが、これから React やってみようか、って人に向けてよくまとまってて、雰囲気でわかる。 sebastiandedeyne.com/react-for-vue-…"
+    },
+    "mention-of": "https://sebastiandedeyne.com/react-for-vue-developers/",
+    "wm-property": "mention-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "React Tutorial",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/01bbfb7086e9dfffa200b60477243b195f11d3e734f1d399d913736b984ab303.jpg",
+      "url": "https://twitter.com/React_Tutorial"
+    },
+    "url": "https://twitter.com/React_Tutorial/status/1141653828154155008",
+    "published": "2019-06-20T10:27:38+00:00",
+    "wm-received": "2019-06-20T12:39:06Z",
+    "wm-id": 629576,
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1141653828154155008",
+    "wm-target": "https://sebastiandedeyne.com/react-for-vue-developers/",
+    "content": {
+      "html": "React for Vue developers. By <a href=\"https://twitter.com/sebdedeyne\">@sebdedeyne</a> <a href=\"http://bit.ly/2Wtvrb6\">bit.ly/2Wtvrb6</a>\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/react-for-vue-developers/\"></a>",
+      "text": "React for Vue developers. By @sebdedeyne bit.ly/2Wtvrb6"
+    },
+    "mention-of": "https://sebastiandedeyne.com/react-for-vue-developers/",
+    "wm-property": "mention-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Friday Front-End",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/855b6918a24f0b54d1366b6d3ed735bcf41580e64169aeb29872229b6e37b1d1.jpg",
+      "url": "https://twitter.com/fridayfrontend"
+    },
+    "url": "https://twitter.com/fridayfrontend/status/1142115192966406144",
+    "published": "2019-06-21T17:00:56+00:00",
+    "wm-received": "2019-06-21T17:11:07Z",
+    "wm-id": 630482,
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1142115192966406144",
+    "wm-target": "https://sebastiandedeyne.com/react-for-vue-developers/",
+    "content": {
+      "html": "React for Vue developers, by <a href=\"https://twitter.com/sebdedeyne\">@sebdedeyne</a> <a href=\"https://sebastiandedeyne.com/react-for-vue-developers/\">sebastiandedeyne.com/react-for-vue-…</a>",
+      "text": "React for Vue developers, by @sebdedeyne sebastiandedeyne.com/react-for-vue-…"
+    },
+    "mention-of": "https://sebastiandedeyne.com/react-for-vue-developers/",
+    "wm-property": "mention-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "JSMitrah",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/4dde98d30d82f671a133e1048e36211bf4d71f795f222ae18c1f87ac425b6d5b.jpg",
+      "url": "https://twitter.com/jsmitrah"
+    },
+    "url": "https://twitter.com/jsmitrah/status/1142163780484423681",
+    "published": "2019-06-21T20:14:00+00:00",
+    "wm-received": "2019-06-21T20:33:12Z",
+    "wm-id": 630562,
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1142163780484423681",
+    "wm-target": "https://sebastiandedeyne.com/react-for-vue-developers/",
+    "content": {
+      "html": "React for <a href=\"https://twitter.com/search?q=%23Vue\">#Vue</a> developers\n<a href=\"https://sebastiandedeyne.com/react-for-vue-developers/\">sebastiandedeyne.com/react-for-vue-…</a>",
+      "text": "React for #Vue developers\nsebastiandedeyne.com/react-for-vue-…"
+    },
+    "mention-of": "https://sebastiandedeyne.com/react-for-vue-developers/",
+    "wm-property": "mention-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Geoffroy Begouaussel",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/5cc2010c7504ab049b77e5d17760804ac3cf1c7a6f2dfba92842af6e00c27c5b.jpg",
+      "url": "https://twitter.com/Jeyffrey"
+    },
+    "url": "https://twitter.com/Jeyffrey/status/1143781030383558656",
+    "published": "2019-06-26T07:20:22+00:00",
+    "wm-received": "2019-06-26T07:40:48Z",
+    "wm-id": 633583,
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1143781030383558656",
+    "wm-target": "https://sebastiandedeyne.com/react-for-vue-developers/",
+    "content": {
+      "html": "React for Vue developers\n<a href=\"https://sebastiandedeyne.com/react-for-vue-developers/\">sebastiandedeyne.com/react-for-vue-…</a>",
+      "text": "React for Vue developers\nsebastiandedeyne.com/react-for-vue-…"
+    },
+    "mention-of": "https://sebastiandedeyne.com/react-for-vue-developers/",
+    "wm-property": "mention-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "React Tutorial",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/01bbfb7086e9dfffa200b60477243b195f11d3e734f1d399d913736b984ab303.jpg",
+      "url": "https://twitter.com/React_Tutorial"
+    },
+    "url": "https://twitter.com/React_Tutorial/status/1145975223965167616",
+    "published": "2019-07-02T08:39:19+00:00",
+    "wm-received": "2019-07-02T08:50:59Z",
+    "wm-id": 638065,
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1145975223965167616",
+    "wm-target": "https://sebastiandedeyne.com/react-for-vue-developers/",
+    "content": {
+      "html": "React for Vue developers. By <a href=\"https://twitter.com/sebdedeyne\">@sebdedeyne</a> <a href=\"http://bit.ly/2Wtvrb6\">bit.ly/2Wtvrb6</a>\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/react-for-vue-developers/\"></a>",
+      "text": "React for Vue developers. By @sebdedeyne bit.ly/2Wtvrb6"
+    },
+    "mention-of": "https://sebastiandedeyne.com/react-for-vue-developers/",
+    "wm-property": "mention-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "HsiangHui",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/5d3a7229cea85b181e940954d46bfa6f16898b0262dc34d7086f3b6b406849ad.jpg",
+      "url": "https://twitter.com/hsianghui"
+    },
+    "url": "https://twitter.com/hsianghui/status/1146247954769969157",
+    "published": "2019-07-03T02:43:03+00:00",
+    "wm-received": "2019-07-03T02:59:12Z",
+    "wm-id": 638499,
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1146247954769969157",
+    "wm-target": "https://sebastiandedeyne.com/react-for-vue-developers/",
+    "content": {
+      "html": "React for Vue developers <a href=\"https://twitter.com/search?q=%23javascript\">#javascript</a> <a href=\"https://twitter.com/search?q=%23coding\">#coding</a> <a href=\"https://sebastiandedeyne.com/react-for-vue-developers/\">sebastiandedeyne.com/react-for-vue-…</a>",
+      "text": "React for Vue developers #javascript #coding sebastiandedeyne.com/react-for-vue-…"
+    },
+    "mention-of": "https://sebastiandedeyne.com/react-for-vue-developers/",
+    "wm-property": "mention-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "えんぴつ",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/e22d72552d2afafa5b9e27a72a1d42ccec4896c8c9d53ba05908f32d0b0aefd0.jpg",
+      "url": "https://twitter.com/empitsu0813"
+    },
+    "url": "https://twitter.com/empitsu0813/status/1154598083772076034",
+    "published": "2019-07-26T03:43:29+00:00",
+    "wm-received": "2019-07-26T03:51:09Z",
+    "wm-id": 654814,
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1154598083772076034",
+    "wm-target": "https://sebastiandedeyne.com/react-for-vue-developers/",
+    "content": {
+      "html": "みてる\n\n<a href=\"https://sebastiandedeyne.com/react-for-vue-developers/\">sebastiandedeyne.com/react-for-vue-…</a>",
+      "text": "みてる\n\nsebastiandedeyne.com/react-for-vue-…"
+    },
+    "mention-of": "https://sebastiandedeyne.com/react-for-vue-developers/",
+    "wm-property": "mention-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Daulet Urazalinov",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/cdcf8ce8134db709124217cc0eee1fdeb27b4fa0e68374bd092725c17d01453f.png",
+      "url": "https://twitter.com/Baidaly"
+    },
+    "url": "https://twitter.com/Baidaly/status/1158151158235402240",
+    "published": "2019-08-04T23:02:08+00:00",
+    "wm-received": "2019-08-04T23:04:15Z",
+    "wm-id": 661274,
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1158151158235402240",
+    "wm-target": "https://sebastiandedeyne.com/react-for-vue-developers/",
+    "content": {
+      "html": "Found a good article that explains React to Vue devs: <a href=\"https://sebastiandedeyne.com/react-for-vue-developers/\">sebastiandedeyne.com/react-for-vue-…</a>  by <a href=\"https://twitter.com/sebdedeyne\">@sebdedeyne</a>",
+      "text": "Found a good article that explains React to Vue devs: sebastiandedeyne.com/react-for-vue-…  by @sebdedeyne"
+    },
+    "mention-of": "https://sebastiandedeyne.com/react-for-vue-developers/",
+    "wm-property": "mention-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Wolfgang Werner",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/d34cb0364f6168288a6300d92b051734fc23b06ef9aa3ef6252e216612d81793.png",
+      "url": "https://twitter.com/0xcafebabe"
+    },
+    "url": "https://twitter.com/0xcafebabe/status/1192038560209264641",
+    "published": "2019-11-06T11:18:34+00:00",
+    "wm-received": "2019-11-06T11:22:59Z",
+    "wm-id": 721993,
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1192038560209264641",
+    "wm-target": "https://sebastiandedeyne.com/react-for-vue-developers/",
+    "content": {
+      "html": "If you're using <a href=\"https://twitter.com/vuejs\">@vuejs</a> primarily and dabble in react from time to time, you might find this comparision useful. I did.\n\n<a href=\"https://sebastiandedeyne.com/react-for-vue-developers/\">sebastiandedeyne.com/react-for-vue-…</a>",
+      "text": "If you're using @vuejs primarily and dabble in react from time to time, you might find this comparision useful. I did.\n\nsebastiandedeyne.com/react-for-vue-…"
     },
     "mention-of": "https://sebastiandedeyne.com/react-for-vue-developers/",
     "wm-property": "mention-of",
