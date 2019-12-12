@@ -464,5 +464,45 @@
     "repost-of": "https://sebastiandedeyne.com/strawberry-jelly/",
     "wm-property": "repost-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Lynnell Neri",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/49b5860e31087c5662b7ae68d8ce8f91c9da82f347e648691f9aa4527c7f04fb.jpg",
+      "url": "https://twitter.com/lynnellneri"
+    },
+    "url": "https://twitter.com/lynnellneri/status/1205054533555998720",
+    "published": "2019-12-12T09:19:24+00:00",
+    "wm-received": "2019-12-12T09:44:29Z",
+    "wm-id": 733258,
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1205054533555998720",
+    "wm-target": "https://sebastiandedeyne.com/strawberry-jelly/",
+    "content": {
+      "html": "😲 Don't install dependencies when they're an easy solution, install them when they're a better solution.\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/strawberry-jelly/\"></a>",
+      "text": "😲 Don't install dependencies when they're an easy solution, install them when they're a better solution."
+    },
+    "mention-of": "https://sebastiandedeyne.com/strawberry-jelly/",
+    "wm-property": "mention-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Lynnell Neri",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/49b5860e31087c5662b7ae68d8ce8f91c9da82f347e648691f9aa4527c7f04fb.jpg",
+      "url": "https://twitter.com/lynnellneri"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1205034508975779840#favorited-by-1110927469379346434",
+    "published": null,
+    "wm-received": "2019-12-12T09:44:32Z",
+    "wm-id": 733259,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1205034508975779840/1110927469379346434",
+    "wm-target": "https://sebastiandedeyne.com/strawberry-jelly/",
+    "like-of": "https://sebastiandedeyne.com/strawberry-jelly/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
