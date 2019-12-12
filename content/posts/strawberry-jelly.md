@@ -20,4 +20,4 @@ Before you `npm install strawberry-jelly`, consider making your own. Having an e
 
 Making jelly is a worthy tradeoff because it's fast and easy to make, and substantially better than the alternative.
 
-I'm not askying anyone to stop installing dependencies altogether, but to think twice before adding an external helpers or toolboxes. Don't install dependencies when they're an easy solution, install them when they're a better solution.
+I'm not asking anyone to stop installing dependencies altogether, but to think twice before adding an external helpers or toolboxes. Don't install dependencies when they're an easy solution, install them when they're a better solution.
