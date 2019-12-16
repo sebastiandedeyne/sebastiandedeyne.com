@@ -2,7 +2,7 @@
 command = "hugo --minify"
 publish = "public"
 
-[environment]
+[build.environment]
 HUGO_VERSION = "0.61.0"
 HUGO_ENV = "production"
 
