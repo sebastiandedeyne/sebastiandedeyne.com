@@ -1,7 +1,10 @@
 [build]
 command = "hugo --minify"
 publish = "public"
-environment = { HUGO_VERSION = "0.60.0", HUGO_ENV = "production" }
+
+[environment]
+HUGO_VERSION = "0.61.0"
+HUGO_ENV = "production"
 
 [[redirects]]
 from = "/2016/:post"
