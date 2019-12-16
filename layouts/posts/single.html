@@ -1,3 +1,11 @@
+{{ define "meta" }}
+  <meta property="og:title" content="{{ .Title }}" />
+  <meta property="og:type" content="article" />
+  <meta property="og:locale" content="en_US" />
+  <meta property="og:url" content="{{ .Permalink }}" />
+  <meta property="og:image" content="/media/me.jpg" />
+{{ end }}
+
 {{ define "main" }}
 <article class="mb-12 sm:mb-24">
   <header>
