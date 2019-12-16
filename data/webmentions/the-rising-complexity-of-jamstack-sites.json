@@ -16,5 +16,23 @@
     "like-of": "https://sebastiandedeyne.com/the-rising-complexity-of-jamstack-sites/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Mike Riethmuller",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/a22e7c267710cc596e1b1980734370e82843a6514956d56c4ced9a5b1fd443c3.jpg",
+      "url": "https://twitter.com/MikeRiethmuller"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1206594367445766144#favorited-by-889737980",
+    "published": null,
+    "wm-received": "2019-12-16T20:35:44Z",
+    "wm-id": 735050,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1206594367445766144/889737980",
+    "wm-target": "https://sebastiandedeyne.com/the-rising-complexity-of-jamstack-sites/",
+    "like-of": "https://sebastiandedeyne.com/the-rising-complexity-of-jamstack-sites/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
