@@ -17,4 +17,8 @@ Two weeks ago I shared my [thoughts and doubts about the JAMstack](https://sebas
 
 Mike continues with a thoughtful analysis of the current state of the JAMstack, and intrudoces the idea of a "JAMstack Plus", essentially bringing the best parts of JAMstack and monoliths together.
 
+> I don’t think JAMstack should defined by pushing all the complexity into the front-end build process or by compromising on developer and user experience. Instead, I think JAMstack should focus on providing lean, configurable static front-ends.
+
+That said, lean and configurable static front-ends are kind of a niche requirement in my world. While the JAMstack is a great tool in this space, I do believe it's in a hype phase.
+
 Read the *"The Rising Complexity of JAMstack Sites and How to Manage Them"* on [CSS-Tricks](https://css-tricks.com/the-rising-complexity-of-jamstack-sites-and-how-to-manage-them/).
