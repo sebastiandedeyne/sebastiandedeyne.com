@@ -1,0 +1,20 @@
+[
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "이현석 Hyunseok Lee",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/68e1e089a80ebf1e3b6c21662fa9f882c9c185c7fe7050a71d12010f68fdafcb.jpg",
+      "url": "https://twitter.com/smartbosslee"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1206594367445766144#favorited-by-12341932",
+    "published": null,
+    "wm-received": "2019-12-16T18:38:45Z",
+    "wm-id": 735023,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1206594367445766144/12341932",
+    "wm-target": "https://sebastiandedeyne.com/the-rising-complexity-of-jamstack-sites/",
+    "like-of": "https://sebastiandedeyne.com/the-rising-complexity-of-jamstack-sites/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+]
