@@ -1,43 +1,41 @@
 {{ define "main" }}
+  {{ $paginator := .Paginate (where $.Site.RegularPages "Section" "posts") }}
 
-{{ $paginator := .Paginate (where $.Site.RegularPages "Section" "posts") }}
-
-{{ range $paginator.Pages }}
-  <article>
-    <header>
-      <h1 class="h1 mb-1">
-        <a href="{{ .RelPermalink }}">
-          {{ .Title }}
-        </a>
-      </h1>
-      <p class="text-sm text-gray-600 mb-8">
+  {{ range $paginator.Pages }}
+    <article>
+      <header>
+        <h1 class="h1 mb-1">
           <a href="{{ .RelPermalink }}">
-            <time datetime="{{ .Date.Format "2006-01-02" }}">
-              {{ .Date.Format "January 2, 2006" }}
-            </time>
-            {{ if (in .Params.categories "articles") }}
-              {{ $readingtime := div (.Content | countwords) 200 }}
-              | {{ cond (lt $readingtime 1) 1 $readingtime }} min read
-            {{ end }}
+            {{ .Title }}
           </a>
-      </p>
-    </header>
-    <section class="markup">
-      {{ if .Truncated }}
-        {{ .Summary }}
-        <p>
-          <a href="{{ .RelPermalink }}">
-            Read more
-          </a>
+        </h1>
+        <p class="text-sm text-gray-600 mb-8">
+            <a href="{{ .RelPermalink }}">
+              <time datetime="{{ .Date.Format "2006-01-02" }}">
+                {{ .Date.Format "January 2, 2006" }}
+              </time>
+              {{ if (in .Params.categories "articles") }}
+                {{ $readingtime := div (.Content | countwords) 200 }}
+                | {{ cond (lt $readingtime 1) 1 $readingtime }} min read
+              {{ end }}
+            </a>
         </p>
-      {{ else }}
-        {{ .Content }}
-      {{ end }}
-    </section>
-  </article>
-  <hr>
-{{ end }}
+      </header>
+      <section class="markup">
+        {{ if .Truncated }}
+          {{ .Summary }}
+          <p>
+            <a href="{{ .RelPermalink }}">
+              Read more
+            </a>
+          </p>
+        {{ else }}
+          {{ .Content }}
+        {{ end }}
+      </section>
+    </article>
+    <hr>
+  {{ end }}
 
-{{ template "_internal/pagination.html" . }}
-
+  {{ template "_internal/pagination.html" . }}
 {{ end }}

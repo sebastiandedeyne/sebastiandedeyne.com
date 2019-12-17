@@ -72,42 +72,44 @@
       </nav>
     </header>
 
-    <div class="flex flex-col md:flex-row w-full max-w-4xl mx-auto px-6 sm:px-12 lg:px-16">
-      <main class="flex-1 min-w-0">
-        {{ block "main" . }}{{ end }}
-      </main>
-      <nav id="sidebar" class="md:w-1/4 md:ml-20 mt-1 md:mb-12">
-        <div class="md:border-l border-t md:border-t-0 dark:border-gray-800 md:pl-8 sm:mt-8 md:mt-0 pb-16 md:py-1 md:text-xs leading-normal markup">
-          <h2 class="md:hidden">Sidebar</h2>
-          <h3 class="md:text-xs mt-0 mb-1">About</h3>
-          <p>I'm a web designer & web developer. I live in Ghent (Belgium), and work at <a href="https://spatie.be">Spatie</a> (Antwerp).</p>
-          <p><a href="/now">What I'm up to now</a></p>
-          <h3 class="md:text-xs mt-8 mb-1">More</h3>
-          <ul class="list-none p-0">
-            <li><a href="/about">About</a></li>
-            <li><a href="/open-source">Open source</a></li>
-            <li><a href="/archive">Archive / Search</a></li>
-          </ul>
-          <h3 class="md:text-xs mt-8 mb-1">Blogroll</h3>
-          <ul class="list-none p-0">
-            <li><a href="https://adamwathan.me/" target="_blank" rel="noopener">adamwathan.me</a></li>
-            <li><a href="https://www.bram.us/" target="_blank" rel="noopener">bram.us</a></li>
-            <li><a href="https://daringfireball.net/" target="_blank" rel="noopener">daringfireball.net</a></li>
-            <li><a href="https://ericlbarnes.com/" target="_blank" rel="noopener">ericlbarnes.com</a></li>
-            <li><a href="https://freek.dev/" target="_blank" rel="noopener">freek.dev</a></li>
-            <li><a href="https://gomakethings.com/" target="_blank" rel="noopener">gomakethings.com</a></li>
-            <li><a href="https://hiddedevries.nl/en/blog/" target="_blank" rel="noopener">hiddedevries.nl</a></li>
-            <li><a href="https://johanronsse.be/" target="_blank" rel="noopener">johanronsse.be</a></li>
-            <li><a href="https://overreacted.io/" target="_blank" rel="noopener">overreacted.io</a></li>
-            <li><a href="https://sivers.org/" target="_blank" rel="noopener">sivers.org</a></li>
-            <li><a href="https://www.sketchplanations.com/" target="_blank" rel="noopener">sketchplanations.com</a></li>
-            <li><a href="https://stitcher.io/" target="_blank" rel="noopener">stitcher.io</a></li>
-            <li><a href="https://waitbutwhy.com/" target="_blank" rel="noopener">waitbutwhy.com</a></li>
-          </ul>
-          <h3 class="md:text-xs mt-8 mb-1">Colophon</h3>
-          <p>This site is built with <a href="https://gohugo.io/">Hugo</a> and hosted on <a href="https://netlify.com/">Netlify</a>. You can inspect the source on <a href="https://github.com/sebastiandedeyne/sebastiandedeyne.com">GitHub</a>.</p>
-        </div>
-      </nav>
+    <div class="w-full max-w-4xl mx-auto px-6 sm:px-12 lg:px-16">
+      <div class="flex flex-col md:flex-row w-full">
+        <main class="flex-1 min-w-0">
+          {{ block "main" . }}{{ end }}
+        </main>
+        <nav id="sidebar" class="md:w-1/4 md:ml-20 mt-1 md:mb-12">
+          <div class="md:border-l border-t md:border-t-0 dark:border-gray-800 md:pl-8 sm:mt-8 md:mt-0 pb-16 md:py-1 md:text-xs leading-normal markup">
+            <h2 class="md:hidden">Sidebar</h2>
+            <h3 class="md:text-xs mt-0 mb-1">About</h3>
+            <p>I'm a web designer & web developer. I live in Ghent (Belgium), and work at <a href="https://spatie.be">Spatie</a> (Antwerp).</p>
+            <p><a href="/now">What I'm up to now</a></p>
+            <h3 class="md:text-xs mt-8 mb-1">More</h3>
+            <ul class="list-none p-0">
+              <li><a href="/about">About</a></li>
+              <li><a href="/open-source">Open source</a></li>
+              <li><a href="/archive">Archive / Search</a></li>
+            </ul>
+            <h3 class="md:text-xs mt-8 mb-1">Blogroll</h3>
+            <ul class="list-none p-0">
+              <li><a href="https://adamwathan.me/" target="_blank" rel="noopener">adamwathan.me</a></li>
+              <li><a href="https://www.bram.us/" target="_blank" rel="noopener">bram.us</a></li>
+              <li><a href="https://daringfireball.net/" target="_blank" rel="noopener">daringfireball.net</a></li>
+              <li><a href="https://ericlbarnes.com/" target="_blank" rel="noopener">ericlbarnes.com</a></li>
+              <li><a href="https://freek.dev/" target="_blank" rel="noopener">freek.dev</a></li>
+              <li><a href="https://gomakethings.com/" target="_blank" rel="noopener">gomakethings.com</a></li>
+              <li><a href="https://hiddedevries.nl/en/blog/" target="_blank" rel="noopener">hiddedevries.nl</a></li>
+              <li><a href="https://johanronsse.be/" target="_blank" rel="noopener">johanronsse.be</a></li>
+              <li><a href="https://overreacted.io/" target="_blank" rel="noopener">overreacted.io</a></li>
+              <li><a href="https://sivers.org/" target="_blank" rel="noopener">sivers.org</a></li>
+              <li><a href="https://www.sketchplanations.com/" target="_blank" rel="noopener">sketchplanations.com</a></li>
+              <li><a href="https://stitcher.io/" target="_blank" rel="noopener">stitcher.io</a></li>
+              <li><a href="https://waitbutwhy.com/" target="_blank" rel="noopener">waitbutwhy.com</a></li>
+            </ul>
+            <h3 class="md:text-xs mt-8 mb-1">Colophon</h3>
+            <p>This site is built with <a href="https://gohugo.io/">Hugo</a> and hosted on <a href="https://netlify.com/">Netlify</a>. You can inspect the source on <a href="https://github.com/sebastiandedeyne/sebastiandedeyne.com">GitHub</a>.</p>
+          </div>
+        </nav>
+      </div>
     </div>
 
     {{ with resources.Get "css/chroma.css" | minify }}
