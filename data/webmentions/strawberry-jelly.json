@@ -504,5 +504,23 @@
     "like-of": "https://sebastiandedeyne.com/strawberry-jelly/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Huy Phan",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/3749135b00fb69704a54e38008ffed79ad35b45de177f43af9d456e0874cb9e5.jpg",
+      "url": "https://twitter.com/tuzebra"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1204043730942083074#favorited-by-26658706",
+    "published": null,
+    "wm-received": "2019-12-17T17:10:38Z",
+    "wm-id": 735396,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1204043730942083074/26658706",
+    "wm-target": "https://sebastiandedeyne.com/strawberry-jelly/",
+    "like-of": "https://sebastiandedeyne.com/strawberry-jelly/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
