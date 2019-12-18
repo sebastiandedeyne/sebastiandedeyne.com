@@ -1164,5 +1164,27 @@
     "mention-of": "https://sebastiandedeyne.com/forget-about-component-lifecycles-and-start-thinking-in-effects/",
     "wm-property": "mention-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Caleb Porzio",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/9c549798360f6e394c6d6558014099bcb01afa6eee5a8dd79527fd6e615d0f6f.jpg",
+      "url": "https://twitter.com/calebporzio"
+    },
+    "url": "https://twitter.com/calebporzio/status/1207301577163325440",
+    "published": "2019-12-18T14:08:21+00:00",
+    "wm-received": "2019-12-18T14:15:59Z",
+    "wm-id": 735733,
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1207301577163325440",
+    "wm-target": "https://sebastiandedeyne.com/forget-about-component-lifecycles-and-start-thinking-in-effects/",
+    "content": {
+      "html": "I was having a hard time understanding React's useEffect hook on the last <a href=\"https://twitter.com/noplanstomerge\">@noplanstomerge</a> episode.\n\n<a href=\"https://twitter.com/sebdedeyne\">@sebdedeyne</a> pointed me towards an article he wrote on the matter.\n\nCleared things up perfectly. Check it out if you're confused too.\n\n<a href=\"https://sebastiandedeyne.com/forget-about-component-lifecycles-and-start-thinking-in-effects/\">sebastiandedeyne.com/forget-about-c…</a>",
+      "text": "I was having a hard time understanding React's useEffect hook on the last @noplanstomerge episode.\n\n@sebdedeyne pointed me towards an article he wrote on the matter.\n\nCleared things up perfectly. Check it out if you're confused too.\n\nsebastiandedeyne.com/forget-about-c…"
+    },
+    "mention-of": "https://sebastiandedeyne.com/forget-about-component-lifecycles-and-start-thinking-in-effects/",
+    "wm-property": "mention-of",
+    "wm-private": false
   }
 ]
