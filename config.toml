@@ -10,7 +10,7 @@ enableGitInfo = true
   category = "categories"
 
 [permalinks]
-  posts = "/:filename"
+  posts = "/:slug"
   categories = "/:title"
 
 [author]

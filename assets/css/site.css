@@ -73,6 +73,10 @@ hr {
   @apply mb-6;
 }
 
+.markup-tight > *:not(:last-child) {
+  @apply mb-2;
+}
+
 .h1,
 .markup h1 {
   @apply text-2xl font-bold leading-tight mb-12;
@@ -250,6 +254,24 @@ hr {
 
 .markup iframe {
   width: 100%;
+}
+
+/******************************************************************************\
+ * TOC                                                                        *
+\******************************************************************************/
+
+.toc-list {
+  @apply list-decimal list-inside;
+  font-variant: tabular-nums;
+}
+
+.toc-list span {
+  @apply relative;
+  left: 0.5rem;
+}
+
+.toc-list a {
+  @apply underline;
 }
 
 /******************************************************************************\

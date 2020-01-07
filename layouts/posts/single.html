@@ -58,6 +58,13 @@
       </div>
     {{ end }}
   </section>
+  {{ if .Params.series }}
+    {{ with index $.Site.Data.series .Params.series }}
+      <div id="series" class="pt-8">
+        {{ partial "series.html" (dict "series" . "currentSlug" $.Page.Slug) }}
+      </div>
+    {{ end }}
+  {{ end }}
 </article>
 
 {{ $related := .Site.RegularPages.Related . | first 3 }}

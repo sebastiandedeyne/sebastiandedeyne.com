@@ -1,0 +1,25 @@
+<section class="bg-gray-900 text-white leading-snug p-12">
+  <p class="font-medium mb-1 text-lg">JavaScript Framework Diet</p>
+  <div class="markup markup-tight | mb-12 text-gray-400 text-xs">
+    {{ .series.description | markdownify }}
+  </div>
+  <ol class="toc-list | text-sm">
+    {{ range .series.posts }}
+        {{ if .slug }}
+            <li>
+                <span>
+                    {{ if eq .slug $.currentSlug }}
+                        {{ .title }}
+                    {{ else }}
+                        <a href="{{ .slug | relURL }}">{{ .title }}</a>
+                    {{ end }}
+                </span>
+            </li>
+        {{ else }}
+            <li class="text-gray-600">
+                <span>{{ .title }}</span>
+            </li>
+        {{ end }}
+    {{ end }}
+  </ol>
+</section>
