@@ -1,5 +1,5 @@
 ---
-title: "What are the React team principles"
+title: "What are the React team principles?"
 date: 2020-01-08
 categories: ["links"]
 keywords:
