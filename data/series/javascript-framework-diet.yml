@@ -13,7 +13,7 @@ posts:
   - title: DOM basics (part 2)
     slug: javascript-framework-diet/dom-basics-part-2
   - title: Event delegation
-  - title: Transitions
+    slug: javascript-framework-diet/event-delegation
   - title: Dropdowns
-  - title: Modals (part 1)
-  - title: Modals (part 2)
+  - title: Transitions
+  - title: More under development
