@@ -350,5 +350,23 @@
     "mention-of": "https://sebastiandedeyne.com/react-for-vue-developers/",
     "wm-property": "mention-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Antonio",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/5c12fb3238754f51124798e9f2a3df17bd4e0027869a1ed21dfd391aadf74871.jpg",
+      "url": "https://twitter.com/antoniogarcia78"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1219574593553358848#favorited-by-15652562",
+    "published": null,
+    "wm-received": "2020-01-21T18:53:03Z",
+    "wm-id": 746866,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1219574593553358848/15652562",
+    "wm-target": "https://sebastiandedeyne.com/react-for-vue-developers/",
+    "like-of": "https://sebastiandedeyne.com/react-for-vue-developers/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]

@@ -1691,5 +1691,27 @@
     "like-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Davide Bellini",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/2abca2e96ce5efb139c2cd1a7bf6ff4256ded70fb0073bb915dae8e8d9b4d997.jpg",
+      "url": "https://twitter.com/billmn"
+    },
+    "url": "https://twitter.com/billmn/status/1219633736498798592",
+    "published": "2020-01-21T14:51:57+00:00",
+    "wm-received": "2020-01-21T18:52:24Z",
+    "wm-id": 746861,
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1219633736498798592",
+    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "content": {
+      "html": "<a href=\"https://twitter.com/sebdedeyne\">@sebdedeyne</a> in your article <a href=\"https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/\">sebastiandedeyne.com/handling-autho…</a> there is a broken link to \"handling routes in a Laravel and Inertia app\" ... this is the right one: <a href=\"https://sebastiandedeyne.com/handling-routes-in-a-laravel-and-inertia-app/\">sebastiandedeyne.com/handling-route…</a> 😉",
+      "text": "@sebdedeyne in your article sebastiandedeyne.com/handling-autho… there is a broken link to \"handling routes in a Laravel and Inertia app\" ... this is the right one: sebastiandedeyne.com/handling-route… 😉"
+    },
+    "mention-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "wm-property": "mention-of",
+    "wm-private": false
   }
 ]
