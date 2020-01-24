@@ -256,6 +256,19 @@ hr {
   width: 100%;
 }
 
+.markup table {
+  @apply w-full;
+  font-variant-numeric: tabular-nums;
+}
+
+.markup th {
+  @apply text-xs pb-1 font-normal text-gray-600 border-b-2;
+}
+
+.markup td {
+  @apply text-sm py-2 border-b;
+}
+
 /******************************************************************************\
  * TOC                                                                        *
 \******************************************************************************/
