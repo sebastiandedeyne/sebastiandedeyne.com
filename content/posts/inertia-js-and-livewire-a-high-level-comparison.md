@@ -1,5 +1,6 @@
 ---
 title: "Inertia.js and Livewire: a high level comparison"
+slug: inertia-js-and-livewire-a-high-level-comparison
 date: 2019-09-26
 categories: ["articles"]
 keywords:
