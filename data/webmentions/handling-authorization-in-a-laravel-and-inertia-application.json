@@ -225,9 +225,7 @@
     "wm-id": 721715,
     "wm-source": "https://brid-gy.appspot.com/comment/twitter/sebdedeyne/1191648160671784960/1191668137990787072",
     "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
-    "photo": [
-      "https://pbs.twimg.com/media/EImn2vyW4AAuyvn.jpg"
-    ],
+    "photo": ["https://pbs.twimg.com/media/EImn2vyW4AAuyvn.jpg"],
     "content": {
       "html": "The styling is a little bit wonky on my Android.\nGreat article!\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/inertiajs\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/laravelphp\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/sebdedeyne\"></a>",
       "text": "The styling is a little bit wonky on my Android.\nGreat article!"
@@ -1707,7 +1705,7 @@
     "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1219633736498798592",
     "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
     "content": {
-      "html": "<a href=\"https://twitter.com/sebdedeyne\">@sebdedeyne</a> in your article <a href=\"https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/\">sebastiandedeyne.com/handling-autho…</a> there is a broken link to \"handling routes in a Laravel and Inertia app\" ... this is the right one: <a href=\"https://sebastiandedeyne.com/handling-routes-in-a-laravel-and-inertia-app/\">sebastiandedeyne.com/handling-route…</a> 😉",
+      "html": "<a href=\"https://twitter.com/sebdedeyne\">@sebdedeyne</a> in your article <a href=\"https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/\">sebastiandedeyne.com/handling-autho…</a> there is a broken link to \"handling routes in a Laravel and Inertia app\" ... this is the right one: <a href=\"https://sebastiandedeyne.com/handling-routes-in-a-laravel-inertia-application/\">sebastiandedeyne.com/handling-route…</a> 😉",
       "text": "@sebdedeyne in your article sebastiandedeyne.com/handling-autho… there is a broken link to \"handling routes in a Laravel and Inertia app\" ... this is the right one: sebastiandedeyne.com/handling-route… 😉"
     },
     "mention-of": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
