@@ -597,5 +597,45 @@
     "like-of": "https://sebastiandedeyne.com/strawberry-jelly/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Caneco",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/5d70063e6ec7e863e8b4dec26cfb4eaa51b561e97f73dd0096f60f05647bfb98.jpg",
+      "url": "https://twitter.com/Caneco"
+    },
+    "url": "https://twitter.com/Caneco/status/1222806775667339264",
+    "published": "2020-01-30T09:00:28+00:00",
+    "wm-received": "2020-01-30T09:24:18Z",
+    "wm-id": 749935,
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/sebdedeyne/1222806288670887936/1222806775667339264",
+    "wm-target": "https://sebastiandedeyne.com/strawberry-jelly/",
+    "content": {
+      "html": "\"External libraries are like strawberry jelly.\" 🍓\n\nLoved it!!1 🤣\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/LiamHammett\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/sebdedeyne\"></a>",
+      "text": "\"External libraries are like strawberry jelly.\" 🍓\n\nLoved it!!1 🤣"
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/strawberry-jelly/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "றதீஸ் / raðiːs / rathes s15n",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/de3d7b7cad1709967d8bdffedcd0babd485bedbab1ab0316ae1d169fc81f88ca.jpg",
+      "url": "https://twitter.com/rswebdesigner"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1222806288670887936#favorited-by-119376856",
+    "published": null,
+    "wm-received": "2020-01-30T09:24:23Z",
+    "wm-id": 749936,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1222806288670887936/119376856",
+    "wm-target": "https://sebastiandedeyne.com/strawberry-jelly/",
+    "like-of": "https://sebastiandedeyne.com/strawberry-jelly/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
