@@ -30,8 +30,8 @@ This post is a succinct rundown of most Vue features, and how I would write them
 - [Events](#events)
 - [Lifecycle methods](#lifecycle-methods)
 - [Watchers](#watchers)
-- [Slots & scoped slots](#slots-scoped-slots)
-- [Provide / inject](#provide-inject)
+- [Slots & scoped slots](#slots--scoped-slots)
+- [Provide / inject](#provide--inject)
 - [Custom directives](#custom-directives)
 - [Transitions](#transitions)
 
