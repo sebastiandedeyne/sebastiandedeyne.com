@@ -384,5 +384,228 @@
     "repost-of": "https://sebastiandedeyne.com/mailcoachs-lack-of-javascript-stack/",
     "wm-property": "repost-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Glen",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/cd297d569cbde1adbaef0529063bf5c171155ee2ee9a6ce0b3c8669e89b474a0.jpg",
+      "url": "https://twitter.com/gms8994"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1223145128937828352#favorited-by-8468872",
+    "published": null,
+    "wm-received": "2020-01-31T12:21:18Z",
+    "wm-id": 750495,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1223145128937828352/8468872",
+    "wm-target": "https://sebastiandedeyne.com/mailcoachs-lack-of-javascript-stack/",
+    "like-of": "https://sebastiandedeyne.com/mailcoachs-lack-of-javascript-stack/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Franck",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/155f4004d9b7a712962048c96209fd0cead8523a2153e33741a3a993c77ed783.png",
+      "url": "https://twitter.com/franckmercado"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1223145128937828352#favorited-by-14915984",
+    "published": null,
+    "wm-received": "2020-01-31T12:21:54Z",
+    "wm-id": 750496,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1223145128937828352/14915984",
+    "wm-target": "https://sebastiandedeyne.com/mailcoachs-lack-of-javascript-stack/",
+    "like-of": "https://sebastiandedeyne.com/mailcoachs-lack-of-javascript-stack/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Bardhyl Fejzullahu",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/99bd74b652e4f231986247c0d205af14e7825077fbec8d88b42a24d566756931.jpg",
+      "url": "https://twitter.com/autoluminescent"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1223145128937828352#favorited-by-1110027337",
+    "published": null,
+    "wm-received": "2020-01-31T12:58:53Z",
+    "wm-id": 750503,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1223145128937828352/1110027337",
+    "wm-target": "https://sebastiandedeyne.com/mailcoachs-lack-of-javascript-stack/",
+    "like-of": "https://sebastiandedeyne.com/mailcoachs-lack-of-javascript-stack/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Faysal Ahamed",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/8e66bd2e6ab2e31609fe011090a711a436220b0f72a30d0b03d55f222aafc16d.jpg",
+      "url": "https://twitter.com/devfaysal"
+    },
+    "url": "https://twitter.com/devfaysal/status/1223236104188416000",
+    "published": "2020-01-31T13:26:28+00:00",
+    "wm-received": "2020-01-31T13:28:55Z",
+    "wm-id": 750507,
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1223236104188416000",
+    "wm-target": "https://sebastiandedeyne.com/mailcoachs-lack-of-javascript-stack/",
+    "content": {
+      "html": "<a href=\"https://twitter.com/sebdedeyne\">@sebdedeyne</a> thanks for the nice article, I found nice alternatives of jquery datepicker and select2.\n<a href=\"https://sebastiandedeyne.com/mailcoachs-lack-of-javascript-stack/\">sebastiandedeyne.com/mailcoachs-lac…</a>\nIs there any good article about turbolinks that will help me   to understand quickly?",
+      "text": "@sebdedeyne thanks for the nice article, I found nice alternatives of jquery datepicker and select2.\nsebastiandedeyne.com/mailcoachs-lac…\nIs there any good article about turbolinks that will help me   to understand quickly?"
+    },
+    "mention-of": "https://sebastiandedeyne.com/mailcoachs-lack-of-javascript-stack/",
+    "wm-property": "mention-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Jason Beggs",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/53706884685cc0c1167d81d849035f17aeb306e3e0d22acf8d1a372a24df511a.png",
+      "url": "https://twitter.com/jasonlbeggs"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1223145128937828352#favorited-by-109686372",
+    "published": null,
+    "wm-received": "2020-01-31T13:29:01Z",
+    "wm-id": 750508,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1223145128937828352/109686372",
+    "wm-target": "https://sebastiandedeyne.com/mailcoachs-lack-of-javascript-stack/",
+    "like-of": "https://sebastiandedeyne.com/mailcoachs-lack-of-javascript-stack/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Jacob",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/8bb36c5d48a14ac3dcf25f5591761994dc71592288e4af5598c5e9cff7fe5cfd.jpg",
+      "url": "https://twitter.com/bakerkretzmar"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1223145128937828352#favorited-by-408196141",
+    "published": null,
+    "wm-received": "2020-01-31T13:29:14Z",
+    "wm-id": 750509,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1223145128937828352/408196141",
+    "wm-target": "https://sebastiandedeyne.com/mailcoachs-lack-of-javascript-stack/",
+    "like-of": "https://sebastiandedeyne.com/mailcoachs-lack-of-javascript-stack/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Niels",
+      "photo": "https://webmention.io/avatar/abs.twimg.com/0e6b2cd70aa5b35dec24ca4e1e63f8963f0118736d9ec3bba77e3a8c99a27bc2.png",
+      "url": "https://twitter.com/__dev__account"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1223145128937828352#favorited-by-1022192241677426688",
+    "published": null,
+    "wm-received": "2020-01-31T14:06:49Z",
+    "wm-id": 750515,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1223145128937828352/1022192241677426688",
+    "wm-target": "https://sebastiandedeyne.com/mailcoachs-lack-of-javascript-stack/",
+    "like-of": "https://sebastiandedeyne.com/mailcoachs-lack-of-javascript-stack/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Wyatt",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/d2450d3284e8d38d88102d508c02f4095e3eee613cc83e87e45d58ded3d90c8f.jpg",
+      "url": "https://twitter.com/WyattCastaned44"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1223145128937828352#favorited-by-534528249",
+    "published": null,
+    "wm-received": "2020-01-31T14:06:54Z",
+    "wm-id": 750516,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1223145128937828352/534528249",
+    "wm-target": "https://sebastiandedeyne.com/mailcoachs-lack-of-javascript-stack/",
+    "like-of": "https://sebastiandedeyne.com/mailcoachs-lack-of-javascript-stack/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Andre Sayej",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/00a7da3ab748395431999d2f5c901e7bee85e2279cb5b59b9d2b9299a8d3d805.jpg",
+      "url": "https://twitter.com/AndreSayej"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1223145128937828352#favorited-by-1101406245322403841",
+    "published": null,
+    "wm-received": "2020-01-31T14:35:24Z",
+    "wm-id": 750519,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1223145128937828352/1101406245322403841",
+    "wm-target": "https://sebastiandedeyne.com/mailcoachs-lack-of-javascript-stack/",
+    "like-of": "https://sebastiandedeyne.com/mailcoachs-lack-of-javascript-stack/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Brandon Surowiec",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/45226abada2bd500360af6839fd38fea1257e6692dd36a1f2b659145135a4e48.jpg",
+      "url": "https://twitter.com/brandonsurowiec"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1223145128937828352#favorited-by-358715811",
+    "published": null,
+    "wm-received": "2020-01-31T14:35:46Z",
+    "wm-id": 750521,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1223145128937828352/358715811",
+    "wm-target": "https://sebastiandedeyne.com/mailcoachs-lack-of-javascript-stack/",
+    "like-of": "https://sebastiandedeyne.com/mailcoachs-lack-of-javascript-stack/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Brandon Surowiec",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/45226abada2bd500360af6839fd38fea1257e6692dd36a1f2b659145135a4e48.jpg",
+      "url": "https://twitter.com/brandonsurowiec"
+    },
+    "url": "https://twitter.com/brandonsurowiec/status/1223247364284211200",
+    "published": "2020-01-31T14:11:13+00:00",
+    "wm-received": "2020-01-31T14:36:00Z",
+    "wm-id": 750522,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1223145128937828352/1223247364284211200",
+    "wm-target": "https://sebastiandedeyne.com/mailcoachs-lack-of-javascript-stack/",
+    "content": {
+      "text": "✒️ Mailcoach’s (lack of) JavaScript stack: a braindump on the process of choosing our tooling, and an analysis of the outcome.\n\nhttps://t.co"
+    },
+    "repost-of": "https://sebastiandedeyne.com/mailcoachs-lack-of-javascript-stack/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Chris Breuer",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/40f8aad952736f5e699e6a58f34fe7d678f717362ee0dc36c6b64d1b770c917f.jpg",
+      "url": "https://twitter.com/chrisbreuer1904"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1223145128937828352#favorited-by-772455382266425344",
+    "published": null,
+    "wm-received": "2020-01-31T15:53:32Z",
+    "wm-id": 750589,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1223145128937828352/772455382266425344",
+    "wm-target": "https://sebastiandedeyne.com/mailcoachs-lack-of-javascript-stack/",
+    "like-of": "https://sebastiandedeyne.com/mailcoachs-lack-of-javascript-stack/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
