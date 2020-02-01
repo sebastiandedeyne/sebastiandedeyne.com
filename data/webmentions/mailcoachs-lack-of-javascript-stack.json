@@ -607,5 +607,117 @@
     "like-of": "https://sebastiandedeyne.com/mailcoachs-lack-of-javascript-stack/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Caneco",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/5d70063e6ec7e863e8b4dec26cfb4eaa51b561e97f73dd0096f60f05647bfb98.jpg",
+      "url": "https://twitter.com/Caneco"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1223145128937828352#favorited-by-14294334",
+    "published": null,
+    "wm-received": "2020-01-31T18:26:55Z",
+    "wm-id": 750637,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1223145128937828352/14294334",
+    "wm-target": "https://sebastiandedeyne.com/mailcoachs-lack-of-javascript-stack/",
+    "like-of": "https://sebastiandedeyne.com/mailcoachs-lack-of-javascript-stack/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Ademir Nuno Mazer Jr",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/52bafe20b57a6017b0d84532cad3f498525fc0d609da427be269d4a38eaa028b.png",
+      "url": "https://twitter.com/nunomazer"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1223145128937828352#favorited-by-42517968",
+    "published": null,
+    "wm-received": "2020-01-31T19:14:20Z",
+    "wm-id": 750654,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1223145128937828352/42517968",
+    "wm-target": "https://sebastiandedeyne.com/mailcoachs-lack-of-javascript-stack/",
+    "like-of": "https://sebastiandedeyne.com/mailcoachs-lack-of-javascript-stack/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Richard Radermacher",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/5277a388649f0f63e0236cc171a6fcd7a7b84ea4092ad79c8a6ad52cc8a9b3b8.jpg",
+      "url": "https://twitter.com/radermacher_io"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1223145128937828352#favorited-by-35496266",
+    "published": null,
+    "wm-received": "2020-01-31T19:14:27Z",
+    "wm-id": 750655,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1223145128937828352/35496266",
+    "wm-target": "https://sebastiandedeyne.com/mailcoachs-lack-of-javascript-stack/",
+    "like-of": "https://sebastiandedeyne.com/mailcoachs-lack-of-javascript-stack/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "AA",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/9d885c33d64894ff229c832012b97dc360c664c1e721ae66f72389c444c6573b.jpg",
+      "url": "https://twitter.com/aazraai"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1223145128937828352#favorited-by-2992511",
+    "published": null,
+    "wm-received": "2020-01-31T21:39:51Z",
+    "wm-id": 750679,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1223145128937828352/2992511",
+    "wm-target": "https://sebastiandedeyne.com/mailcoachs-lack-of-javascript-stack/",
+    "like-of": "https://sebastiandedeyne.com/mailcoachs-lack-of-javascript-stack/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Digital news",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/191d96822664ae8567862915a5c145c9ea6183faee23ad2ea912787611634753.png",
+      "url": "https://twitter.com/digitalnews__"
+    },
+    "url": "https://twitter.com/digitalnews__/status/1223367339070099456",
+    "published": "2020-01-31T22:07:57+00:00",
+    "wm-received": "2020-01-31T22:13:59Z",
+    "wm-id": 750684,
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1223367339070099456",
+    "wm-target": "https://sebastiandedeyne.com/mailcoachs-lack-of-javascript-stack/",
+    "content": {
+      "html": "Mailcoach's (lack of) JavaScript stack <a href=\"https://sebastiandedeyne.com/mailcoachs-lack-of-javascript-stack/\">sebastiandedeyne.com/mailcoachs-lac…</a>  <a href=\"https://twitter.com/search?q=%23Javascript\">#Javascript</a>",
+      "text": "Mailcoach's (lack of) JavaScript stack sebastiandedeyne.com/mailcoachs-lac…  #Javascript"
+    },
+    "mention-of": "https://sebastiandedeyne.com/mailcoachs-lack-of-javascript-stack/",
+    "wm-property": "mention-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Jorge González",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/c37d58fb7570b7fc2c749e974aa5efec6ae1abfef7673ce079fdb9fb2aa1a472.jpg",
+      "url": "https://twitter.com/iksaku2"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1223145128937828352#favorited-by-255728220",
+    "published": null,
+    "wm-received": "2020-01-31T23:11:33Z",
+    "wm-id": 750688,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1223145128937828352/255728220",
+    "wm-target": "https://sebastiandedeyne.com/mailcoachs-lack-of-javascript-stack/",
+    "like-of": "https://sebastiandedeyne.com/mailcoachs-lack-of-javascript-stack/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
