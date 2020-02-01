@@ -719,5 +719,23 @@
     "like-of": "https://sebastiandedeyne.com/mailcoachs-lack-of-javascript-stack/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Andrew Clinton",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/def85613d3e417469001a9b89d79327cd432c025a8c1950683147b0d856b1ac8.jpg",
+      "url": "https://twitter.com/codingclinton"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1223145128937828352#favorited-by-785612689",
+    "published": null,
+    "wm-received": "2020-02-01T05:01:33Z",
+    "wm-id": 750721,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1223145128937828352/785612689",
+    "wm-target": "https://sebastiandedeyne.com/mailcoachs-lack-of-javascript-stack/",
+    "like-of": "https://sebastiandedeyne.com/mailcoachs-lack-of-javascript-stack/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
