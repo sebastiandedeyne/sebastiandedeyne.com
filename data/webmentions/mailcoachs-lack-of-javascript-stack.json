@@ -1130,5 +1130,41 @@
     "repost-of": "https://sebastiandedeyne.com/mailcoachs-lack-of-javascript-stack/",
     "wm-property": "repost-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Ahmed Abd El Ftah",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/8d33366c9eb22489cbb535a6d858b8e09864f516ea30e8221981f6eda1fda7df.jpg",
+      "url": "https://twitter.com/Te7aHoudini"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1224285590713257984#favorited-by-920384655634980864",
+    "published": null,
+    "wm-received": "2020-02-03T18:29:00Z",
+    "wm-id": 751730,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1224285590713257984/920384655634980864",
+    "wm-target": "https://sebastiandedeyne.com/mailcoachs-lack-of-javascript-stack/",
+    "like-of": "https://sebastiandedeyne.com/mailcoachs-lack-of-javascript-stack/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Robin",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/4b000c03e2fc66d5482385faab007d7a363e76601c30ca044569705b6a371405.jpg",
+      "url": "https://twitter.com/rocoloboffoo"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1224285590713257984#favorited-by-9848812",
+    "published": null,
+    "wm-received": "2020-02-03T23:17:01Z",
+    "wm-id": 751849,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1224285590713257984/9848812",
+    "wm-target": "https://sebastiandedeyne.com/mailcoachs-lack-of-javascript-stack/",
+    "like-of": "https://sebastiandedeyne.com/mailcoachs-lack-of-javascript-stack/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
