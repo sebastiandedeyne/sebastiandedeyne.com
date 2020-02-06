@@ -274,13 +274,22 @@ hr {
 \******************************************************************************/
 
 .toc-list {
-  @apply list-decimal list-inside;
-  font-variant: tabular-nums;
+  @apply list-inside relative;
+  counter-reset: li;
 }
 
-.toc-list span {
-  @apply relative;
-  left: 0.5rem;
+.toc-list li:before {
+  content: counter(li, decimal-leading-zero) ".";
+  counter-increment: li;
+  font-variant: tabular-nums;
+  margin-right: 0.5rem;
+}
+
+.toc-list li.active:after {
+  @apply absolute;
+  content: "→";
+  left: -1.25rem;
+  transform: translateY(-0.5px);
 }
 
 .toc-list a {

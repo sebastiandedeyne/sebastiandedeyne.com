@@ -2,18 +2,20 @@ title: JavaScript Framework Diet
 description: |
   JavaScript frameworks are great, but overused. Adding small bits of interactivity to an interface shouldn't mean installing kilobytes of dependencies or introducing complex build tools.
 
-  It's time for a diet. I'm challenging you to build something without a framework. This series teaches the foundations to do so.
+  It's time for a diet. I'm challenging you to build something without a framework, or follow along and learn something along the way.
 
-  Series under development, posts are added on a weekly-ish basis.
+  Series under development, posts are added on a weekly basis.
 posts:
   - title: Introduction
-    slug: javascript-framework-diet/introduction
-  - title: DOM basics (part 1)
-    slug: javascript-framework-diet/dom-basics-part-1
-  - title: DOM basics (part 2)
-    slug: javascript-framework-diet/dom-basics-part-2
+    slug: javascript-framework-diet
+  - title: Selecting elements (part 1)
+    slug: javascript-framework-diet/selecting-elements-part-1
+  - title: Selecting elements (part 2)
+    slug: javascript-framework-diet/selecting-elements-part-2
   - title: Event delegation
-    slug: javascript-framework-diet/event-delegation
   - title: Dropdowns
-  - title: Transitions
+  - title: Enter and leave transitions
+  - title: Modals (part 1)
+  - title: Modals (part 2)
+  - title: Live updating data
   - title: More under development

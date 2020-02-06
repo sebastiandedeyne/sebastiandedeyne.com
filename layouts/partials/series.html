@@ -1,4 +1,4 @@
-<section class="bg-gray-900 text-white leading-snug p-12">
+<section class="bg-gray-900 text-white leading-snug p-12 mt-12">
   <p class="font-medium mb-1 text-lg">JavaScript Framework Diet</p>
   <div class="markup markup-tight | mb-12 text-gray-400 text-xs">
     {{ .series.description | markdownify }}
@@ -6,19 +6,15 @@
   <ol class="toc-list | text-sm">
     {{ range .series.posts }}
         {{ if .slug }}
-            <li>
-                <span>
-                    {{ if eq .slug $.currentSlug }}
-                        {{ .title }}
-                    {{ else }}
-                        <a href="{{ .slug | relURL }}">{{ .title }}</a>
-                    {{ end }}
-                </span>
-            </li>
+          {{ if eq .slug $.currentSlug }}
+            <li class="active">{{ .title }}</li>
+          {{ else }}
+            <li><a href="{{ .slug | relURL }}">{{ .title }}</a></li>
+          {{ end }}
         {{ else }}
-            <li class="text-gray-600">
-                <span>{{ .title }}</span>
-            </li>
+          <li class="text-gray-600">
+            <span>{{ .title }}</span>
+          </li>
         {{ end }}
     {{ end }}
   </ol>

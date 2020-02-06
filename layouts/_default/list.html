@@ -29,6 +29,13 @@
               Read more
             </a>
           </p>
+        {{ else if .Params.summary }}
+          {{ .Params.summary | markdownify }}
+          <p>
+            <a href="{{ .RelPermalink }}">
+              Read more
+            </a>
+          </p>
         {{ else }}
           {{ .Content }}
         {{ end }}
