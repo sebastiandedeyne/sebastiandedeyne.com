@@ -1268,5 +1268,23 @@
     "like-of": "https://sebastiandedeyne.com/mailcoachs-lack-of-javascript-stack/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Lambert Traccard",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/0092681de01f8f15b50eaefca8c54cafc66c7490050d59bc1bf6bcfac892c184.jpg",
+      "url": "https://twitter.com/lamberttraccard"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1225356565512904704#favorited-by-236706279",
+    "published": null,
+    "wm-received": "2020-02-06T23:29:09Z",
+    "wm-id": 753040,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1225356565512904704/236706279",
+    "wm-target": "https://sebastiandedeyne.com/mailcoachs-lack-of-javascript-stack/",
+    "like-of": "https://sebastiandedeyne.com/mailcoachs-lack-of-javascript-stack/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]

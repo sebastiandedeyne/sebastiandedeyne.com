@@ -590,5 +590,95 @@
     "like-of": "https://sebastiandedeyne.com/javascript-framework-diet/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Mozammil",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/c9e9f3a572ddb3b772f32d98490103bbebc67488413fb8d647dcd92c12bcf000.jpg",
+      "url": "https://twitter.com/Mozammil_K"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1225356557740838912#favorited-by-233569081",
+    "published": null,
+    "wm-received": "2020-02-06T23:30:11Z",
+    "wm-id": 753043,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1225356557740838912/233569081",
+    "wm-target": "https://sebastiandedeyne.com/javascript-framework-diet/",
+    "like-of": "https://sebastiandedeyne.com/javascript-framework-diet/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Philipp Grimm",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/021fa21e9a2ac2c1d5b101cdc8b1fa9cbcbf0b1bed37b8e733b2563d1478df17.jpg",
+      "url": "https://twitter.com/phigrimm"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1225356557740838912#favorited-by-164261106",
+    "published": null,
+    "wm-received": "2020-02-06T23:30:19Z",
+    "wm-id": 753044,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1225356557740838912/164261106",
+    "wm-target": "https://sebastiandedeyne.com/javascript-framework-diet/",
+    "like-of": "https://sebastiandedeyne.com/javascript-framework-diet/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Shannon Rothe",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/c462f3d493e6ed4ff40786d28ea759cd1c651afeca5eb1c3f5a1df2cf675dd18.jpg",
+      "url": "https://twitter.com/shannonrothe"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1225356557740838912#favorited-by-1056645602",
+    "published": null,
+    "wm-received": "2020-02-06T23:30:30Z",
+    "wm-id": 753045,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1225356557740838912/1056645602",
+    "wm-target": "https://sebastiandedeyne.com/javascript-framework-diet/",
+    "like-of": "https://sebastiandedeyne.com/javascript-framework-diet/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Njogu Amos",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/b4712293d54eee18b2d8aa8a606d44a339ed33e1f498f5bc7a707d3e4b662918.jpg",
+      "url": "https://twitter.com/NjoguAmo"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1225356557740838912#favorited-by-198943649",
+    "published": null,
+    "wm-received": "2020-02-06T23:30:35Z",
+    "wm-id": 753046,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1225356557740838912/198943649",
+    "wm-target": "https://sebastiandedeyne.com/javascript-framework-diet/",
+    "like-of": "https://sebastiandedeyne.com/javascript-framework-diet/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "JoomlaWorks",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/126f61b6739582eb98d954c01c9b98aa80b443c1ecb1da91e867d878a7ee5103.jpg",
+      "url": "https://twitter.com/joomlaworks"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1225356557740838912#favorited-by-16443689",
+    "published": null,
+    "wm-received": "2020-02-06T23:30:41Z",
+    "wm-id": 753047,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1225356557740838912/16443689",
+    "wm-target": "https://sebastiandedeyne.com/javascript-framework-diet/",
+    "like-of": "https://sebastiandedeyne.com/javascript-framework-diet/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
