@@ -737,5 +737,81 @@
     "like-of": "https://sebastiandedeyne.com/javascript-framework-diet/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Jan-Joost Heurter",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/6bc94d55494759eb2021c5980e38865fabcda027630ed71552270ccd13eb8d2d.jpg",
+      "url": "https://twitter.com/jjheurter"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1225356557740838912#favorited-by-744864530837180416",
+    "published": null,
+    "wm-received": "2020-02-07T07:27:04Z",
+    "wm-id": 753168,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1225356557740838912/744864530837180416",
+    "wm-target": "https://sebastiandedeyne.com/javascript-framework-diet/",
+    "like-of": "https://sebastiandedeyne.com/javascript-framework-diet/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Ruslan",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/6114334d09745c23c21d748a3ffb0e5f0972472d77df8a83d2914859cbd3b5fd.jpg",
+      "url": "https://twitter.com/SuddenlyRust"
+    },
+    "url": "https://twitter.com/SuddenlyRust/status/1225689474186661888",
+    "published": "2020-02-07T07:55:17+00:00",
+    "wm-received": "2020-02-07T08:05:18Z",
+    "wm-id": 753183,
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/sebdedeyne/1225356557740838912/1225689474186661888",
+    "wm-target": "https://sebastiandedeyne.com/javascript-framework-diet/",
+    "content": {
+      "html": "Wow. The series starts really good. Can't wait for the rest 💪\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/sebdedeyne\"></a>",
+      "text": "Wow. The series starts really good. Can't wait for the rest 💪"
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/javascript-framework-diet/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Ruslan",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/6114334d09745c23c21d748a3ffb0e5f0972472d77df8a83d2914859cbd3b5fd.jpg",
+      "url": "https://twitter.com/SuddenlyRust"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1225356557740838912#favorited-by-935107835045842944",
+    "published": null,
+    "wm-received": "2020-02-07T08:05:24Z",
+    "wm-id": 753184,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1225356557740838912/935107835045842944",
+    "wm-target": "https://sebastiandedeyne.com/javascript-framework-diet/",
+    "like-of": "https://sebastiandedeyne.com/javascript-framework-diet/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Bramus!",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/61a000e6774bacfe39918128f9022678cf4b57a65a351cb6cf55aa22d5fa0fa1.jpg",
+      "url": "https://twitter.com/bramus"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1225356557740838912#favorited-by-9131062",
+    "published": null,
+    "wm-received": "2020-02-07T11:44:04Z",
+    "wm-id": 753255,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1225356557740838912/9131062",
+    "wm-target": "https://sebastiandedeyne.com/javascript-framework-diet/",
+    "like-of": "https://sebastiandedeyne.com/javascript-framework-diet/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
