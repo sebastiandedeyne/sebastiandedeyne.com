@@ -37,6 +37,8 @@ $$('img').forEach(image => {
 });
 ```
 
+Read all about `Element.closest()` on [MDN](https://developer.mozilla.org/en-US/docs/Web/API/Element/closest).
+
 ## Testing selectors on an element with `matches`
 
 Sometimes you have an element, but want to know whether it matches a certain selector. Here's where `Element.matches()` comes in.
@@ -59,4 +61,6 @@ $$('input').forEach(input => {
 });
 ```
 
-`Element.closest()` and `Element.matches()` will be used a lot more sparingly than `$` and `$$`, but they're less known very powerful when needed.
+Read all about `Element.matches()` on [MDN](https://developer.mozilla.org/en-US/docs/Web/API/Element/matches).
+
+`Element.closest()` and `Element.matches()` will be used a lot more sparingly than `$` and `$$`. They're lesser known but very powerful when needed.
