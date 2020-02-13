@@ -13,6 +13,7 @@ posts:
   - title: Selecting elements (part 2)
     slug: javascript-framework-diet/selecting-elements-part-2
   - title: Event delegation
+    slug: javascript-framework-diet/event-delegation
   - title: Dropdowns
   - title: Enter and leave transitions
   - title: Modals (part 1)
