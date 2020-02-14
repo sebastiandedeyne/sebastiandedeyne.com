@@ -637,5 +637,45 @@
     "like-of": "https://sebastiandedeyne.com/strawberry-jelly/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Chris Ferdinandi ⚓️",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/c08ae1c4d75a3dae935062d5b6c914feff7cfbdafdb527c237ab3af3caa59ebc.jpg",
+      "url": "https://twitter.com/ChrisFerdinandi"
+    },
+    "url": "https://twitter.com/ChrisFerdinandi/status/1228358944495677441",
+    "published": "2020-02-14T16:42:48+00:00",
+    "wm-received": "2020-02-14T16:50:37Z",
+    "wm-id": 756270,
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/sebdedeyne/1228357755733467142/1228358944495677441",
+    "wm-target": "https://sebastiandedeyne.com/strawberry-jelly/",
+    "content": {
+      "html": "Hell yes!\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/sebdedeyne\"></a>",
+      "text": "Hell yes!"
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/strawberry-jelly/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Chris Ferdinandi ⚓️",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/c08ae1c4d75a3dae935062d5b6c914feff7cfbdafdb527c237ab3af3caa59ebc.jpg",
+      "url": "https://twitter.com/ChrisFerdinandi"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1228357755733467142#favorited-by-16470269",
+    "published": null,
+    "wm-received": "2020-02-14T16:50:42Z",
+    "wm-id": 756271,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1228357755733467142/16470269",
+    "wm-target": "https://sebastiandedeyne.com/strawberry-jelly/",
+    "like-of": "https://sebastiandedeyne.com/strawberry-jelly/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
