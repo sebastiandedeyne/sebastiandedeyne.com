@@ -41,9 +41,17 @@ fetch(url)
     });
   });
 
-const postSlugs = fs
-  .readdirSync(`${__dirname}/content/posts`)
-  .map(filename => filename.replace(".md", ""));
+const postSlugs = fs.readdirSync(`${__dirname}/content/posts`).flatMap(path => {
+  const fullPath = `${__dirname}/content/posts/${path}`;
+
+  if (fs.lstatSync(fullPath).isDirectory()) {
+    return fs
+      .readdirSync(fullPath)
+      .map(subPath => `${path}--${subPath.replace(".md", "")}`);
+  }
+
+  return [path.replace(".md", "")];
+});
 
 function isPost(entry) {
   return postSlugs.includes(getSlug(entry));
@@ -52,7 +60,8 @@ function isPost(entry) {
 function getSlug(entry) {
   return entry["wm-target"]
     .replace("https://sebastiandedeyne.com/", "")
-    .replace(/\/$/, "");
+    .replace(/\/$/, "")
+    .replace("/", "--");
 }
 
 function fetch(url) {

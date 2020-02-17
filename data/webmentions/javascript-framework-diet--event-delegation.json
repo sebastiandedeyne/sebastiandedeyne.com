@@ -1,0 +1,1095 @@
+[
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "meduz'",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/3189cad6888c1c9c8d582fdb7d85842e9d9396255076af59aacf65fd4ac8f9d2.jpg",
+      "url": "https://twitter.com/meduzen"
+    },
+    "url": "https://twitter.com/meduzen/status/1228248737589481472",
+    "published": "2020-02-14T09:24:53+00:00",
+    "wm-received": "2020-02-14T09:39:01Z",
+    "wm-id": 756154,
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/sebdedeyne/1228237867110977536/1228248737589481472",
+    "wm-target": "https://sebastiandedeyne.com/javascript-framework-diet/event-delegation/",
+    "content": {
+      "html": "Alternative to `.closest()`: you can use CSS:\n```\na *, button * {\n  pointer-events: none;\n}\n```\n\nThus way, the Interactive element (link, button) is always the one being the event target.\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/sebdedeyne\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/themsaid\"></a>",
+      "text": "Alternative to `.closest()`: you can use CSS:\n```\na *, button * {\n  pointer-events: none;\n}\n```\n\nThus way, the Interactive element (link, button) is always the one being the event target."
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/javascript-framework-diet/event-delegation/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Mohamed Said",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/b6a409980f78d1765ab6935ede17defff5534a84172f4e82d72f5e561182e58f.jpg",
+      "url": "https://twitter.com/themsaid"
+    },
+    "url": "https://twitter.com/themsaid/status/1228238290454794240",
+    "published": "2020-02-14T08:43:22+00:00",
+    "wm-received": "2020-02-14T09:39:07Z",
+    "wm-id": 756155,
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/sebdedeyne/1228237867110977536/1228238290454794240",
+    "wm-target": "https://sebastiandedeyne.com/javascript-framework-diet/event-delegation/",
+    "content": {
+      "html": "I love what you're doing. I'm so sick of the JS fat stack. Hard to keep track of EVEYRTHING JS and the FOMO.\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/sebdedeyne\"></a>",
+      "text": "I love what you're doing. I'm so sick of the JS fat stack. Hard to keep track of EVEYRTHING JS and the FOMO."
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/javascript-framework-diet/event-delegation/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Albi Abdyli",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/a2d6b3d93f3c4c426b8b66f74bd7c58ac47f87e7ee8658d4714fc9980669c893.jpg",
+      "url": "https://twitter.com/AlbiAbdyli"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1228237867110977536#favorited-by-935492374054174720",
+    "published": null,
+    "wm-received": "2020-02-14T09:39:14Z",
+    "wm-id": 756156,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1228237867110977536/935492374054174720",
+    "wm-target": "https://sebastiandedeyne.com/javascript-framework-diet/event-delegation/",
+    "like-of": "https://sebastiandedeyne.com/javascript-framework-diet/event-delegation/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Alexandr Nita",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/6e44a5d118a61c92c4f6079dbe2ded6c8599358de4c0aa2246780f94333268d8.png",
+      "url": "https://twitter.com/nita_alexandr"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1228237867110977536#favorited-by-1068860757629116416",
+    "published": null,
+    "wm-received": "2020-02-14T09:39:22Z",
+    "wm-id": 756157,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1228237867110977536/1068860757629116416",
+    "wm-target": "https://sebastiandedeyne.com/javascript-framework-diet/event-delegation/",
+    "like-of": "https://sebastiandedeyne.com/javascript-framework-diet/event-delegation/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Ben Cavens",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/aa93784987a3c2a1535b84a956600c277b343dd2c8b72c2839978540a40d1ed2.jpg",
+      "url": "https://twitter.com/BenCavens"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1228237867110977536#favorited-by-19759351",
+    "published": null,
+    "wm-received": "2020-02-14T09:43:21Z",
+    "wm-id": 756158,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1228237867110977536/19759351",
+    "wm-target": "https://sebastiandedeyne.com/javascript-framework-diet/event-delegation/",
+    "like-of": "https://sebastiandedeyne.com/javascript-framework-diet/event-delegation/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Sasa Blagojevic",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/79cc01b77eaba3f5aadf0b25998317fa93c780708e2bb41ffbde86a649307275.jpg",
+      "url": "https://twitter.com/blackcat_dev"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1228237867110977536#favorited-by-2415499967",
+    "published": null,
+    "wm-received": "2020-02-14T09:43:25Z",
+    "wm-id": 756159,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1228237867110977536/2415499967",
+    "wm-target": "https://sebastiandedeyne.com/javascript-framework-diet/event-delegation/",
+    "like-of": "https://sebastiandedeyne.com/javascript-framework-diet/event-delegation/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Hardik Shah",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/e3d108d2e22a4727b305ad101efa6abb2c72b808e62c2d7242d0db888403515e.jpg",
+      "url": "https://twitter.com/hardsshah"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1228237867110977536#favorited-by-29662788",
+    "published": null,
+    "wm-received": "2020-02-14T09:44:10Z",
+    "wm-id": 756160,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1228237867110977536/29662788",
+    "wm-target": "https://sebastiandedeyne.com/javascript-framework-diet/event-delegation/",
+    "like-of": "https://sebastiandedeyne.com/javascript-framework-diet/event-delegation/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Zubair Mohsin",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/480ed6e1c8e86c5107bf393166749638e905a5540d140a509234d0a510cc877f.jpg",
+      "url": "https://twitter.com/Zubairmohsin33"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1228237867110977536#favorited-by-2972870264",
+    "published": null,
+    "wm-received": "2020-02-14T09:44:18Z",
+    "wm-id": 756161,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1228237867110977536/2972870264",
+    "wm-target": "https://sebastiandedeyne.com/javascript-framework-diet/event-delegation/",
+    "like-of": "https://sebastiandedeyne.com/javascript-framework-diet/event-delegation/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "anjolaoluwa.",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/a14e714f883b58fe898a896b5ac05285bc1f046a0b32d1b5e4cf4438595040a4.jpg",
+      "url": "https://twitter.com/jola_adebayor"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1228237867110977536#favorited-by-2746894228",
+    "published": null,
+    "wm-received": "2020-02-14T09:44:28Z",
+    "wm-id": 756162,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1228237867110977536/2746894228",
+    "wm-target": "https://sebastiandedeyne.com/javascript-framework-diet/event-delegation/",
+    "like-of": "https://sebastiandedeyne.com/javascript-framework-diet/event-delegation/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Arash",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/1e0e9ec4b669d2523772b6675529a847357d0b3e2fdca31ec62a885fe2a8d662.jpg",
+      "url": "https://twitter.com/arainjast"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1228237867110977536#favorited-by-978985154923384832",
+    "published": null,
+    "wm-received": "2020-02-14T09:44:40Z",
+    "wm-id": 756163,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1228237867110977536/978985154923384832",
+    "wm-target": "https://sebastiandedeyne.com/javascript-framework-diet/event-delegation/",
+    "like-of": "https://sebastiandedeyne.com/javascript-framework-diet/event-delegation/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Borislav Borissov",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/d261057a648efe6d8263cf77622cd7d0f789f7d111522df88fe67986f21646d5.jpg",
+      "url": "https://twitter.com/bobyborissov"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1228237867110977536#favorited-by-264766860",
+    "published": null,
+    "wm-received": "2020-02-14T09:44:52Z",
+    "wm-id": 756164,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1228237867110977536/264766860",
+    "wm-target": "https://sebastiandedeyne.com/javascript-framework-diet/event-delegation/",
+    "like-of": "https://sebastiandedeyne.com/javascript-framework-diet/event-delegation/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Rias Van der Veken",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/4d90619c3206b3cd5717b1da4faeda9a43f17617074f32f5e7b25878944df2a0.jpg",
+      "url": "https://twitter.com/Riasvdv"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1228237867110977536#favorited-by-124591560",
+    "published": null,
+    "wm-received": "2020-02-14T09:44:58Z",
+    "wm-id": 756165,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1228237867110977536/124591560",
+    "wm-target": "https://sebastiandedeyne.com/javascript-framework-diet/event-delegation/",
+    "like-of": "https://sebastiandedeyne.com/javascript-framework-diet/event-delegation/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Monaam 🍔",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/0a6721e5c41a6b1c9b86a40a7d5c8dc6bf2854b6c715e557fbe9d64efbd0ea52.jpg",
+      "url": "https://twitter.com/yomonaam"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1228237867110977536#favorited-by-153769339",
+    "published": null,
+    "wm-received": "2020-02-14T09:45:05Z",
+    "wm-id": 756166,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1228237867110977536/153769339",
+    "wm-target": "https://sebastiandedeyne.com/javascript-framework-diet/event-delegation/",
+    "like-of": "https://sebastiandedeyne.com/javascript-framework-diet/event-delegation/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "ᴄʜʀɪsᴛɪᴀɴ ʟᴇᴏ-ᴘᴇʀɴᴏʟᴅ",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/e0b78e39e9f0fc248cf706c4152e81c4853edc96b823afb828113c9cf0fe582d.jpg",
+      "url": "https://twitter.com/mazedlx"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1228237867110977536#favorited-by-14218745",
+    "published": null,
+    "wm-received": "2020-02-14T09:45:10Z",
+    "wm-id": 756167,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1228237867110977536/14218745",
+    "wm-target": "https://sebastiandedeyne.com/javascript-framework-diet/event-delegation/",
+    "like-of": "https://sebastiandedeyne.com/javascript-framework-diet/event-delegation/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Alexandr Nita",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/6e44a5d118a61c92c4f6079dbe2ded6c8599358de4c0aa2246780f94333268d8.png",
+      "url": "https://twitter.com/nita_alexandr"
+    },
+    "url": "https://twitter.com/nita_alexandr/status/1228246747111141376",
+    "published": "2020-02-14T09:16:58+00:00",
+    "wm-received": "2020-02-14T09:45:31Z",
+    "wm-id": 756168,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1228237867110977536/1228246747111141376",
+    "wm-target": "https://sebastiandedeyne.com/javascript-framework-diet/event-delegation/",
+    "content": {
+      "text": "Part two of the JavaScript Framework Diet is out!\n\nAll about event delegation: sebastiandedeyne.com/javascript-fra…"
+    },
+    "repost-of": "https://sebastiandedeyne.com/javascript-framework-diet/event-delegation/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Monaam 🍔",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/0a6721e5c41a6b1c9b86a40a7d5c8dc6bf2854b6c715e557fbe9d64efbd0ea52.jpg",
+      "url": "https://twitter.com/yomonaam"
+    },
+    "url": "https://twitter.com/yomonaam/status/1228241276476084224",
+    "published": "2020-02-14T08:55:14+00:00",
+    "wm-received": "2020-02-14T09:45:40Z",
+    "wm-id": 756169,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1228237867110977536/1228241276476084224",
+    "wm-target": "https://sebastiandedeyne.com/javascript-framework-diet/event-delegation/",
+    "content": {
+      "text": "Part two of the JavaScript Framework Diet is out!\n\nAll about event delegation: sebastiandedeyne.com/javascript-fra…"
+    },
+    "repost-of": "https://sebastiandedeyne.com/javascript-framework-diet/event-delegation/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Borislav Borissov",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/d261057a648efe6d8263cf77622cd7d0f789f7d111522df88fe67986f21646d5.jpg",
+      "url": "https://twitter.com/bobyborissov"
+    },
+    "url": "https://twitter.com/bobyborissov/status/1228239182889472000",
+    "published": "2020-02-14T08:46:55+00:00",
+    "wm-received": "2020-02-14T09:45:44Z",
+    "wm-id": 756170,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1228237867110977536/1228239182889472000",
+    "wm-target": "https://sebastiandedeyne.com/javascript-framework-diet/event-delegation/",
+    "content": {
+      "text": "Part two of the JavaScript Framework Diet is out!\n\nAll about event delegation: sebastiandedeyne.com/javascript-fra…"
+    },
+    "repost-of": "https://sebastiandedeyne.com/javascript-framework-diet/event-delegation/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Rias Van der Veken",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/4d90619c3206b3cd5717b1da4faeda9a43f17617074f32f5e7b25878944df2a0.jpg",
+      "url": "https://twitter.com/Riasvdv"
+    },
+    "url": "https://twitter.com/Riasvdv/status/1228239018325880833",
+    "published": "2020-02-14T08:46:16+00:00",
+    "wm-received": "2020-02-14T09:46:00Z",
+    "wm-id": 756171,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1228237867110977536/1228239018325880833",
+    "wm-target": "https://sebastiandedeyne.com/javascript-framework-diet/event-delegation/",
+    "content": {
+      "text": "Part two of the JavaScript Framework Diet is out!\n\nAll about event delegation: sebastiandedeyne.com/javascript-fra…"
+    },
+    "repost-of": "https://sebastiandedeyne.com/javascript-framework-diet/event-delegation/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Mohamed Said",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/b6a409980f78d1765ab6935ede17defff5534a84172f4e82d72f5e561182e58f.jpg",
+      "url": "https://twitter.com/themsaid"
+    },
+    "url": "https://twitter.com/themsaid/status/1228238306975944705",
+    "published": "2020-02-14T08:43:26+00:00",
+    "wm-received": "2020-02-14T09:46:27Z",
+    "wm-id": 756172,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1228237867110977536/1228238306975944705",
+    "wm-target": "https://sebastiandedeyne.com/javascript-framework-diet/event-delegation/",
+    "content": {
+      "text": "Part two of the JavaScript Framework Diet is out!\n\nAll about event delegation: sebastiandedeyne.com/javascript-fra…"
+    },
+    "repost-of": "https://sebastiandedeyne.com/javascript-framework-diet/event-delegation/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Brent",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/686d15132c5218bf5e3da234f3fb0718754226ddec672c0f765ce82f3865bc83.png",
+      "url": "https://twitter.com/brendt_gd"
+    },
+    "url": "https://twitter.com/brendt_gd/status/1228243478989152256",
+    "published": "2020-02-14T09:03:59+00:00",
+    "wm-received": "2020-02-14T09:46:55Z",
+    "wm-id": 756173,
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1228243478989152256",
+    "wm-target": "https://sebastiandedeyne.com/javascript-framework-diet/event-delegation/",
+    "content": {
+      "html": "This is such a cool technique!\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/javascript-framework-diet/event-delegation/\"></a>",
+      "text": "This is such a cool technique!"
+    },
+    "mention-of": "https://sebastiandedeyne.com/javascript-framework-diet/event-delegation/",
+    "wm-property": "mention-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Ruslan",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/6114334d09745c23c21d748a3ffb0e5f0972472d77df8a83d2914859cbd3b5fd.jpg",
+      "url": "https://twitter.com/SuddenlyRust"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1228237867110977536#favorited-by-935107835045842944",
+    "published": null,
+    "wm-received": "2020-02-14T10:42:41Z",
+    "wm-id": 756191,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1228237867110977536/935107835045842944",
+    "wm-target": "https://sebastiandedeyne.com/javascript-framework-diet/event-delegation/",
+    "like-of": "https://sebastiandedeyne.com/javascript-framework-diet/event-delegation/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Daniel Sturm",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/550f6a3a0fdf9d409fff8244801bcebef37e1f028d90a043a0789cb5206a184d.jpg",
+      "url": "https://twitter.com/dcsturm"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1228237867110977536#favorited-by-38625116",
+    "published": null,
+    "wm-received": "2020-02-14T10:42:48Z",
+    "wm-id": 756192,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1228237867110977536/38625116",
+    "wm-target": "https://sebastiandedeyne.com/javascript-framework-diet/event-delegation/",
+    "like-of": "https://sebastiandedeyne.com/javascript-framework-diet/event-delegation/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Stefan Riehl",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/92644fb3272bb9bdb7d1661b7c71b05e3f7aed68420a84cb9c4b9ceaaacdecd5.png",
+      "url": "https://twitter.com/stefanriehl"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1228237867110977536#favorited-by-199046919",
+    "published": null,
+    "wm-received": "2020-02-14T10:42:57Z",
+    "wm-id": 756193,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1228237867110977536/199046919",
+    "wm-target": "https://sebastiandedeyne.com/javascript-framework-diet/event-delegation/",
+    "like-of": "https://sebastiandedeyne.com/javascript-framework-diet/event-delegation/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Don Kooijman",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/84e5b936a74edf8c015386624c21ed7a21bee6ceef25b7255123bb3455f2b5be.jpg",
+      "url": "https://twitter.com/donkooijman"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1228237867110977536#favorited-by-767894023",
+    "published": null,
+    "wm-received": "2020-02-14T10:43:06Z",
+    "wm-id": 756194,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1228237867110977536/767894023",
+    "wm-target": "https://sebastiandedeyne.com/javascript-framework-diet/event-delegation/",
+    "like-of": "https://sebastiandedeyne.com/javascript-framework-diet/event-delegation/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Richard Radermacher",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/5277a388649f0f63e0236cc171a6fcd7a7b84ea4092ad79c8a6ad52cc8a9b3b8.jpg",
+      "url": "https://twitter.com/radermacher_io"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1228237867110977536#favorited-by-35496266",
+    "published": null,
+    "wm-received": "2020-02-14T10:43:31Z",
+    "wm-id": 756195,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1228237867110977536/35496266",
+    "wm-target": "https://sebastiandedeyne.com/javascript-framework-diet/event-delegation/",
+    "like-of": "https://sebastiandedeyne.com/javascript-framework-diet/event-delegation/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Margulan",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/9b5fe51f9d287945b5afb4053a18aaf11cce7871c19e040cfbcad3bf7d853bab.jpg",
+      "url": "https://twitter.com/verymadpanda"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1228237867110977536#favorited-by-222508024",
+    "published": null,
+    "wm-received": "2020-02-14T10:43:37Z",
+    "wm-id": 756196,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1228237867110977536/222508024",
+    "wm-target": "https://sebastiandedeyne.com/javascript-framework-diet/event-delegation/",
+    "like-of": "https://sebastiandedeyne.com/javascript-framework-diet/event-delegation/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Julio Serpone",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/c3250acd62f42016939ec354395a00a92872bb61c12619d46399cc87057f8152.png",
+      "url": "https://twitter.com/julioserpone"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1228237867110977536#favorited-by-132610533",
+    "published": null,
+    "wm-received": "2020-02-14T10:43:45Z",
+    "wm-id": 756197,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1228237867110977536/132610533",
+    "wm-target": "https://sebastiandedeyne.com/javascript-framework-diet/event-delegation/",
+    "like-of": "https://sebastiandedeyne.com/javascript-framework-diet/event-delegation/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "t-kuni",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/c2620d2b40ecb0bf2ac6ae07ad96a148294f190954f6d27fad7913f6a2f8bd05.jpg",
+      "url": "https://twitter.com/t_kuni_"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1228237867110977536#favorited-by-952041380053839872",
+    "published": null,
+    "wm-received": "2020-02-14T10:43:57Z",
+    "wm-id": 756198,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1228237867110977536/952041380053839872",
+    "wm-target": "https://sebastiandedeyne.com/javascript-framework-diet/event-delegation/",
+    "like-of": "https://sebastiandedeyne.com/javascript-framework-diet/event-delegation/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Don Kooijman",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/84e5b936a74edf8c015386624c21ed7a21bee6ceef25b7255123bb3455f2b5be.jpg",
+      "url": "https://twitter.com/donkooijman"
+    },
+    "url": "https://twitter.com/donkooijman/status/1228256124257886208",
+    "published": "2020-02-14T09:54:14+00:00",
+    "wm-received": "2020-02-14T10:44:09Z",
+    "wm-id": 756199,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1228237867110977536/1228256124257886208",
+    "wm-target": "https://sebastiandedeyne.com/javascript-framework-diet/event-delegation/",
+    "content": {
+      "text": "Part two of the JavaScript Framework Diet is out!\n\nAll about event delegation: sebastiandedeyne.com/javascript-fra…"
+    },
+    "repost-of": "https://sebastiandedeyne.com/javascript-framework-diet/event-delegation/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Miguel Piedrafita 🚀",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/fa2e9a8dd19a716f2e068d287cc1edadff32bfe0ea77dc35362f10c903813132.png",
+      "url": "https://twitter.com/m1guelpf"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1228237867110977536#favorited-by-713094195955830785",
+    "published": null,
+    "wm-received": "2020-02-14T11:14:09Z",
+    "wm-id": 756204,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1228237867110977536/713094195955830785",
+    "wm-target": "https://sebastiandedeyne.com/javascript-framework-diet/event-delegation/",
+    "like-of": "https://sebastiandedeyne.com/javascript-framework-diet/event-delegation/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Faysal Ahamed",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/8e66bd2e6ab2e31609fe011090a711a436220b0f72a30d0b03d55f222aafc16d.jpg",
+      "url": "https://twitter.com/devfaysal"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1228237867110977536#favorited-by-581464283",
+    "published": null,
+    "wm-received": "2020-02-14T11:53:47Z",
+    "wm-id": 756208,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1228237867110977536/581464283",
+    "wm-target": "https://sebastiandedeyne.com/javascript-framework-diet/event-delegation/",
+    "like-of": "https://sebastiandedeyne.com/javascript-framework-diet/event-delegation/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "zoltan",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/1cbaea35cdd4b4b6274aa603ddb3c9ad136b47bbd101ae967cc0f691d5a117dd.png",
+      "url": "https://twitter.com/zltnf"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1228237867110977536#favorited-by-340399701",
+    "published": null,
+    "wm-received": "2020-02-14T11:53:58Z",
+    "wm-id": 756209,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1228237867110977536/340399701",
+    "wm-target": "https://sebastiandedeyne.com/javascript-framework-diet/event-delegation/",
+    "like-of": "https://sebastiandedeyne.com/javascript-framework-diet/event-delegation/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Ian Rodrigues 🚴 🐘",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/0d88581102a31b89d209981a25fa9a2ade74a2319b7b4e8fbdfb0a5871131aae.jpg",
+      "url": "https://twitter.com/ianrdgs"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1228237867110977536#favorited-by-2922169445",
+    "published": null,
+    "wm-received": "2020-02-14T11:54:07Z",
+    "wm-id": 756210,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1228237867110977536/2922169445",
+    "wm-target": "https://sebastiandedeyne.com/javascript-framework-diet/event-delegation/",
+    "like-of": "https://sebastiandedeyne.com/javascript-framework-diet/event-delegation/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Akin",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/f95c467db5f77cdf977a2ebc50616440b2868f5f6aeadd527ec1d8d48d67a50f.jpg",
+      "url": "https://twitter.com/akoshodi"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1228237867110977536#favorited-by-43550567",
+    "published": null,
+    "wm-received": "2020-02-14T11:54:10Z",
+    "wm-id": 756211,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1228237867110977536/43550567",
+    "wm-target": "https://sebastiandedeyne.com/javascript-framework-diet/event-delegation/",
+    "like-of": "https://sebastiandedeyne.com/javascript-framework-diet/event-delegation/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Faysal Ahamed",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/8e66bd2e6ab2e31609fe011090a711a436220b0f72a30d0b03d55f222aafc16d.jpg",
+      "url": "https://twitter.com/devfaysal"
+    },
+    "url": "https://twitter.com/devfaysal/status/1228284585915473920",
+    "published": "2020-02-14T11:47:20+00:00",
+    "wm-received": "2020-02-14T11:54:24Z",
+    "wm-id": 756212,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1228237867110977536/1228284585915473920",
+    "wm-target": "https://sebastiandedeyne.com/javascript-framework-diet/event-delegation/",
+    "content": {
+      "text": "Part two of the JavaScript Framework Diet is out!\n\nAll about event delegation: sebastiandedeyne.com/javascript-fra…"
+    },
+    "repost-of": "https://sebastiandedeyne.com/javascript-framework-diet/event-delegation/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "GBWDev",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/7cc514d9e6fa724b24de20978f7c922ef7fdb20f0154d8d10f0ba23b26207f6c.jpg",
+      "url": "https://twitter.com/DevGbw"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1228237867110977536#favorited-by-1133743676994334721",
+    "published": null,
+    "wm-received": "2020-02-14T12:30:57Z",
+    "wm-id": 756219,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1228237867110977536/1133743676994334721",
+    "wm-target": "https://sebastiandedeyne.com/javascript-framework-diet/event-delegation/",
+    "like-of": "https://sebastiandedeyne.com/javascript-framework-diet/event-delegation/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Thibault Six",
+      "photo": "https://pbs.twimg.com/profile_images/398199793/graph.bmp",
+      "url": "https://twitter.com/CastorObese"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1228237867110977536#favorited-by-71402894",
+    "published": null,
+    "wm-received": "2020-02-14T13:09:58Z",
+    "wm-id": 756227,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1228237867110977536/71402894",
+    "wm-target": "https://sebastiandedeyne.com/javascript-framework-diet/event-delegation/",
+    "like-of": "https://sebastiandedeyne.com/javascript-framework-diet/event-delegation/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "kjshah",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/4d8f079bf912b8d6ff4ce6ffbc27876785dcd5c199a98925a256051fbec6670e.jpg",
+      "url": "https://twitter.com/kjshah"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1228237867110977536#favorited-by-15086652",
+    "published": null,
+    "wm-received": "2020-02-14T13:10:30Z",
+    "wm-id": 756228,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1228237867110977536/15086652",
+    "wm-target": "https://sebastiandedeyne.com/javascript-framework-diet/event-delegation/",
+    "like-of": "https://sebastiandedeyne.com/javascript-framework-diet/event-delegation/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "José Cage",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/5484f83bfa8b58693f5d9f2014d83a37c01ccdb60b7da45b1325949d446599ed.jpg",
+      "url": "https://twitter.com/cagejose"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1228237867110977536#favorited-by-944899327",
+    "published": null,
+    "wm-received": "2020-02-14T13:10:55Z",
+    "wm-id": 756229,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1228237867110977536/944899327",
+    "wm-target": "https://sebastiandedeyne.com/javascript-framework-diet/event-delegation/",
+    "like-of": "https://sebastiandedeyne.com/javascript-framework-diet/event-delegation/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Dean Kaplan",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/46851db7074f104170674cffcfd5a82692dc02b9b39a058981754e53faa937de.jpg",
+      "url": "https://twitter.com/kapsoft"
+    },
+    "url": "https://twitter.com/kapsoft/status/1228303157324926978",
+    "published": "2020-02-14T13:01:08+00:00",
+    "wm-received": "2020-02-14T13:10:58Z",
+    "wm-id": 756230,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1228237867110977536/1228303157324926978",
+    "wm-target": "https://sebastiandedeyne.com/javascript-framework-diet/event-delegation/",
+    "content": {
+      "text": "Part two of the JavaScript Framework Diet is out!\n\nAll about event delegation: sebastiandedeyne.com/javascript-fra…"
+    },
+    "repost-of": "https://sebastiandedeyne.com/javascript-framework-diet/event-delegation/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Benjamin Crozat",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/75ac34c8b625df7713df2f7a3bd58e100b8a3e8c525b3256d6787a6ad9d21dab.jpg",
+      "url": "https://twitter.com/benjamincrozat"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1228237867110977536#favorited-by-71785320",
+    "published": null,
+    "wm-received": "2020-02-14T13:54:47Z",
+    "wm-id": 756238,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1228237867110977536/71785320",
+    "wm-target": "https://sebastiandedeyne.com/javascript-framework-diet/event-delegation/",
+    "like-of": "https://sebastiandedeyne.com/javascript-framework-diet/event-delegation/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "OMAG11",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/e3839832db0465c4f17a46cfb84a1103785490f804d2f6eca37322712fb5bded.jpg",
+      "url": "https://twitter.com/mallz11"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1228237867110977536#favorited-by-276932088",
+    "published": null,
+    "wm-received": "2020-02-14T13:55:29Z",
+    "wm-id": 756239,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1228237867110977536/276932088",
+    "wm-target": "https://sebastiandedeyne.com/javascript-framework-diet/event-delegation/",
+    "like-of": "https://sebastiandedeyne.com/javascript-framework-diet/event-delegation/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "finalFlick",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/7c0c241dccfcb2f61310c7ffa4bea985dd01a073e8a9af7831809e991edccada.jpg",
+      "url": "https://twitter.com/finalFlick"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1228237867110977536#favorited-by-1343643331",
+    "published": null,
+    "wm-received": "2020-02-14T14:30:06Z",
+    "wm-id": 756245,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1228237867110977536/1343643331",
+    "wm-target": "https://sebastiandedeyne.com/javascript-framework-diet/event-delegation/",
+    "like-of": "https://sebastiandedeyne.com/javascript-framework-diet/event-delegation/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Gaurav Makhecha",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/c9d17fd8758c47bca7d15acefc9798aaa3c4807011a56fdfa7e60ad304c37784.jpg",
+      "url": "https://twitter.com/gauravmakhecha"
+    },
+    "url": "https://twitter.com/gauravmakhecha/status/1228265712583467008",
+    "published": "2020-02-14T10:32:20+00:00",
+    "wm-received": "2020-02-14T14:30:26Z",
+    "wm-id": 756246,
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1228321075240620033",
+    "wm-target": "https://sebastiandedeyne.com/javascript-framework-diet/event-delegation/",
+    "content": {
+      "html": "11/ <a href=\"https://twitter.com/sebdedeyne\">@sebdedeyne</a> is here with Part 3 of the JavaScript Framework Diet. It's a good series of posts (in progress) to learn Javascript 👨‍🏫️\n\n<a href=\"https://twitter.com/sebdedeyne/status/1228237867110977536?s=20\">twitter.com/sebdedeyne/sta…</a>\n\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/javascript-framework-diet/event-delegation/\"></a>",
+      "text": "11/ @sebdedeyne is here with Part 3 of the JavaScript Framework Diet. It's a good series of posts (in progress) to learn Javascript 👨‍🏫️\n\ntwitter.com/sebdedeyne/sta…"
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/javascript-framework-diet/event-delegation/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Anton Kristensen",
+      "photo": "https://webmention.io/avatar/abs.twimg.com/0e6b2cd70aa5b35dec24ca4e1e63f8963f0118736d9ec3bba77e3a8c99a27bc2.png",
+      "url": "https://twitter.com/anton_n_k"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1228237867110977536#favorited-by-900607711347445760",
+    "published": null,
+    "wm-received": "2020-02-14T15:34:32Z",
+    "wm-id": 756258,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1228237867110977536/900607711347445760",
+    "wm-target": "https://sebastiandedeyne.com/javascript-framework-diet/event-delegation/",
+    "like-of": "https://sebastiandedeyne.com/javascript-framework-diet/event-delegation/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Stefan Zweifel",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/3b772e9239dfd15ce8527f90edd45d0678849d57b28725cc69f929bb4f11cf06.jpg",
+      "url": "https://twitter.com/_stefanzweifel"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1228237867110977536#favorited-by-76577495",
+    "published": null,
+    "wm-received": "2020-02-14T15:34:46Z",
+    "wm-id": 756259,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1228237867110977536/76577495",
+    "wm-target": "https://sebastiandedeyne.com/javascript-framework-diet/event-delegation/",
+    "like-of": "https://sebastiandedeyne.com/javascript-framework-diet/event-delegation/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Khai Rahman",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/645cc86f9b4290d8f54ec6b46ecb29ace374706b47d2a1f152e0b494d13adda3.jpg",
+      "url": "https://twitter.com/m_khairahman"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1228237867110977536#favorited-by-910440206074970113",
+    "published": null,
+    "wm-received": "2020-02-14T17:55:30Z",
+    "wm-id": 756301,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1228237867110977536/910440206074970113",
+    "wm-target": "https://sebastiandedeyne.com/javascript-framework-diet/event-delegation/",
+    "like-of": "https://sebastiandedeyne.com/javascript-framework-diet/event-delegation/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Barnabas Kecskes",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/0406d0d97ee9c064c1b52c3cbed48ac0758ba10936fd93251e4f287e5de09273.jpg",
+      "url": "https://twitter.com/BarnabasKecskes"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1228237867110977536#favorited-by-364561173",
+    "published": null,
+    "wm-received": "2020-02-14T17:55:37Z",
+    "wm-id": 756302,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1228237867110977536/364561173",
+    "wm-target": "https://sebastiandedeyne.com/javascript-framework-diet/event-delegation/",
+    "like-of": "https://sebastiandedeyne.com/javascript-framework-diet/event-delegation/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Khai Rahman",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/645cc86f9b4290d8f54ec6b46ecb29ace374706b47d2a1f152e0b494d13adda3.jpg",
+      "url": "https://twitter.com/m_khairahman"
+    },
+    "url": "https://twitter.com/m_khairahman/status/1228376510337146880",
+    "published": "2020-02-14T17:52:36+00:00",
+    "wm-received": "2020-02-14T17:55:45Z",
+    "wm-id": 756303,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1228237867110977536/1228376510337146880",
+    "wm-target": "https://sebastiandedeyne.com/javascript-framework-diet/event-delegation/",
+    "content": {
+      "text": "Part two of the JavaScript Framework Diet is out!\n\nAll about event delegation: sebastiandedeyne.com/javascript-fra…"
+    },
+    "repost-of": "https://sebastiandedeyne.com/javascript-framework-diet/event-delegation/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Franck",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/155f4004d9b7a712962048c96209fd0cead8523a2153e33741a3a993c77ed783.png",
+      "url": "https://twitter.com/franckmercado"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1228237867110977536#favorited-by-14915984",
+    "published": null,
+    "wm-received": "2020-02-14T18:51:09Z",
+    "wm-id": 756309,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1228237867110977536/14915984",
+    "wm-target": "https://sebastiandedeyne.com/javascript-framework-diet/event-delegation/",
+    "like-of": "https://sebastiandedeyne.com/javascript-framework-diet/event-delegation/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Serhii Andriichuk 🚀",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/3e328b06b79e8b34e0dd2dc9aae9b8b58cb2d9d743a507268c3071d440307965.jpg",
+      "url": "https://twitter.com/andriichuk29"
+    },
+    "url": "https://twitter.com/andriichuk29/status/1228389569290174465",
+    "published": "2020-02-14T18:44:30+00:00",
+    "wm-received": "2020-02-14T18:51:59Z",
+    "wm-id": 756310,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1228237867110977536/1228389569290174465",
+    "wm-target": "https://sebastiandedeyne.com/javascript-framework-diet/event-delegation/",
+    "content": {
+      "text": "Part two of the JavaScript Framework Diet is out!\n\nAll about event delegation: sebastiandedeyne.com/javascript-fra…"
+    },
+    "repost-of": "https://sebastiandedeyne.com/javascript-framework-diet/event-delegation/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Franck",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/155f4004d9b7a712962048c96209fd0cead8523a2153e33741a3a993c77ed783.png",
+      "url": "https://twitter.com/franckmercado"
+    },
+    "url": "https://twitter.com/franckmercado/status/1228379094322155522",
+    "published": "2020-02-14T18:02:52+00:00",
+    "wm-received": "2020-02-14T18:52:07Z",
+    "wm-id": 756311,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1228237867110977536/1228379094322155522",
+    "wm-target": "https://sebastiandedeyne.com/javascript-framework-diet/event-delegation/",
+    "content": {
+      "text": "Part two of the JavaScript Framework Diet is out!\n\nAll about event delegation: sebastiandedeyne.com/javascript-fra…"
+    },
+    "repost-of": "https://sebastiandedeyne.com/javascript-framework-diet/event-delegation/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Mladen Danić",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/1e5fabd89ecba68cbfce5a58a039e7afa838155087b9ceb20c3572464ed6f8ad.jpg",
+      "url": "https://twitter.com/Maidomax"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1228237867110977536#favorited-by-33839132",
+    "published": null,
+    "wm-received": "2020-02-14T22:55:47Z",
+    "wm-id": 756361,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1228237867110977536/33839132",
+    "wm-target": "https://sebastiandedeyne.com/javascript-framework-diet/event-delegation/",
+    "like-of": "https://sebastiandedeyne.com/javascript-framework-diet/event-delegation/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Diego Lorenzo",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/71c3e603d09392512270af8951e08372839d1fa47c871f35cfd559ac892a881f.png",
+      "url": "https://twitter.com/weerd"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1228237867110977536#favorited-by-25559793",
+    "published": null,
+    "wm-received": "2020-02-15T06:18:17Z",
+    "wm-id": 756440,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1228237867110977536/25559793",
+    "wm-target": "https://sebastiandedeyne.com/javascript-framework-diet/event-delegation/",
+    "like-of": "https://sebastiandedeyne.com/javascript-framework-diet/event-delegation/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Haoran Un",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/935f541fc76eb68a2f978f527a7ee2c5c7a86915486bee057be20b727cc56356.jpg",
+      "url": "https://twitter.com/thehaoran"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1228237867110977536#favorited-by-46547313",
+    "published": null,
+    "wm-received": "2020-02-15T10:09:49Z",
+    "wm-id": 756463,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1228237867110977536/46547313",
+    "wm-target": "https://sebastiandedeyne.com/javascript-framework-diet/event-delegation/",
+    "like-of": "https://sebastiandedeyne.com/javascript-framework-diet/event-delegation/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Daniel Schmitz",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/ece1042e9242019cf9f90d834fff5c451612ed4b5135f08343a7428d313e703f.jpg",
+      "url": "https://twitter.com/bashgeek"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1228237867110977536#favorited-by-48294665",
+    "published": null,
+    "wm-received": "2020-02-15T12:53:38Z",
+    "wm-id": 756492,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1228237867110977536/48294665",
+    "wm-target": "https://sebastiandedeyne.com/javascript-framework-diet/event-delegation/",
+    "like-of": "https://sebastiandedeyne.com/javascript-framework-diet/event-delegation/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Alexandre Dieulot",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/d4d87d4c17af9d6868e387cc5c107a77f9d1a199e0fdf755a9d942573e58a822.jpg",
+      "url": "https://twitter.com/Dieulot"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1228237867110977536#favorited-by-382182042",
+    "published": null,
+    "wm-received": "2020-02-15T12:54:05Z",
+    "wm-id": 756493,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1228237867110977536/382182042",
+    "wm-target": "https://sebastiandedeyne.com/javascript-framework-diet/event-delegation/",
+    "like-of": "https://sebastiandedeyne.com/javascript-framework-diet/event-delegation/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Tiagosimoes",
+      "photo": "https://webmention.io/avatar/abs.twimg.com/0e6b2cd70aa5b35dec24ca4e1e63f8963f0118736d9ec3bba77e3a8c99a27bc2.png",
+      "url": "https://twitter.com/Tiagosimoesdev"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1228237867110977536#favorited-by-1069719524373684225",
+    "published": null,
+    "wm-received": "2020-02-15T14:05:58Z",
+    "wm-id": 756501,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1228237867110977536/1069719524373684225",
+    "wm-target": "https://sebastiandedeyne.com/javascript-framework-diet/event-delegation/",
+    "like-of": "https://sebastiandedeyne.com/javascript-framework-diet/event-delegation/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+]

@@ -96,7 +96,7 @@
   </section>
 {{ end }}
 
-{{ with index $.Site.Data.webmentions (trim .RelPermalink "/") }}
+{{ with index $.Site.Data.webmentions (replace (trim .RelPermalink "/") "/" "--") }}
   {{ with where . "wm-property" "in" (slice "in-reply-to" "mention-of") }}
     <hr>
     <h2 class="h2 mt-6">

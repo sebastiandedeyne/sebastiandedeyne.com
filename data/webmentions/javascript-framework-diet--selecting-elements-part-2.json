@@ -1,0 +1,167 @@
+[
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Mithicher Baro",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/b4ee0c303dd27e391b702d9713c984efbbf051c6948b0dc2164dc17a3747bdd7.png",
+      "url": "https://twitter.com/mithicher"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1225356563025661952#favorited-by-1315799845",
+    "published": null,
+    "wm-received": "2020-02-06T11:22:38Z",
+    "wm-id": 752810,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1225356563025661952/1315799845",
+    "wm-target": "https://sebastiandedeyne.com/javascript-framework-diet/selecting-elements-part-2/",
+    "like-of": "https://sebastiandedeyne.com/javascript-framework-diet/selecting-elements-part-2/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "oluwajubelo loves VueJS 🚨",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/b46941f64275ee2ae7ae9618ba0d3b60e9ab8ce6a343ff90b0e905321a4c24de.jpg",
+      "url": "https://twitter.com/igeoluwasegun1"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1225356563025661952#favorited-by-982451690",
+    "published": null,
+    "wm-received": "2020-02-06T11:22:44Z",
+    "wm-id": 752811,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1225356563025661952/982451690",
+    "wm-target": "https://sebastiandedeyne.com/javascript-framework-diet/selecting-elements-part-2/",
+    "like-of": "https://sebastiandedeyne.com/javascript-framework-diet/selecting-elements-part-2/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Tim Hanlon",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/daf1ef5c7c0dee839428be4387a7c63eedf9dd0bf390d9e7d74ae2b8227882b6.jpg",
+      "url": "https://twitter.com/timhnln"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1225356563025661952#favorited-by-19687104",
+    "published": null,
+    "wm-received": "2020-02-06T11:22:59Z",
+    "wm-id": 752812,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1225356563025661952/19687104",
+    "wm-target": "https://sebastiandedeyne.com/javascript-framework-diet/selecting-elements-part-2/",
+    "like-of": "https://sebastiandedeyne.com/javascript-framework-diet/selecting-elements-part-2/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Miguel Piedrafita 🚀",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/fa2e9a8dd19a716f2e068d287cc1edadff32bfe0ea77dc35362f10c903813132.png",
+      "url": "https://twitter.com/m1guelpf"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1225356563025661952#favorited-by-713094195955830785",
+    "published": null,
+    "wm-received": "2020-02-06T11:23:13Z",
+    "wm-id": 752813,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1225356563025661952/713094195955830785",
+    "wm-target": "https://sebastiandedeyne.com/javascript-framework-diet/selecting-elements-part-2/",
+    "like-of": "https://sebastiandedeyne.com/javascript-framework-diet/selecting-elements-part-2/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Mithicher Baro",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/b4ee0c303dd27e391b702d9713c984efbbf051c6948b0dc2164dc17a3747bdd7.png",
+      "url": "https://twitter.com/mithicher"
+    },
+    "url": "https://twitter.com/mithicher/status/1225369945992646656",
+    "published": "2020-02-06T10:45:36+00:00",
+    "wm-received": "2020-02-06T11:24:42Z",
+    "wm-id": 752814,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1225356563025661952/1225369945992646656",
+    "wm-target": "https://sebastiandedeyne.com/javascript-framework-diet/selecting-elements-part-2/",
+    "content": {
+      "text": "Part 2: Selecting elements (2/2)\n\nHere we look into .closest() and .matches(), two lesser known but very powerful native DOM functions\n\nhttp"
+    },
+    "repost-of": "https://sebastiandedeyne.com/javascript-framework-diet/selecting-elements-part-2/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Placebo Domingo",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/e4e5c7afc00eecf6bbd1e2a252dcb0846ab93beff36410251c4fa68a7450a145.jpg",
+      "url": "https://twitter.com/brbcoding"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1225356563025661952#favorited-by-1157124170066595840",
+    "published": null,
+    "wm-received": "2020-02-06T14:40:53Z",
+    "wm-id": 752892,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1225356563025661952/1157124170066595840",
+    "wm-target": "https://sebastiandedeyne.com/javascript-framework-diet/selecting-elements-part-2/",
+    "like-of": "https://sebastiandedeyne.com/javascript-framework-diet/selecting-elements-part-2/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Lambert Traccard",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/0092681de01f8f15b50eaefca8c54cafc66c7490050d59bc1bf6bcfac892c184.jpg",
+      "url": "https://twitter.com/lamberttraccard"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1225356563025661952#favorited-by-236706279",
+    "published": null,
+    "wm-received": "2020-02-06T23:29:15Z",
+    "wm-id": 753041,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1225356563025661952/236706279",
+    "wm-target": "https://sebastiandedeyne.com/javascript-framework-diet/selecting-elements-part-2/",
+    "like-of": "https://sebastiandedeyne.com/javascript-framework-diet/selecting-elements-part-2/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Ruslan",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/6114334d09745c23c21d748a3ffb0e5f0972472d77df8a83d2914859cbd3b5fd.jpg",
+      "url": "https://twitter.com/SuddenlyRust"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1225356563025661952#favorited-by-935107835045842944",
+    "published": null,
+    "wm-received": "2020-02-07T08:04:22Z",
+    "wm-id": 753181,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1225356563025661952/935107835045842944",
+    "wm-target": "https://sebastiandedeyne.com/javascript-framework-diet/selecting-elements-part-2/",
+    "like-of": "https://sebastiandedeyne.com/javascript-framework-diet/selecting-elements-part-2/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Jente Severi",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/1f37bb2d5d0acceec7b6fc3544011c86c58876ef2478434ab2b31b4cb6ecb0e7.jpg",
+      "url": "https://twitter.com/JenteSeveri"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1225356563025661952#favorited-by-858306819005001733",
+    "published": null,
+    "wm-received": "2020-02-08T10:24:48Z",
+    "wm-id": 753591,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1225356563025661952/858306819005001733",
+    "wm-target": "https://sebastiandedeyne.com/javascript-framework-diet/selecting-elements-part-2/",
+    "like-of": "https://sebastiandedeyne.com/javascript-framework-diet/selecting-elements-part-2/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+]
