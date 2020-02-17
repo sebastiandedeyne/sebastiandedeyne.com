@@ -1,25 +1,26 @@
 const fs = require("fs");
 const https = require("https");
 
-const token = process.env.WEBMENTIONS_TOKEN;
+const postSlugs = fs.readdirSync(`${__dirname}/content/posts`).flatMap(path => {
+  const fullPath = `${__dirname}/content/posts/${path}`;
 
-const since = new Date();
-since.setDate(since.getDate() - 1);
+  if (fs.lstatSync(fullPath).isDirectory()) {
+    return fs
+      .readdirSync(fullPath)
+      .map(subPath => `${path}--${subPath.replace(".md", "")}`);
+  }
 
-const url =
-  "https://webmention.io/api/mentions.jf2" +
-  "?domain=sebastiandedeyne.com" +
-  `&token=${token}` +
-  `&since=${since.toISOString()}` +
-  "&per-page=999";
+  return [path.replace(".md", "")];
+});
 
-fetch(url)
-  .then(response => {
-    if (!("children" in response)) {
-      throw new Error("Invalid webmention.io response");
-    }
+fetchWebmentions().then(webmentionsResponse => {
+  if (!("children" in webmentionsResponse)) {
+    throw new Error("Invalid webmention.io response.");
+  }
 
-    response.children.filter(isPost).forEach(entry => {
+  webmentionsResponse.children
+    .filter(entry => postSlugs.includes(getSlug(entry)))
+    .forEach(entry => {
       const filename = `${__dirname}/data/webmentions/${getSlug(entry)}.json`;
 
       if (!fs.existsSync(filename)) {
@@ -34,28 +35,7 @@ fetch(url)
 
       fs.writeFileSync(filename, JSON.stringify(newEntries, null, 2));
     });
-  })
-  .catch(error => {
-    setTimeout(() => {
-      throw error;
-    });
-  });
-
-const postSlugs = fs.readdirSync(`${__dirname}/content/posts`).flatMap(path => {
-  const fullPath = `${__dirname}/content/posts/${path}`;
-
-  if (fs.lstatSync(fullPath).isDirectory()) {
-    return fs
-      .readdirSync(fullPath)
-      .map(subPath => `${path}--${subPath.replace(".md", "")}`);
-  }
-
-  return [path.replace(".md", "")];
 });
-
-function isPost(entry) {
-  return postSlugs.includes(getSlug(entry));
-}
 
 function getSlug(entry) {
   return entry["wm-target"]
@@ -64,7 +44,19 @@ function getSlug(entry) {
     .replace("/", "--");
 }
 
-function fetch(url) {
+function fetchWebmentions(url) {
+  const token = process.env.WEBMENTIONS_TOKEN;
+
+  const since = new Date();
+  since.setDate(since.getDate() - 1);
+
+  const url =
+    "https://webmention.io/api/mentions.jf2" +
+    "?domain=sebastiandedeyne.com" +
+    `&token=${token}` +
+    `&since=${since.toISOString()}` +
+    "&per-page=999";
+
   return new Promise((resolve, reject) => {
     https
       .get(url, res => {
