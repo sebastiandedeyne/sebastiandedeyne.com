@@ -115,7 +115,11 @@ hr {
 }
 
 .markup ul {
-  @apply list-disc pl-4;
+  @apply list-disc list-inside;
+}
+
+.markup ol {
+  @apply list-decimal list-inside;
 }
 
 .markup img {
