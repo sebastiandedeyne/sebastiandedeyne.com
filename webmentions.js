@@ -44,7 +44,7 @@ function getSlug(entry) {
     .replace("/", "--");
 }
 
-function fetchWebmentions(url) {
+function fetchWebmentions() {
   const token = process.env.WEBMENTIONS_TOKEN;
 
   const since = new Date();
