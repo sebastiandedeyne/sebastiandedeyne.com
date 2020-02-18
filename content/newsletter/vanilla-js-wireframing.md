@@ -30,6 +30,8 @@ I started to wireframe the project and decided to share my progress on Twitter. 
 
 I'm using [wires](https://github.com/spatie/wires), a little internal prototyping tool, which is a Next.js app with some added utilities for prototyping. The tool is open-source on GitHub but undocumented for now.
 
+Follow along on the ever-growing [Twitter thread](https://twitter.com/sebdedeyne/status/1222251989926543366)!
+
 ## On the horizon
 
 I have some time off next week, so I'll probably be taking a break from the JavaScript Framework Diet until March. Next month, I'm going to continue my weekly streak of posts, and resume my work on the backup app wireframes.
