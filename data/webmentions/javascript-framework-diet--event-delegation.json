@@ -1091,5 +1091,41 @@
     "like-of": "https://sebastiandedeyne.com/javascript-framework-diet/event-delegation/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Cody",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/8020cb7e8a3900a3cd1c095ef9370f9383567267e15a746dd70959b60e09f112.jpg",
+      "url": "https://twitter.com/itscodymonk"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1228237867110977536#favorited-by-287070882",
+    "published": null,
+    "wm-received": "2020-02-18T18:47:25Z",
+    "wm-id": 757789,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1228237867110977536/287070882",
+    "wm-target": "https://sebastiandedeyne.com/javascript-framework-diet/event-delegation/",
+    "like-of": "https://sebastiandedeyne.com/javascript-framework-diet/event-delegation/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Roman Pronskiy",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/9373f62b650e88f9265f5742739d93f3fbaa1f7d60d8593c694c25821996528e.png",
+      "url": "https://twitter.com/pronskiy"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1228237867110977536#favorited-by-156592964",
+    "published": null,
+    "wm-received": "2020-02-18T22:15:03Z",
+    "wm-id": 757899,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1228237867110977536/156592964",
+    "wm-target": "https://sebastiandedeyne.com/javascript-framework-diet/event-delegation/",
+    "like-of": "https://sebastiandedeyne.com/javascript-framework-diet/event-delegation/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
