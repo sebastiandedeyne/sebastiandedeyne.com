@@ -14,9 +14,10 @@ posts:
     slug: javascript-framework-diet/selecting-elements-part-2
   - title: Event delegation
     slug: javascript-framework-diet/event-delegation
+  - title: File structure
+    slug: javascript-framework-diet/file-structure
   - title: Dropdowns
   - title: Enter and leave transitions
   - title: Modals (part 1)
   - title: Modals (part 2)
   - title: Live updating data
-  - title: More under development

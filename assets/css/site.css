@@ -233,7 +233,7 @@ hr {
 }
 
 .markup aside {
-  @apply text-gray-600 text-xs my-12;
+  @apply text-gray-600 text-xs mt-8;
 }
 
 .markup aside p + p {
