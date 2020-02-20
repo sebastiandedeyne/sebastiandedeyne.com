@@ -1392,5 +1392,27 @@
     "mention-of": "https://sebastiandedeyne.com/mailcoachs-lack-of-javascript-stack/",
     "wm-property": "mention-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Digital news",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/191d96822664ae8567862915a5c145c9ea6183faee23ad2ea912787611634753.png",
+      "url": "https://twitter.com/digitalnews__"
+    },
+    "url": "https://twitter.com/digitalnews__/status/1230307752272154631",
+    "published": "2020-02-20T01:46:40+00:00",
+    "wm-received": "2020-02-20T02:20:27Z",
+    "wm-id": 758477,
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1230307752272154631",
+    "wm-target": "https://sebastiandedeyne.com/mailcoachs-lack-of-javascript-stack/",
+    "content": {
+      "html": "Mailcoach's (lack of) JavaScript stack <a href=\"https://sebastiandedeyne.com/mailcoachs-lack-of-javascript-stack/\">sebastiandedeyne.com/mailcoachs-lac…</a>  <a href=\"https://twitter.com/search?q=%23Javascript\">#Javascript</a>",
+      "text": "Mailcoach's (lack of) JavaScript stack sebastiandedeyne.com/mailcoachs-lac…  #Javascript"
+    },
+    "mention-of": "https://sebastiandedeyne.com/mailcoachs-lack-of-javascript-stack/",
+    "wm-property": "mention-of",
+    "wm-private": false
   }
 ]
