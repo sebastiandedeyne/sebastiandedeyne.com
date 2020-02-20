@@ -235,5 +235,116 @@
     "like-of": "https://sebastiandedeyne.com/javascript-framework-diet/file-structure/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Jan Cuan Erz",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/34d0008f22ca43ed088c2096f87f8be53e56d9e711d9146732a2c54055bcc60e.jpg",
+      "url": "https://twitter.com/CuanJan"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1230414825110540288#favorited-by-1185923128049799169",
+    "published": null,
+    "wm-received": "2020-02-20T12:13:04Z",
+    "wm-id": 758630,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1230414825110540288/1185923128049799169",
+    "wm-target": "https://sebastiandedeyne.com/javascript-framework-diet/file-structure/",
+    "like-of": "https://sebastiandedeyne.com/javascript-framework-diet/file-structure/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Sebastian Rasch",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/ac27838b567d045dce10c181acee0995fd14e3d68c447c5c46cff5e55c6ef10c.jpg",
+      "url": "https://twitter.com/raschsebastian"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1230414825110540288#favorited-by-1169891222267162626",
+    "published": null,
+    "wm-received": "2020-02-20T14:08:11Z",
+    "wm-id": 758661,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1230414825110540288/1169891222267162626",
+    "wm-target": "https://sebastiandedeyne.com/javascript-framework-diet/file-structure/",
+    "like-of": "https://sebastiandedeyne.com/javascript-framework-diet/file-structure/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Wyatt",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/d2450d3284e8d38d88102d508c02f4095e3eee613cc83e87e45d58ded3d90c8f.jpg",
+      "url": "https://twitter.com/WyattCastaned44"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1230414825110540288#favorited-by-534528249",
+    "published": null,
+    "wm-received": "2020-02-20T14:08:22Z",
+    "wm-id": 758662,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1230414825110540288/534528249",
+    "wm-target": "https://sebastiandedeyne.com/javascript-framework-diet/file-structure/",
+    "like-of": "https://sebastiandedeyne.com/javascript-framework-diet/file-structure/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Sohail",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/1a838072e2ffd2e40c3bb64b201b39ea8194cfa802c53c2b173c9084caa5ed44.jpg",
+      "url": "https://twitter.com/_SohailQamar"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1230414825110540288#favorited-by-273831116",
+    "published": null,
+    "wm-received": "2020-02-20T16:14:20Z",
+    "wm-id": 758720,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1230414825110540288/273831116",
+    "wm-target": "https://sebastiandedeyne.com/javascript-framework-diet/file-structure/",
+    "like-of": "https://sebastiandedeyne.com/javascript-framework-diet/file-structure/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Sohail",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/1a838072e2ffd2e40c3bb64b201b39ea8194cfa802c53c2b173c9084caa5ed44.jpg",
+      "url": "https://twitter.com/_SohailQamar"
+    },
+    "url": "https://twitter.com/_SohailQamar/status/1230525748529815553",
+    "published": "2020-02-20T16:12:55+00:00",
+    "wm-received": "2020-02-20T16:14:27Z",
+    "wm-id": 758721,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1230414825110540288/1230525748529815553",
+    "wm-target": "https://sebastiandedeyne.com/javascript-framework-diet/file-structure/",
+    "content": {
+      "text": "Part 5 of the JavaScript Framework Diet is all about file structure. A brief explanation on how I keep things organized in a vanilla JS pro"
+    },
+    "repost-of": "https://sebastiandedeyne.com/javascript-framework-diet/file-structure/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Jens",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/900de671f26d799505df392b23320d7b38d1557279ee5d38065fe4d23c5d4087.jpg",
+      "url": "https://twitter.com/jacksonnnIV"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1230414825110540288#favorited-by-881164954170273793",
+    "published": null,
+    "wm-received": "2020-02-20T17:31:08Z",
+    "wm-id": 758756,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1230414825110540288/881164954170273793",
+    "wm-target": "https://sebastiandedeyne.com/javascript-framework-diet/file-structure/",
+    "like-of": "https://sebastiandedeyne.com/javascript-framework-diet/file-structure/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
