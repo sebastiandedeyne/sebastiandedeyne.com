@@ -346,5 +346,98 @@
     "like-of": "https://sebastiandedeyne.com/javascript-framework-diet/file-structure/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Johnathan Barrett",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/30c61846c879a71f90219fa6d98142576025bf06277b636a9676374018190bd6.png",
+      "url": "https://twitter.com/Johnathan1707"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1230414825110540288#favorited-by-14318719",
+    "published": null,
+    "wm-received": "2020-02-20T21:49:06Z",
+    "wm-id": 758838,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1230414825110540288/14318719",
+    "wm-target": "https://sebastiandedeyne.com/javascript-framework-diet/file-structure/",
+    "like-of": "https://sebastiandedeyne.com/javascript-framework-diet/file-structure/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Spatie",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/3efb487e7f3a0bc3690580277105f93eda590d65e4d9eb01135a184a9df60b18.jpg",
+      "url": "https://twitter.com/spatie_be"
+    },
+    "url": "https://twitter.com/spatie_be/status/1230607481983950855",
+    "published": "2020-02-20T21:37:41+00:00",
+    "wm-received": "2020-02-20T21:49:15Z",
+    "wm-id": 758839,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1230414825110540288/1230607481983950855",
+    "wm-target": "https://sebastiandedeyne.com/javascript-framework-diet/file-structure/",
+    "content": {
+      "text": "Part 5 of the JavaScript Framework Diet is all about file structure. A brief explanation on how I keep things organized in a vanilla JS pro"
+    },
+    "repost-of": "https://sebastiandedeyne.com/javascript-framework-diet/file-structure/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Anton Kristensen",
+      "photo": "https://webmention.io/avatar/abs.twimg.com/0e6b2cd70aa5b35dec24ca4e1e63f8963f0118736d9ec3bba77e3a8c99a27bc2.png",
+      "url": "https://twitter.com/anton_n_k"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1230414825110540288#favorited-by-900607711347445760",
+    "published": null,
+    "wm-received": "2020-02-20T22:39:56Z",
+    "wm-id": 758860,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1230414825110540288/900607711347445760",
+    "wm-target": "https://sebastiandedeyne.com/javascript-framework-diet/file-structure/",
+    "like-of": "https://sebastiandedeyne.com/javascript-framework-diet/file-structure/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Karel",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/ec7dbb3131dfbd93d689216c13e69c42350363722bed29e6fd12966dc8a4c650.jpg",
+      "url": "https://twitter.com/Shaffe"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1230414825110540288#favorited-by-6856672",
+    "published": null,
+    "wm-received": "2020-02-20T23:17:05Z",
+    "wm-id": 758889,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1230414825110540288/6856672",
+    "wm-target": "https://sebastiandedeyne.com/javascript-framework-diet/file-structure/",
+    "like-of": "https://sebastiandedeyne.com/javascript-framework-diet/file-structure/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Ahmed Abd El Ftah",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/8d33366c9eb22489cbb535a6d858b8e09864f516ea30e8221981f6eda1fda7df.jpg",
+      "url": "https://twitter.com/Te7aHoudini"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1230414825110540288#favorited-by-920384655634980864",
+    "published": null,
+    "wm-received": "2020-02-20T23:48:11Z",
+    "wm-id": 758895,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1230414825110540288/920384655634980864",
+    "wm-target": "https://sebastiandedeyne.com/javascript-framework-diet/file-structure/",
+    "like-of": "https://sebastiandedeyne.com/javascript-framework-diet/file-structure/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
