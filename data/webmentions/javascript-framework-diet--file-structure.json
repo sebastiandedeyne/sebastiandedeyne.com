@@ -439,5 +439,23 @@
     "like-of": "https://sebastiandedeyne.com/javascript-framework-diet/file-structure/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Jesse Dobbelaere",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/e4e63111fe6679cac703970c6b91aeba8a11ca7b6dbcf8b2dff0f3c4fb115be6.png",
+      "url": "https://twitter.com/JesseDobbelaere"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1230414825110540288#favorited-by-177564804",
+    "published": null,
+    "wm-received": "2020-02-22T10:54:14Z",
+    "wm-id": 759418,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1230414825110540288/177564804",
+    "wm-target": "https://sebastiandedeyne.com/javascript-framework-diet/file-structure/",
+    "like-of": "https://sebastiandedeyne.com/javascript-framework-diet/file-structure/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
