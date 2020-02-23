@@ -457,5 +457,23 @@
     "like-of": "https://sebastiandedeyne.com/javascript-framework-diet/file-structure/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Juan Sierra",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/b21d0f50b39cc60e40f74b9a3586123b67bfb8580c4ec189e3de631c3c4afac0.jpg",
+      "url": "https://twitter.com/jslakro"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1230414825110540288#favorited-by-550552561",
+    "published": null,
+    "wm-received": "2020-02-22T21:33:08Z",
+    "wm-id": 759541,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1230414825110540288/550552561",
+    "wm-target": "https://sebastiandedeyne.com/javascript-framework-diet/file-structure/",
+    "like-of": "https://sebastiandedeyne.com/javascript-framework-diet/file-structure/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
