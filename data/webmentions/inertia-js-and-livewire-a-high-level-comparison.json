@@ -2010,5 +2010,27 @@
     "mention-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
     "wm-property": "mention-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "George Drakakis 🖖",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/cc4e9f42be8ae9553aff9897c03ed42b07344646a0d6f42351a9d48cf58403f6.jpg",
+      "url": "https://twitter.com/lollypopgr"
+    },
+    "url": "https://twitter.com/lollypopgr/status/1231518382350094337",
+    "published": "2020-02-23T09:57:17+00:00",
+    "wm-received": "2020-02-23T10:41:23Z",
+    "wm-id": 759715,
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1231518382350094337",
+    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "content": {
+      "html": "Very good article if you need to choose one of those new kids on the block. <a href=\"https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/\">sebastiandedeyne.com/inertia-js-and…</a>",
+      "text": "Very good article if you need to choose one of those new kids on the block. sebastiandedeyne.com/inertia-js-and…"
+    },
+    "mention-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "wm-property": "mention-of",
+    "wm-private": false
   }
 ]
