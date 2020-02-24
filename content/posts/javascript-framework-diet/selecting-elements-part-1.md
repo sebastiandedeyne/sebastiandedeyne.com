@@ -53,7 +53,7 @@ const marker = $('[data-map-marker]', map);
 
 ## Selecting multiple elements
 
-`$$` selects all occurrences of and element that matches a given selector.
+`$$` selects all occurrences of an element that matches a given selector.
 
 ```js
 function $$(selector, scope = document) {
