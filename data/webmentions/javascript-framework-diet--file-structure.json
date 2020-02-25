@@ -572,5 +572,23 @@
     "like-of": "https://sebastiandedeyne.com/javascript-framework-diet/file-structure/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Stefam",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/2d76cc532a1389f8470e21acf13b3cfe92ef2d2bbae78f4177056f1e610af10e.jpg",
+      "url": "https://twitter.com/upsettweety"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1230414825110540288#favorited-by-20302283",
+    "published": null,
+    "wm-received": "2020-02-25T08:04:43Z",
+    "wm-id": 760845,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1230414825110540288/20302283",
+    "wm-target": "https://sebastiandedeyne.com/javascript-framework-diet/file-structure/",
+    "like-of": "https://sebastiandedeyne.com/javascript-framework-diet/file-structure/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
