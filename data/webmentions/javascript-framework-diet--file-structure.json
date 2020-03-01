@@ -590,5 +590,23 @@
     "like-of": "https://sebastiandedeyne.com/javascript-framework-diet/file-structure/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "ITLN",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/342b9743dfeacf577283e70c5b79e468c4088c28cc249b0a9716bd2d3db1b038.png",
+      "url": "https://twitter.com/ITLNpl"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1230414825110540288#favorited-by-250835153",
+    "published": null,
+    "wm-received": "2020-03-01T18:01:26Z",
+    "wm-id": 762948,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1230414825110540288/250835153",
+    "wm-target": "https://sebastiandedeyne.com/javascript-framework-diet/file-structure/",
+    "like-of": "https://sebastiandedeyne.com/javascript-framework-diet/file-structure/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
