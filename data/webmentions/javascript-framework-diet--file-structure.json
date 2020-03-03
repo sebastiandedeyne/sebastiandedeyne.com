@@ -608,5 +608,27 @@
     "like-of": "https://sebastiandedeyne.com/javascript-framework-diet/file-structure/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Lucasoft co.uk",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/b88d59f30c88131dfa1633e0180c7234b2f40f86f997b2f6a7181dc75d61c39e.png",
+      "url": "https://twitter.com/lucasoft_co_uk"
+    },
+    "url": "https://twitter.com/lucasoft_co_uk/status/1234780626785574912",
+    "published": "2020-03-03T10:00:17+00:00",
+    "wm-received": "2020-03-03T10:16:35Z",
+    "wm-id": 763766,
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1234780626785574912",
+    "wm-target": "https://sebastiandedeyne.com/javascript-framework-diet/file-structure/",
+    "content": {
+      "html": "RT <a href=\"https://twitter.com/sebdedeyne\">@sebdedeyne</a> Part 5 of the JavaScript Framework Diet is all about file structure. A brief explanation on how I keep things organized in a vanilla JS project. <a href=\"https://sebastiandedeyne.com/javascript-framework-diet/file-structure/\">sebastiandedeyne.com/javascript-fra…</a> In the next post we'll be building our first real component! <a href=\"https://twitter.com/search?q=%23dev\">#dev</a> <a href=\"https://twitter.com/search?q=%23webdev\">#webdev</a>",
+      "text": "RT @sebdedeyne Part 5 of the JavaScript Framework Diet is all about file structure. A brief explanation on how I keep things organized in a vanilla JS project. sebastiandedeyne.com/javascript-fra… In the next post we'll be building our first real component! #dev #webdev"
+    },
+    "mention-of": "https://sebastiandedeyne.com/javascript-framework-diet/file-structure/",
+    "wm-property": "mention-of",
+    "wm-private": false
   }
 ]
