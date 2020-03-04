@@ -15,11 +15,11 @@ Lets get warmed up! Before we can get productive, we need two small helpers that
 
 ```js
 function $(selector, scope = document) {
-    return scope.querySelector(selector);
+  return scope.querySelector(selector);
 }
 
 function $$(selector, scope = document) {
-    return Array.from(scope.querySelectorAll(selector));
+  return Array.from(scope.querySelectorAll(selector));
 }
 ```
 
@@ -31,7 +31,7 @@ Why bother since they're near aliases of their native counterparts? One of the r
 
 ```js
 function $(selector, scope = document) {
-    return scope.querySelector(selector);
+  return scope.querySelector(selector);
 }
 
 const map = $('[data-map]');
@@ -57,7 +57,7 @@ const marker = $('[data-map-marker]', map);
 
 ```js
 function $$(selector, scope = document) {
-    return Array.from(scope.querySelectorAll(selector));
+  return Array.from(scope.querySelectorAll(selector));
 }
 
 const imageGalleries = $$('[data-image-gallery]');
@@ -67,7 +67,7 @@ This one contains a bit more plumbing than `$`.  `document.querySelectorAll` ret
 
 ```js
 $$('[data-image-gallery]').forEach(imageGallery => {
-    //
+  //
 });
 ```
 
@@ -82,9 +82,9 @@ Just like `$$` it can accept a scope as its second argument.
 
 ```js
 $$('[data-image-gallery]').forEach(imageGallery => {
-    const images = $$('img', imageGallery);
+  const images = $$('img', imageGallery);
 
-    //
+  //
 });
 ```
 
