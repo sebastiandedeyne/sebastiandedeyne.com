@@ -24,7 +24,7 @@
     <link rel="pingback" href="https://webmention.io/sebastiandedeyne.com/xmlrpc" />
 
     {{ with resources.Get "css/fonts.css" | minify }}
-      <style>{{ .Content | safeCSS }}</style>
+      <link rel="stylesheet" href="{{ .RelPermalink }}">
     {{ end }}
     {{ with resources.Get "css/site.css" | resources.PostCSS }}
       <style>{{ .Content | safeCSS }}</style>
