@@ -199,5 +199,41 @@
     "like-of": "https://sebastiandedeyne.com/javascript-framework-diet/dropdowns/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Jaffar Qambar",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/feaead2cdd601e14c9cec41497f586da55c5489ba5fba8afc4eed1c8efa1edb0.jpg",
+      "url": "https://twitter.com/jaff0test"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1235496450764783617#favorited-by-875303354",
+    "published": null,
+    "wm-received": "2020-03-05T12:15:26Z",
+    "wm-id": 764627,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1235496450764783617/875303354",
+    "wm-target": "https://sebastiandedeyne.com/javascript-framework-diet/dropdowns/",
+    "like-of": "https://sebastiandedeyne.com/javascript-framework-diet/dropdowns/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "zaichaopan",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/a089695a585484bbb840c2a40d4fa947138e7dd8dd5ad23e6f1c24d7f9923a88.jpg",
+      "url": "https://twitter.com/Zaichao_Only"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1235496450764783617#favorited-by-773203760772321280",
+    "published": null,
+    "wm-received": "2020-03-05T14:55:42Z",
+    "wm-id": 764661,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1235496450764783617/773203760772321280",
+    "wm-target": "https://sebastiandedeyne.com/javascript-framework-diet/dropdowns/",
+    "like-of": "https://sebastiandedeyne.com/javascript-framework-diet/dropdowns/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
