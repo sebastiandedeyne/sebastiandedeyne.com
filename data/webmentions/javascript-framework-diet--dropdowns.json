@@ -253,5 +253,91 @@
     "like-of": "https://sebastiandedeyne.com/javascript-framework-diet/dropdowns/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Ruslan",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/6114334d09745c23c21d748a3ffb0e5f0972472d77df8a83d2914859cbd3b5fd.jpg",
+      "url": "https://twitter.com/SuddenlyRust"
+    },
+    "url": "https://twitter.com/SuddenlyRust/status/1235835668963553280",
+    "published": "2020-03-06T07:52:38+00:00",
+    "wm-received": "2020-03-06T09:18:50Z",
+    "wm-id": 765038,
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/sebdedeyne/1235496450764783617/1235835668963553280",
+    "wm-target": "https://sebastiandedeyne.com/javascript-framework-diet/dropdowns/",
+    "photo": [
+      "https://pbs.twimg.com/media/ESaRrVcUwAEkQ7f.png"
+    ],
+    "content": {
+      "html": "Awesome article as usual Sebastian 💪 I love this mini series about writing less JavaScript 🙏\n\nI think you missed a closing bracket here 😉\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/sebdedeyne\"></a>",
+      "text": "Awesome article as usual Sebastian 💪 I love this mini series about writing less JavaScript 🙏\n\nI think you missed a closing bracket here 😉"
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/javascript-framework-diet/dropdowns/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Sebastian De Deyne",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/3ce609991342657b8b7e99eb7a5c6e3656fbdb1c51575f1464d354b81aaeda86.jpg",
+      "url": "https://twitter.com/sebdedeyne"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1235841325234192385",
+    "published": "2020-03-06T08:15:07+00:00",
+    "wm-received": "2020-03-06T09:20:14Z",
+    "wm-id": 765039,
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/sebdedeyne/1235496450764783617/1235841325234192385",
+    "wm-target": "https://sebastiandedeyne.com/javascript-framework-diet/dropdowns/",
+    "content": {
+      "html": "Good catch, thanks!\n<a class=\"u-mention\" href=\"https://twitter.com/SuddenlyRust\"></a>",
+      "text": "Good catch, thanks!"
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/javascript-framework-diet/dropdowns/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "henning",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/217c1bf20af36dd54090bdbe271fc6f5da431bacd957b3209fbb831322593297.jpg",
+      "url": "https://twitter.com/hactar_"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1235496450764783617#favorited-by-3425288902",
+    "published": null,
+    "wm-received": "2020-03-06T09:20:57Z",
+    "wm-id": 765040,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1235496450764783617/3425288902",
+    "wm-target": "https://sebastiandedeyne.com/javascript-framework-diet/dropdowns/",
+    "like-of": "https://sebastiandedeyne.com/javascript-framework-diet/dropdowns/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "henning",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/217c1bf20af36dd54090bdbe271fc6f5da431bacd957b3209fbb831322593297.jpg",
+      "url": "https://twitter.com/hactar_"
+    },
+    "url": "https://twitter.com/hactar_/status/1235839599856893953",
+    "published": "2020-03-06T08:08:16+00:00",
+    "wm-received": "2020-03-06T09:21:29Z",
+    "wm-id": 765041,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1235496450764783617/1235839599856893953",
+    "wm-target": "https://sebastiandedeyne.com/javascript-framework-diet/dropdowns/",
+    "content": {
+      "text": "JavaScript Framework Diet part 5: Dropdowns!\n\nTime to build our first component with the knowledge we've built over the first 4 lessons, a r"
+    },
+    "repost-of": "https://sebastiandedeyne.com/javascript-framework-diet/dropdowns/",
+    "wm-property": "repost-of",
+    "wm-private": false
   }
 ]
