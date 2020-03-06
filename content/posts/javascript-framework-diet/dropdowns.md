@@ -67,7 +67,7 @@ listen('click', '[data-dropdown-trigger]', openDropdown);
 function openDropdown(event, dropdownTrigger) {
   const dropdownList = $(
     '[data-dropdown-list]',
-    dropdownTrigger.closest('[data-dropdown]'
+    dropdownTrigger.closest('[data-dropdown]')
   );
 
   dropdownList.classList.remove('hidden');
@@ -86,7 +86,7 @@ listen('click', '[data-dropdown-trigger]', openDropdown);
 function openDropdown(event, dropdownTrigger) {
   const dropdownList = $(
     '[data-dropdown-list]',
-    dropdownTrigger.closest('[data-dropdown]'
+    dropdownTrigger.closest('[data-dropdown]')
   );
 
   dropdownList.classList.remove('hidden');
@@ -111,7 +111,7 @@ listen('click', '[data-dropdown-trigger]', openDropdown);
 function openDropdown(event, dropdownTrigger) {
   const dropdownList = $(
     '[data-dropdown-list]',
-    dropdownTrigger.closest('[data-dropdown]'
+    dropdownTrigger.closest('[data-dropdown]')
   );
 
   dropdownList.classList.remove('hidden');
@@ -140,7 +140,7 @@ listen('click', '[data-dropdown-trigger]', openDropdown);
 function openDropdown(event, dropdownTrigger) {
   const dropdownList = $(
     '[data-dropdown-list]',
-    dropdownTrigger.closest('[data-dropdown]'
+    dropdownTrigger.closest('[data-dropdown]')
   );
 
   dropdownList.classList.remove('hidden');
@@ -171,7 +171,7 @@ listen('click', '[data-dropdown-trigger]', openDropdown);
 function openDropdown(event, dropdownTrigger) {
   const dropdownList = $(
     '[data-dropdown-list]',
-    dropdownTrigger.closest('[data-dropdown]'
+    dropdownTrigger.closest('[data-dropdown]')
   );
 
   if (!dropdownList.classList.contains('hidden')) {
