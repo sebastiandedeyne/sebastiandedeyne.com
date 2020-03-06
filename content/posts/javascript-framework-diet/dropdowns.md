@@ -11,6 +11,8 @@ keywords:
 
 On to our first component: a dropdown list. I'm going to walk through the implementation I landed on in a recent project. There are many ways to build dropdowns, and you might want to shape the API your way, so use this post as a source of inspiration.
 
+<!--more-->
+
 Before we dive into the script, let's take a look at our HTML.
 
 ```html
