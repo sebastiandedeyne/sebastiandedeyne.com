@@ -339,5 +339,23 @@
     "repost-of": "https://sebastiandedeyne.com/javascript-framework-diet/dropdowns/",
     "wm-property": "repost-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Alberto Garcia Jr A",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/863d6624835bdec70e90fbf4dfb3152d18c578b582aa1b2919388c6d852aee64.jpg",
+      "url": "https://twitter.com/alberto1el"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1235496450764783617#favorited-by-3389735278",
+    "published": null,
+    "wm-received": "2020-03-09T05:13:37Z",
+    "wm-id": 766066,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1235496450764783617/3389735278",
+    "wm-target": "https://sebastiandedeyne.com/javascript-framework-diet/dropdowns/",
+    "like-of": "https://sebastiandedeyne.com/javascript-framework-diet/dropdowns/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
