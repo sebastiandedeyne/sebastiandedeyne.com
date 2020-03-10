@@ -18,7 +18,7 @@ hr {
 
 @media (prefers-color-scheme: dark) {
   hr {
-    border-color: theme("gray.800");
+    border-color: theme("colors.gray.800");
   }
 }
 
