@@ -4,9 +4,8 @@ title: Generate pdfs with Google Chrome on a Forge provisioned server
 subtitle: Written for Ubuntu ^16.04
 categories: ["articles"]
 keywords:
-  - Laravel
-  - forge
-  - sysadmin
+  - Laravel Forge
+  - devops
 ---
 
 This week I needed to export some charts generated with HTML & JavaScript as a pdf file. I already had implemented the charts on a webpage so I wanted a solution that allowed me to use my existing code for the pdfs.
