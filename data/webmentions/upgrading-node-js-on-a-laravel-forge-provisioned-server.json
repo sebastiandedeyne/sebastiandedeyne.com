@@ -503,5 +503,41 @@
     "repost-of": "https://sebastiandedeyne.com/upgrading-node-js-on-a-laravel-forge-provisioned-server/",
     "wm-property": "repost-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Wyatt",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/d2450d3284e8d38d88102d508c02f4095e3eee613cc83e87e45d58ded3d90c8f.jpg",
+      "url": "https://twitter.com/WyattCastaned44"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1237419495108608000#favorited-by-534528249",
+    "published": null,
+    "wm-received": "2020-03-11T05:30:50Z",
+    "wm-id": 767719,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1237419495108608000/534528249",
+    "wm-target": "https://sebastiandedeyne.com/upgrading-node-js-on-a-laravel-forge-provisioned-server/",
+    "like-of": "https://sebastiandedeyne.com/upgrading-node-js-on-a-laravel-forge-provisioned-server/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Zoltan Flamis 🐘",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/10f3e0a3076d16dfb009c6458284d2d83bcd46cba8e0758a7b361b3bf2ef8c9d.jpg",
+      "url": "https://twitter.com/flamisz"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1237419495108608000#favorited-by-103602140",
+    "published": null,
+    "wm-received": "2020-03-11T05:31:14Z",
+    "wm-id": 767720,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1237419495108608000/103602140",
+    "wm-target": "https://sebastiandedeyne.com/upgrading-node-js-on-a-laravel-forge-provisioned-server/",
+    "like-of": "https://sebastiandedeyne.com/upgrading-node-js-on-a-laravel-forge-provisioned-server/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
