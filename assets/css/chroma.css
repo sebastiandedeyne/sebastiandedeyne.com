@@ -234,7 +234,7 @@
 }
 /* GenericInserted */
 .chroma .gi {
-  font-weight: bold;
+  color: #a8ff60;
 }
 /* GenericOutput */
 .chroma .go {
