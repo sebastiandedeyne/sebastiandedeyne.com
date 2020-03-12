@@ -1,5 +1,5 @@
 ---
-title: "Setting up a global gitignore file"
+title: "Setting up a global .gitignore file"
 slug: setting-up-a-global-gitignore-file
 date: 2020-03-12
 categories: ["articles"]
@@ -52,6 +52,12 @@ Finally, configure `git` to use our newly created `~/.gitignore` file.
 
 ```bash
 git config --global core.excludesfile ~/.gitignore
+```
+
+If you're a Windows user, you'll need to format the path differently.
+
+```bash
+git config --global core.excludesfile %USERPROFILE%\.gitignore
 ```
 
 That's it, no more pesky editor configuration in your commits!
