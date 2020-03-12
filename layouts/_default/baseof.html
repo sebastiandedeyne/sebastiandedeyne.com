@@ -52,22 +52,22 @@
         <ul class="lg:flex lg:justify-end xl:justify-center">
           {{ $section := index (split .RelPermalink "/") 1 }}
           {{ $isBlog := or (eq (in "speaking open-source newsletter about" $section) false) (eq .RelPermalink "/") }}
-          <li class="lg:mr-6 {{ cond $isBlog "" "text-gray-600" }}">
+          <li class="lg:mr-6 {{ cond $isBlog "" "text-gray-700" }}">
             <a href="/">Blog</a>
           </li>
-          <li class="lg:mr-6 {{ cond (eq $section "newsletter") "" "text-gray-600" }}">
+          <li class="lg:mr-6 {{ cond (eq $section "newsletter") "" "text-gray-700" }}">
             <a href="/newsletter">Newsletter</a>
           </li>
-          <li class="{{ cond (eq $section "speaking") "" "text-gray-600" }}">
+          <li class="{{ cond (eq $section "speaking") "" "text-gray-700" }}">
             <a href="/speaking">Speaking</a>
           </li>
         </ul>
       </nav>
       <nav class="header-service | lg:text-sm xl:text-base text-right">
         <ul class="lg:flex justify-end">
-          <li class="text-gray-600 lg:mr-6"><a href="https://twitter.com/sebdedeyne" rel="me">Twitter</a></li>
-          <li class="text-gray-600 md:hidden"><a href="#sidebar">Sidebar</a></li>
-          <li class="text-gray-600 hidden lg:block"><a href="/index.xml">RSS</a></li>
+          <li class="text-gray-700 lg:mr-6"><a href="https://twitter.com/sebdedeyne" rel="me">Twitter</a></li>
+          <li class="text-gray-700 md:hidden"><a href="#sidebar">Sidebar</a></li>
+          <li class="text-gray-700 hidden lg:block"><a href="/index.xml">RSS</a></li>
         </ul>
       </nav>
     </header>

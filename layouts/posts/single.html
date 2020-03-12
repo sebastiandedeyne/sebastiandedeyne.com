@@ -22,7 +22,7 @@
         {{ .Title }}
       </a>
     </h1>
-    <p class="text-sm text-gray-600 mb-8">
+    <p class="text-sm text-gray-700 mb-8">
         <a href="{{ .RelPermalink }}">
           <time datetime="{{ .Date.Format "2006-01-02" }}">
             {{ .Date.Format "January 2, 2006" }}
@@ -83,7 +83,7 @@
               {{ .Title }}
             </a>
           </p>
-          <p class="text-sm text-gray-600">
+          <p class="text-sm text-gray-700">
             <a href="{{ .RelPermalink }}">
               <time datetime="{{ .Date.Format "2006-01-02" }}">
                 {{ .Date.Format "January 2, 2006" }}
@@ -103,7 +103,7 @@
       Webmentions
       <a
         href="https://sebastiandedeyne.com/adding-webmentions-to-my-blog"
-        class="ml-2 font-normal text-gray-600 dark:text-gray-500 text-xs w-4 h-4 inline-flex items-center justify-center bg-gray-200 dark:bg-gray-800 rounded-full font-semibold"
+        class="ml-2 font-normal text-gray-700 dark:text-gray-500 text-xs w-4 h-4 inline-flex items-center justify-center bg-gray-200 dark:bg-gray-800 rounded-full font-semibold"
         style="transform: translateY(-2px)"
       >
         ?
@@ -123,7 +123,7 @@
                 />
                 <span class="font-bold">{{ $reply.author.name }}</span>
               </a>
-              <a href="{{ $reply.url }}" class="text-gray-600 text-sm ml-1">
+              <a href="{{ $reply.url }}" class="text-gray-700 text-sm ml-1">
                 {{ substr (index $reply "wm-received") 0 10 }}
               </a>
             </p>
