@@ -859,5 +859,27 @@
     "like-of": "https://sebastiandedeyne.com/how-much-javascript-do-we-really-need/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Ben",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/b0db8205f4b21b5e37c5cd6959aab9f6e802dd21f3d52281bda96bfd9d5355ee.jpg",
+      "url": "https://twitter.com/Boumedyen_DZ"
+    },
+    "url": "https://twitter.com/Boumedyen_DZ/status/1235991676193251335",
+    "published": "2020-03-06T18:12:33+00:00",
+    "wm-received": "2020-03-12T16:27:07Z",
+    "wm-id": 768882,
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1235991676193251335",
+    "wm-target": "https://sebastiandedeyne.com/how-much-javascript-do-we-really-need/",
+    "content": {
+      "html": "How much JavaScript is needed ??\n<a href=\"https://sebastiandedeyne.com/how-much-javascript-do-we-really-need/\">sebastiandedeyne.com/how-much-javas…</a>",
+      "text": "How much JavaScript is needed ??\nsebastiandedeyne.com/how-much-javas…"
+    },
+    "mention-of": "https://sebastiandedeyne.com/how-much-javascript-do-we-really-need/",
+    "wm-property": "mention-of",
+    "wm-private": false
   }
 ]
