@@ -3233,5 +3233,45 @@
     "like-of": "https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "don",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/9482aaf138b3563d2373b4e9a64fd83106a32d9a52cf06b84cda02c7a536cb10.jpg",
+      "url": "https://twitter.com/DesignerDon"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1238082793466474500#favorited-by-12237462",
+    "published": null,
+    "wm-received": "2020-03-14T12:08:13Z",
+    "wm-id": 769621,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1238082793466474500/12237462",
+    "wm-target": "https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/",
+    "like-of": "https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Chirag Chudashma",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/588e822450ca009a261fa3654dfe0365a4e807eda0b51f8fae626425b04a20eb.jpg",
+      "url": "https://twitter.com/chudashmachirag"
+    },
+    "url": "https://twitter.com/chudashmachirag/status/1238817943137353729",
+    "published": "2020-03-14T13:23:08+00:00",
+    "wm-received": "2020-03-14T14:04:46Z",
+    "wm-id": 769662,
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/sebdedeyne/1238082793466474500/1238817943137353729",
+    "wm-target": "https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/",
+    "content": {
+      "html": "You can use git hooks to avoid such PR. And shape your repository\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/sebdedeyne\"></a>",
+      "text": "You can use git hooks to avoid such PR. And shape your repository"
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
   }
 ]
