@@ -3119,5 +3119,119 @@
     "like-of": "https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Nehal Hasnayeen",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/595f5881b7af0de4d5d153cd020208472f0df457280021b917de64d623bd4836.png",
+      "url": "https://twitter.com/nhasnayeen"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1238082793466474500#favorited-by-1151014182252371968",
+    "published": null,
+    "wm-received": "2020-03-14T07:46:23Z",
+    "wm-id": 769572,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1238082793466474500/1151014182252371968",
+    "wm-target": "https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/",
+    "like-of": "https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Nehal Hasnayeen",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/595f5881b7af0de4d5d153cd020208472f0df457280021b917de64d623bd4836.png",
+      "url": "https://twitter.com/nhasnayeen"
+    },
+    "url": "https://twitter.com/nhasnayeen/status/1238726319602454528",
+    "published": "2020-03-14T07:19:03+00:00",
+    "wm-received": "2020-03-14T07:46:28Z",
+    "wm-id": 769573,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1238082793466474500/1238726319602454528",
+    "wm-target": "https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/",
+    "content": {
+      "text": "✒️ I've rejected a *lot* of pull requests because contributors were adding things to the repo's .gitignore file that don't belong there.\n\nE"
+    },
+    "repost-of": "https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Scorp974",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/7a74e7e0aaf8da24c81d92cb586a2273101db9b5c6152264b465f5141d21af15.png",
+      "url": "https://twitter.com/Scorp974"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1238082793466474500#favorited-by-319223231",
+    "published": null,
+    "wm-received": "2020-03-14T08:30:06Z",
+    "wm-id": 769578,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1238082793466474500/319223231",
+    "wm-target": "https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/",
+    "like-of": "https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Martin Chatterton",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/e9caf6dab46c0fc06eee30f0422c4d7aa5efba997bdc19f0015207d81823f1c0.jpg",
+      "url": "https://twitter.com/chattsm"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1238082793466474500#favorited-by-448900094",
+    "published": null,
+    "wm-received": "2020-03-14T08:30:35Z",
+    "wm-id": 769579,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1238082793466474500/448900094",
+    "wm-target": "https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/",
+    "like-of": "https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Delphinus_dev",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/9e0b3bc76787d46d6a716cd11f37c5e97170ae9e130e6f09bbda86add7550936.png",
+      "url": "https://twitter.com/Delphinus_dev"
+    },
+    "url": "https://twitter.com/Delphinus_dev/status/1238760668108644353",
+    "published": "2020-03-14T09:35:32+00:00",
+    "wm-received": "2020-03-14T09:55:07Z",
+    "wm-id": 769587,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1238082793466474500/1238760668108644353",
+    "wm-target": "https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/",
+    "content": {
+      "text": "✒️ I've rejected a *lot* of pull requests because contributors were adding things to the repo's .gitignore file that don't belong there.\n\nE"
+    },
+    "repost-of": "https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Alexis Rojas",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/9329609406cbdc306f8f360aef50b321fb059d29dfcfe77d5f7228ff9ab94477.png",
+      "url": "https://twitter.com/alexisrrweb"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1238082793466474500#favorited-by-142345011",
+    "published": null,
+    "wm-received": "2020-03-14T10:59:16Z",
+    "wm-id": 769602,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1238082793466474500/142345011",
+    "wm-target": "https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/",
+    "like-of": "https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
