@@ -3273,5 +3273,23 @@
     "in-reply-to": "https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/",
     "wm-property": "in-reply-to",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Andy Broomfield",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/23950e11f6a69e64117a0b5f740f538b70e1e8b19495c6e7011d7ffc1e864cf4.jpg",
+      "url": "https://twitter.com/andybroomfield"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1238082793466474500#favorited-by-9459022",
+    "published": null,
+    "wm-received": "2020-03-14T20:52:47Z",
+    "wm-id": 769835,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1238082793466474500/9459022",
+    "wm-target": "https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/",
+    "like-of": "https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
