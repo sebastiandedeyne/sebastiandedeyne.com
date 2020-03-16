@@ -3312,5 +3312,23 @@
     "repost-of": "https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/",
     "wm-property": "repost-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Jörg Kunz",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/761e2b6fe4ac12ff291c16d874aa1c96a3a2ce157b835ec9819f1e0c520d667f.jpg",
+      "url": "https://twitter.com/btobs"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1238082793466474500#favorited-by-233850419",
+    "published": null,
+    "wm-received": "2020-03-15T19:44:03Z",
+    "wm-id": 770212,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1238082793466474500/233850419",
+    "wm-target": "https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/",
+    "like-of": "https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
