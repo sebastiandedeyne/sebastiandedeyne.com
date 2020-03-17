@@ -1,0 +1,470 @@
+[
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Freek Van der Herten",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/fc87f4abfee522403bfb9d8ebbdd1bde483d020713c137b63e94bec043c45cfa.jpg",
+      "url": "https://twitter.com/freekmurze"
+    },
+    "url": "https://twitter.com/freekmurze/status/1239919976594710529",
+    "published": "2020-03-17T14:22:13+00:00",
+    "wm-received": "2020-03-17T14:48:59Z",
+    "wm-id": 770966,
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1239919976594710529",
+    "wm-target": "https://sebastiandedeyne.com/composer-semver-and-underlying-dependency-changes/",
+    "content": {
+      "html": "If every PHP developer would read these two blogposts, we’d get a lot less issues on GitHub\n\n<a href=\"https://sebastiandedeyne.com/composer-semver-and-underlying-dependency-changes/\">sebastiandedeyne.com/composer-semve…</a>\n<a href=\"https://freek.dev/1598-how-to-check-which-version-of-php-you-are-running\">freek.dev/1598-how-to-ch…</a>",
+      "text": "If every PHP developer would read these two blogposts, we’d get a lot less issues on GitHub\n\nsebastiandedeyne.com/composer-semve…\nfreek.dev/1598-how-to-ch…"
+    },
+    "mention-of": "https://sebastiandedeyne.com/composer-semver-and-underlying-dependency-changes/",
+    "wm-property": "mention-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Miguel Piedrafita 🚀",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/f579dec7e26e1bd80b0c624decddf9478f81e115cdc550d390dca3f3ba0f18cc.jpg",
+      "url": "https://twitter.com/m1guelpf"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1239911165507112960#favorited-by-713094195955830785",
+    "published": null,
+    "wm-received": "2020-03-17T14:49:24Z",
+    "wm-id": 770967,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1239911165507112960/713094195955830785",
+    "wm-target": "https://sebastiandedeyne.com/composer-semver-and-underlying-dependency-changes/",
+    "like-of": "https://sebastiandedeyne.com/composer-semver-and-underlying-dependency-changes/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Odinn Adalsteinsson",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/765ea91249269e905c0c8f63e58f0e672e3a63cd3905ee09325d6bcd784bd126.jpg",
+      "url": "https://twitter.com/odinnsorensen"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1239911165507112960#favorited-by-11296112",
+    "published": null,
+    "wm-received": "2020-03-17T14:49:31Z",
+    "wm-id": 770968,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1239911165507112960/11296112",
+    "wm-target": "https://sebastiandedeyne.com/composer-semver-and-underlying-dependency-changes/",
+    "like-of": "https://sebastiandedeyne.com/composer-semver-and-underlying-dependency-changes/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Lucas Fiege",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/9efa51ae09cce6c4e8bc5564a7d0e59158a8b6915d7fb92fc68236bfdeeb6c85.jpg",
+      "url": "https://twitter.com/lsfiege"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1239911165507112960#favorited-by-418031267",
+    "published": null,
+    "wm-received": "2020-03-17T14:49:42Z",
+    "wm-id": 770969,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1239911165507112960/418031267",
+    "wm-target": "https://sebastiandedeyne.com/composer-semver-and-underlying-dependency-changes/",
+    "like-of": "https://sebastiandedeyne.com/composer-semver-and-underlying-dependency-changes/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Chris Smiles",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/a435862cbff4e7dcbf140f7bf4acd3d13fbab42ed41dd95bb0a21d73c4c1e81c.jpg",
+      "url": "https://twitter.com/csmiles000"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1239911165507112960#favorited-by-2187211242",
+    "published": null,
+    "wm-received": "2020-03-17T14:49:47Z",
+    "wm-id": 770970,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1239911165507112960/2187211242",
+    "wm-target": "https://sebastiandedeyne.com/composer-semver-and-underlying-dependency-changes/",
+    "like-of": "https://sebastiandedeyne.com/composer-semver-and-underlying-dependency-changes/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Rias Van der Veken",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/4d90619c3206b3cd5717b1da4faeda9a43f17617074f32f5e7b25878944df2a0.jpg",
+      "url": "https://twitter.com/Riasvdv"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1239911165507112960#favorited-by-124591560",
+    "published": null,
+    "wm-received": "2020-03-17T14:50:48Z",
+    "wm-id": 770971,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1239911165507112960/124591560",
+    "wm-target": "https://sebastiandedeyne.com/composer-semver-and-underlying-dependency-changes/",
+    "like-of": "https://sebastiandedeyne.com/composer-semver-and-underlying-dependency-changes/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Liam Hammett",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/6c3341546b0439b2e8d87cc7212a50744f7bd3ee230d7c93062db4249135764c.jpg",
+      "url": "https://twitter.com/LiamHammett"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1239911165507112960#favorited-by-72656715",
+    "published": null,
+    "wm-received": "2020-03-17T14:51:24Z",
+    "wm-id": 770972,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1239911165507112960/72656715",
+    "wm-target": "https://sebastiandedeyne.com/composer-semver-and-underlying-dependency-changes/",
+    "like-of": "https://sebastiandedeyne.com/composer-semver-and-underlying-dependency-changes/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Spatie",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/3efb487e7f3a0bc3690580277105f93eda590d65e4d9eb01135a184a9df60b18.jpg",
+      "url": "https://twitter.com/spatie_be"
+    },
+    "url": "https://twitter.com/spatie_be/status/1239919984706572290",
+    "published": "2020-03-17T14:22:15+00:00",
+    "wm-received": "2020-03-17T14:51:30Z",
+    "wm-id": 770973,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1239911165507112960/1239919984706572290",
+    "wm-target": "https://sebastiandedeyne.com/composer-semver-and-underlying-dependency-changes/",
+    "content": {
+      "text": "✒️ There seems to be a lot of confusion regarding updating dependencies or language requirements in a package. \n\nDoes that mean the package"
+    },
+    "repost-of": "https://sebastiandedeyne.com/composer-semver-and-underlying-dependency-changes/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Benjamin Crozat",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/75ac34c8b625df7713df2f7a3bd58e100b8a3e8c525b3256d6787a6ad9d21dab.jpg",
+      "url": "https://twitter.com/benjamincrozat"
+    },
+    "url": "https://twitter.com/benjamincrozat/status/1239932707024576512",
+    "published": "2020-03-17T15:12:48+00:00",
+    "wm-received": "2020-03-17T16:11:09Z",
+    "wm-id": 771057,
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/freekmurze/1239919976594710529/1239932707024576512",
+    "wm-target": "https://sebastiandedeyne.com/composer-semver-and-underlying-dependency-changes/",
+    "content": {
+      "html": "It's actually hard to believe such a post is needed. PHP newbies usually don't know WTF are Git and GitHub.\n<a class=\"u-mention\" href=\"https://freek.dev/\"></a>\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/composer-semver-and-underlying-dependency-changes/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/freekmurze\"></a>",
+      "text": "It's actually hard to believe such a post is needed. PHP newbies usually don't know WTF are Git and GitHub."
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/composer-semver-and-underlying-dependency-changes/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Michaël De Boey",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/4c253771a8d1f79422524c6dd9f74ea83b1255def284013494330c1b3792bdf1.jpg",
+      "url": "https://twitter.com/MichaelDeBoey93"
+    },
+    "url": "https://twitter.com/MichaelDeBoey93/status/1239962622633472002",
+    "published": "2020-03-17T17:11:41+00:00",
+    "wm-received": "2020-03-17T17:28:05Z",
+    "wm-id": 771092,
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/sebdedeyne/1239911165507112960/1239962622633472002",
+    "wm-target": "https://sebastiandedeyne.com/composer-semver-and-underlying-dependency-changes/",
+    "content": {
+      "html": "In JavaScript, you should publish a major version when bumping <a href=\"https://twitter.com/nodejs\">@nodejs</a> tho\n\nUnlike <a href=\"https://twitter.com/search?q=%23composerphp\">#composerphp</a>, <a href=\"https://twitter.com/npmjs\">@npmjs</a> will give you a newer version of the package\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/sebdedeyne\"></a>",
+      "text": "In JavaScript, you should publish a major version when bumping @nodejs tho\n\nUnlike #composerphp, @npmjs will give you a newer version of the package"
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/composer-semver-and-underlying-dependency-changes/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Caleb Porzio",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/9c549798360f6e394c6d6558014099bcb01afa6eee5a8dd79527fd6e615d0f6f.jpg",
+      "url": "https://twitter.com/calebporzio"
+    },
+    "url": "https://twitter.com/calebporzio/status/1239957554043727884",
+    "published": "2020-03-17T16:51:32+00:00",
+    "wm-received": "2020-03-17T17:28:33Z",
+    "wm-id": 771093,
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/sebdedeyne/1239911165507112960/1239957554043727884",
+    "wm-target": "https://sebastiandedeyne.com/composer-semver-and-underlying-dependency-changes/",
+    "content": {
+      "html": "Solid writeup, love deep maintainer content like this\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/sebdedeyne\"></a>",
+      "text": "Solid writeup, love deep maintainer content like this"
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/composer-semver-and-underlying-dependency-changes/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Sebastian De Deyne",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/3ce609991342657b8b7e99eb7a5c6e3656fbdb1c51575f1464d354b81aaeda86.jpg",
+      "url": "https://twitter.com/sebdedeyne"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1239959394651176960",
+    "published": "2020-03-17T16:58:51+00:00",
+    "wm-received": "2020-03-17T17:28:40Z",
+    "wm-id": 771094,
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/sebdedeyne/1239911165507112960/1239959394651176960",
+    "wm-target": "https://sebastiandedeyne.com/composer-semver-and-underlying-dependency-changes/",
+    "content": {
+      "html": "Thanks! 🤘\n<a class=\"u-mention\" href=\"https://twitter.com/calebporzio\"></a>",
+      "text": "Thanks! 🤘"
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/composer-semver-and-underlying-dependency-changes/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Michaël De Boey",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/4c253771a8d1f79422524c6dd9f74ea83b1255def284013494330c1b3792bdf1.jpg",
+      "url": "https://twitter.com/MichaelDeBoey93"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1239911165507112960#favorited-by-148502139",
+    "published": null,
+    "wm-received": "2020-03-17T17:28:59Z",
+    "wm-id": 771095,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1239911165507112960/148502139",
+    "wm-target": "https://sebastiandedeyne.com/composer-semver-and-underlying-dependency-changes/",
+    "like-of": "https://sebastiandedeyne.com/composer-semver-and-underlying-dependency-changes/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Sam Snelling",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/001386d159fd865f5a0f20958dc0dfbdd3a5f18749e36c04be967f0f4b7fd357.jpg",
+      "url": "https://twitter.com/snellingio"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1239911165507112960#favorited-by-60195720",
+    "published": null,
+    "wm-received": "2020-03-17T17:29:04Z",
+    "wm-id": 771096,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1239911165507112960/60195720",
+    "wm-target": "https://sebastiandedeyne.com/composer-semver-and-underlying-dependency-changes/",
+    "like-of": "https://sebastiandedeyne.com/composer-semver-and-underlying-dependency-changes/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Steve Bauman",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/e0efcf1a9431f50adf7df0d16b9666fb1a15d8eda2d5f0b91256e00bfcd71322.jpg",
+      "url": "https://twitter.com/stevbauman"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1239911165507112960#favorited-by-231357103",
+    "published": null,
+    "wm-received": "2020-03-17T17:29:16Z",
+    "wm-id": 771098,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1239911165507112960/231357103",
+    "wm-target": "https://sebastiandedeyne.com/composer-semver-and-underlying-dependency-changes/",
+    "like-of": "https://sebastiandedeyne.com/composer-semver-and-underlying-dependency-changes/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Hardik Shah",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/e5f3af5e252fe63549babe2845d06f46b1fba244c7bf8c388d27507b993d6c48.jpg",
+      "url": "https://twitter.com/hardsshah"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1239911165507112960#favorited-by-29662788",
+    "published": null,
+    "wm-received": "2020-03-17T17:29:56Z",
+    "wm-id": 771099,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1239911165507112960/29662788",
+    "wm-target": "https://sebastiandedeyne.com/composer-semver-and-underlying-dependency-changes/",
+    "like-of": "https://sebastiandedeyne.com/composer-semver-and-underlying-dependency-changes/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "2020/5 ERROR",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/6e9436a2a1c70bd18a1000575e8490843e68d230b02dd57352f23d40df8ef3a3.jpg",
+      "url": "https://twitter.com/mauwanyee"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1239911165507112960#favorited-by-1051010880",
+    "published": null,
+    "wm-received": "2020-03-17T17:30:03Z",
+    "wm-id": 771100,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1239911165507112960/1051010880",
+    "wm-target": "https://sebastiandedeyne.com/composer-semver-and-underlying-dependency-changes/",
+    "like-of": "https://sebastiandedeyne.com/composer-semver-and-underlying-dependency-changes/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Caleb Porzio",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/9c549798360f6e394c6d6558014099bcb01afa6eee5a8dd79527fd6e615d0f6f.jpg",
+      "url": "https://twitter.com/calebporzio"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1239911165507112960#favorited-by-24035747",
+    "published": null,
+    "wm-received": "2020-03-17T17:30:14Z",
+    "wm-id": 771101,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1239911165507112960/24035747",
+    "wm-target": "https://sebastiandedeyne.com/composer-semver-and-underlying-dependency-changes/",
+    "like-of": "https://sebastiandedeyne.com/composer-semver-and-underlying-dependency-changes/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Ed Grosvenor",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/547ca58032f212eab25d6e39a48379c4316930f6ad9e215f8a75a48689c03d7c.jpg",
+      "url": "https://twitter.com/MaybeEdward"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1239911165507112960#favorited-by-1152447665336193025",
+    "published": null,
+    "wm-received": "2020-03-17T17:30:30Z",
+    "wm-id": 771102,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1239911165507112960/1152447665336193025",
+    "wm-target": "https://sebastiandedeyne.com/composer-semver-and-underlying-dependency-changes/",
+    "like-of": "https://sebastiandedeyne.com/composer-semver-and-underlying-dependency-changes/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Lars Moelleken",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/9bc6bf8c93b080bb5c38af5102b1186e38622e70e35c18b33ecee7e221750621.jpg",
+      "url": "https://twitter.com/suckup_de"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1239911165507112960#favorited-by-41929576",
+    "published": null,
+    "wm-received": "2020-03-17T17:31:00Z",
+    "wm-id": 771103,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1239911165507112960/41929576",
+    "wm-target": "https://sebastiandedeyne.com/composer-semver-and-underlying-dependency-changes/",
+    "like-of": "https://sebastiandedeyne.com/composer-semver-and-underlying-dependency-changes/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Caleb Porzio",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/9c549798360f6e394c6d6558014099bcb01afa6eee5a8dd79527fd6e615d0f6f.jpg",
+      "url": "https://twitter.com/calebporzio"
+    },
+    "url": "https://twitter.com/calebporzio/status/1239957346211770368",
+    "published": "2020-03-17T16:50:43+00:00",
+    "wm-received": "2020-03-17T17:31:32Z",
+    "wm-id": 771104,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1239911165507112960/1239957346211770368",
+    "wm-target": "https://sebastiandedeyne.com/composer-semver-and-underlying-dependency-changes/",
+    "content": {
+      "text": "✒️ There seems to be a lot of confusion regarding updating dependencies or language requirements in a package. \n\nDoes that mean the package"
+    },
+    "repost-of": "https://sebastiandedeyne.com/composer-semver-and-underlying-dependency-changes/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "don’t believe the hype",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/2530f4de708ae4c63b555f0ecfb1fa06006d45f8a6115b583a8622acaa3e4beb.jpg",
+      "url": "https://twitter.com/FreshPrince2b"
+    },
+    "url": "https://twitter.com/FreshPrince2b/status/1239947857635016705",
+    "published": "2020-03-17T16:13:01+00:00",
+    "wm-received": "2020-03-17T17:31:39Z",
+    "wm-id": 771105,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1239911165507112960/1239947857635016705",
+    "wm-target": "https://sebastiandedeyne.com/composer-semver-and-underlying-dependency-changes/",
+    "content": {
+      "text": "✒️ There seems to be a lot of confusion regarding updating dependencies or language requirements in a package. \n\nDoes that mean the package"
+    },
+    "repost-of": "https://sebastiandedeyne.com/composer-semver-and-underlying-dependency-changes/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Lars Moelleken",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/9bc6bf8c93b080bb5c38af5102b1186e38622e70e35c18b33ecee7e221750621.jpg",
+      "url": "https://twitter.com/suckup_de"
+    },
+    "url": "https://twitter.com/suckup_de/status/1239947574880198659",
+    "published": "2020-03-17T16:11:53+00:00",
+    "wm-received": "2020-03-17T17:33:07Z",
+    "wm-id": 771106,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1239911165507112960/1239947574880198659",
+    "wm-target": "https://sebastiandedeyne.com/composer-semver-and-underlying-dependency-changes/",
+    "content": {
+      "text": "✒️ There seems to be a lot of confusion regarding updating dependencies or language requirements in a package. \n\nDoes that mean the package"
+    },
+    "repost-of": "https://sebastiandedeyne.com/composer-semver-and-underlying-dependency-changes/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Joseph Silber",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/f7a340884cf65f8d38e2dea7b658a8b31ce8070a4d27fa3c0a643a03753724b5.jpg",
+      "url": "https://twitter.com/joseph_silber"
+    },
+    "url": "https://twitter.com/joseph_silber/status/1239947420739555328",
+    "published": "2020-03-17T16:11:16+00:00",
+    "wm-received": "2020-03-17T17:49:46Z",
+    "wm-id": 771121,
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/freekmurze/1239919976594710529/1239947420739555328",
+    "wm-target": "https://sebastiandedeyne.com/composer-semver-and-underlying-dependency-changes/",
+    "content": {
+      "html": "That assumes composer install always runs on the Target machine, or at least on a machine with the same version of PHP.\n\nThat's not always the case.\n<a class=\"u-mention\" href=\"https://freek.dev/\"></a>\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/composer-semver-and-underlying-dependency-changes/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/freekmurze\"></a>",
+      "text": "That assumes composer install always runs on the Target machine, or at least on a machine with the same version of PHP.\n\nThat's not always the case."
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/composer-semver-and-underlying-dependency-changes/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  }
+]
