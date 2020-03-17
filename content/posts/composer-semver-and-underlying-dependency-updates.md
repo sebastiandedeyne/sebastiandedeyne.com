@@ -29,9 +29,15 @@ No.
 
 `my/package:1.0.0` required `league/commonmark:^0.19`, which got bumped to `league/commonmark:^1.0`. You may bump your package version to `my/package:1.0.1`.
 
+If your package is installed in a project that requires `league/commonmark:^0.19`, composer will keep requiring `my/package:1.0.0` until `my/package:1.0.1` is compatible with your project. Nothing breaks, but the project won't receive new updates.
+
 As long as the dependency update **doesn't affect your package's public API**, no major version bump is required.
 
-If your package is installed in a project that requires `league/commonmark:^0.19`, composer will keep requiring `my/package:1.0.0` until `my/package:1.0.1` is compatible with your project. Nothing breaks, but the project won't receive new updates.
+From [semver.org](https://semver.org/#what-should-i-do-if-i-update-my-own-dependencies-without-changing-the-public-api):
+
+> **What should I do if I update my own dependencies without changing the public API?**
+>
+> That would be considered compatible since it does not affect the public API. Software that explicitly depends on the same dependencies as your package should have their own dependency specifications and the author will notice any conflicts.
 
 ## Do I need to increment my package's major version when I update the language requirement?
 
