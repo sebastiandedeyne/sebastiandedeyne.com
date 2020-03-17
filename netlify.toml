@@ -37,3 +37,7 @@ to = "/index.xml"
 [[redirects]]
 from = "/feed/articles"
 to = "/articles/index.xml"
+
+[[redirects]]
+from = "/semver-deps"
+to = "/composer-semver-and-underlying-dependency-changes"
