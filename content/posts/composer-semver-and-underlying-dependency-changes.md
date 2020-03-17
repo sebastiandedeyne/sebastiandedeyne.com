@@ -1,6 +1,6 @@
 ---
 title: "Composer, semver, and underlying dependency changes"
-slug: composer-semver-and-underlying-dependency-updates
+slug: composer-semver-and-underlying-dependency-changes
 date: 2020-03-17
 categories: ["articles"]
 ---
