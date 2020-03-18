@@ -721,5 +721,49 @@
     "like-of": "https://sebastiandedeyne.com/composer-semver-and-underlying-dependency-changes/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "webcode",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/fadb2e9d96475a1d5df7a4f67c05f9f7d175a3f077e118c3bf1902a146f9dc1f.jpg",
+      "url": "https://twitter.com/webcode"
+    },
+    "url": "https://twitter.com/webcode/status/1240254281204281344",
+    "published": "2020-03-18T12:30:38+00:00",
+    "wm-received": "2020-03-18T13:02:38Z",
+    "wm-id": 771384,
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1240254281204281344",
+    "wm-target": "https://sebastiandedeyne.com/composer-semver-and-underlying-dependency-changes/",
+    "content": {
+      "html": "<a href=\"https://twitter.com/search?q=%23Composer\">#Composer</a>, <a href=\"https://twitter.com/search?q=%23semver\">#semver</a>, and underlying dependency changes <a href=\"https://sebastiandedeyne.com/composer-semver-and-underlying-dependency-changes/?utm_source=webcode.ca&amp;utm_medium=social&amp;utm_campaign=twitterfollow\">sebastiandedeyne.com/composer-semve…</a> via <a href=\"https://twitter.com/sebdedeyne\">@sebdedeyne</a>\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/composer-semver-and-underlying-dependency-changes/\"></a>",
+      "text": "#Composer, #semver, and underlying dependency changes sebastiandedeyne.com/composer-semve… via @sebdedeyne"
+    },
+    "mention-of": "https://sebastiandedeyne.com/composer-semver-and-underlying-dependency-changes/",
+    "wm-property": "mention-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Freek Van der Herten",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/fc87f4abfee522403bfb9d8ebbdd1bde483d020713c137b63e94bec043c45cfa.jpg",
+      "url": "https://twitter.com/freekmurze"
+    },
+    "url": "https://twitter.com/freekmurze/status/1240291883445899264",
+    "published": "2020-03-18T15:00:03+00:00",
+    "wm-received": "2020-03-18T15:06:49Z",
+    "wm-id": 771398,
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1240291883445899264",
+    "wm-target": "https://sebastiandedeyne.com/composer-semver-and-underlying-dependency-changes/",
+    "content": {
+      "html": "🔗 Dropping a PHP versions is not a breaking change\n<a href=\"https://sebastiandedeyne.com/composer-semver-and-underlying-dependency-changes/\">sebastiandedeyne.com/composer-semve…</a>",
+      "text": "🔗 Dropping a PHP versions is not a breaking change\nsebastiandedeyne.com/composer-semve…"
+    },
+    "mention-of": "https://sebastiandedeyne.com/composer-semver-and-underlying-dependency-changes/",
+    "wm-property": "mention-of",
+    "wm-private": false
   }
 ]
