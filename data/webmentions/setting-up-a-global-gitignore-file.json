@@ -3330,5 +3330,27 @@
     "like-of": "https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Tobias T—",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/bf65a2bbdc8f615f622d3b6a2fcff7a3e0c59e837a278404c1cf7c040035afc8.png",
+      "url": "https://twitter.com/tobiastom"
+    },
+    "url": "https://twitter.com/tobiastom/status/1240220047550885888",
+    "published": "2020-03-18T10:14:36+00:00",
+    "wm-received": "2020-03-18T10:46:46Z",
+    "wm-id": 771363,
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1240220047550885888",
+    "wm-target": "https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/",
+    "content": {
+      "html": "<a href=\"https://twitter.com/search?q=%23TIL\">#TIL</a>: You can have a global `.gitignore`file. No more `.nova` or `.vscode` for me. \n<a href=\"https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/\">sebastiandedeyne.com/setting-up-a-g…</a>",
+      "text": "#TIL: You can have a global `.gitignore`file. No more `.nova` or `.vscode` for me. \nsebastiandedeyne.com/setting-up-a-g…"
+    },
+    "mention-of": "https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/",
+    "wm-property": "mention-of",
+    "wm-private": false
   }
 ]

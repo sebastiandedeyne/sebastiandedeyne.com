@@ -646,5 +646,80 @@
     "mention-of": "https://sebastiandedeyne.com/composer-semver-and-underlying-dependency-changes/",
     "wm-property": "mention-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Mior Muhammad Zaki",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/400f22297dc8365d4d7aa8719b54aa087cd6d04b696cf4543b2145dfea7c628f.jpg",
+      "url": "https://twitter.com/crynobone"
+    },
+    "url": "https://twitter.com/crynobone/status/1240150576618524673",
+    "published": "2020-03-18T05:38:33+00:00",
+    "wm-received": "2020-03-18T06:07:04Z",
+    "wm-id": 771327,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1239911165507112960/1240150576618524673",
+    "wm-target": "https://sebastiandedeyne.com/composer-semver-and-underlying-dependency-changes/",
+    "content": {
+      "text": "✒️ There seems to be a lot of confusion regarding updating dependencies or language requirements in a package. \n\nDoes that mean the package"
+    },
+    "repost-of": "https://sebastiandedeyne.com/composer-semver-and-underlying-dependency-changes/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Anton Komarev",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/8c46c8c05ba08ea6e56f990e6ba95bd52e7da5515935e4f14b781f7d8b7ba7ca.jpg",
+      "url": "https://twitter.com/antonkomarev"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1239911165507112960#favorited-by-834743832013074436",
+    "published": null,
+    "wm-received": "2020-03-18T06:42:46Z",
+    "wm-id": 771330,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1239911165507112960/834743832013074436",
+    "wm-target": "https://sebastiandedeyne.com/composer-semver-and-underlying-dependency-changes/",
+    "like-of": "https://sebastiandedeyne.com/composer-semver-and-underlying-dependency-changes/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Ruslan",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/6114334d09745c23c21d748a3ffb0e5f0972472d77df8a83d2914859cbd3b5fd.jpg",
+      "url": "https://twitter.com/SuddenlyRust"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1239911165507112960#favorited-by-935107835045842944",
+    "published": null,
+    "wm-received": "2020-03-18T07:14:48Z",
+    "wm-id": 771332,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1239911165507112960/935107835045842944",
+    "wm-target": "https://sebastiandedeyne.com/composer-semver-and-underlying-dependency-changes/",
+    "like-of": "https://sebastiandedeyne.com/composer-semver-and-underlying-dependency-changes/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Tom Hermans 🤘",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/795f03301969b7eb3f47673dca199228325e3a925defe302d9653b3f3283823f.jpg",
+      "url": "https://twitter.com/tomhermans"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1239911165507112960#favorited-by-10044152",
+    "published": null,
+    "wm-received": "2020-03-18T10:12:31Z",
+    "wm-id": 771361,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1239911165507112960/10044152",
+    "wm-target": "https://sebastiandedeyne.com/composer-semver-and-underlying-dependency-changes/",
+    "like-of": "https://sebastiandedeyne.com/composer-semver-and-underlying-dependency-changes/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
