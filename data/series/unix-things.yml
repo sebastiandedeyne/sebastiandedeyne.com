@@ -1,0 +1,14 @@
+title: Unix things I always forget
+description: |
+  This series is an attempt to document the Unix commands I know, and the ones I occasionally need.
+
+  Follow along, and you might learn some tricks along the way! Consider this series a living document that will grow organically; I won't be updating or adding new posts on a set schedule.
+posts:
+  - title: Introduction
+    slug: unix-things
+  - title: Listing directories
+    slug: unix-things/listing-directories
+  - title: Finding files (by filename)
+  - title: Finding files (by content)
+  - title: Permissions
+  - title: Rsync

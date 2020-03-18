@@ -1,0 +1,29 @@
+{{ $post := . }}
+<header>
+  <h1 class="h1 mb-1">
+    <a href="{{ .RelPermalink }}">
+      {{ $post.Title }}
+    </a>
+  </h1>
+  <p class="text-sm text-gray-700 mb-8">
+      <a href="{{ $post.RelPermalink }}">
+        <time datetime="{{ $post.Date.Format "2006-01-02" }}">
+          {{ $post.Date.Format "January 2, 2006" }}
+        </time>
+        {{ if (in $post.Params.categories "articles") }}
+          {{ $readingtime := div ($post.Content | countwords) 200 }}
+          | {{ cond (lt $readingtime 1) 1 $readingtime }} min read
+        {{ end }}
+        {{ if $post.Params.series }}
+          {{ with $series := index $.Site.Data.series $post.Params.series }}
+            | {{ $series.title }}
+            {{ range $index, $p := $series.posts }}
+              {{ if eq $p.slug $post.Params.slug }}
+                {{ add $index 1 }}/{{ len $series.posts }}
+              {{ end }}
+            {{ end }}
+          {{ end }}
+        {{ end }}
+      </a>
+  </p>
+</header>

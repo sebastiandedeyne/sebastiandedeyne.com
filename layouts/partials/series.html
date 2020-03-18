@@ -1,6 +1,6 @@
 <section class="bg-gray-900 dark:bg-gray-800 text-white leading-snug p-12 mt-12">
-  <p class="font-medium mb-1 text-lg">JavaScript Framework Diet</p>
-  <div class="markup markup-tight | mb-12 text-gray-400 text-xs">
+  <p class="font-medium mb-1 text-lg">{{ .series.title }}</p>
+  <div class="markup markup-series | mb-12">
     {{ .series.description | markdownify }}
   </div>
   <ol class="toc-list | text-sm">
