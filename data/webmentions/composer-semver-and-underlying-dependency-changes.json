@@ -606,5 +606,45 @@
     "like-of": "https://sebastiandedeyne.com/composer-semver-and-underlying-dependency-changes/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Paulo Elias",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/7f41ca22296a8bd5a08906058923531a4d9bc1f211818ee2923a4ba016dfeea5.jpg",
+      "url": "https://twitter.com/pauloelias"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1239911165507112960#favorited-by-11488202",
+    "published": null,
+    "wm-received": "2020-03-18T03:56:29Z",
+    "wm-id": 771314,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1239911165507112960/11488202",
+    "wm-target": "https://sebastiandedeyne.com/composer-semver-and-underlying-dependency-changes/",
+    "like-of": "https://sebastiandedeyne.com/composer-semver-and-underlying-dependency-changes/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Paulo Elias",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/7f41ca22296a8bd5a08906058923531a4d9bc1f211818ee2923a4ba016dfeea5.jpg",
+      "url": "https://twitter.com/pauloelias"
+    },
+    "url": "https://twitter.com/pauloelias/status/1240115568784490496",
+    "published": "2020-03-18T03:19:26+00:00",
+    "wm-received": "2020-03-18T03:56:44Z",
+    "wm-id": 771315,
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1240115568784490496",
+    "wm-target": "https://sebastiandedeyne.com/composer-semver-and-underlying-dependency-changes/",
+    "content": {
+      "html": "👍👍👍\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/composer-semver-and-underlying-dependency-changes/\"></a>",
+      "text": "👍👍👍"
+    },
+    "mention-of": "https://sebastiandedeyne.com/composer-semver-and-underlying-dependency-changes/",
+    "wm-property": "mention-of",
+    "wm-private": false
   }
 ]
