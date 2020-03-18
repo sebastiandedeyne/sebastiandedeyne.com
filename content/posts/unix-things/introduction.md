@@ -6,6 +6,10 @@ categories: ["articles"]
 series: unix-things
 keywords:
   - cli
+summary: |
+  A short intro on my second series: Unix things I always forget!
+
+  An attempt to document the Unix commands I know and care about. Consider this series a living document that will grow organically; I won't be updating or adding new posts on a set schedule.
 ---
 
 I've been a Mac user for over a decade now. Over time I've added more and more Unix commands to my muscle memory.
