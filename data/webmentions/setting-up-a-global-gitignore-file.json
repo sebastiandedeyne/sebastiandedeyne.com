@@ -3352,5 +3352,49 @@
     "mention-of": "https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/",
     "wm-property": "mention-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Freek Van der Herten",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/fc87f4abfee522403bfb9d8ebbdd1bde483d020713c137b63e94bec043c45cfa.jpg",
+      "url": "https://twitter.com/freekmurze"
+    },
+    "url": "https://twitter.com/freekmurze/status/1240608971477725185",
+    "published": "2020-03-19T12:00:02+00:00",
+    "wm-received": "2020-03-19T12:22:37Z",
+    "wm-id": 771619,
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1240608971477725185",
+    "wm-target": "https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/",
+    "content": {
+      "html": "🔗 Setting up a global .gitignore file\n<a href=\"https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/\">sebastiandedeyne.com/setting-up-a-g…</a>\n<a href=\"https://twitter.com/search?q=%23bestpractices\">#bestpractices</a> <a href=\"https://twitter.com/search?q=%23git\">#git</a>",
+      "text": "🔗 Setting up a global .gitignore file\nsebastiandedeyne.com/setting-up-a-g…\n#bestpractices #git"
+    },
+    "mention-of": "https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/",
+    "wm-property": "mention-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Stephen Jude",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/3989d213e853d6097f39823c1484b03aa0ca98060d69d59c5106712b9a5f6428.jpg",
+      "url": "https://twitter.com/stephenjudeso"
+    },
+    "url": "https://twitter.com/stephenjudeso/status/1240686976438644737",
+    "published": "2020-03-19T17:10:00+00:00",
+    "wm-received": "2020-03-19T17:36:27Z",
+    "wm-id": 771712,
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1240686976438644737",
+    "wm-target": "https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/",
+    "content": {
+      "html": "<a href=\"https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/\">sebastiandedeyne.com/setting-up-a-g…</a>",
+      "text": "sebastiandedeyne.com/setting-up-a-g…"
+    },
+    "mention-of": "https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/",
+    "wm-property": "mention-of",
+    "wm-private": false
   }
 ]
