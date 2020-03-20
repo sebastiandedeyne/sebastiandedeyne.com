@@ -3396,5 +3396,52 @@
     "mention-of": "https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/",
     "wm-property": "mention-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Berkay ÜNAL",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/d973a9ee5996d61e9e61b7003a71f52f1906df856c4462b10cc334f863f42293.jpg",
+      "url": "https://twitter.com/bunal"
+    },
+    "url": "https://twitter.com/bunal/status/1240988084503752705",
+    "published": "2020-03-20T13:06:30+00:00",
+    "wm-received": "2020-03-20T13:21:40Z",
+    "wm-id": 772095,
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1240988084503752705",
+    "wm-target": "https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/",
+    "photo": [
+      "https://pbs.twimg.com/media/ETjgCeRWoAAcvUK.jpg"
+    ],
+    "content": {
+      "html": "Git ile çalışırken proje bazlı olarak .gitignore dosyaları sıkıntı verici ve zaman alıcı bir düzenleme olabiliyor. Bu durumda global .gitignore dosyası kullanmak daha bir mantıklı oluyor. \n\nDetaylar: <a href=\"https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/\">sebastiandedeyne.com/setting-up-a-g…</a>",
+      "text": "Git ile çalışırken proje bazlı olarak .gitignore dosyaları sıkıntı verici ve zaman alıcı bir düzenleme olabiliyor. Bu durumda global .gitignore dosyası kullanmak daha bir mantıklı oluyor. \n\nDetaylar: sebastiandedeyne.com/setting-up-a-g…"
+    },
+    "mention-of": "https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/",
+    "wm-property": "mention-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Lucas Fiege",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/9efa51ae09cce6c4e8bc5564a7d0e59158a8b6915d7fb92fc68236bfdeeb6c85.jpg",
+      "url": "https://twitter.com/lsfiege"
+    },
+    "url": "https://twitter.com/lsfiege/status/1240994798334627841",
+    "published": "2020-03-20T13:33:11+00:00",
+    "wm-received": "2020-03-20T14:10:58Z",
+    "wm-id": 772126,
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1240994798334627841",
+    "wm-target": "https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/",
+    "content": {
+      "html": "That's a killer feature of <a href=\"https://twitter.com/search?q=%23git\">#git</a>🔥 post written by <a href=\"https://twitter.com/sebdedeyne\">@sebdedeyne</a> \n<a href=\"https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/\">sebastiandedeyne.com/setting-up-a-g…</a>",
+      "text": "That's a killer feature of #git🔥 post written by @sebdedeyne \nsebastiandedeyne.com/setting-up-a-g…"
+    },
+    "mention-of": "https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/",
+    "wm-property": "mention-of",
+    "wm-private": false
   }
 ]
