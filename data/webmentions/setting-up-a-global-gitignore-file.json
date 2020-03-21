@@ -3443,5 +3443,27 @@
     "mention-of": "https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/",
     "wm-property": "mention-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "I'm Undefined 😎 🇮🇳",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/0f010a866a4c6cd0029697cf0c343332332eee96ce4b0d85bc0e54ec4605f196.jpg",
+      "url": "https://twitter.com/NaveenS16"
+    },
+    "url": "https://twitter.com/NaveenS16/status/1241055602085773314",
+    "published": "2020-03-20T17:34:47+00:00",
+    "wm-received": "2020-03-20T18:21:07Z",
+    "wm-id": 772327,
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1241055602085773314",
+    "wm-target": "https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/",
+    "content": {
+      "html": "Setting up a global .gitignore file\n\n<a href=\"https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/\">sebastiandedeyne.com/setting-up-a-g…</a> <a href=\"https://twitter.com/search?q=%23Git\">#Git</a> <a href=\"https://twitter.com/search?q=%23GitHub\">#GitHub</a> <a href=\"https://twitter.com/search?q=%23100DaysOfCode\">#100DaysOfCode</a> <a href=\"https://twitter.com/search?q=%23CodeNewbie\">#CodeNewbie</a> <a href=\"https://twitter.com/search?q=%23301DaysOfCode\">#301DaysOfCode</a> <a href=\"https://twitter.com/search?q=%23DevTips\">#DevTips</a>",
+      "text": "Setting up a global .gitignore file\n\nsebastiandedeyne.com/setting-up-a-g… #Git #GitHub #100DaysOfCode #CodeNewbie #301DaysOfCode #DevTips"
+    },
+    "mention-of": "https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/",
+    "wm-property": "mention-of",
+    "wm-private": false
   }
 ]

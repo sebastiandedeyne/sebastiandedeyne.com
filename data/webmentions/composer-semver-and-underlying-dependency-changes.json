@@ -765,5 +765,23 @@
     "mention-of": "https://sebastiandedeyne.com/composer-semver-and-underlying-dependency-changes/",
     "wm-property": "mention-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Roman Pronskiy",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/9373f62b650e88f9265f5742739d93f3fbaa1f7d60d8593c694c25821996528e.png",
+      "url": "https://twitter.com/pronskiy"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1239911165507112960#favorited-by-156592964",
+    "published": null,
+    "wm-received": "2020-03-20T21:25:02Z",
+    "wm-id": 772383,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1239911165507112960/156592964",
+    "wm-target": "https://sebastiandedeyne.com/composer-semver-and-underlying-dependency-changes/",
+    "like-of": "https://sebastiandedeyne.com/composer-semver-and-underlying-dependency-changes/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
