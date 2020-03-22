@@ -1590,5 +1590,27 @@
     "mention-of": "https://sebastiandedeyne.com/mailcoachs-lack-of-javascript-stack/",
     "wm-property": "mention-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Javascriptflx",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/9a7798d516a55b25e29196234f17e8c7ba965c812885863030524da542efe7a1.jpg",
+      "url": "https://twitter.com/javascriptflx"
+    },
+    "url": "https://twitter.com/javascriptflx/status/1241541496249159680",
+    "published": "2020-03-22T01:45:34+00:00",
+    "wm-received": "2020-03-22T01:57:37Z",
+    "wm-id": 773255,
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1241541496249159680",
+    "wm-target": "https://sebastiandedeyne.com/mailcoachs-lack-of-javascript-stack/",
+    "content": {
+      "html": "Mailcoach's (lack of) JavaScript stack <a href=\"https://sebastiandedeyne.com/mailcoachs-lack-of-javascript-stack/\">sebastiandedeyne.com/mailcoachs-lac…</a>  <a href=\"https://twitter.com/search?q=%23Javascript\">#Javascript</a>",
+      "text": "Mailcoach's (lack of) JavaScript stack sebastiandedeyne.com/mailcoachs-lac…  #Javascript"
+    },
+    "mention-of": "https://sebastiandedeyne.com/mailcoachs-lack-of-javascript-stack/",
+    "wm-property": "mention-of",
+    "wm-private": false
   }
 ]
