@@ -21,16 +21,16 @@ jobs:
           WEBMENTIONS_TOKEN: ${{ secrets.WEBMENTIONS_TOKEN }}
         run: node ./webmentions.js
 
-- name: Commit to repository
-  env:
-    GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-    COMMIT_MSG: |
-      Fetch webmentions
-      skip-checks: true
-  run: |
-    git config user.email "sebastiandedeyne@gmail.com"
-    git config user.name "Sebastian De Deyne"
-    git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/sebastiandedeyne/sebastiandedeyne.com.git
-    git checkout master
-    git add .
-    git diff --quiet && git diff --staged --quiet || (git commit -m "${COMMIT_MSG}"; git push origin master)
+      - name: Commit to repository
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          COMMIT_MSG: |
+            Fetch webmentions
+            skip-checks: true
+        run: |
+          git config user.email "sebastiandedeyne@gmail.com"
+          git config user.name "Sebastian De Deyne"
+          git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/sebastiandedeyne/sebastiandedeyne.com.git
+          git checkout master
+          git add .
+          git diff --quiet && git diff --staged --quiet || (git commit -m "${COMMIT_MSG}"; git push origin master)
