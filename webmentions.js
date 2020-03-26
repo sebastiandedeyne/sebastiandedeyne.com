@@ -36,10 +36,8 @@ fetchWebmentions().then(webmentions => {
 });
 
 function fetchWebmentions() {
-  // Token will be passed as an environment variable by Netlify.
   const token = process.env.WEBMENTIONS_TOKEN;
 
-  // Fetch all webmentions from the past 3 days.
   const since = new Date();
   since.setDate(since.getDate() - 3);
 
