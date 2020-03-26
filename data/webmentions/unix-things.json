@@ -1,0 +1,431 @@
+[
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "JohnnyBigodes",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/df2eca1e8a33bc3c8db6735eeae86969e00fc021eb6ab618c1b673cea5d59225.jpg",
+      "url": "https://twitter.com/JohnnyBig0des"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1240335632771305476#favorited-by-152972409",
+    "published": null,
+    "wm-received": "2020-03-18T18:10:50Z",
+    "wm-id": 771445,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1240335632771305476/152972409",
+    "wm-target": "https://sebastiandedeyne.com/unix-things/",
+    "like-of": "https://sebastiandedeyne.com/unix-things/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Placebo Domingo",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/b9ebf5d9824902a8a71af77937a2e611d0f9c6cdf28e115683f5bdfa84548a95.png",
+      "url": "https://twitter.com/brbcoding"
+    },
+    "url": "https://twitter.com/brbcoding/status/1240352228709449728",
+    "published": "2020-03-18T18:59:50+00:00",
+    "wm-received": "2020-03-18T19:15:14Z",
+    "wm-id": 771457,
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/sebdedeyne/1240335632771305476/1240352228709449728",
+    "wm-target": "https://sebastiandedeyne.com/unix-things/",
+    "content": {
+      "html": "My list of Unix things I always forget is very short:\n\n- *\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/sebdedeyne\"></a>",
+      "text": "My list of Unix things I always forget is very short:\n\n- *"
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/unix-things/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Placebo Domingo",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/b9ebf5d9824902a8a71af77937a2e611d0f9c6cdf28e115683f5bdfa84548a95.png",
+      "url": "https://twitter.com/brbcoding"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1240335632771305476#favorited-by-1157124170066595840",
+    "published": null,
+    "wm-received": "2020-03-18T19:15:29Z",
+    "wm-id": 771458,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1240335632771305476/1157124170066595840",
+    "wm-target": "https://sebastiandedeyne.com/unix-things/",
+    "like-of": "https://sebastiandedeyne.com/unix-things/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Chris Smiles",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/a435862cbff4e7dcbf140f7bf4acd3d13fbab42ed41dd95bb0a21d73c4c1e81c.jpg",
+      "url": "https://twitter.com/csmiles000"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1240335632771305476#favorited-by-2187211242",
+    "published": null,
+    "wm-received": "2020-03-18T22:21:11Z",
+    "wm-id": 771514,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1240335632771305476/2187211242",
+    "wm-target": "https://sebastiandedeyne.com/unix-things/",
+    "like-of": "https://sebastiandedeyne.com/unix-things/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Mithicher Baro",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/b4ee0c303dd27e391b702d9713c984efbbf051c6948b0dc2164dc17a3747bdd7.png",
+      "url": "https://twitter.com/mithicher"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1240335632771305476#favorited-by-1315799845",
+    "published": null,
+    "wm-received": "2020-03-19T06:09:08Z",
+    "wm-id": 771573,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1240335632771305476/1315799845",
+    "wm-target": "https://sebastiandedeyne.com/unix-things/",
+    "like-of": "https://sebastiandedeyne.com/unix-things/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Mithicher Baro",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/b4ee0c303dd27e391b702d9713c984efbbf051c6948b0dc2164dc17a3747bdd7.png",
+      "url": "https://twitter.com/mithicher"
+    },
+    "url": "https://twitter.com/mithicher/status/1240516707866705920",
+    "published": "2020-03-19T05:53:25+00:00",
+    "wm-received": "2020-03-19T06:09:17Z",
+    "wm-id": 771574,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1240335632771305476/1240516707866705920",
+    "wm-target": "https://sebastiandedeyne.com/unix-things/",
+    "content": {
+      "text": "Here we go, kicking off the second series on my blog!\n\n✒️ Unix things I always forget\n\nAn attempt to document the Unix commands I know and c"
+    },
+    "repost-of": "https://sebastiandedeyne.com/unix-things/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Brent",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/686d15132c5218bf5e3da234f3fb0718754226ddec672c0f765ce82f3865bc83.png",
+      "url": "https://twitter.com/brendt_gd"
+    },
+    "url": "https://twitter.com/brendt_gd/status/1240545699592384513",
+    "published": "2020-03-19T07:48:37+00:00",
+    "wm-received": "2020-03-19T07:58:03Z",
+    "wm-id": 771585,
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1240545699592384513",
+    "wm-target": "https://sebastiandedeyne.com/unix-things/",
+    "content": {
+      "html": "Looks like this will be an interesting blog series by my colleague Seb\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/unix-things/\"></a>",
+      "text": "Looks like this will be an interesting blog series by my colleague Seb"
+    },
+    "mention-of": "https://sebastiandedeyne.com/unix-things/",
+    "wm-property": "mention-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Adam Crampton",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/6658aac3dc589680ef9379182dee496bb9959587951c0eaf57b9adb118798aa6.png",
+      "url": "https://twitter.com/adam_crampton"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1240335632771305476#favorited-by-4616182212",
+    "published": null,
+    "wm-received": "2020-03-19T07:58:10Z",
+    "wm-id": 771586,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1240335632771305476/4616182212",
+    "wm-target": "https://sebastiandedeyne.com/unix-things/",
+    "like-of": "https://sebastiandedeyne.com/unix-things/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Ruslan",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/6114334d09745c23c21d748a3ffb0e5f0972472d77df8a83d2914859cbd3b5fd.jpg",
+      "url": "https://twitter.com/SuddenlyRust"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1240335632771305476#favorited-by-935107835045842944",
+    "published": null,
+    "wm-received": "2020-03-19T08:34:50Z",
+    "wm-id": 771589,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1240335632771305476/935107835045842944",
+    "wm-target": "https://sebastiandedeyne.com/unix-things/",
+    "like-of": "https://sebastiandedeyne.com/unix-things/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Samuel Moy Millán ",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/8b583afdefe49d25846e0d3a58843202b80acefe9af0d08f028ecfa19e20fd82.jpg",
+      "url": "https://twitter.com/SamuelMoy"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1240335632771305476#favorited-by-178201770",
+    "published": null,
+    "wm-received": "2020-03-19T08:35:18Z",
+    "wm-id": 771590,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1240335632771305476/178201770",
+    "wm-target": "https://sebastiandedeyne.com/unix-things/",
+    "like-of": "https://sebastiandedeyne.com/unix-things/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": ".",
+      "photo": "https://webmention.io/avatar/abs.twimg.com/0e6b2cd70aa5b35dec24ca4e1e63f8963f0118736d9ec3bba77e3a8c99a27bc2.png",
+      "url": "https://twitter.com/panda_rocks2020"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1240335632771305476#favorited-by-1107183556139192320",
+    "published": null,
+    "wm-received": "2020-03-19T08:35:25Z",
+    "wm-id": 771591,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1240335632771305476/1107183556139192320",
+    "wm-target": "https://sebastiandedeyne.com/unix-things/",
+    "like-of": "https://sebastiandedeyne.com/unix-things/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Tim Nash",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/7afcf0cd81c35e9f7ad1ce14daf7e41949f4797cbddcfec67f30cb03273ad276.jpg",
+      "url": "https://twitter.com/tnash"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1240335632771305476#favorited-by-14408283",
+    "published": null,
+    "wm-received": "2020-03-19T09:10:51Z",
+    "wm-id": 771596,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1240335632771305476/14408283",
+    "wm-target": "https://sebastiandedeyne.com/unix-things/",
+    "like-of": "https://sebastiandedeyne.com/unix-things/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Jesse Dobbelaere",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/e4e63111fe6679cac703970c6b91aeba8a11ca7b6dbcf8b2dff0f3c4fb115be6.png",
+      "url": "https://twitter.com/JesseDobbelaere"
+    },
+    "url": "https://twitter.com/JesseDobbelaere/status/1240622317098749953",
+    "published": "2020-03-19T12:53:04+00:00",
+    "wm-received": "2020-03-19T12:54:47Z",
+    "wm-id": 771626,
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/sebdedeyne/1240335632771305476/1240622317098749953",
+    "wm-target": "https://sebastiandedeyne.com/unix-things/",
+    "photo": [
+      "https://pbs.twimg.com/media/ETeTa1QWkAAasJK.jpg"
+    ],
+    "content": {
+      "html": "🔥 `brew install tldr` (<a href=\"https://tldr.sh/\">tldr.sh</a>) has helped me a lot of times 🙏 e.g. `tldr ln`. Much more clear than man pages, with actual helpful examples.\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/sebdedeyne\"></a>",
+      "text": "🔥 `brew install tldr` (tldr.sh) has helped me a lot of times 🙏 e.g. `tldr ln`. Much more clear than man pages, with actual helpful examples."
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/unix-things/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Bramus!",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/61a000e6774bacfe39918128f9022678cf4b57a65a351cb6cf55aa22d5fa0fa1.jpg",
+      "url": "https://twitter.com/bramus"
+    },
+    "url": "https://twitter.com/bramus/status/1240620057417453568",
+    "published": "2020-03-19T12:44:05+00:00",
+    "wm-received": "2020-03-19T12:55:36Z",
+    "wm-id": 771627,
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/sebdedeyne/1240335632771305476/1240620057417453568",
+    "wm-target": "https://sebastiandedeyne.com/unix-things/",
+    "content": {
+      "html": "@sebdedeyne 07. Symlinking\n\nIs it \"ln -s dst src\" or is it \"ln -s src dst\"? I always have to look that one up 🤦‍♂️\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/sebdedeyne\"></a>",
+      "text": "@sebdedeyne 07. Symlinking\n\nIs it \"ln -s dst src\" or is it \"ln -s src dst\"? I always have to look that one up 🤦‍♂️"
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/unix-things/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Sebastian De Deyne",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/3ce609991342657b8b7e99eb7a5c6e3656fbdb1c51575f1464d354b81aaeda86.jpg",
+      "url": "https://twitter.com/sebdedeyne"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1240622583017504769",
+    "published": "2020-03-19T12:54:08+00:00",
+    "wm-received": "2020-03-19T12:55:43Z",
+    "wm-id": 771628,
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/sebdedeyne/1240335632771305476/1240622583017504769",
+    "wm-target": "https://sebastiandedeyne.com/unix-things/",
+    "content": {
+      "html": "Ooooh that looks nice!\n<a class=\"u-mention\" href=\"https://twitter.com/JesseDobbelaere\"></a>",
+      "text": "Ooooh that looks nice!"
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/unix-things/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Brent",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/686d15132c5218bf5e3da234f3fb0718754226ddec672c0f765ce82f3865bc83.png",
+      "url": "https://twitter.com/brendt_gd"
+    },
+    "url": "https://twitter.com/brendt_gd/status/1240545699592384513",
+    "published": "2020-03-19T07:48:37+00:00",
+    "wm-received": "2020-03-19T12:55:47Z",
+    "wm-id": 771629,
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1240621604582961153",
+    "wm-target": "https://sebastiandedeyne.com/unix-things/",
+    "content": {
+      "html": "Looks like this will be an interesting blog series by my colleague Seb\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/unix-things/\"></a>",
+      "text": "Looks like this will be an interesting blog series by my colleague Seb"
+    },
+    "mention-of": "https://sebastiandedeyne.com/unix-things/",
+    "wm-property": "mention-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Anton Kristensen",
+      "photo": "https://webmention.io/avatar/abs.twimg.com/0e6b2cd70aa5b35dec24ca4e1e63f8963f0118736d9ec3bba77e3a8c99a27bc2.png",
+      "url": "https://twitter.com/anton_n_k"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1240335632771305476#favorited-by-900607711347445760",
+    "published": null,
+    "wm-received": "2020-03-19T13:29:03Z",
+    "wm-id": 771651,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1240335632771305476/900607711347445760",
+    "wm-target": "https://sebastiandedeyne.com/unix-things/",
+    "like-of": "https://sebastiandedeyne.com/unix-things/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Jesse Dobbelaere",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/e4e63111fe6679cac703970c6b91aeba8a11ca7b6dbcf8b2dff0f3c4fb115be6.png",
+      "url": "https://twitter.com/JesseDobbelaere"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1240335632771305476#favorited-by-177564804",
+    "published": null,
+    "wm-received": "2020-03-19T13:29:34Z",
+    "wm-id": 771652,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1240335632771305476/177564804",
+    "wm-target": "https://sebastiandedeyne.com/unix-things/",
+    "like-of": "https://sebastiandedeyne.com/unix-things/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Lambert Traccard",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/0092681de01f8f15b50eaefca8c54cafc66c7490050d59bc1bf6bcfac892c184.jpg",
+      "url": "https://twitter.com/lamberttraccard"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1240335632771305476#favorited-by-236706279",
+    "published": null,
+    "wm-received": "2020-03-20T06:36:32Z",
+    "wm-id": 771931,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1240335632771305476/236706279",
+    "wm-target": "https://sebastiandedeyne.com/unix-things/",
+    "like-of": "https://sebastiandedeyne.com/unix-things/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Thore Sünert",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/bbd32807c83ad0b5934ad267b6cf1ff69cdea9a223acb96b525785781972913b.jpg",
+      "url": "https://twitter.com/thoresuenert"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1240335632771305476#favorited-by-178718254",
+    "published": null,
+    "wm-received": "2020-03-20T09:17:18Z",
+    "wm-id": 772021,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1240335632771305476/178718254",
+    "wm-target": "https://sebastiandedeyne.com/unix-things/",
+    "like-of": "https://sebastiandedeyne.com/unix-things/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Brian Faust",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/5ff196f20b78a918480e6d65323bc1eb50ed0274e3671920889a7656b39767ef.jpg",
+      "url": "https://twitter.com/_faustbrian"
+    },
+    "url": "https://twitter.com/_faustbrian/status/1241047185526894592",
+    "published": "2020-03-20T17:01:21+00:00",
+    "wm-received": "2020-03-20T17:28:16Z",
+    "wm-id": 772276,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1240335632771305476/1241047185526894592",
+    "wm-target": "https://sebastiandedeyne.com/unix-things/",
+    "content": {
+      "text": "Here we go, kicking off the second series on my blog!\n\n✒️ Unix things I always forget\n\nAn attempt to document the Unix commands I know and c"
+    },
+    "repost-of": "https://sebastiandedeyne.com/unix-things/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Ahmad H.",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/ecab3c9ae547d08a50a38f674205de2353a518b04ed6e3f9e7bab1eb61a9b9b1.jpg",
+      "url": "https://twitter.com/SL0wZEr"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1240335632771305476#favorited-by-39879512",
+    "published": null,
+    "wm-received": "2020-03-24T12:31:34Z",
+    "wm-id": 774796,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1240335632771305476/39879512",
+    "wm-target": "https://sebastiandedeyne.com/unix-things/",
+    "like-of": "https://sebastiandedeyne.com/unix-things/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+]

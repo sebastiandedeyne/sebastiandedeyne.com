@@ -831,5 +831,27 @@
     "like-of": "https://sebastiandedeyne.com/javascript-framework-diet/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Bjørn Lindholm",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/0fdb1777423df7347cc14283896b82540d759d2043945c1275b9f647c7b3389e.jpg",
+      "url": "https://twitter.com/bjornlindholmdk"
+    },
+    "url": "https://twitter.com/bjornlindholmdk/status/1235556269068554240",
+    "published": "2020-03-05T13:22:24+00:00",
+    "wm-received": "2020-03-05T13:23:42Z",
+    "wm-id": 764644,
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1235556269068554240",
+    "wm-target": "https://sebastiandedeyne.com/javascript-framework-diet/",
+    "content": {
+      "html": "Interesting series by <a href=\"https://twitter.com/sebdedeyne\">@sebdedeyne</a> on building an app without a JS framework: \n<a href=\"https://sebastiandedeyne.com/javascript-framework-diet/\">sebastiandedeyne.com/javascript-fra…</a>",
+      "text": "Interesting series by @sebdedeyne on building an app without a JS framework: \nsebastiandedeyne.com/javascript-fra…"
+    },
+    "mention-of": "https://sebastiandedeyne.com/javascript-framework-diet/",
+    "wm-property": "mention-of",
+    "wm-private": false
   }
 ]
