@@ -3487,27 +3487,5 @@
     "mention-of": "https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/",
     "wm-property": "mention-of",
     "wm-private": false
-  },
-  {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Ed Holloway",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/51af1ca08dbcfb62af3417ef3fd30c79462cb071bfe007f72a24ed5aab035f05.png",
-      "url": "https://twitter.com/EdHolloway"
-    },
-    "url": "https://twitter.com/EdHolloway/status/1242542315132063744",
-    "published": "2020-03-24T20:02:27+00:00",
-    "wm-received": "2020-03-24T20:16:41Z",
-    "wm-id": 775157,
-    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1242542315132063744",
-    "wm-target": "https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/",
-    "content": {
-      "html": "Creating a global <a href=\"https://twitter.com/search?q=%23Git\">#Git</a> ignore file. I feel like this is something I should have known / done years ago, but didn't  :-(  Thanks <a href=\"https://twitter.com/sebdedeyne\">@sebdedeyne</a>\n\n<a href=\"https://sebastiandedeyne.com/setting-up-a-global-gitignore-file\">sebastiandedeyne.com/setting-up-a-g…</a>\n\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/\"></a>",
-      "text": "Creating a global #Git ignore file. I feel like this is something I should have known / done years ago, but didn't  :-(  Thanks @sebdedeyne\n\nsebastiandedeyne.com/setting-up-a-g…"
-    },
-    "mention-of": "https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/",
-    "wm-property": "mention-of",
-    "wm-private": false
   }
 ]
