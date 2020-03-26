@@ -5,7 +5,7 @@ link: https://www.sitepoint.com/snapshot-testing-viable-php
 categories: ["links"]
 keywords:
   - PHP
-  - PHPunit
+  - PHPUnit
   - testing
 ---
 

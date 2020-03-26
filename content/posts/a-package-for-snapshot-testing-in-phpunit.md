@@ -5,7 +5,7 @@ subtitle: Works with PHPUnit 5.7+
 categories: ["articles"]
 keywords:
   - PHP
-  - PHPunit
+  - PHPUnit
   - testing
 ---
 

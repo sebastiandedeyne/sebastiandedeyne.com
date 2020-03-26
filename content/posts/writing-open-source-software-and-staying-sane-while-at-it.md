@@ -4,7 +4,7 @@ date: 2019-10-29
 categories: ["articles"]
 keywords:
   - programming
-  - oss
+  - OSS
 ---
 
 In the 4.5 years I've been a developer at [Spatie](https://spatie.be), over 200 packages have been built and released by our team. I've done quite some authoring and maintenance over the years, and I'd like to share 8 actionable tips on writing and maintaining open source software without going insane.

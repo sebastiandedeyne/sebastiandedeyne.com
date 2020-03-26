@@ -1,4 +1,7 @@
 const search = document.querySelector("[data-archive-search]");
+const keywords = Array.from(
+  document.querySelectorAll("[data-archive-keyword]")
+);
 const items = Array.from(document.querySelectorAll("[data-archive-item]"));
 const groups = Array.from(document.querySelectorAll("[data-archive-group]"));
 
@@ -14,6 +17,13 @@ window.addEventListener("keyup", event => {
 
 search.addEventListener("input", event => {
   filterArchiveList(event.target.value);
+});
+
+keywords.forEach(keyword => {
+  keyword.addEventListener("click", () => {
+    search.value = keyword.textContent.trim();
+    filterArchiveList(search.value);
+  });
 });
 
 const initialSearchMatches = window.location.search.match(/search=([^$]+)/);
@@ -62,6 +72,8 @@ function filterArchiveList(input) {
   window.history.replaceState(
     null,
     null,
-    `${window.location.pathname}?search=${encodeURIComponent(search)}`
+    `${window.location.pathname}?search=${encodeURIComponent(
+      input.toLowerCase()
+    )}`
   );
 }

@@ -4,7 +4,7 @@ title: A good issue
 categories: ["articles"]
 keywords:
   - programming
-  - oss
+  - OSS
 ---
 
 Maintaining a number of open source projects comes with a number of issues. Reporting a good issue will result in a more engaged approach from project maintainers. Don't forget: there's a human behind every project.

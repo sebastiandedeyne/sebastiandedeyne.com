@@ -10,6 +10,22 @@
   >
 </header>
 
+{{ $keywords := slice }}
+{{ range where $.Site.RegularPages "Section" "posts" }}
+{{ $keywords = $keywords | append .Keywords }}
+{{ end }}
+<section class="mb-12">
+  <ul class="flex flex-wrap leading-tight">
+    {{ range $keywords | uniq | sort }}
+      <li class="mr-2">
+        <button class="text-xs underline text-gray-700" data-archive-keyword>
+          {{ . }}
+        </button>
+      </li>
+    {{ end }}
+  </ul>
+</section>
+
 <section class="pb-12 sm:pb-24">
   <ul class="border-b dark:border-gray-800">
     {{ range ((where $.Site.RegularPages "Section" "posts").GroupByDate "January 2006") }}
@@ -19,7 +35,14 @@
         </h2>
         <ul class="flex-1">
           {{ range .Pages }}
-            <li class="leading-snug mb-4 text-sm" data-archive-item="{{ .Title | replaceRE "[^\\w]" "" | lower }}">
+            <li
+              class="leading-snug mb-4 text-sm"
+              data-archive-item="
+                {{ .Title | replaceRE "[^\\w]" "" | lower }}
+                {{ range .Keywords }}
+                  {{ . | replaceRE "[^\\w]" "" | lower }}
+                {{ end }}
+              ">
               <a href="{{ .RelPermalink }}" class="font-medium">
                 {{ .Title }}
               </a>
