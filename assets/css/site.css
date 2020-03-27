@@ -71,7 +71,8 @@ hr {
  * Markup                                                                      *
 \******************************************************************************/
 
-.markup > *:not(:last-child) {
+.markup > *:not(:last-child),
+.markup > details > summary {
   margin-bottom: 1.5rem;
 }
 

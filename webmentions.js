@@ -3,9 +3,6 @@ const https = require("https");
 
 fetchWebmentions().then(webmentions => {
   webmentions.forEach(webmention => {
-    // Sluggify the webmention target URL.
-    // Example: "https://sebastiandedeyne/unix-things/listing-directories/"
-    //   -> "unix-things--listing-directories"
     const slug = webmention["wm-target"]
       .replace("https://sebastiandedeyne.com/", "")
       .replace(/\/$/, "")
@@ -13,22 +10,16 @@ fetchWebmentions().then(webmentions => {
 
     const filename = `${__dirname}/data/webmentions/${slug}.json`;
 
-    // If there's no data file for the webmention target yet, we can simply
-    // create a new one with the webmention as the sole entry.
     if (!fs.existsSync(filename)) {
       fs.writeFileSync(filename, JSON.stringify([webmention], null, 2));
 
       return;
     }
 
-    // If there are already entries for a webmention target, append the
-    // new webmention to the existing ones. But first filter the existing
-    // entries to prevent duplicates.
     const entries = JSON.parse(fs.readFileSync(filename))
       .filter(wm => wm["wm-id"] !== webmention["wm-id"])
       .concat([webmention]);
 
-    // Sort the entries by webmention ID to have a deterministic order.
     entries.sort((a, b) => a["wm-id"] - b["wm-id"]);
 
     fs.writeFileSync(filename, JSON.stringify(entries, null, 2));
