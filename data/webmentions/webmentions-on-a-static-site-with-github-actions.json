@@ -1,0 +1,178 @@
+[
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Tom Witkowski",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/4c6a0072545bab629442313c0b6d9a2cd920b338d3f3132c0e23a1f1175e382a.jpg",
+      "url": "https://twitter.com/devgummibeer"
+    },
+    "url": "https://twitter.com/devgummibeer/status/1243511627598778369",
+    "published": "2020-03-27T12:14:10+00:00",
+    "wm-received": "2020-03-27T13:21:36Z",
+    "wm-id": 775874,
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/sebdedeyne/1243470363461369857/1243511627598778369",
+    "wm-target": "https://sebastiandedeyne.com/webmentions-on-a-static-site-with-github-actions/",
+    "content": {
+      "html": "I do something similar with the packagist &amp; github API for <a href=\"https://astrotomic.info\">astrotomic.info</a> but atm I don't push them into the repo, but it would be easy to get done with <a href=\"https://twitter.com/_stefanzweifel\">@_stefanzweifel</a> GH action script. 💙🚀\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/GoHugoIO\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/sebdedeyne\"></a>",
+      "text": "I do something similar with the packagist & github API for astrotomic.info but atm I don't push them into the repo, but it would be easy to get done with @_stefanzweifel GH action script. 💙🚀"
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/webmentions-on-a-static-site-with-github-actions/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Stefan Zweifel",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/3b772e9239dfd15ce8527f90edd45d0678849d57b28725cc69f929bb4f11cf06.jpg",
+      "url": "https://twitter.com/_stefanzweifel"
+    },
+    "url": "https://twitter.com/_stefanzweifel/status/1243475556454338560",
+    "published": "2020-03-27T09:50:49+00:00",
+    "wm-received": "2020-03-27T13:21:50Z",
+    "wm-id": 775875,
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/sebdedeyne/1243470363461369857/1243475556454338560",
+    "wm-target": "https://sebastiandedeyne.com/webmentions-on-a-static-site-with-github-actions/",
+    "content": {
+      "html": "Solid approach 👍\n\nI think, I will update my implementation. Currently on each page view the <a href=\"http://webmention.io/api\">webmention.io/api</a> is fetched.\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/sebdedeyne\"></a>",
+      "text": "Solid approach 👍\n\nI think, I will update my implementation. Currently on each page view the webmention.io/api is fetched."
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/webmentions-on-a-static-site-with-github-actions/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Johannes Pichler",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/12008d8a982337bd4eec905acec1979cf82567cb192446b63e22310bac6fa283.jpg",
+      "url": "https://twitter.com/fetzi_io"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1243470363461369857#favorited-by-72600484",
+    "published": null,
+    "wm-received": "2020-03-27T13:21:51Z",
+    "wm-id": 775876,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1243470363461369857/72600484",
+    "wm-target": "https://sebastiandedeyne.com/webmentions-on-a-static-site-with-github-actions/",
+    "like-of": "https://sebastiandedeyne.com/webmentions-on-a-static-site-with-github-actions/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Tom Witkowski",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/4c6a0072545bab629442313c0b6d9a2cd920b338d3f3132c0e23a1f1175e382a.jpg",
+      "url": "https://twitter.com/devgummibeer"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1243470363461369857#favorited-by-2995381594",
+    "published": null,
+    "wm-received": "2020-03-27T13:22:29Z",
+    "wm-id": 775877,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1243470363461369857/2995381594",
+    "wm-target": "https://sebastiandedeyne.com/webmentions-on-a-static-site-with-github-actions/",
+    "like-of": "https://sebastiandedeyne.com/webmentions-on-a-static-site-with-github-actions/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Ryan Chandler",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/50595b1e0149d88f33975e48b10f4b04d754db0c752e6a76f8c9c8acd2948858.jpg",
+      "url": "https://twitter.com/ryangjchandler"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1243470363461369857#favorited-by-1088489047260041217",
+    "published": null,
+    "wm-received": "2020-03-27T13:22:31Z",
+    "wm-id": 775878,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1243470363461369857/1088489047260041217",
+    "wm-target": "https://sebastiandedeyne.com/webmentions-on-a-static-site-with-github-actions/",
+    "like-of": "https://sebastiandedeyne.com/webmentions-on-a-static-site-with-github-actions/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Stefan Zweifel",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/3b772e9239dfd15ce8527f90edd45d0678849d57b28725cc69f929bb4f11cf06.jpg",
+      "url": "https://twitter.com/_stefanzweifel"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1243470363461369857#favorited-by-76577495",
+    "published": null,
+    "wm-received": "2020-03-27T13:23:00Z",
+    "wm-id": 775880,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1243470363461369857/76577495",
+    "wm-target": "https://sebastiandedeyne.com/webmentions-on-a-static-site-with-github-actions/",
+    "like-of": "https://sebastiandedeyne.com/webmentions-on-a-static-site-with-github-actions/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Johannes Pichler",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/12008d8a982337bd4eec905acec1979cf82567cb192446b63e22310bac6fa283.jpg",
+      "url": "https://twitter.com/fetzi_io"
+    },
+    "url": "https://twitter.com/fetzi_io/status/1243512917263253505",
+    "published": "2020-03-27T12:19:17+00:00",
+    "wm-received": "2020-03-27T13:23:04Z",
+    "wm-id": 775881,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1243470363461369857/1243512917263253505",
+    "wm-target": "https://sebastiandedeyne.com/webmentions-on-a-static-site-with-github-actions/",
+    "content": {
+      "text": "New post! Read all about how I added webmentions to my @GoHugoIO blog with GitHub Actions\n\nsebastiandedeyne.com/webmentions-on…\n\nThis isn't just for Hugo"
+    },
+    "repost-of": "https://sebastiandedeyne.com/webmentions-on-a-static-site-with-github-actions/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Stefan Zweifel",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/3b772e9239dfd15ce8527f90edd45d0678849d57b28725cc69f929bb4f11cf06.jpg",
+      "url": "https://twitter.com/_stefanzweifel"
+    },
+    "url": "https://twitter.com/_stefanzweifel/status/1243475563035144192",
+    "published": "2020-03-27T09:50:51+00:00",
+    "wm-received": "2020-03-27T13:23:15Z",
+    "wm-id": 775882,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1243470363461369857/1243475563035144192",
+    "wm-target": "https://sebastiandedeyne.com/webmentions-on-a-static-site-with-github-actions/",
+    "content": {
+      "text": "New post! Read all about how I added webmentions to my @GoHugoIO blog with GitHub Actions\n\nsebastiandedeyne.com/webmentions-on…\n\nThis isn't just for Hugo"
+    },
+    "repost-of": "https://sebastiandedeyne.com/webmentions-on-a-static-site-with-github-actions/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Ruslan",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/6114334d09745c23c21d748a3ffb0e5f0972472d77df8a83d2914859cbd3b5fd.jpg",
+      "url": "https://twitter.com/SuddenlyRust"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1243470363461369857#favorited-by-935107835045842944",
+    "published": null,
+    "wm-received": "2020-03-27T16:30:32Z",
+    "wm-id": 775931,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1243470363461369857/935107835045842944",
+    "wm-target": "https://sebastiandedeyne.com/webmentions-on-a-static-site-with-github-actions/",
+    "like-of": "https://sebastiandedeyne.com/webmentions-on-a-static-site-with-github-actions/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+]

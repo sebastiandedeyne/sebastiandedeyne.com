@@ -3487,5 +3487,71 @@
     "mention-of": "https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/",
     "wm-property": "mention-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Astrolabit",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/b4fe318b377fe60bfdd0d769f07884f68b32249fdf7b42be05cb976291ec84bf.jpg",
+      "url": "https://twitter.com/astrolabit"
+    },
+    "url": "https://twitter.com/astrolabit/status/1243481666095644673",
+    "published": "2020-03-27T10:15:06+00:00",
+    "wm-received": "2020-03-27T13:19:58Z",
+    "wm-id": 775872,
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1243481666095644673",
+    "wm-target": "https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/",
+    "content": {
+      "html": "Setting up a global .gitignore file <a href=\"https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/\">sebastiandedeyne.com/setting-up-a-g…</a>",
+      "text": "Setting up a global .gitignore file sebastiandedeyne.com/setting-up-a-g…"
+    },
+    "mention-of": "https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/",
+    "wm-property": "mention-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Leandro",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/604a6debe8d444e0c4fbd71cc4f8011a9e4e628dd094889d16248d6b50293202.jpg",
+      "url": "https://twitter.com/novia713"
+    },
+    "url": "https://twitter.com/novia713/status/1243433846147874817",
+    "published": "2020-03-27T07:05:05+00:00",
+    "wm-received": "2020-03-27T13:20:23Z",
+    "wm-id": 775873,
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1243433846147874817",
+    "wm-target": "https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/",
+    "content": {
+      "html": "<a href=\"https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/\">sebastiandedeyne.com/setting-up-a-g…</a>",
+      "text": "sebastiandedeyne.com/setting-up-a-g…"
+    },
+    "mention-of": "https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/",
+    "wm-property": "mention-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Bizley",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/5d95b4bf02327d33293e159db0827ce768b57c3fc5f1db201cb47cba0e198e77.jpg",
+      "url": "https://twitter.com/Bizley_"
+    },
+    "url": "https://twitter.com/Bizley_/status/1243560404430839808",
+    "published": "2020-03-27T15:27:59+00:00",
+    "wm-received": "2020-03-27T16:30:24Z",
+    "wm-id": 775930,
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1243560404430839808",
+    "wm-target": "https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/",
+    "content": {
+      "html": "\"Setting up a global .gitignore file\" by <a href=\"https://twitter.com/sebdedeyne\">@sebdedeyne</a> <a href=\"https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/\">sebastiandedeyne.com/setting-up-a-g…</a>",
+      "text": "\"Setting up a global .gitignore file\" by @sebdedeyne sebastiandedeyne.com/setting-up-a-g…"
+    },
+    "mention-of": "https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/",
+    "wm-property": "mention-of",
+    "wm-private": false
   }
 ]
