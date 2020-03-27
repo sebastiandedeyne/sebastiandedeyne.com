@@ -45,7 +45,7 @@ The GitHub Action will retrieve it from the repository's "Secrets", more on that
 WEBMENTIONS_TOKEN=XXX node ./webmentions.js
 ```
 
-Next, we determin a start date. We don't always need to fetch all webmentions from the beginning of time.
+Next, we determine a start date. We don't always need to fetch all webmentions from the beginning of time.
 
 The Action will run once every six hours. Fetching the webmentions of the past 6 hours *should* be enough but I've noticed some mentions come in with a delay. My script is currently set up to retrieve all webmentions from the past 3 days. It's okay if we fetch the same mentions multiple times, we'll filter out the duplicates later on.
 
