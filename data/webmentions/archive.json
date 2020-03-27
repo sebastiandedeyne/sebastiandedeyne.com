@@ -1,0 +1,20 @@
+[
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Placebo Domingo",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/b9ebf5d9824902a8a71af77937a2e611d0f9c6cdf28e115683f5bdfa84548a95.png",
+      "url": "https://twitter.com/brbcoding"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1243238375504699399#favorited-by-1157124170066595840",
+    "published": null,
+    "wm-received": "2020-03-26T20:08:41Z",
+    "wm-id": 775691,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1243238375504699399/1157124170066595840",
+    "wm-target": "https://sebastiandedeyne.com/archive/",
+    "like-of": "https://sebastiandedeyne.com/archive/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+]
