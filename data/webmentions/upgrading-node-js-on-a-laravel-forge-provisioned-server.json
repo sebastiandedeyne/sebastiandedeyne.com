@@ -629,5 +629,27 @@
     "like-of": "https://sebastiandedeyne.com/upgrading-node-js-on-a-laravel-forge-provisioned-server/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Laravel News Links",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/66b9e5493c2834de5b960b89eb6b16976ed1c2db880330ec4b37aff5b9dc3414.jpg",
+      "url": "https://twitter.com/LaravelLinks"
+    },
+    "url": "https://twitter.com/LaravelLinks/status/1243709642708049921",
+    "published": "2020-03-28T01:21:00+00:00",
+    "wm-received": "2020-03-28T02:38:26Z",
+    "wm-id": 776054,
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1243709642708049921",
+    "wm-target": "https://sebastiandedeyne.com/upgrading-node-js-on-a-laravel-forge-provisioned-server/",
+    "content": {
+      "html": "Upgrading Node.js on a Laravel Forge Provisioned Server <a href=\"https://sebastiandedeyne.com/upgrading-node-js-on-a-laravel-forge-provisioned-server/\">sebastiandedeyne.com/upgrading-node…</a>",
+      "text": "Upgrading Node.js on a Laravel Forge Provisioned Server sebastiandedeyne.com/upgrading-node…"
+    },
+    "mention-of": "https://sebastiandedeyne.com/upgrading-node-js-on-a-laravel-forge-provisioned-server/",
+    "wm-property": "mention-of",
+    "wm-private": false
   }
 ]
