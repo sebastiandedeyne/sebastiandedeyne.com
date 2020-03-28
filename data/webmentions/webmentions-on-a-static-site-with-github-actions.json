@@ -174,5 +174,30 @@
     "like-of": "https://sebastiandedeyne.com/webmentions-on-a-static-site-with-github-actions/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "",
+      "photo": "",
+      "url": ""
+    },
+    "url": "https://www.lewiscowles.co.uk/mentions/2020-03-27-webmentions-for-a-static-site-using-github-actions.html",
+    "published": "2020-03-27T00:00:00",
+    "wm-received": "2020-03-27T18:29:27Z",
+    "wm-id": 775961,
+    "wm-source": "https://www.lewiscowles.co.uk/mentions/2020-03-27-webmentions-for-a-static-site-using-github-actions.html",
+    "wm-target": "https://sebastiandedeyne.com/webmentions-on-a-static-site-with-github-actions/",
+    "summary": {
+      "content-type": "text/plain",
+      "value": "This is a really interesting post about keeping a copy of webmentions, for people who like me are using webmention.io. I've recently come at this from the other side; sending webmentions for new content."
+    },
+    "like-of": "https://sebastiandedeyne.com/webmentions-on-a-static-site-with-github-actions/",
+    "wm-property": "like-of",
+    "wm-private": false,
+    "rels": {
+      "canonical": "https://sebastiandedeyne.com/webmentions-on-a-static-site-with-github-actions/"
+    }
   }
 ]
