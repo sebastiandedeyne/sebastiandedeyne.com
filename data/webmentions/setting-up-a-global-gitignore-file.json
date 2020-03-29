@@ -3575,5 +3575,27 @@
     "mention-of": "https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/",
     "wm-property": "mention-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Junior Gantin",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/234df381252aa44476dad1ad44567af995e0bb13df3d12b48d7aa9aea77a456c.jpg",
+      "url": "https://twitter.com/jgantindev"
+    },
+    "url": "https://twitter.com/jgantindev/status/1244005794389073921",
+    "published": "2020-03-28T20:57:48+00:00",
+    "wm-received": "2020-03-28T21:11:21Z",
+    "wm-id": 776201,
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1244005794389073921",
+    "wm-target": "https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/",
+    "content": {
+      "html": "Setting up a global .gitignore file <a href=\"https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/\">sebastiandedeyne.com/setting-up-a-g…</a>",
+      "text": "Setting up a global .gitignore file sebastiandedeyne.com/setting-up-a-g…"
+    },
+    "mention-of": "https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/",
+    "wm-property": "mention-of",
+    "wm-private": false
   }
 ]
