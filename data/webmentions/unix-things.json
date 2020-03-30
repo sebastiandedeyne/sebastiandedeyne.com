@@ -427,5 +427,30 @@
     "like-of": "https://sebastiandedeyne.com/unix-things/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Alexander Makhaev",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/d0e288ca636669216f553ec58f2075cc256afe80a6760731e9e362983fdb3952.jpg",
+      "url": "https://twitter.com/mankms"
+    },
+    "url": "https://twitter.com/mankms/status/1244490294252486656",
+    "published": "2020-03-30T05:03:02+00:00",
+    "wm-received": "2020-03-30T05:32:43Z",
+    "wm-id": 776525,
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1244490294252486656",
+    "wm-target": "https://sebastiandedeyne.com/unix-things/",
+    "photo": [
+      "https://pbs.twimg.com/media/EUVRU8WX0AAsndO.jpg"
+    ],
+    "content": {
+      "html": "Unix things I always forget, <a href=\"https://twitter.com/sebdedeyne\">@sebdedeyne</a>\n\nFollow along, and you might learn some tricks along the way! Consider this series a living document that will grow organically; I won't be updating or adding new posts on a set schedule.\n\n<a href=\"https://sebastiandedeyne.com/unix-things/\">sebastiandedeyne.com/unix-things/</a>",
+      "text": "Unix things I always forget, @sebdedeyne\n\nFollow along, and you might learn some tricks along the way! Consider this series a living document that will grow organically; I won't be updating or adding new posts on a set schedule.\n\nsebastiandedeyne.com/unix-things/"
+    },
+    "mention-of": "https://sebastiandedeyne.com/unix-things/",
+    "wm-property": "mention-of",
+    "wm-private": false
   }
 ]
