@@ -224,5 +224,41 @@
     "rels": {
       "canonical": "https://sebastiandedeyne.com/webmentions-on-a-static-site-with-github-actions/"
     }
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Mozammil",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/bd8d0f6accf7d7ed5360d1c484f0d8c7a76624b64ff028c6a5294d432d3f6ae0.jpg",
+      "url": "https://twitter.com/Mozammil_K"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1243470363461369857#favorited-by-233569081",
+    "published": null,
+    "wm-received": "2020-04-01T07:44:05Z",
+    "wm-id": 777408,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1243470363461369857/233569081",
+    "wm-target": "https://sebastiandedeyne.com/webmentions-on-a-static-site-with-github-actions/",
+    "like-of": "https://sebastiandedeyne.com/webmentions-on-a-static-site-with-github-actions/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Awescode GmbH",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/6f87f323e0a371238c136b831f4c6d7e32fd365c5bcb62ab93291654602b4bff.jpg",
+      "url": "https://twitter.com/awescode"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1243470363461369857#favorited-by-853271075563724800",
+    "published": null,
+    "wm-received": "2020-04-01T07:44:33Z",
+    "wm-id": 777409,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1243470363461369857/853271075563724800",
+    "wm-target": "https://sebastiandedeyne.com/webmentions-on-a-static-site-with-github-actions/",
+    "like-of": "https://sebastiandedeyne.com/webmentions-on-a-static-site-with-github-actions/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]

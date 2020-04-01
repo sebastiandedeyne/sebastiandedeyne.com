@@ -452,5 +452,27 @@
     "mention-of": "https://sebastiandedeyne.com/unix-things/",
     "wm-property": "mention-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Dries Vints",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/72bc78fda48606b087fd3c7aa6412255505e5045c496385bf1f57a764b64fd4a.jpg",
+      "url": "https://twitter.com/driesvints"
+    },
+    "url": "https://twitter.com/driesvints/status/1245276639057137665",
+    "published": "2020-04-01T09:07:41+00:00",
+    "wm-received": "2020-04-01T09:46:28Z",
+    "wm-id": 777461,
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1245276639057137665",
+    "wm-target": "https://sebastiandedeyne.com/unix-things/",
+    "content": {
+      "html": "Looking forward to more of this new unix series by <a href=\"https://twitter.com/sebdedeyne\">@sebdedeyne</a>! I've always wanted to become better in unix and shells like bash but never really took the time to dig in.\n\n<a href=\"https://sebastiandedeyne.com/unix-things/\">sebastiandedeyne.com/unix-things/</a>",
+      "text": "Looking forward to more of this new unix series by @sebdedeyne! I've always wanted to become better in unix and shells like bash but never really took the time to dig in.\n\nsebastiandedeyne.com/unix-things/"
+    },
+    "mention-of": "https://sebastiandedeyne.com/unix-things/",
+    "wm-property": "mention-of",
+    "wm-private": false
   }
 ]
