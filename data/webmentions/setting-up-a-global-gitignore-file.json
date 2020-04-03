@@ -3597,5 +3597,27 @@
     "mention-of": "https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/",
     "wm-property": "mention-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "La semana PHP",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/bfd0c987004c612438e013bf5427e37b27ff4f46c2e70acd8cc8ef5d28b3f362.jpg",
+      "url": "https://twitter.com/lasemanaphp"
+    },
+    "url": "https://twitter.com/lasemanaphp/status/1245727708748922889",
+    "published": "2020-04-02T15:00:04+00:00",
+    "wm-received": "2020-04-03T01:32:19Z",
+    "wm-id": 777980,
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1245727708748922889",
+    "wm-target": "https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/",
+    "content": {
+      "html": "Configurando un archivo .gitignore global <a href=\"https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/\">sebastiandedeyne.com/setting-up-a-g…</a> vía <a href=\"https://twitter.com/sebdedeyne\">@sebdedeyne</a>",
+      "text": "Configurando un archivo .gitignore global sebastiandedeyne.com/setting-up-a-g… vía @sebdedeyne"
+    },
+    "mention-of": "https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/",
+    "wm-property": "mention-of",
+    "wm-private": false
   }
 ]
