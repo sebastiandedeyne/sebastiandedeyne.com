@@ -783,5 +783,27 @@
     "like-of": "https://sebastiandedeyne.com/composer-semver-and-underlying-dependency-changes/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "La semana PHP",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/bfd0c987004c612438e013bf5427e37b27ff4f46c2e70acd8cc8ef5d28b3f362.jpg",
+      "url": "https://twitter.com/lasemanaphp"
+    },
+    "url": "https://twitter.com/lasemanaphp/status/1245969345005735936",
+    "published": "2020-04-03T07:00:15+00:00",
+    "wm-received": "2020-04-03T16:43:36Z",
+    "wm-id": 778304,
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1245969345005735936",
+    "wm-target": "https://sebastiandedeyne.com/composer-semver-and-underlying-dependency-changes/",
+    "content": {
+      "html": "Composer, semver y los cambios subyacentes en las dependencias <a href=\"https://sebastiandedeyne.com/composer-semver-and-underlying-dependency-changes/\">sebastiandedeyne.com/composer-semve…</a> vía <a href=\"https://twitter.com/sebdedeyne\">@sebdedeyne</a>",
+      "text": "Composer, semver y los cambios subyacentes en las dependencias sebastiandedeyne.com/composer-semve… vía @sebdedeyne"
+    },
+    "mention-of": "https://sebastiandedeyne.com/composer-semver-and-underlying-dependency-changes/",
+    "wm-property": "mention-of",
+    "wm-private": false
   }
 ]
