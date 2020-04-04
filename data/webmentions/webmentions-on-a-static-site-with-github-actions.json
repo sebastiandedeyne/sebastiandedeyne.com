@@ -260,5 +260,93 @@
     "like-of": "https://sebastiandedeyne.com/webmentions-on-a-static-site-with-github-actions/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Lee Stables",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/88808cebea23df41220352a65b4a76929024e9c4cbe4107788c4afb5051826b2.jpg",
+      "url": "https://twitter.com/lee_stables"
+    },
+    "url": "https://twitter.com/lee_stables/status/1246111039416123395",
+    "published": "2020-04-03T16:23:18+00:00",
+    "wm-received": "2020-04-04T06:50:52Z",
+    "wm-id": 778510,
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/ryangjchandler/1246076131452715008/1246111039416123395",
+    "wm-target": "https://sebastiandedeyne.com/webmentions-on-a-static-site-with-github-actions/",
+    "content": {
+      "html": "Whoops that’ll be me there\n<a class=\"u-mention\" href=\"https://ryangjchandler.co.uk/\"></a>\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/webmentions-on-a-static-site-with-github-actions/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/ryangjchandler\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/sebdedeyne\"></a>",
+      "text": "Whoops that’ll be me there"
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/webmentions-on-a-static-site-with-github-actions/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Stefan Zweifel",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/3b772e9239dfd15ce8527f90edd45d0678849d57b28725cc69f929bb4f11cf06.jpg",
+      "url": "https://twitter.com/_stefanzweifel"
+    },
+    "url": "https://twitter.com/_stefanzweifel/status/1246104000832905217",
+    "published": "2020-04-03T15:55:19+00:00",
+    "wm-received": "2020-04-04T06:51:13Z",
+    "wm-id": 778511,
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/ryangjchandler/1246076131452715008/1246104000832905217",
+    "wm-target": "https://sebastiandedeyne.com/webmentions-on-a-static-site-with-github-actions/",
+    "content": {
+      "html": "Switched to Sebastian‘s implementation over the weekend too. Also with Jigsaw. Curious to see how you solved that.\n<a class=\"u-mention\" href=\"https://ryangjchandler.co.uk/\"></a>\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/webmentions-on-a-static-site-with-github-actions/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/ryangjchandler\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/sebdedeyne\"></a>",
+      "text": "Switched to Sebastian‘s implementation over the weekend too. Also with Jigsaw. Curious to see how you solved that."
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/webmentions-on-a-static-site-with-github-actions/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Placebo Domingo",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/b9ebf5d9824902a8a71af77937a2e611d0f9c6cdf28e115683f5bdfa84548a95.png",
+      "url": "https://twitter.com/brbcoding"
+    },
+    "url": "https://twitter.com/brbcoding/status/1246103525878378496",
+    "published": "2020-04-03T15:53:26+00:00",
+    "wm-received": "2020-04-04T06:51:14Z",
+    "wm-id": 778512,
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/ryangjchandler/1246076131452715008/1246103525878378496",
+    "wm-target": "https://sebastiandedeyne.com/webmentions-on-a-static-site-with-github-actions/",
+    "content": {
+      "html": "Sweet! I'd love to read that. I need that on my own Jigsaw blog but I'm pulled in too many directions and haven't had the time yet.\n<a class=\"u-mention\" href=\"https://ryangjchandler.co.uk/\"></a>\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/webmentions-on-a-static-site-with-github-actions/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/ryangjchandler\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/sebdedeyne\"></a>",
+      "text": "Sweet! I'd love to read that. I need that on my own Jigsaw blog but I'm pulled in too many directions and haven't had the time yet."
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/webmentions-on-a-static-site-with-github-actions/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Ryan Chandler",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/50595b1e0149d88f33975e48b10f4b04d754db0c752e6a76f8c9c8acd2948858.jpg",
+      "url": "https://twitter.com/ryangjchandler"
+    },
+    "url": "https://twitter.com/ryangjchandler/status/1246104026602713088",
+    "published": "2020-04-03T15:55:26+00:00",
+    "wm-received": "2020-04-04T06:52:14Z",
+    "wm-id": 778513,
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/ryangjchandler/1246076131452715008/1246104026602713088",
+    "wm-target": "https://sebastiandedeyne.com/webmentions-on-a-static-site-with-github-actions/",
+    "content": {
+      "html": "For sure. It will probably be out at the weekend, I'll post a link here on Twitter too so keep an eye out :)\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/webmentions-on-a-static-site-with-github-actions/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/brbcoding\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/sebdedeyne\"></a>",
+      "text": "For sure. It will probably be out at the weekend, I'll post a link here on Twitter too so keep an eye out :)"
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/webmentions-on-a-static-site-with-github-actions/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
   }
 ]
