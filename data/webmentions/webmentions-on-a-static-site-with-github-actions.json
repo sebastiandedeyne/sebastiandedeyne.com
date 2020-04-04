@@ -348,5 +348,30 @@
     "in-reply-to": "https://sebastiandedeyne.com/webmentions-on-a-static-site-with-github-actions/",
     "wm-property": "in-reply-to",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Ryan Chandler",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/50595b1e0149d88f33975e48b10f4b04d754db0c752e6a76f8c9c8acd2948858.jpg",
+      "url": "https://twitter.com/ryangjchandler"
+    },
+    "url": "https://twitter.com/ryangjchandler/status/1246076131452715008",
+    "published": "2020-04-03T14:04:35+00:00",
+    "wm-received": "2020-04-04T12:18:50Z",
+    "wm-id": 778539,
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1246076131452715008",
+    "wm-target": "https://sebastiandedeyne.com/webmentions-on-a-static-site-with-github-actions/",
+    "photo": [
+      "https://pbs.twimg.com/media/EUrzoUNUUAEH1jx.jpg"
+    ],
+    "content": {
+      "html": "Added webmentions to my blog during my lunch break today. Followed some of the logic from <a href=\"https://twitter.com/sebdedeyne\">@sebdedeyne</a> 's article on how he implemented them recently, check that out here: <a href=\"https://sebastiandedeyne.com/webmentions-on-a-static-site-with-github-actions/\">sebastiandedeyne.com/webmentions-on…</a> Probably going to write my own article about doing it inside of Jigsaw too!",
+      "text": "Added webmentions to my blog during my lunch break today. Followed some of the logic from @sebdedeyne 's article on how he implemented them recently, check that out here: sebastiandedeyne.com/webmentions-on… Probably going to write my own article about doing it inside of Jigsaw too!"
+    },
+    "mention-of": "https://sebastiandedeyne.com/webmentions-on-a-static-site-with-github-actions/",
+    "wm-property": "mention-of",
+    "wm-private": false
   }
 ]
