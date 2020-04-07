@@ -805,5 +805,27 @@
     "mention-of": "https://sebastiandedeyne.com/composer-semver-and-underlying-dependency-changes/",
     "wm-property": "mention-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Insolita",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/da76a799ab30fd7eaca79342627f00f571e5fd4f0993f961fff5dd476c087741.jpg",
+      "url": "https://twitter.com/DonnaInsolita"
+    },
+    "url": "https://twitter.com/DonnaInsolita/status/1247301766535950336",
+    "published": "2020-04-06T23:14:49+00:00",
+    "wm-received": "2020-04-06T23:33:36Z",
+    "wm-id": 779408,
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1247301766535950336",
+    "wm-target": "https://sebastiandedeyne.com/composer-semver-and-underlying-dependency-changes/",
+    "content": {
+      "html": "<a href=\"https://twitter.com/search?q=%23php\">#php</a>\n\nThe opinion about should a package increase major version when it increases supported PHP version\n\n<a href=\"https://sebastiandedeyne.com/composer-semver-and-underlying-dependency-changes/\">sebastiandedeyne.com/composer-semve…</a>",
+      "text": "#php\n\nThe opinion about should a package increase major version when it increases supported PHP version\n\nsebastiandedeyne.com/composer-semve…"
+    },
+    "mention-of": "https://sebastiandedeyne.com/composer-semver-and-underlying-dependency-changes/",
+    "wm-property": "mention-of",
+    "wm-private": false
   }
 ]
