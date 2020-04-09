@@ -1,0 +1,24 @@
+[
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "PHP OSS",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/8107dc41cc085603593fa4a88dbd5fdd0aecb5bfb0172e392a6ff70ab3cdb6b2.png",
+      "url": "https://twitter.com/oss_php"
+    },
+    "url": "https://twitter.com/oss_php/status/1248044871908306944",
+    "published": "2020-04-09T00:27:39+00:00",
+    "wm-received": "2020-04-09T00:36:49Z",
+    "wm-id": 780117,
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1248044871908306944",
+    "wm-target": "https://sebastiandedeyne.com/",
+    "content": {
+      "html": "<a href=\"http://sebastiandedeyne.com\">sebastiandedeyne.com</a> - My personal website <a href=\"https://github.com/sebastiandedeyne/sebastiandedeyne.com\">github.com/sebastiandedey…</a>\n<a class=\"u-mention\" href=\"http://sebastiandedeyne.com/\"></a>\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/\"></a>",
+      "text": "sebastiandedeyne.com - My personal website github.com/sebastiandedey…"
+    },
+    "mention-of": "https://sebastiandedeyne.com/",
+    "wm-property": "mention-of",
+    "wm-private": false
+  }
+]
