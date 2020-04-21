@@ -150,5 +150,23 @@
     "in-reply-to": "https://sebastiandedeyne.com/enabling-basic-http-authentication-with-nginx-on-a-laravel-forge-provisioned-server/",
     "wm-property": "in-reply-to",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Lambert Traccard",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/0092681de01f8f15b50eaefca8c54cafc66c7490050d59bc1bf6bcfac892c184.jpg",
+      "url": "https://twitter.com/lamberttraccard"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1252476032688455680#favorited-by-236706279",
+    "published": null,
+    "wm-received": "2020-04-21T16:15:03Z",
+    "wm-id": 785301,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1252476032688455680/236706279",
+    "wm-target": "https://sebastiandedeyne.com/enabling-basic-http-authentication-with-nginx-on-a-laravel-forge-provisioned-server/",
+    "like-of": "https://sebastiandedeyne.com/enabling-basic-http-authentication-with-nginx-on-a-laravel-forge-provisioned-server/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
