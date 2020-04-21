@@ -1,0 +1,154 @@
+[
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Florian Voutzinos ⚡",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/b4bcee3db413dc3c370ae018ccac41cf27b5f9b1f20e6cc9942c35426842de1c.jpg",
+      "url": "https://twitter.com/voutzinos"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1252476032688455680#favorited-by-2195036186",
+    "published": null,
+    "wm-received": "2020-04-21T06:10:54Z",
+    "wm-id": 785144,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1252476032688455680/2195036186",
+    "wm-target": "https://sebastiandedeyne.com/enabling-basic-http-authentication-with-nginx-on-a-laravel-forge-provisioned-server/",
+    "like-of": "https://sebastiandedeyne.com/enabling-basic-http-authentication-with-nginx-on-a-laravel-forge-provisioned-server/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Zubair Mohsin",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/480ed6e1c8e86c5107bf393166749638e905a5540d140a509234d0a510cc877f.jpg",
+      "url": "https://twitter.com/Zubairmohsin33"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1252476032688455680#favorited-by-2972870264",
+    "published": null,
+    "wm-received": "2020-04-21T06:10:54Z",
+    "wm-id": 785145,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1252476032688455680/2972870264",
+    "wm-target": "https://sebastiandedeyne.com/enabling-basic-http-authentication-with-nginx-on-a-laravel-forge-provisioned-server/",
+    "like-of": "https://sebastiandedeyne.com/enabling-basic-http-authentication-with-nginx-on-a-laravel-forge-provisioned-server/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "M. Vug",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/fcc72d671c32c72d093c77f1ab83e8be120a03d4062bc984a10150cee632b9e8.jpg",
+      "url": "https://twitter.com/mvug"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1252476032688455680#favorited-by-125585595",
+    "published": null,
+    "wm-received": "2020-04-21T06:10:58Z",
+    "wm-id": 785146,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1252476032688455680/125585595",
+    "wm-target": "https://sebastiandedeyne.com/enabling-basic-http-authentication-with-nginx-on-a-laravel-forge-provisioned-server/",
+    "like-of": "https://sebastiandedeyne.com/enabling-basic-http-authentication-with-nginx-on-a-laravel-forge-provisioned-server/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Wyatt",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/d2450d3284e8d38d88102d508c02f4095e3eee613cc83e87e45d58ded3d90c8f.jpg",
+      "url": "https://twitter.com/WyattCastaned44"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1252476032688455680#favorited-by-534528249",
+    "published": null,
+    "wm-received": "2020-04-21T06:50:01Z",
+    "wm-id": 785157,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1252476032688455680/534528249",
+    "wm-target": "https://sebastiandedeyne.com/enabling-basic-http-authentication-with-nginx-on-a-laravel-forge-provisioned-server/",
+    "like-of": "https://sebastiandedeyne.com/enabling-basic-http-authentication-with-nginx-on-a-laravel-forge-provisioned-server/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Zaher Ghaibeh",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/b26e1efc2eb931fe8121b66be1ad79296fbc5a979513531235bc0fbc9a9938cc.jpg",
+      "url": "https://twitter.com/zaherg"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1252476032688455680#favorited-by-14808990",
+    "published": null,
+    "wm-received": "2020-04-21T06:50:02Z",
+    "wm-id": 785158,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1252476032688455680/14808990",
+    "wm-target": "https://sebastiandedeyne.com/enabling-basic-http-authentication-with-nginx-on-a-laravel-forge-provisioned-server/",
+    "like-of": "https://sebastiandedeyne.com/enabling-basic-http-authentication-with-nginx-on-a-laravel-forge-provisioned-server/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Andre Sayej",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/00a7da3ab748395431999d2f5c901e7bee85e2279cb5b59b9d2b9299a8d3d805.jpg",
+      "url": "https://twitter.com/AndreSayej"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1252476032688455680#favorited-by-1101406245322403841",
+    "published": null,
+    "wm-received": "2020-04-21T07:26:50Z",
+    "wm-id": 785167,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1252476032688455680/1101406245322403841",
+    "wm-target": "https://sebastiandedeyne.com/enabling-basic-http-authentication-with-nginx-on-a-laravel-forge-provisioned-server/",
+    "like-of": "https://sebastiandedeyne.com/enabling-basic-http-authentication-with-nginx-on-a-laravel-forge-provisioned-server/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Matthijs Huisman",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/31c5201937c383a2d94e18affcf6672f3a4310d501b3570896102c552e9f39bc.jpg",
+      "url": "https://twitter.com/matthijshuis"
+    },
+    "url": "https://twitter.com/matthijshuis/status/1252490461031403520",
+    "published": "2020-04-21T06:52:50+00:00",
+    "wm-received": "2020-04-21T07:26:50Z",
+    "wm-id": 785168,
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/sebdedeyne/1252476032688455680/1252490461031403520",
+    "wm-target": "https://sebastiandedeyne.com/enabling-basic-http-authentication-with-nginx-on-a-laravel-forge-provisioned-server/",
+    "content": {
+      "html": "Are you sure you need to install something? I added this the other day without installing anything.\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/sebdedeyne\"></a>",
+      "text": "Are you sure you need to install something? I added this the other day without installing anything."
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/enabling-basic-http-authentication-with-nginx-on-a-laravel-forge-provisioned-server/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Sebastian De Deyne",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/3ce609991342657b8b7e99eb7a5c6e3656fbdb1c51575f1464d354b81aaeda86.jpg",
+      "url": "https://twitter.com/sebdedeyne"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1252501720451756032",
+    "published": "2020-04-21T07:37:35+00:00",
+    "wm-received": "2020-04-21T08:16:47Z",
+    "wm-id": 785193,
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/sebdedeyne/1252476032688455680/1252501720451756032",
+    "wm-target": "https://sebastiandedeyne.com/enabling-basic-http-authentication-with-nginx-on-a-laravel-forge-provisioned-server/",
+    "content": {
+      "html": "Hmm when I ran htpasswd the first time it complained that the command didn't exist, installing the apache tools fixed that.\n<a class=\"u-mention\" href=\"https://twitter.com/matthijshuis\"></a>",
+      "text": "Hmm when I ran htpasswd the first time it complained that the command didn't exist, installing the apache tools fixed that."
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/enabling-basic-http-authentication-with-nginx-on-a-laravel-forge-provisioned-server/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  }
+]
