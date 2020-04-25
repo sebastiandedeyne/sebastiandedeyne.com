@@ -1186,5 +1186,27 @@
     "mention-of": "https://sebastiandedeyne.com/forget-about-component-lifecycles-and-start-thinking-in-effects/",
     "wm-property": "mention-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "takumontakumon",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/e389af52915b34f0e11acca0c357d41303ba1c985bc258caea1fedce50aa2a96.jpg",
+      "url": "https://twitter.com/inouetakumon"
+    },
+    "url": "https://twitter.com/inouetakumon/status/1253838361158012928",
+    "published": "2020-04-25T00:08:55+00:00",
+    "wm-received": "2020-04-25T00:33:25Z",
+    "wm-id": 786726,
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1253838361158012928",
+    "wm-target": "https://sebastiandedeyne.com/forget-about-component-lifecycles-and-start-thinking-in-effects/",
+    "content": {
+      "html": "なるほど\n\nForget about component lifecycles and start thinking in effects <a href=\"https://sebastiandedeyne.com/forget-about-component-lifecycles-and-start-thinking-in-effects/\">sebastiandedeyne.com/forget-about-c…</a>",
+      "text": "なるほど\n\nForget about component lifecycles and start thinking in effects sebastiandedeyne.com/forget-about-c…"
+    },
+    "mention-of": "https://sebastiandedeyne.com/forget-about-component-lifecycles-and-start-thinking-in-effects/",
+    "wm-property": "mention-of",
+    "wm-private": false
   }
 ]
