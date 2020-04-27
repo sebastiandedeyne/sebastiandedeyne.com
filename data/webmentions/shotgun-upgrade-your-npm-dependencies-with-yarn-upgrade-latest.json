@@ -1,0 +1,153 @@
+[
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Francesco Napoletano",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/b6f7c3f24ff8f4e046b24281a6b25ccfaeca84533bb6209c714cf8135d9272ea.jpg",
+      "url": "https://twitter.com/napolux"
+    },
+    "url": "https://twitter.com/napolux/status/1254804463157751815",
+    "published": "2020-04-27T16:07:51+00:00",
+    "wm-received": "2020-04-27T16:43:43Z",
+    "wm-id": 787742,
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/sebdedeyne/1254801415026900995/1254804463157751815",
+    "wm-target": "https://sebastiandedeyne.com/shotgun-upgrade-your-npm-dependencies-with-yarn-upgrade-latest/",
+    "content": {
+      "html": "No thanks. ;)\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/freekmurze\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/sebdedeyne\"></a>",
+      "text": "No thanks. ;)"
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/shotgun-upgrade-your-npm-dependencies-with-yarn-upgrade-latest/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Flamur Mavraj",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/b3523749d0e475a2eb5c2b515cbccdb22bf6dfa9dbb7c4f22c288ce3b9ee33df.jpg",
+      "url": "https://twitter.com/oxodesign"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1254801415026900995#favorited-by-14636348",
+    "published": null,
+    "wm-received": "2020-04-27T16:43:44Z",
+    "wm-id": 787743,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1254801415026900995/14636348",
+    "wm-target": "https://sebastiandedeyne.com/shotgun-upgrade-your-npm-dependencies-with-yarn-upgrade-latest/",
+    "like-of": "https://sebastiandedeyne.com/shotgun-upgrade-your-npm-dependencies-with-yarn-upgrade-latest/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Davide Bellini",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/2abca2e96ce5efb139c2cd1a7bf6ff4256ded70fb0073bb915dae8e8d9b4d997.jpg",
+      "url": "https://twitter.com/billmn"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1254801415026900995#favorited-by-30085621",
+    "published": null,
+    "wm-received": "2020-04-27T16:43:47Z",
+    "wm-id": 787744,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1254801415026900995/30085621",
+    "wm-target": "https://sebastiandedeyne.com/shotgun-upgrade-your-npm-dependencies-with-yarn-upgrade-latest/",
+    "like-of": "https://sebastiandedeyne.com/shotgun-upgrade-your-npm-dependencies-with-yarn-upgrade-latest/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "pixelarbeit",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/ff239a006193dfb556d2150a656d7740a4c994eeb840d07fc40c66caeee63a70.jpg",
+      "url": "https://twitter.com/pixelarbeit"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1254801415026900995#favorited-by-1039774511992856576",
+    "published": null,
+    "wm-received": "2020-04-27T16:43:47Z",
+    "wm-id": 787745,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1254801415026900995/1039774511992856576",
+    "wm-target": "https://sebastiandedeyne.com/shotgun-upgrade-your-npm-dependencies-with-yarn-upgrade-latest/",
+    "like-of": "https://sebastiandedeyne.com/shotgun-upgrade-your-npm-dependencies-with-yarn-upgrade-latest/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "OmegaVesko△",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/bddb284ab47c461690e6def120e19c1d1832749e41a70d7d411cde1e48ced1e1.jpg",
+      "url": "https://twitter.com/omegavesko"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1254801415026900995#favorited-by-177551576",
+    "published": null,
+    "wm-received": "2020-04-27T16:43:55Z",
+    "wm-id": 787746,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1254801415026900995/177551576",
+    "wm-target": "https://sebastiandedeyne.com/shotgun-upgrade-your-npm-dependencies-with-yarn-upgrade-latest/",
+    "like-of": "https://sebastiandedeyne.com/shotgun-upgrade-your-npm-dependencies-with-yarn-upgrade-latest/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Francesco Napoletano",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/b6f7c3f24ff8f4e046b24281a6b25ccfaeca84533bb6209c714cf8135d9272ea.jpg",
+      "url": "https://twitter.com/napolux"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1254801415026900995#favorited-by-509183",
+    "published": null,
+    "wm-received": "2020-04-27T16:43:56Z",
+    "wm-id": 787747,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1254801415026900995/509183",
+    "wm-target": "https://sebastiandedeyne.com/shotgun-upgrade-your-npm-dependencies-with-yarn-upgrade-latest/",
+    "like-of": "https://sebastiandedeyne.com/shotgun-upgrade-your-npm-dependencies-with-yarn-upgrade-latest/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Freek Van der Herten",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/fc87f4abfee522403bfb9d8ebbdd1bde483d020713c137b63e94bec043c45cfa.jpg",
+      "url": "https://twitter.com/freekmurze"
+    },
+    "url": "https://twitter.com/freekmurze/status/1254804231137177602",
+    "published": "2020-04-27T16:06:56+00:00",
+    "wm-received": "2020-04-27T16:44:42Z",
+    "wm-id": 787748,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1254801415026900995/1254804231137177602",
+    "wm-target": "https://sebastiandedeyne.com/shotgun-upgrade-your-npm-dependencies-with-yarn-upgrade-latest/",
+    "content": {
+      "text": "✒️ Shotgun upgrade your npm dependencies with yarn upgrade --latest\n\nsebastiandedeyne.com/shotgun-upgrad…"
+    },
+    "repost-of": "https://sebastiandedeyne.com/shotgun-upgrade-your-npm-dependencies-with-yarn-upgrade-latest/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Alexander von Studnitz",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/1b8f4809b6e87d99edd4cb580a079a4f907a9d568d5def0b41bfa5ab00e1ed38.jpg",
+      "url": "https://twitter.com/jvstudnitz"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1254801415026900995#favorited-by-781124796910342145",
+    "published": null,
+    "wm-received": "2020-04-27T17:37:30Z",
+    "wm-id": 787769,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1254801415026900995/781124796910342145",
+    "wm-target": "https://sebastiandedeyne.com/shotgun-upgrade-your-npm-dependencies-with-yarn-upgrade-latest/",
+    "like-of": "https://sebastiandedeyne.com/shotgun-upgrade-your-npm-dependencies-with-yarn-upgrade-latest/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+]
