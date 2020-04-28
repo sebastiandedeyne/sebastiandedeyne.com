@@ -239,5 +239,23 @@
     "like-of": "https://sebastiandedeyne.com/shotgun-upgrade-your-npm-dependencies-with-yarn-upgrade-latest/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Nikolas Evers",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/15adc7538db98936a881b45389978b88300b9b764d4c8d5bbbbc51ed1e22a84a.jpg",
+      "url": "https://twitter.com/VintageSucks"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1254801415026900995#favorited-by-45631566",
+    "published": null,
+    "wm-received": "2020-04-28T05:24:35Z",
+    "wm-id": 787966,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1254801415026900995/45631566",
+    "wm-target": "https://sebastiandedeyne.com/shotgun-upgrade-your-npm-dependencies-with-yarn-upgrade-latest/",
+    "like-of": "https://sebastiandedeyne.com/shotgun-upgrade-your-npm-dependencies-with-yarn-upgrade-latest/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
