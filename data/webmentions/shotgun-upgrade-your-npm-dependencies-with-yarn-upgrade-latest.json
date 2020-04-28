@@ -149,5 +149,95 @@
     "like-of": "https://sebastiandedeyne.com/shotgun-upgrade-your-npm-dependencies-with-yarn-upgrade-latest/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "José Cage",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/5484f83bfa8b58693f5d9f2014d83a37c01ccdb60b7da45b1325949d446599ed.jpg",
+      "url": "https://twitter.com/cagejose"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1254801415026900995#favorited-by-944899327",
+    "published": null,
+    "wm-received": "2020-04-27T18:30:14Z",
+    "wm-id": 787787,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1254801415026900995/944899327",
+    "wm-target": "https://sebastiandedeyne.com/shotgun-upgrade-your-npm-dependencies-with-yarn-upgrade-latest/",
+    "like-of": "https://sebastiandedeyne.com/shotgun-upgrade-your-npm-dependencies-with-yarn-upgrade-latest/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "mutebi david",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/a4f0b3a0a150d3caf336eac17b03e61fc17942e3ac9dee6750c3d0ad182cce5a.jpg",
+      "url": "https://twitter.com/muteps"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1254801415026900995#favorited-by-276429840",
+    "published": null,
+    "wm-received": "2020-04-27T19:38:57Z",
+    "wm-id": 787823,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1254801415026900995/276429840",
+    "wm-target": "https://sebastiandedeyne.com/shotgun-upgrade-your-npm-dependencies-with-yarn-upgrade-latest/",
+    "like-of": "https://sebastiandedeyne.com/shotgun-upgrade-your-npm-dependencies-with-yarn-upgrade-latest/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "oluwajubelo loves VueJS 🚨",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/b46941f64275ee2ae7ae9618ba0d3b60e9ab8ce6a343ff90b0e905321a4c24de.jpg",
+      "url": "https://twitter.com/igeoluwasegun1"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1254801415026900995#favorited-by-982451690",
+    "published": null,
+    "wm-received": "2020-04-27T20:27:53Z",
+    "wm-id": 787833,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1254801415026900995/982451690",
+    "wm-target": "https://sebastiandedeyne.com/shotgun-upgrade-your-npm-dependencies-with-yarn-upgrade-latest/",
+    "like-of": "https://sebastiandedeyne.com/shotgun-upgrade-your-npm-dependencies-with-yarn-upgrade-latest/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Diar",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/563241a2357b2f420bae5505e9a2a7a5ff9ef420d42a326017526998b0ad2d33.jpg",
+      "url": "https://twitter.com/DiarMustafa12"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1254801415026900995#favorited-by-1001423318770216963",
+    "published": null,
+    "wm-received": "2020-04-27T20:27:53Z",
+    "wm-id": 787834,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1254801415026900995/1001423318770216963",
+    "wm-target": "https://sebastiandedeyne.com/shotgun-upgrade-your-npm-dependencies-with-yarn-upgrade-latest/",
+    "like-of": "https://sebastiandedeyne.com/shotgun-upgrade-your-npm-dependencies-with-yarn-upgrade-latest/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "mtuchi",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/2053c393e06ec1dae053546a9485e3098db6444f26529625a76f5ea9ec1b4af0.jpg",
+      "url": "https://twitter.com/mtuchidev"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1254801415026900995#favorited-by-1609276693",
+    "published": null,
+    "wm-received": "2020-04-27T21:21:13Z",
+    "wm-id": 787851,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1254801415026900995/1609276693",
+    "wm-target": "https://sebastiandedeyne.com/shotgun-upgrade-your-npm-dependencies-with-yarn-upgrade-latest/",
+    "like-of": "https://sebastiandedeyne.com/shotgun-upgrade-your-npm-dependencies-with-yarn-upgrade-latest/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
