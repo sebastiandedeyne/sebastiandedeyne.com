@@ -275,5 +275,23 @@
     "like-of": "https://sebastiandedeyne.com/shotgun-upgrade-your-npm-dependencies-with-yarn-upgrade-latest/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Mark Topper",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/02eabbea6b50b2aa84146d51b1ca8e3bec05efe90d281d37278fd033115023a8.jpg",
+      "url": "https://twitter.com/webmanio"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1254801415026900995#favorited-by-557179005",
+    "published": null,
+    "wm-received": "2020-04-28T19:20:36Z",
+    "wm-id": 788269,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1254801415026900995/557179005",
+    "wm-target": "https://sebastiandedeyne.com/shotgun-upgrade-your-npm-dependencies-with-yarn-upgrade-latest/",
+    "like-of": "https://sebastiandedeyne.com/shotgun-upgrade-your-npm-dependencies-with-yarn-upgrade-latest/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]

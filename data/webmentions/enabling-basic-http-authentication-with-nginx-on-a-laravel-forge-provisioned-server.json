@@ -186,5 +186,27 @@
     "like-of": "https://sebastiandedeyne.com/enabling-basic-http-authentication-with-nginx-on-a-laravel-forge-provisioned-server/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Laravel News Links",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/66b9e5493c2834de5b960b89eb6b16976ed1c2db880330ec4b37aff5b9dc3414.jpg",
+      "url": "https://twitter.com/LaravelLinks"
+    },
+    "url": "https://twitter.com/LaravelLinks/status/1255225776561152006",
+    "published": "2020-04-28T20:02:00+00:00",
+    "wm-received": "2020-04-28T20:15:02Z",
+    "wm-id": 788304,
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1255225776561152006",
+    "wm-target": "https://sebastiandedeyne.com/enabling-basic-http-authentication-with-nginx-on-a-laravel-forge-provisioned-server/",
+    "content": {
+      "html": "Enabling basic HTTP authentication with nginx on a Laravel Forge provisioned server <a href=\"https://sebastiandedeyne.com/enabling-basic-http-authentication-with-nginx-on-a-laravel-forge-provisioned-server/\">sebastiandedeyne.com/enabling-basic…</a>",
+      "text": "Enabling basic HTTP authentication with nginx on a Laravel Forge provisioned server sebastiandedeyne.com/enabling-basic…"
+    },
+    "mention-of": "https://sebastiandedeyne.com/enabling-basic-http-authentication-with-nginx-on-a-laravel-forge-provisioned-server/",
+    "wm-property": "mention-of",
+    "wm-private": false
   }
 ]
