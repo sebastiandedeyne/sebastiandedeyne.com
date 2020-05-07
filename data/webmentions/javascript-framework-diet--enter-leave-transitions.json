@@ -280,5 +280,233 @@
     "mention-of": "https://sebastiandedeyne.com/javascript-framework-diet/enter-leave-transitions/",
     "wm-property": "mention-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Mustaf Shllaku",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/6b52c3068aa01e9568498ca5aeef44fb6dd29bc6d25da869be5c0f0c49c915e2.jpg",
+      "url": "https://twitter.com/themshllaku"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1258298352850124801#favorited-by-1122820366538346496",
+    "published": null,
+    "wm-received": "2020-05-07T16:03:52Z",
+    "wm-id": 793679,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1258298352850124801/1122820366538346496",
+    "wm-target": "https://sebastiandedeyne.com/javascript-framework-diet/enter-leave-transitions/",
+    "like-of": "https://sebastiandedeyne.com/javascript-framework-diet/enter-leave-transitions/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Rogier de Boevé",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/c7c749522d96ad97843494c621178815838f5222ac29255475c3f45225e735ea.jpg",
+      "url": "https://twitter.com/rogierdeboeve"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1258298352850124801#favorited-by-18177082",
+    "published": null,
+    "wm-received": "2020-05-07T16:03:53Z",
+    "wm-id": 793680,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1258298352850124801/18177082",
+    "wm-target": "https://sebastiandedeyne.com/javascript-framework-diet/enter-leave-transitions/",
+    "like-of": "https://sebastiandedeyne.com/javascript-framework-diet/enter-leave-transitions/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "बेद",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/520970dfa825edbb35b5759c5e93e963b9d2346f086003227769730eda38dbd3.jpg",
+      "url": "https://twitter.com/tmg_bedus"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1258298352850124801#favorited-by-1010790802463821824",
+    "published": null,
+    "wm-received": "2020-05-07T16:03:54Z",
+    "wm-id": 793681,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1258298352850124801/1010790802463821824",
+    "wm-target": "https://sebastiandedeyne.com/javascript-framework-diet/enter-leave-transitions/",
+    "like-of": "https://sebastiandedeyne.com/javascript-framework-diet/enter-leave-transitions/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Frederik Heyninck",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/febf4f28d9f52561b1e7d183d3faf3149c3f1fd29e44644075c6c8e10d94e9ad.jpg",
+      "url": "https://twitter.com/heyfrederik"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1258298352850124801#favorited-by-14477725",
+    "published": null,
+    "wm-received": "2020-05-07T16:03:55Z",
+    "wm-id": 793682,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1258298352850124801/14477725",
+    "wm-target": "https://sebastiandedeyne.com/javascript-framework-diet/enter-leave-transitions/",
+    "like-of": "https://sebastiandedeyne.com/javascript-framework-diet/enter-leave-transitions/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Trenton Craig",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/e6182b3a815b08067dffd46260de7ecef385bc1cb122840d9f7db105492b4872.jpg",
+      "url": "https://twitter.com/nokios"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1258298352850124801#favorited-by-23805525",
+    "published": null,
+    "wm-received": "2020-05-07T16:04:02Z",
+    "wm-id": 793683,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1258298352850124801/23805525",
+    "wm-target": "https://sebastiandedeyne.com/javascript-framework-diet/enter-leave-transitions/",
+    "like-of": "https://sebastiandedeyne.com/javascript-framework-diet/enter-leave-transitions/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Dan Klammer",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/dd91ab6d47c90a63050a4d9c8440e18ecd5e4619abc08a199d0e6fcf14a591c7.jpg",
+      "url": "https://twitter.com/danklammer"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1258298352850124801#favorited-by-6462722",
+    "published": null,
+    "wm-received": "2020-05-07T16:04:03Z",
+    "wm-id": 793684,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1258298352850124801/6462722",
+    "wm-target": "https://sebastiandedeyne.com/javascript-framework-diet/enter-leave-transitions/",
+    "like-of": "https://sebastiandedeyne.com/javascript-framework-diet/enter-leave-transitions/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Van den Dikkenberg",
+      "photo": "https://webmention.io/avatar/abs.twimg.com/0e6b2cd70aa5b35dec24ca4e1e63f8963f0118736d9ec3bba77e3a8c99a27bc2.png",
+      "url": "https://twitter.com/VDikkenberg"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1258298352850124801#favorited-by-1246061079245074433",
+    "published": null,
+    "wm-received": "2020-05-07T16:04:25Z",
+    "wm-id": 793685,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1258298352850124801/1246061079245074433",
+    "wm-target": "https://sebastiandedeyne.com/javascript-framework-diet/enter-leave-transitions/",
+    "like-of": "https://sebastiandedeyne.com/javascript-framework-diet/enter-leave-transitions/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "José Cage",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/5484f83bfa8b58693f5d9f2014d83a37c01ccdb60b7da45b1325949d446599ed.jpg",
+      "url": "https://twitter.com/cagejose"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1258298352850124801#favorited-by-944899327",
+    "published": null,
+    "wm-received": "2020-05-07T16:04:26Z",
+    "wm-id": 793686,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1258298352850124801/944899327",
+    "wm-target": "https://sebastiandedeyne.com/javascript-framework-diet/enter-leave-transitions/",
+    "like-of": "https://sebastiandedeyne.com/javascript-framework-diet/enter-leave-transitions/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Rogier de Boevé",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/c7c749522d96ad97843494c621178815838f5222ac29255475c3f45225e735ea.jpg",
+      "url": "https://twitter.com/rogierdeboeve"
+    },
+    "url": "https://twitter.com/rogierdeboeve/status/1258416031128858624",
+    "published": "2020-05-07T15:18:56+00:00",
+    "wm-received": "2020-05-07T16:04:49Z",
+    "wm-id": 793687,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1258298352850124801/1258416031128858624",
+    "wm-target": "https://sebastiandedeyne.com/javascript-framework-diet/enter-leave-transitions/",
+    "content": {
+      "html": "It's been a while, but part 7 of the JavaScript Framework Diet is finally out!\n\nThis week we'll look into enter &amp; leave transitions to add s",
+      "text": "It's been a while, but part 7 of the JavaScript Framework Diet is finally out!\n\nThis week we'll look into enter & leave transitions to add s"
+    },
+    "repost-of": "https://sebastiandedeyne.com/javascript-framework-diet/enter-leave-transitions/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "बेद",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/520970dfa825edbb35b5759c5e93e963b9d2346f086003227769730eda38dbd3.jpg",
+      "url": "https://twitter.com/tmg_bedus"
+    },
+    "url": "https://twitter.com/tmg_bedus/status/1258408125020995584",
+    "published": "2020-05-07T14:47:31+00:00",
+    "wm-received": "2020-05-07T16:04:50Z",
+    "wm-id": 793688,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1258298352850124801/1258408125020995584",
+    "wm-target": "https://sebastiandedeyne.com/javascript-framework-diet/enter-leave-transitions/",
+    "content": {
+      "html": "It's been a while, but part 7 of the JavaScript Framework Diet is finally out!\n\nThis week we'll look into enter &amp; leave transitions to add s",
+      "text": "It's been a while, but part 7 of the JavaScript Framework Diet is finally out!\n\nThis week we'll look into enter & leave transitions to add s"
+    },
+    "repost-of": "https://sebastiandedeyne.com/javascript-framework-diet/enter-leave-transitions/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Chris Ferdinandi ⚓️",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/c08ae1c4d75a3dae935062d5b6c914feff7cfbdafdb527c237ab3af3caa59ebc.jpg",
+      "url": "https://twitter.com/ChrisFerdinandi"
+    },
+    "url": "https://twitter.com/ChrisFerdinandi/status/1258360078681473024",
+    "published": "2020-05-07T11:36:36+00:00",
+    "wm-received": "2020-05-07T16:04:51Z",
+    "wm-id": 793689,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1258298352850124801/1258360078681473024",
+    "wm-target": "https://sebastiandedeyne.com/javascript-framework-diet/enter-leave-transitions/",
+    "content": {
+      "html": "It's been a while, but part 7 of the JavaScript Framework Diet is finally out!\n\nThis week we'll look into enter &amp; leave transitions to add s",
+      "text": "It's been a while, but part 7 of the JavaScript Framework Diet is finally out!\n\nThis week we'll look into enter & leave transitions to add s"
+    },
+    "repost-of": "https://sebastiandedeyne.com/javascript-framework-diet/enter-leave-transitions/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Wyatt",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/f22ca7a7e03a1554edeeb86c0af08fcbd055659f46256f69ce01a8513472474a.jpg",
+      "url": "https://twitter.com/WyattCastaned44"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1258298352850124801#favorited-by-534528249",
+    "published": null,
+    "wm-received": "2020-05-07T17:01:09Z",
+    "wm-id": 793703,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1258298352850124801/534528249",
+    "wm-target": "https://sebastiandedeyne.com/javascript-framework-diet/enter-leave-transitions/",
+    "like-of": "https://sebastiandedeyne.com/javascript-framework-diet/enter-leave-transitions/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
