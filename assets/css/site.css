@@ -125,12 +125,12 @@ hr {
 
 .markup ul {
   list-style-type: disc;
-  list-style-position: inside;
+  padding-left: 1.1em;
 }
 
 .markup ol {
   list-style-type: decimal;
-  list-style-position: inside;
+  padding-left: 1.1em;
 }
 
 .markup img {
@@ -246,7 +246,7 @@ hr {
   position: absolute;
   left: 0;
   width: 0.5rem;
-  background-color: theme("colors.blue.700");
+  background-color: theme("colors.blue.400");
 }
 
 .markup code {
