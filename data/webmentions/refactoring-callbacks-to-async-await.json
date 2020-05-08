@@ -245,5 +245,272 @@
     "like-of": "https://sebastiandedeyne.com/refactoring-callbacks-to-async-await/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Justas Raudonius",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/29b43218053a27e0af075b7a4c1516da419b595ce011b522ef727d6fa3bb3113.jpg",
+      "url": "https://twitter.com/JustasRaudonius"
+    },
+    "url": "https://twitter.com/JustasRaudonius/status/1258729001226510355",
+    "published": "2020-05-08T12:02:34+00:00",
+    "wm-received": "2020-05-08T12:37:40Z",
+    "wm-id": 794262,
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/sebdedeyne/1258694464811474945/1258729001226510355",
+    "wm-target": "https://sebastiandedeyne.com/refactoring-callbacks-to-async-await/",
+    "content": {
+      "html": "Thanks for the tip!\nWhat about setInterval()? Could that be made awaitable?\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/freekmurze\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/sebdedeyne\"></a>",
+      "text": "Thanks for the tip!\nWhat about setInterval()? Could that be made awaitable?"
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/refactoring-callbacks-to-async-await/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Sebastian De Deyne",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/3ce609991342657b8b7e99eb7a5c6e3656fbdb1c51575f1464d354b81aaeda86.jpg",
+      "url": "https://twitter.com/sebdedeyne"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1258729582427078657",
+    "published": "2020-05-08T12:04:53+00:00",
+    "wm-received": "2020-05-08T12:37:41Z",
+    "wm-id": 794263,
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/sebdedeyne/1258694464811474945/1258729582427078657",
+    "wm-target": "https://sebastiandedeyne.com/refactoring-callbacks-to-async-await/",
+    "content": {
+      "html": "It doesn't really make sense with setInterval since `await` only waits for the *first* tick, might as wel use setTimeout then.\n<a class=\"u-mention\" href=\"https://twitter.com/JustasRaudonius\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/freekmurze\"></a>",
+      "text": "It doesn't really make sense with setInterval since `await` only waits for the *first* tick, might as wel use setTimeout then."
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/refactoring-callbacks-to-async-await/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Juan Goovaerts",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/2ed0755b447a5437a5f300d83c82a3e5d5e9f8072b40e316c6e23400ba468048.jpg",
+      "url": "https://twitter.com/juangoovaerts"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1258694464811474945#favorited-by-629942778",
+    "published": null,
+    "wm-received": "2020-05-08T12:37:44Z",
+    "wm-id": 794264,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1258694464811474945/629942778",
+    "wm-target": "https://sebastiandedeyne.com/refactoring-callbacks-to-async-await/",
+    "like-of": "https://sebastiandedeyne.com/refactoring-callbacks-to-async-await/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Tony Messias",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/9d27d1daa87f19a9cb761ad34c9d95540c3e7b0cadf269bf52cdb1effcf49677.jpg",
+      "url": "https://twitter.com/tony0x01"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1258694464811474945#favorited-by-55294160",
+    "published": null,
+    "wm-received": "2020-05-08T12:37:45Z",
+    "wm-id": 794265,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1258694464811474945/55294160",
+    "wm-target": "https://sebastiandedeyne.com/refactoring-callbacks-to-async-await/",
+    "like-of": "https://sebastiandedeyne.com/refactoring-callbacks-to-async-await/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "GrandBlond 🇨🇿",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/04a74a0501e9b7dc748b397d525a75ec22a519a7dc8c27b986d80400c9a0a743.jpg",
+      "url": "https://twitter.com/GrandBlond"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1258694464811474945#favorited-by-260345848",
+    "published": null,
+    "wm-received": "2020-05-08T12:38:01Z",
+    "wm-id": 794266,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1258694464811474945/260345848",
+    "wm-target": "https://sebastiandedeyne.com/refactoring-callbacks-to-async-await/",
+    "like-of": "https://sebastiandedeyne.com/refactoring-callbacks-to-async-await/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Michaël De Boey",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/4c253771a8d1f79422524c6dd9f74ea83b1255def284013494330c1b3792bdf1.jpg",
+      "url": "https://twitter.com/MichaelDeBoey93"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1258694464811474945#favorited-by-148502139",
+    "published": null,
+    "wm-received": "2020-05-08T12:38:02Z",
+    "wm-id": 794267,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1258694464811474945/148502139",
+    "wm-target": "https://sebastiandedeyne.com/refactoring-callbacks-to-async-await/",
+    "like-of": "https://sebastiandedeyne.com/refactoring-callbacks-to-async-await/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Uran Hajzeraj",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/f7146817803b4e03bc2584129f8faa87f66740ea562a6c3b358b2e3bba21680c.jpg",
+      "url": "https://twitter.com/uranHajzeraj"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1258694464811474945#favorited-by-809528004875603969",
+    "published": null,
+    "wm-received": "2020-05-08T12:38:14Z",
+    "wm-id": 794268,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1258694464811474945/809528004875603969",
+    "wm-target": "https://sebastiandedeyne.com/refactoring-callbacks-to-async-await/",
+    "like-of": "https://sebastiandedeyne.com/refactoring-callbacks-to-async-await/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Sebastian De Deyne",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/3ce609991342657b8b7e99eb7a5c6e3656fbdb1c51575f1464d354b81aaeda86.jpg",
+      "url": "https://twitter.com/sebdedeyne"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1258729196903452672",
+    "published": "2020-05-08T12:03:21+00:00",
+    "wm-received": "2020-05-08T12:38:15Z",
+    "wm-id": 794269,
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1258729196903452672",
+    "wm-target": "https://sebastiandedeyne.com/refactoring-callbacks-to-async-await/",
+    "content": {
+      "html": "By the way, async/await works in pretty much every major browser these days! \n\n...except IE 🤮\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/refactoring-callbacks-to-async-await/\"></a>",
+      "text": "By the way, async/await works in pretty much every major browser these days! \n\n...except IE 🤮"
+    },
+    "mention-of": "https://sebastiandedeyne.com/refactoring-callbacks-to-async-await/",
+    "wm-property": "mention-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "zaichaopan",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/a089695a585484bbb840c2a40d4fa947138e7dd8dd5ad23e6f1c24d7f9923a88.jpg",
+      "url": "https://twitter.com/Zaichao_Only"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1258694464811474945#favorited-by-773203760772321280",
+    "published": null,
+    "wm-received": "2020-05-08T13:40:00Z",
+    "wm-id": 794286,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1258694464811474945/773203760772321280",
+    "wm-target": "https://sebastiandedeyne.com/refactoring-callbacks-to-async-await/",
+    "like-of": "https://sebastiandedeyne.com/refactoring-callbacks-to-async-await/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Hardik Shah",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/e5f3af5e252fe63549babe2845d06f46b1fba244c7bf8c388d27507b993d6c48.jpg",
+      "url": "https://twitter.com/hardsshah"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1258694464811474945#favorited-by-29662788",
+    "published": null,
+    "wm-received": "2020-05-08T13:40:00Z",
+    "wm-id": 794287,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1258694464811474945/29662788",
+    "wm-target": "https://sebastiandedeyne.com/refactoring-callbacks-to-async-await/",
+    "like-of": "https://sebastiandedeyne.com/refactoring-callbacks-to-async-await/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Placebo Domingo",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/99dac81246a41c3b6ca1b54d13845c6a50e870d9de3b06d72987ce8baddb257a.jpg",
+      "url": "https://twitter.com/brbcoding"
+    },
+    "url": "https://twitter.com/brbcoding/status/1258781621240639490",
+    "published": "2020-05-08T15:31:40+00:00",
+    "wm-received": "2020-05-08T15:45:03Z",
+    "wm-id": 794325,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1258694464811474945/1258781621240639490",
+    "wm-target": "https://sebastiandedeyne.com/refactoring-callbacks-to-async-await/",
+    "content": {
+      "text": "A quick Friday noon JavaScript tip!\n\n✒️ Refactoring callbacks to async/await\n\nsebastiandedeyne.com/refactoring-ca…"
+    },
+    "repost-of": "https://sebastiandedeyne.com/refactoring-callbacks-to-async-await/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Glenn Faison",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/5ea790d3fcbf5a8e01edb000d67cceef13ee7a251d49143df95d01917cf27f9b.jpg",
+      "url": "https://twitter.com/glenn_faison"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1258694464811474945#favorited-by-3657509292",
+    "published": null,
+    "wm-received": "2020-05-08T16:51:29Z",
+    "wm-id": 794350,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1258694464811474945/3657509292",
+    "wm-target": "https://sebastiandedeyne.com/refactoring-callbacks-to-async-await/",
+    "like-of": "https://sebastiandedeyne.com/refactoring-callbacks-to-async-await/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "José Cage",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/5484f83bfa8b58693f5d9f2014d83a37c01ccdb60b7da45b1325949d446599ed.jpg",
+      "url": "https://twitter.com/cagejose"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1258694464811474945#favorited-by-944899327",
+    "published": null,
+    "wm-received": "2020-05-08T18:01:28Z",
+    "wm-id": 794371,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1258694464811474945/944899327",
+    "wm-target": "https://sebastiandedeyne.com/refactoring-callbacks-to-async-await/",
+    "like-of": "https://sebastiandedeyne.com/refactoring-callbacks-to-async-await/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "undefined",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/68558e175799d938878771827c838e7c402604d2478ebe47cc0554993c76238d.jpg",
+      "url": "https://twitter.com/nivesh_saharan"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1258694464811474945#favorited-by-1093750844388864001",
+    "published": null,
+    "wm-received": "2020-05-08T18:01:29Z",
+    "wm-id": 794372,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1258694464811474945/1093750844388864001",
+    "wm-target": "https://sebastiandedeyne.com/refactoring-callbacks-to-async-await/",
+    "like-of": "https://sebastiandedeyne.com/refactoring-callbacks-to-async-await/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
