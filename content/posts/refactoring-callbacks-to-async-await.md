@@ -5,7 +5,7 @@ date: 2020-05-08
 categories: ["articles"]
 ---
 
-Web browsers have a few functions that accept callback parameters. `setTimeout`, `setInterval` and `requestAnimationFrame` are the first that come to mind.
+Web browsers have a few functions that accept callback parameters. `setTimeout` and `requestAnimationFrame` are the first that come to mind.
 
 If you need to do multiple calls to these functions in a row, you quickly end up in callback hell. Here's a quick tip to flatten your code with async/await.
 
