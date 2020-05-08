@@ -110,5 +110,27 @@
     "like-of": "https://sebastiandedeyne.com/why-i-prefer-react-over-vue/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Brandon Pittman",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/954f1d5487b73f7d5906ded6010d57581387304e290ee29c47c22728988854e1.jpg",
+      "url": "https://twitter.com/brandonpittman"
+    },
+    "url": "https://twitter.com/brandonpittman/status/1258650933233192960",
+    "published": "2020-05-08T06:52:21+00:00",
+    "wm-received": "2020-05-08T07:02:57Z",
+    "wm-id": 794125,
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1258650933233192960",
+    "wm-target": "https://sebastiandedeyne.com/why-i-prefer-react-over-vue/",
+    "content": {
+      "html": "Here's the article that finally got me to plunge deep into React. <a href=\"https://sebastiandedeyne.com/why-i-prefer-react-over-vue/\">sebastiandedeyne.com/why-i-prefer-r…</a>",
+      "text": "Here's the article that finally got me to plunge deep into React. sebastiandedeyne.com/why-i-prefer-r…"
+    },
+    "mention-of": "https://sebastiandedeyne.com/why-i-prefer-react-over-vue/",
+    "wm-property": "mention-of",
+    "wm-private": false
   }
 ]
