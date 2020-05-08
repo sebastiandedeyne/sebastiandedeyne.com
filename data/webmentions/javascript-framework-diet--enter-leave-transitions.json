@@ -508,5 +508,41 @@
     "like-of": "https://sebastiandedeyne.com/javascript-framework-diet/enter-leave-transitions/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Sidrit Trandafili",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/0445f8497d75e7ec8f8b375e0895758e3b12161955f047df328f0032cf681af4.jpg",
+      "url": "https://twitter.com/strandafili"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1258298352850124801#favorited-by-6256912",
+    "published": null,
+    "wm-received": "2020-05-07T20:48:49Z",
+    "wm-id": 793831,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1258298352850124801/6256912",
+    "wm-target": "https://sebastiandedeyne.com/javascript-framework-diet/enter-leave-transitions/",
+    "like-of": "https://sebastiandedeyne.com/javascript-framework-diet/enter-leave-transitions/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "ausrufezeicheneinself",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/9642f209c9170b157ee4704c6fcaca6be1e5a93d82c20729252519aaa67c4d8d.jpg",
+      "url": "https://twitter.com/5onderling"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1258298352850124801#favorited-by-2207590713",
+    "published": null,
+    "wm-received": "2020-05-07T22:43:32Z",
+    "wm-id": 793932,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1258298352850124801/2207590713",
+    "wm-target": "https://sebastiandedeyne.com/javascript-framework-diet/enter-leave-transitions/",
+    "like-of": "https://sebastiandedeyne.com/javascript-framework-diet/enter-leave-transitions/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
