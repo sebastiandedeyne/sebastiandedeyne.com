@@ -609,5 +609,67 @@
     "mention-of": "https://sebastiandedeyne.com/refactoring-callbacks-to-async-await/",
     "wm-property": "mention-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Adriaan Marain",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/3215f128f757feb52909bbab165d154d81c2cbb397c636fd8af249dc164b3edc.jpg",
+      "url": "https://twitter.com/AdriaanMrn"
+    },
+    "url": "https://twitter.com/AdriaanMrn/status/1259014331016019968",
+    "published": "2020-05-09T06:56:22+00:00",
+    "wm-received": "2020-05-09T07:16:54Z",
+    "wm-id": 794515,
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/sebdedeyne/1258729196903452672/1259014331016019968",
+    "wm-target": "https://sebastiandedeyne.com/refactoring-callbacks-to-async-await/",
+    "content": {
+      "html": "Poll: can IE really be considered a major browser in 2020?\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/\"></a>\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/refactoring-callbacks-to-async-await/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/sebdedeyne\"></a>",
+      "text": "Poll: can IE really be considered a major browser in 2020?"
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/refactoring-callbacks-to-async-await/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Santosh Khanal",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/169dd3ace68459880af9d85f71f1588eab10758f816cb589488ecc7f5b5dbf41.jpg",
+      "url": "https://twitter.com/khanalpride"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1258694464811474945#favorited-by-238829109",
+    "published": null,
+    "wm-received": "2020-05-09T09:47:56Z",
+    "wm-id": 794531,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1258694464811474945/238829109",
+    "wm-target": "https://sebastiandedeyne.com/refactoring-callbacks-to-async-await/",
+    "like-of": "https://sebastiandedeyne.com/refactoring-callbacks-to-async-await/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Bardhyl Fejzullahu",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/99bd74b652e4f231986247c0d205af14e7825077fbec8d88b42a24d566756931.jpg",
+      "url": "https://twitter.com/autoluminescent"
+    },
+    "url": "https://twitter.com/autoluminescent/status/1259077874201423872",
+    "published": "2020-05-09T11:08:52+00:00",
+    "wm-received": "2020-05-09T11:36:29Z",
+    "wm-id": 794553,
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/sebdedeyne/1258729196903452672/1259077874201423872",
+    "wm-target": "https://sebastiandedeyne.com/refactoring-callbacks-to-async-await/",
+    "content": {
+      "html": "What’s IE?\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/\"></a>\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/refactoring-callbacks-to-async-await/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/sebdedeyne\"></a>",
+      "text": "What’s IE?"
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/refactoring-callbacks-to-async-await/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
   }
 ]
