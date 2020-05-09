@@ -671,5 +671,45 @@
     "in-reply-to": "https://sebastiandedeyne.com/refactoring-callbacks-to-async-await/",
     "wm-property": "in-reply-to",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Gaurav Makhecha",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/c9d17fd8758c47bca7d15acefc9798aaa3c4807011a56fdfa7e60ad304c37784.jpg",
+      "url": "https://twitter.com/gauravmakhecha"
+    },
+    "url": "https://twitter.com/gauravmakhecha/status/1259085293883289600",
+    "published": "2020-05-09T11:38:21+00:00",
+    "wm-received": "2020-05-09T13:23:39Z",
+    "wm-id": 794605,
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1259110195256590341",
+    "wm-target": "https://sebastiandedeyne.com/refactoring-callbacks-to-async-await/",
+    "content": {
+      "html": "9/ A very nice refactoring tip by <a href=\"https://twitter.com/sebdedeyne\">@sebdedeyne</a> about converting callback (hell) to async/await which is supported in most modern browsers today. 👌\n\n<a href=\"https://twitter.com/sebdedeyne/status/1258694464811474945?s=20\">twitter.com/sebdedeyne/sta…</a>\n\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/refactoring-callbacks-to-async-await/\"></a>",
+      "text": "9/ A very nice refactoring tip by @sebdedeyne about converting callback (hell) to async/await which is supported in most modern browsers today. 👌\n\ntwitter.com/sebdedeyne/sta…"
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/refactoring-callbacks-to-async-await/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "lost.design",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/4924e2f3076c3fae2fad22c44da1f6f153afc211fc5a97f2d4735cd796b257ab.png",
+      "url": "https://twitter.com/lostdesign"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1258694464811474945#favorited-by-723173211974852608",
+    "published": null,
+    "wm-received": "2020-05-09T14:22:50Z",
+    "wm-id": 794613,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1258694464811474945/723173211974852608",
+    "wm-target": "https://sebastiandedeyne.com/refactoring-callbacks-to-async-await/",
+    "like-of": "https://sebastiandedeyne.com/refactoring-callbacks-to-async-await/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
