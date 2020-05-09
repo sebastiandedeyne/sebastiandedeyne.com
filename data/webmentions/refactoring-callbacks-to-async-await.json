@@ -512,5 +512,44 @@
     "like-of": "https://sebastiandedeyne.com/refactoring-callbacks-to-async-await/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Khai Rahman",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/645cc86f9b4290d8f54ec6b46ecb29ace374706b47d2a1f152e0b494d13adda3.jpg",
+      "url": "https://twitter.com/m_khairahman"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1258694464811474945#favorited-by-910440206074970113",
+    "published": null,
+    "wm-received": "2020-05-08T22:41:34Z",
+    "wm-id": 794436,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1258694464811474945/910440206074970113",
+    "wm-target": "https://sebastiandedeyne.com/refactoring-callbacks-to-async-await/",
+    "like-of": "https://sebastiandedeyne.com/refactoring-callbacks-to-async-await/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Khai Rahman",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/645cc86f9b4290d8f54ec6b46ecb29ace374706b47d2a1f152e0b494d13adda3.jpg",
+      "url": "https://twitter.com/m_khairahman"
+    },
+    "url": "https://twitter.com/m_khairahman/status/1258873970348052480",
+    "published": "2020-05-08T21:38:37+00:00",
+    "wm-received": "2020-05-08T22:41:43Z",
+    "wm-id": 794437,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1258694464811474945/1258873970348052480",
+    "wm-target": "https://sebastiandedeyne.com/refactoring-callbacks-to-async-await/",
+    "content": {
+      "text": "A quick Friday noon JavaScript tip!\n\n✒️ Refactoring callbacks to async/await\n\nsebastiandedeyne.com/refactoring-ca…"
+    },
+    "repost-of": "https://sebastiandedeyne.com/refactoring-callbacks-to-async-await/",
+    "wm-property": "repost-of",
+    "wm-private": false
   }
 ]
