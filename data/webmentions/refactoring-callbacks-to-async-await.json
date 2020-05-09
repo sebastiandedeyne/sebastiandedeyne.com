@@ -551,5 +551,63 @@
     "repost-of": "https://sebastiandedeyne.com/refactoring-callbacks-to-async-await/",
     "wm-property": "repost-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Ar",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/59b77f01e24c556f1129978c8a50ebd5b224e14aa3c8f5d429afc85cb782f966.jpg",
+      "url": "https://twitter.com/mondraymundo"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1258694464811474945#favorited-by-1062449325941243904",
+    "published": null,
+    "wm-received": "2020-05-09T02:46:13Z",
+    "wm-id": 794492,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1258694464811474945/1062449325941243904",
+    "wm-target": "https://sebastiandedeyne.com/refactoring-callbacks-to-async-await/",
+    "like-of": "https://sebastiandedeyne.com/refactoring-callbacks-to-async-await/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Sohail",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/1a838072e2ffd2e40c3bb64b201b39ea8194cfa802c53c2b173c9084caa5ed44.jpg",
+      "url": "https://twitter.com/_SohailQamar"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1258694464811474945#favorited-by-273831116",
+    "published": null,
+    "wm-received": "2020-05-09T02:46:14Z",
+    "wm-id": 794493,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1258694464811474945/273831116",
+    "wm-target": "https://sebastiandedeyne.com/refactoring-callbacks-to-async-await/",
+    "like-of": "https://sebastiandedeyne.com/refactoring-callbacks-to-async-await/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Jordi Corbilla",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/eb0edfb272969a28092f537918900a9b82d042769cd9e79b424c4f8ab59386e8.jpg",
+      "url": "https://twitter.com/thunderjordi"
+    },
+    "url": "https://twitter.com/thunderjordi/status/1258982569372155904",
+    "published": "2020-05-09T04:50:09+00:00",
+    "wm-received": "2020-05-09T05:28:28Z",
+    "wm-id": 794510,
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1258982569372155904",
+    "wm-target": "https://sebastiandedeyne.com/refactoring-callbacks-to-async-await/",
+    "content": {
+      "html": "<a href=\"https://sebastiandedeyne.com/refactoring-callbacks-to-async-await/\">sebastiandedeyne.com/refactoring-ca…</a>",
+      "text": "sebastiandedeyne.com/refactoring-ca…"
+    },
+    "mention-of": "https://sebastiandedeyne.com/refactoring-callbacks-to-async-await/",
+    "wm-property": "mention-of",
+    "wm-private": false
   }
 ]
