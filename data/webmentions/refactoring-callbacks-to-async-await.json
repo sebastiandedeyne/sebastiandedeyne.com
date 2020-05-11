@@ -751,5 +751,26 @@
     "like-of": "https://sebastiandedeyne.com/refactoring-callbacks-to-async-await/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Mark Almadin",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/55297269b8667be347c12ecd850aabe424c30b87d03797f83834f7871ecf3082.jpg",
+      "url": "https://twitter.com/markalmadin"
+    },
+    "url": "https://twitter.com/markalmadin/status/1259632907057946624",
+    "published": "2020-05-10T23:54:22+00:00",
+    "wm-received": "2020-05-11T00:06:59Z",
+    "wm-id": 795075,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1258694464811474945/1259632907057946624",
+    "wm-target": "https://sebastiandedeyne.com/refactoring-callbacks-to-async-await/",
+    "content": {
+      "text": "A quick Friday noon JavaScript tip!\n\n✒️ Refactoring callbacks to async/await\n\nsebastiandedeyne.com/refactoring-ca…"
+    },
+    "repost-of": "https://sebastiandedeyne.com/refactoring-callbacks-to-async-await/",
+    "wm-property": "repost-of",
+    "wm-private": false
   }
 ]
