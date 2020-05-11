@@ -711,5 +711,45 @@
     "like-of": "https://sebastiandedeyne.com/refactoring-callbacks-to-async-await/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Šime Vidas",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/09bb4880190585b5e89c617e2b0fc0af42f2bd0b1eefa64fa76f35eb307555a6.jpeg",
+      "url": "https://twitter.com/simevidas"
+    },
+    "url": "https://twitter.com/simevidas/status/1259601578186739712",
+    "published": "2020-05-10T21:49:53+00:00",
+    "wm-received": "2020-05-10T22:30:19Z",
+    "wm-id": 795031,
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1259601578186739712",
+    "wm-target": "https://sebastiandedeyne.com/refactoring-callbacks-to-async-await/",
+    "content": {
+      "html": "Promise-based setTimeout one-liner:\n\ntimeout = t =&gt; new Promise(r =&gt; setTimeout(() =&gt; r(), t))\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/refactoring-callbacks-to-async-await/\"></a>",
+      "text": "Promise-based setTimeout one-liner:\n\ntimeout = t => new Promise(r => setTimeout(() => r(), t))"
+    },
+    "mention-of": "https://sebastiandedeyne.com/refactoring-callbacks-to-async-await/",
+    "wm-property": "mention-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Jake",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/55452fdbb1b010495f28472fab8127f5c5d5ed7aa4f83162020af3774bb163a8.jpg",
+      "url": "https://twitter.com/JakeDChampion"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1258694464811474945#favorited-by-2260815740",
+    "published": null,
+    "wm-received": "2020-05-10T23:18:28Z",
+    "wm-id": 795050,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1258694464811474945/2260815740",
+    "wm-target": "https://sebastiandedeyne.com/refactoring-callbacks-to-async-await/",
+    "like-of": "https://sebastiandedeyne.com/refactoring-callbacks-to-async-await/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
