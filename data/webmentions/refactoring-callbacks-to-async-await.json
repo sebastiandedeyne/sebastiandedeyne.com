@@ -772,5 +772,23 @@
     "repost-of": "https://sebastiandedeyne.com/refactoring-callbacks-to-async-await/",
     "wm-property": "repost-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Richard",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/2bc70bbcbc31238fd0b6389f9bb0aca4fd5d2699cd644171beb5ce76dd3529a7.png",
+      "url": "https://twitter.com/rrrrrrichard"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1258694464811474945#favorited-by-23921681",
+    "published": null,
+    "wm-received": "2020-05-11T06:31:47Z",
+    "wm-id": 795108,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1258694464811474945/23921681",
+    "wm-target": "https://sebastiandedeyne.com/refactoring-callbacks-to-async-await/",
+    "like-of": "https://sebastiandedeyne.com/refactoring-callbacks-to-async-await/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
