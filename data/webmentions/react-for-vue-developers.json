@@ -368,5 +368,27 @@
     "like-of": "https://sebastiandedeyne.com/react-for-vue-developers/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Mahdi Bolow",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/9d11bc97ff61d12e1a3c950c4f63d192cce6b48539de29dff1b55c831b78d22a.jpg",
+      "url": "https://twitter.com/Mahdibolow"
+    },
+    "url": "https://twitter.com/Mahdibolow/status/1261441220049543169",
+    "published": "2020-05-15T23:39:57+00:00",
+    "wm-received": "2020-05-16T00:18:04Z",
+    "wm-id": 796927,
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1261441220049543169",
+    "wm-target": "https://sebastiandedeyne.com/react-for-vue-developers/",
+    "content": {
+      "html": "<a href=\"https://sebastiandedeyne.com/react-for-vue-developers/\">sebastiandedeyne.com/react-for-vue-…</a>",
+      "text": "sebastiandedeyne.com/react-for-vue-…"
+    },
+    "mention-of": "https://sebastiandedeyne.com/react-for-vue-developers/",
+    "wm-property": "mention-of",
+    "wm-private": false
   }
 ]
