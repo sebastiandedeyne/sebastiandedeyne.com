@@ -808,5 +808,27 @@
     "like-of": "https://sebastiandedeyne.com/refactoring-callbacks-to-async-await/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Lucasoft co.uk",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/b88d59f30c88131dfa1633e0180c7234b2f40f86f997b2f6a7181dc75d61c39e.png",
+      "url": "https://twitter.com/lucasoft_co_uk"
+    },
+    "url": "https://twitter.com/lucasoft_co_uk/status/1261590978210775042",
+    "published": "2020-05-16T09:35:03+00:00",
+    "wm-received": "2020-05-16T10:15:13Z",
+    "wm-id": 796999,
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1261590978210775042",
+    "wm-target": "https://sebastiandedeyne.com/refactoring-callbacks-to-async-await/",
+    "content": {
+      "html": "RT <a href=\"https://twitter.com/sebdedeyne\">@sebdedeyne</a> A quick Friday noon JavaScript tip! ✒️ Refactoring callbacks to async/await <a href=\"https://sebastiandedeyne.com/refactoring-callbacks-to-async-await/\">sebastiandedeyne.com/refactoring-ca…</a> <a href=\"https://twitter.com/search?q=%23dev\">#dev</a> <a href=\"https://twitter.com/search?q=%23async\">#async</a> <a href=\"https://twitter.com/search?q=%23appdev\">#appdev</a>",
+      "text": "RT @sebdedeyne A quick Friday noon JavaScript tip! ✒️ Refactoring callbacks to async/await sebastiandedeyne.com/refactoring-ca… #dev #async #appdev"
+    },
+    "mention-of": "https://sebastiandedeyne.com/refactoring-callbacks-to-async-await/",
+    "wm-property": "mention-of",
+    "wm-private": false
   }
 ]
