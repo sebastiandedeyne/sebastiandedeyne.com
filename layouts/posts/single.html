@@ -31,14 +31,14 @@
         {{ safeHTML (replace .Content .Summary "") }}
       </div>
     {{ else }}
-      {{ if (ne .Params.ad false) }}
-        <div class="mb-8">
-          {{ partial "ad" }}
-        </div>
-      {{ end }}
       <div class="markup">
         {{ .Content }}
       </div>
+      {{ if (ne .Params.ad false) }}
+        <div class="mt-8">
+          {{ partial "ad" }}
+        </div>
+      {{ end }}
     {{ end }}
   </section>
   {{ if .Params.series }}
