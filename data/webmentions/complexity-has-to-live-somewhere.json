@@ -1,0 +1,82 @@
+[
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Franco Gilio",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/344bd6597943463b80117b7639c17b37de1d2eee55becadaf85c6a1fadf159d5.jpg",
+      "url": "https://twitter.com/fgili0"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1262419807858823173#favorited-by-305749158",
+    "published": null,
+    "wm-received": "2020-05-18T16:32:41Z",
+    "wm-id": 797893,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1262419807858823173/305749158",
+    "wm-target": "https://sebastiandedeyne.com/complexity-has-to-live-somewhere/",
+    "like-of": "https://sebastiandedeyne.com/complexity-has-to-live-somewhere/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Lúcás Meier",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/2b5bb3f4ce18ae8d8ba8f9eaa53091ae4deb0d08fd3967b55d1bad5613a4bd1a.png",
+      "url": "https://twitter.com/cronokirby"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1262419807858823173#favorited-by-1102909424912478208",
+    "published": null,
+    "wm-received": "2020-05-18T16:32:42Z",
+    "wm-id": 797894,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1262419807858823173/1102909424912478208",
+    "wm-target": "https://sebastiandedeyne.com/complexity-has-to-live-somewhere/",
+    "like-of": "https://sebastiandedeyne.com/complexity-has-to-live-somewhere/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Baldur Bjarnason @baldur@toot.cafe",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/380091dbece0311dd5cadc43ecdde03be0b6517dc13a83e8b6622a2a1e24516c.jpg",
+      "url": "https://twitter.com/fakebaldur"
+    },
+    "url": "https://twitter.com/fakebaldur/status/1262421474163507200",
+    "published": "2020-05-18T16:35:08+00:00",
+    "wm-received": "2020-05-18T17:31:02Z",
+    "wm-id": 797957,
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1262421474163507200",
+    "wm-target": "https://sebastiandedeyne.com/complexity-has-to-live-somewhere/",
+    "content": {
+      "html": "“Complexity Has to Live Somewhere — Sebastian De Deyne” <a href=\"https://sebastiandedeyne.com/complexity-has-to-live-somewhere/\">sebastiandedeyne.com/complexity-has…</a>",
+      "text": "“Complexity Has to Live Somewhere — Sebastian De Deyne” sebastiandedeyne.com/complexity-has…"
+    },
+    "mention-of": "https://sebastiandedeyne.com/complexity-has-to-live-somewhere/",
+    "wm-property": "mention-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Tom Witkowski",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/4c6a0072545bab629442313c0b6d9a2cd920b338d3f3132c0e23a1f1175e382a.jpg",
+      "url": "https://twitter.com/devgummibeer"
+    },
+    "url": "https://twitter.com/devgummibeer/status/1262421412955992064",
+    "published": "2020-05-18T16:34:54+00:00",
+    "wm-received": "2020-05-18T17:31:03Z",
+    "wm-id": 797958,
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/sebdedeyne/1262419807858823173/1262421412955992064",
+    "wm-target": "https://sebastiandedeyne.com/complexity-has-to-live-somewhere/",
+    "content": {
+      "html": "A UX/UI feedback: I think that it should be more prominent that this is a repost and not one of your posts. So something like \"reposted from XYZ\" in directly under the headline and date.\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/sebdedeyne\"></a>",
+      "text": "A UX/UI feedback: I think that it should be more prominent that this is a repost and not one of your posts. So something like \"reposted from XYZ\" in directly under the headline and date."
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/complexity-has-to-live-somewhere/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  }
+]
