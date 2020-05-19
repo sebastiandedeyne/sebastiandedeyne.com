@@ -96,5 +96,59 @@
     "like-of": "https://sebastiandedeyne.com/complexity-has-to-live-somewhere/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Ryan Colson",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/85260cd2a410ead2b83d083615ef402adca80c1ab05ab256a318f92c237f9c64.jpg",
+      "url": "https://twitter.com/colson_ryan"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1262419807858823173#favorited-by-752221769348493312",
+    "published": null,
+    "wm-received": "2020-05-19T01:08:57Z",
+    "wm-id": 798203,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1262419807858823173/752221769348493312",
+    "wm-target": "https://sebastiandedeyne.com/complexity-has-to-live-somewhere/",
+    "like-of": "https://sebastiandedeyne.com/complexity-has-to-live-somewhere/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Tony Messias",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/211bfee69261eac96f6d9b66b1d935a95abadf0b415685c73dd7ef308b08f4d8.jpg",
+      "url": "https://twitter.com/tony0x01"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1262419807858823173#favorited-by-55294160",
+    "published": null,
+    "wm-received": "2020-05-19T03:13:26Z",
+    "wm-id": 798230,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1262419807858823173/55294160",
+    "wm-target": "https://sebastiandedeyne.com/complexity-has-to-live-somewhere/",
+    "like-of": "https://sebastiandedeyne.com/complexity-has-to-live-somewhere/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Mohamed Said",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/fccc75847737eb1637ad90fad90fffa2281f0971ae3d7dbc3f8e767a549b9326.jpg",
+      "url": "https://twitter.com/themsaid"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1262419807858823173#favorited-by-261648371",
+    "published": null,
+    "wm-received": "2020-05-19T03:13:26Z",
+    "wm-id": 798231,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1262419807858823173/261648371",
+    "wm-target": "https://sebastiandedeyne.com/complexity-has-to-live-somewhere/",
+    "like-of": "https://sebastiandedeyne.com/complexity-has-to-live-somewhere/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
