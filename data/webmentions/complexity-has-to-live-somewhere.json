@@ -78,5 +78,23 @@
     "in-reply-to": "https://sebastiandedeyne.com/complexity-has-to-live-somewhere/",
     "wm-property": "in-reply-to",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "henning",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/217c1bf20af36dd54090bdbe271fc6f5da431bacd957b3209fbb831322593297.jpg",
+      "url": "https://twitter.com/hactar_"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1262419807858823173#favorited-by-3425288902",
+    "published": null,
+    "wm-received": "2020-05-18T21:10:08Z",
+    "wm-id": 798079,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1262419807858823173/3425288902",
+    "wm-target": "https://sebastiandedeyne.com/complexity-has-to-live-somewhere/",
+    "like-of": "https://sebastiandedeyne.com/complexity-has-to-live-somewhere/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
