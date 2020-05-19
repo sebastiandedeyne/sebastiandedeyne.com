@@ -168,5 +168,41 @@
     "like-of": "https://sebastiandedeyne.com/complexity-has-to-live-somewhere/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Sam Snelling",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/463941a78e526da3481b4431ec63968740e67ab5a4c16be11ab9b8774e6d46de.jpg",
+      "url": "https://twitter.com/snellingio"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1262419807858823173#favorited-by-60195720",
+    "published": null,
+    "wm-received": "2020-05-19T13:31:54Z",
+    "wm-id": 798406,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1262419807858823173/60195720",
+    "wm-target": "https://sebastiandedeyne.com/complexity-has-to-live-somewhere/",
+    "like-of": "https://sebastiandedeyne.com/complexity-has-to-live-somewhere/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Caleb Porzio",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/9c549798360f6e394c6d6558014099bcb01afa6eee5a8dd79527fd6e615d0f6f.jpg",
+      "url": "https://twitter.com/calebporzio"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1262419807858823173#favorited-by-24035747",
+    "published": null,
+    "wm-received": "2020-05-19T13:31:55Z",
+    "wm-id": 798407,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1262419807858823173/24035747",
+    "wm-target": "https://sebastiandedeyne.com/complexity-has-to-live-somewhere/",
+    "like-of": "https://sebastiandedeyne.com/complexity-has-to-live-somewhere/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
