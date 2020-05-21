@@ -1,0 +1,24 @@
+[
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "SSD Tutorials",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/df9b760a7feedef0b416236b7a66518ea797cb42542fc4ad3278fb8ac93b0b1c.jpg",
+      "url": "https://twitter.com/ssdtutorials"
+    },
+    "url": "https://twitter.com/ssdtutorials/status/1263397476633128960",
+    "published": "2020-05-21T09:13:25+00:00",
+    "wm-received": "2020-05-21T09:16:51Z",
+    "wm-id": 799824,
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1263397476633128960",
+    "wm-target": "https://sebastiandedeyne.com/code-splitting-with-laravel-mix/",
+    "content": {
+      "html": "Nice article on code splitting with <a href=\"https://twitter.com/search?q=%23laravelmix\">#laravelmix</a> / <a href=\"https://twitter.com/search?q=%23webpack\">#webpack</a> <a href=\"https://sebastiandedeyne.com/code-splitting-with-laravel-mix/\">sebastiandedeyne.com/code-splitting…</a>",
+      "text": "Nice article on code splitting with #laravelmix / #webpack sebastiandedeyne.com/code-splitting…"
+    },
+    "mention-of": "https://sebastiandedeyne.com/code-splitting-with-laravel-mix/",
+    "wm-property": "mention-of",
+    "wm-private": false
+  }
+]
