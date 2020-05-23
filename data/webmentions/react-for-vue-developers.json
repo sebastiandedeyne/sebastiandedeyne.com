@@ -390,5 +390,27 @@
     "mention-of": "https://sebastiandedeyne.com/react-for-vue-developers/",
     "wm-property": "mention-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Roz B",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/c0a55d3d6b6b181a3d9fff94b4582ee96ea81120d82b39023f067324e147cc23.jpg",
+      "url": "https://twitter.com/cookieroz"
+    },
+    "url": "https://twitter.com/cookieroz/status/1264225978965950472",
+    "published": "2020-05-23T16:05:36+00:00",
+    "wm-received": "2020-05-23T16:48:57Z",
+    "wm-id": 800660,
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1264225978965950472",
+    "wm-target": "https://sebastiandedeyne.com/react-for-vue-developers/",
+    "content": {
+      "html": "Helpful article from <a href=\"https://twitter.com/sebdedeyne\">@sebdedeyne</a> - <a href=\"https://sebastiandedeyne.com/react-for-vue-developers/\">sebastiandedeyne.com/react-for-vue-…</a> good basis before playing around with <a href=\"https://twitter.com/search?q=%23react\">#react</a> 🤓",
+      "text": "Helpful article from @sebdedeyne - sebastiandedeyne.com/react-for-vue-… good basis before playing around with #react 🤓"
+    },
+    "mention-of": "https://sebastiandedeyne.com/react-for-vue-developers/",
+    "wm-property": "mention-of",
+    "wm-private": false
   }
 ]
