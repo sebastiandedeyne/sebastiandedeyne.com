@@ -2,16 +2,16 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        inherit: "inherit"
+        inherit: "inherit",
       },
       screens: {
-        dark: { raw: "(prefers-color-scheme: dark)" }
-      }
-    }
+        dark: { raw: "(prefers-color-scheme: dark)" },
+      },
+    },
   },
   variants: {
-    margin: ["responsive", "last"]
+    margin: ["responsive", "last"],
   },
   plugins: [],
-  important: true
+  important: true,
 };
