@@ -16,6 +16,6 @@ By Fred Hebert:
 > - if you want to keep the tool simple, you have to force your users to only play within the parameters that fit this simplicity
 > - if your users' use cases don't map well to your simplicity, they will build shims around your tool to attain their objectives
 
-The endless loop of software development. Complexity is why what starts out as "a lightweight alternative to X" often ends up as bloated as X. Greenfield projects allow you to not caring about the edge cases for a while, but complexity always catches up.
+The endless loop of software development. Complexity is why what starts out as "a lightweight alternative to X" often ends up as bloated as X. Greenfield projects allow you to not care about the edge cases for a while, but complexity always catches up.
 
 Read the full article on [ferd.ca](https://ferd.ca/complexity-has-to-live-somewhere.html).
