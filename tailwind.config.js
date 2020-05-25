@@ -1,4 +1,14 @@
+const production = process.env.HUGO_ENV === "production";
+
 module.exports = {
+  purge: {
+    enabled: production,
+    content: [
+      "./assets/js/**/*.js",
+      "./content/**/*.html",
+      "./layouts/**/*.html",
+    ],
+  },
   theme: {
     extend: {
       colors: {
