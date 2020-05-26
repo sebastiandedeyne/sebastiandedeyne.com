@@ -1,7 +1,7 @@
 ---
 title: "Live updating Oh Dear! status pages: Livewire edition with Caleb Porzio"
 date: 2019-09-30
-categories: ["links"]
+link: https://calebporzio.com/live-updating-status-page-with-livewire/
 keywords:
     - Livewire
     - JavaScript

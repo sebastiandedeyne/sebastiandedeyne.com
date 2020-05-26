@@ -2,7 +2,6 @@
 date: 2019-01-23
 title: The great divide
 link: https://css-tricks.com/the-great-divide/
-categories: ["links"]
 keywords:
     - the web
     - JavaScript

@@ -2,7 +2,6 @@
 date: 2018-12-05
 title: Chris Ferdinandi's CSS methodology
 link: https://gomakethings.com/my-css-methodology/
-categories: ["links"]
 keywords:
   - css
 ---

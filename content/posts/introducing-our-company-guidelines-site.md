@@ -2,7 +2,6 @@
 date: 2017-08-21
 title: Introducing our company guidelines site
 link: https://guidelines.spatie.be
-categories: ["links"]
 keywords:
   - programming
   - Spatie

@@ -2,7 +2,6 @@
 date: 2018-12-18
 title: iA Writer 5.2 will embrace variable fonts
 link: https://ia.net/writer/blog/a-typographic-christmas
-categories: ["links"]
 keywords:
     - design
     - typography

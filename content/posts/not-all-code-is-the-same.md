@@ -3,7 +3,6 @@ date: 2018-12-28
 title: Not all code is the same
 subtitle: About the performance implications of JavaScript
 link: https://gomakethings.com/not-all-code-is-the-same/
-categories: ["links"]
 keywords:
     - JavaScript
     - performance

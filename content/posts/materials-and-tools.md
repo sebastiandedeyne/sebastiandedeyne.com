@@ -1,7 +1,7 @@
 ---
 title: "Materials and tools"
 date: 2019-10-29
-categories: ["links"]
+link: https://adactio.com/journal/15050
 ---
 
 I was lucky enough to see Jeremy Keith speak at the inaugural edition of Full Stack Europe. He did a keynote on building on/for the web. I'm not going to distill the talk's content to a few paragraphs as that wouldn't do it justice, hopefully the talk will come online at some point.
@@ -9,7 +9,7 @@ I was lucky enough to see Jeremy Keith speak at the inaugural edition of Full St
 One thing I'd like to mention he talked about is the difference between materials and tools for the web. Jeremy written about this in the past, and I believe his journal entry is an article worth sharing.
 
 > On the one hand, you’ve got the raw materials of the web: HTML, CSS, and JavaScript. This is what users will ultimately interact with.
-> 
+>
 > On the other hand, you’ve got all the tools and technologies that help you produce the HTML, CSS, and JavaScript: pre-processors, post-processors, transpilers, bundlers, and other build tools.
 
 And a bit further:

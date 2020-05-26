@@ -1,7 +1,7 @@
 ---
 title: "React's versioning policy"
 date: 2019-10-08
-categories: ["links"]
+link: https://reactjs.org/docs/faq-versioning.html
 keywords:
     - React
     - JavaScript

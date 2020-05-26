@@ -2,9 +2,9 @@
 title: "Complexity Has to Live Somewhere"
 slug: complexity-has-to-live-somewhere
 date: 2020-05-18
-categories: ["links"]
+link: https://ferd.ca/complexity-has-to-live-somewhere.html
 keywords:
-  - Programming
+  - programming
 ---
 
 By Fred Hebert:

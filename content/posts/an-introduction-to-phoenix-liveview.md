@@ -2,7 +2,6 @@
 date: 2019-01-11
 title: An introduction to Phoenix LiveView
 link: https://dockyard.com/blog/2018/12/12/phoenix-liveview-interactive-real-time-apps-no-need-to-write-javascript
-categories: ["links"]
 keywords:
     - elixir
 ---

@@ -2,7 +2,6 @@
 date: 2019-08-01
 title: Fast software, the best software
 link: https://craigmod.com/essays/fast_software/
-categories: ["links"]
 keywords:
     - performance
 ---

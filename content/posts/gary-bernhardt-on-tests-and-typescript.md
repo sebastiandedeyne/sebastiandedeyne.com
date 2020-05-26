@@ -2,7 +2,9 @@
 title: "Gary Bernhardt on tests and TypeScript"
 slug: gary-bernhardt-on-tests-and-typescript
 date: 2020-04-14
-categories: ["links"]
+link: https://www.executeprogram.com/blog/are-tests-necessary-in-typescript
+keywords:
+  - TypeScript
 ---
 
 Confession: I don't write a lot of tests for my frontend code. This isn't something I talk about a lot because I'm scared of the pitchforks on the horizon.

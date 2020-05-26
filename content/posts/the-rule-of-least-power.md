@@ -1,7 +1,7 @@
 ---
 date: 2019-11-06
 title: "The rule of least power"
-categories: ["links"]
+link: https://www.w3.org/2001/tag/doc/leastPower.html
 keywords:
     - programming
     - the web
@@ -15,9 +15,9 @@ The rule of least power was described in an essay by Tim Berners-Lee back in 200
 
 This is a useful principle to follow for the web because less powerful languages fail better.
 
-Forgot a closing tag in HTML? There's a fair chance the browser will just fix it for you. 
+Forgot a closing tag in HTML? There's a fair chance the browser will just fix it for you.
 
-Did you write an invalid or unsupported CSS rule? The browser will ignore the statement and parse the rest as intended. 
+Did you write an invalid or unsupported CSS rule? The browser will ignore the statement and parse the rest as intended.
 
 Got a syntax error in your JavaScript app? Prepare to watch the world burn.
 

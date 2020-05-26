@@ -2,7 +2,7 @@
 title: "Give it five minutes"
 slug: give-it-five-minutes
 date: 2020-02-21
-categories: ["links"]
+link: https://signalvnoise.com/posts/3124-give-it-five-minutes
 ---
 
 I came across this post by Jason Fried (from Basecamp) about giving ideas a few minutes before shooting them down.
