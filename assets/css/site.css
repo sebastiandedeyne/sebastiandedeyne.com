@@ -100,12 +100,14 @@ hr {
   margin-top: 3rem;
 }
 
+.link,
 .markup a {
   color: theme("colors.blue.700");
   text-decoration: underline;
 }
 
 @media (prefers-color-scheme: dark) {
+  .link,
   .markup a {
     color: theme("colors.blue.500");
   }
