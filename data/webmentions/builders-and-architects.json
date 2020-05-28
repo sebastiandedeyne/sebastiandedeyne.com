@@ -256,5 +256,23 @@
     "repost-of": "https://sebastiandedeyne.com/builders-and-architects/",
     "wm-property": "repost-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "zaichaopan",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/a089695a585484bbb840c2a40d4fa947138e7dd8dd5ad23e6f1c24d7f9923a88.jpg",
+      "url": "https://twitter.com/Zaichao_Only"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1265938672182059010#favorited-by-773203760772321280",
+    "published": null,
+    "wm-received": "2020-05-28T13:58:08Z",
+    "wm-id": 802823,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1265938672182059010/773203760772321280",
+    "wm-target": "https://sebastiandedeyne.com/builders-and-architects/",
+    "like-of": "https://sebastiandedeyne.com/builders-and-architects/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
