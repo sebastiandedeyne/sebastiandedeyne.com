@@ -107,7 +107,7 @@
                 <span class="font-bold">{{ $reply.author.name }}</span>
               </a>
               <a href="{{ $reply.url }}" class="text-gray-700 text-sm ml-1">
-                {{ substr (index $reply "wm-received") 0 10 }}
+                {{ (index $reply "wm-received") | replaceRE "^([^T]+)T([^Z]+):[0-9][0-9]Z" "$1 $2" }}
               </a>
             </p>
             <div class="markup">
