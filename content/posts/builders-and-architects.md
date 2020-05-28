@@ -7,7 +7,7 @@ keywords:
   - programming
 ---
 
-My colleague [Brent](https://twitter.com/brendt_gd) wrote a food-for-though post about two different kinds of programmers: builders & architects.
+My colleague [Brent](https://twitter.com/brendt_gd) wrote a food-for-thought post about two different kinds of programmers: builders & architects.
 
 > The first ones, the builders, are the programmers who get things done. […] On the other hand there are architects. They are concerned about sturdy and structurally sound code. […]
 >
