@@ -34,5 +34,80 @@
     "like-of": "https://sebastiandedeyne.com/unlearning/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Khai Rahman",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/645cc86f9b4290d8f54ec6b46ecb29ace374706b47d2a1f152e0b494d13adda3.jpg",
+      "url": "https://twitter.com/m_khairahman"
+    },
+    "url": "https://twitter.com/m_khairahman/status/1266337072945610752",
+    "published": "2020-05-29T11:54:20+00:00",
+    "wm-received": "2020-05-29T12:20:36Z",
+    "wm-id": 803191,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1266284730435031041/1266337072945610752",
+    "wm-target": "https://sebastiandedeyne.com/unlearning/",
+    "content": {
+      "text": "✒️ Improve your learning by knowing when to unlearn sebastiandedeyne.com/unlearning/"
+    },
+    "repost-of": "https://sebastiandedeyne.com/unlearning/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Ruslan",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/6114334d09745c23c21d748a3ffb0e5f0972472d77df8a83d2914859cbd3b5fd.jpg",
+      "url": "https://twitter.com/SuddenlyRust"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1266284730435031041#favorited-by-935107835045842944",
+    "published": null,
+    "wm-received": "2020-05-29T14:35:53Z",
+    "wm-id": 803268,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1266284730435031041/935107835045842944",
+    "wm-target": "https://sebastiandedeyne.com/unlearning/",
+    "like-of": "https://sebastiandedeyne.com/unlearning/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Khai Rahman",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/645cc86f9b4290d8f54ec6b46ecb29ace374706b47d2a1f152e0b494d13adda3.jpg",
+      "url": "https://twitter.com/m_khairahman"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1266284730435031041#favorited-by-910440206074970113",
+    "published": null,
+    "wm-received": "2020-05-29T14:35:53Z",
+    "wm-id": 803269,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1266284730435031041/910440206074970113",
+    "wm-target": "https://sebastiandedeyne.com/unlearning/",
+    "like-of": "https://sebastiandedeyne.com/unlearning/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Njogu Amos",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/200fc8a0795c914eb3f4750f585950a2c4bfc431b7b43dae9cbaed3e5214defd.jpg",
+      "url": "https://twitter.com/NjoguAmo"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1266284730435031041#favorited-by-198943649",
+    "published": null,
+    "wm-received": "2020-05-29T15:39:56Z",
+    "wm-id": 803347,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1266284730435031041/198943649",
+    "wm-target": "https://sebastiandedeyne.com/unlearning/",
+    "like-of": "https://sebastiandedeyne.com/unlearning/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]

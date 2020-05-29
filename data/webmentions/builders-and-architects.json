@@ -274,5 +274,23 @@
     "like-of": "https://sebastiandedeyne.com/builders-and-architects/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Niels",
+      "photo": "https://webmention.io/avatar/abs.twimg.com/0e6b2cd70aa5b35dec24ca4e1e63f8963f0118736d9ec3bba77e3a8c99a27bc2.png",
+      "url": "https://twitter.com/niels09577833"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1265938672182059010#favorited-by-1022192241677426688",
+    "published": null,
+    "wm-received": "2020-05-29T14:35:59Z",
+    "wm-id": 803270,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1265938672182059010/1022192241677426688",
+    "wm-target": "https://sebastiandedeyne.com/builders-and-architects/",
+    "like-of": "https://sebastiandedeyne.com/builders-and-architects/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
