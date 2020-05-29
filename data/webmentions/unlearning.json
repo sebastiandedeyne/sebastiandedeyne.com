@@ -1,0 +1,38 @@
+[
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "றதீஸ் / raðiːs / rathes s15n",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/adef9b115a3e113befec6f2d96d0c8e6cd500949199b23fdbcaa6c3f85d8505f.jpg",
+      "url": "https://twitter.com/rswebdesigner"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1266284730435031041#favorited-by-119376856",
+    "published": null,
+    "wm-received": "2020-05-29T08:54:50Z",
+    "wm-id": 803150,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1266284730435031041/119376856",
+    "wm-target": "https://sebastiandedeyne.com/unlearning/",
+    "like-of": "https://sebastiandedeyne.com/unlearning/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Mithicher Baro",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/b4ee0c303dd27e391b702d9713c984efbbf051c6948b0dc2164dc17a3747bdd7.png",
+      "url": "https://twitter.com/mithicher"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1266284730435031041#favorited-by-1315799845",
+    "published": null,
+    "wm-received": "2020-05-29T11:15:37Z",
+    "wm-id": 803174,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1266284730435031041/1315799845",
+    "wm-target": "https://sebastiandedeyne.com/unlearning/",
+    "like-of": "https://sebastiandedeyne.com/unlearning/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+]
