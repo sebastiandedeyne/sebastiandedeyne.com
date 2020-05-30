@@ -109,5 +109,23 @@
     "like-of": "https://sebastiandedeyne.com/unlearning/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Tobias Scharikow 🦊",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/4de4a2cb92f9abebd622ac2e78202d83c73309050ccdeefd2afe04e4fe0708c2.jpg",
+      "url": "https://twitter.com/refuse2choose"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1266284730435031041#favorited-by-777587968454393857",
+    "published": null,
+    "wm-received": "2020-05-30T15:39:32Z",
+    "wm-id": 804031,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1266284730435031041/777587968454393857",
+    "wm-target": "https://sebastiandedeyne.com/unlearning/",
+    "like-of": "https://sebastiandedeyne.com/unlearning/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
