@@ -166,11 +166,11 @@ hr {
 .markup img + em,
 .markup pre + em {
   display: block;
-  font-size: theme("fontSize.sm");
+  font-size: theme("fontSize.xs");
   color: theme("colors.gray.600");
   text-align: center;
-  margin-top: 1rem;
-  margin-bottom: 2rem;
+  margin-top: 0.5rem;
+  margin-bottom: 2.5rem;
 }
 
 .markup blockquote {
