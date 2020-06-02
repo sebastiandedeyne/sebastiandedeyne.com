@@ -8,6 +8,8 @@ posts:
     slug: unix-things
   - title: Listing directories
     slug: unix-things/listing-directories
+  - title: Zipping
+    slug: unix-things/zipping
   - title: Finding files (by filename)
   - title: Finding files (by content)
   - title: Permissions
