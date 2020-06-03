@@ -81,8 +81,8 @@ Now we can apply these middleware classes to our routes.
 ```php
 <?php
 
-App\Http\Middleware\BootstrapCarbon;
-App\Http\Middleware\BootstrapWeb;
+use App\Http\Middleware\BootstrapAdmin;
+use App\Http\Middleware\BootstrapWeb;
 
 Route::middleware(BootstrapWeb::class)
     ->group(function () {
