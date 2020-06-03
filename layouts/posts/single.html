@@ -1,11 +1,19 @@
 {{ define "meta" }}
-  <meta name="description" content="{{ .Summary | truncate 155 }}" />
+  {{ with .Params.description }}
+    <meta name="description" content="{{ . }}" />
+  {{ else }}
+    <meta name="description" content="{{ .Summary | truncate 155 }}" />
+  {{ end }}
   <meta property="og:title" content="{{ .Title }}" />
   <meta property="og:type" content="article" />
   <meta property="og:locale" content="en_US" />
   <meta property="og:url" content="{{ .Permalink }}" />
   <meta property="og:image" content="{{ "media/me.jpg" | absURL }}" />
-  <meta property="og:description" content="{{ .Summary | truncate 300 }}" />
+  {{ with .Params.description }}
+    <meta name="description" content="{{ . }}" />
+  {{ else }}
+    <meta property="og:description" content="{{ .Summary | truncate 300 }}" />
+  {{ end }}
   <meta property="article:published_time" content="{{ .Date.Format "2006-01-02T15:04:05Z0700" }}" />
   <meta property="article:modified_time" content="{{ .Lastmod.Format "2006-01-02T15:04:05Z0700" }}" />
   <meta property="article:author" content="Sebastian De Deyne" />

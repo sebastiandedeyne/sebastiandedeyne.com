@@ -5,6 +5,7 @@ date: 2020-06-03
 categories: ["articles"]
 keywords:
   - Laravel
+description: How to clean up service providers in large Laravel apps with middleware
 ---
 
 When you need to set up a service in a Laravel app, service providers are generally the place to be. But, there's one problem with service providers: they're global. This usually doesn't matter, but in multi-section apps this can be problematic.
