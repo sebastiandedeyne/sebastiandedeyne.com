@@ -36,19 +36,12 @@ npm install prettier husky lint-staged --save-dev
 
 Lint-staged is an npm package that will run a script on your staged files, in other words, on the files you want to commit. You can filter the staged files you want to run the scripts on with a glob.
 
-We'll add the lint-staged configuration to our `package.json` file.
+Create a `lint-staged.config.js` file in your project root.
 
-```json
-{
-    "lint-staged": {
-        "linters": {
-            "resources/**/*.{css,js}": [
-                "prettier --write",
-                "git add"
-            ]
-        }
-    }
-}
+```js
+module.exports = {
+    'resources/**/*.{css,js}': ['prettier --write'],
+};
 ```
 
 This is based on a Laravel project, where assets are stored in `resources`, and built to `public`. With the above config, we'll run prettier on every staged CSS and JavaScript file.
