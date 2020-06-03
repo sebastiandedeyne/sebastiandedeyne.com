@@ -41,5 +41,199 @@
     "in-reply-to": "https://sebastiandedeyne.com/middleware-as-a-laravel-service-provider/",
     "wm-property": "in-reply-to",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Harish Toshniwal",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/c7a386aaca008649eacf7a93648abdf2fd2e31f4e7c4c863c6c6105e14d33ba1.png",
+      "url": "https://twitter.com/introwit"
+    },
+    "url": "https://twitter.com/introwit/status/1268149204540506114",
+    "published": "2020-06-03T11:55:06+00:00",
+    "wm-received": "2020-06-03T12:28:03Z",
+    "wm-id": 805230,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1268079234943201280/1268149204540506114",
+    "wm-target": "https://sebastiandedeyne.com/middleware-as-a-laravel-service-provider/",
+    "content": {
+      "text": "Are your Laravel service providers full of conditionals in large apps? Moving things to middleware might clean things up!\n\n✒️ Middleware a"
+    },
+    "repost-of": "https://sebastiandedeyne.com/middleware-as-a-laravel-service-provider/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Jan Boddez",
+      "photo": "https://webmention.io/avatar/janboddez.tech/49a60f70d36201296dfb5ef9aa779f53d345a234de944f319218665d071b11c4.jpg",
+      "url": "https://janboddez.tech/"
+    },
+    "url": "https://janboddez.tech/likes/be086a28b6",
+    "published": "2020-06-03T14:33:12+02:00",
+    "wm-received": "2020-06-03T12:36:56Z",
+    "wm-id": 805231,
+    "wm-source": "https://janboddez.tech/likes/be086a28b6",
+    "wm-target": "https://sebastiandedeyne.com/middleware-as-a-laravel-service-provider/",
+    "content": {
+      "html": "<p><i>Liked <a class=\"u-like-of\" href=\"https://sebastiandedeyne.com/middleware-as-a-laravel-service-provider/\">https://sebastiandedeyne.com/middleware-as-a-laravel-service-provider/</a>.</i></p>",
+      "text": "Liked https://sebastiandedeyne.com/middleware-as-a-laravel-service-provider/."
+    },
+    "like-of": "https://sebastiandedeyne.com/middleware-as-a-laravel-service-provider/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Laravel Уроки",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/9e9e8b2e52bd94cb8235d5d58ea0811d677a57da12a3325eb3f49192fce1ecd8.png",
+      "url": "https://twitter.com/laravel_it"
+    },
+    "url": "https://twitter.com/laravel_it/status/1268169926998659072",
+    "published": "2020-06-03T13:17:26+00:00",
+    "wm-received": "2020-06-03T13:46:19Z",
+    "wm-id": 805241,
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/sebdedeyne/1268079234943201280/1268169926998659072",
+    "wm-target": "https://sebastiandedeyne.com/middleware-as-a-laravel-service-provider/",
+    "content": {
+      "html": "Hi! Fix for routes:\n\nuse App\\Http\\Middleware\\BootstrapAdmin;\nuse App\\Http\\Middleware\\BootstrapWeb;\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/sebdedeyne\"></a>",
+      "text": "Hi! Fix for routes:\n\nuse App\\Http\\Middleware\\BootstrapAdmin;\nuse App\\Http\\Middleware\\BootstrapWeb;"
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/middleware-as-a-laravel-service-provider/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Johannes Pichler",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/12008d8a982337bd4eec905acec1979cf82567cb192446b63e22310bac6fa283.jpg",
+      "url": "https://twitter.com/fetzi_io"
+    },
+    "url": "https://twitter.com/fetzi_io/status/1268183126322397185",
+    "published": "2020-06-03T14:09:53+00:00",
+    "wm-received": "2020-06-03T14:22:48Z",
+    "wm-id": 805242,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1268079234943201280/1268183126322397185",
+    "wm-target": "https://sebastiandedeyne.com/middleware-as-a-laravel-service-provider/",
+    "content": {
+      "text": "Are your Laravel service providers full of conditionals in large apps? Moving things to middleware might clean things up!\n\n✒️ Middleware a"
+    },
+    "repost-of": "https://sebastiandedeyne.com/middleware-as-a-laravel-service-provider/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "gocanto",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/d3ce0961918b11edac8337b97a8be53f0e1c7465950c7bf5b1503d52165898bb.jpg",
+      "url": "https://twitter.com/gocanto"
+    },
+    "url": "https://twitter.com/gocanto/status/1268187420853297158",
+    "published": "2020-06-03T14:26:57+00:00",
+    "wm-received": "2020-06-03T15:10:47Z",
+    "wm-id": 805253,
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/sebdedeyne/1268079234943201280/1268187420853297158",
+    "wm-target": "https://sebastiandedeyne.com/middleware-as-a-laravel-service-provider/",
+    "content": {
+      "html": "Wonder why you would have conditions and logic in your providers 🙃\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/sebdedeyne\"></a>",
+      "text": "Wonder why you would have conditions and logic in your providers 🙃"
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/middleware-as-a-laravel-service-provider/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Sebastian De Deyne",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/3ce609991342657b8b7e99eb7a5c6e3656fbdb1c51575f1464d354b81aaeda86.jpg",
+      "url": "https://twitter.com/sebdedeyne"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1268190566858317824",
+    "published": "2020-06-03T14:39:27+00:00",
+    "wm-received": "2020-06-03T15:10:48Z",
+    "wm-id": 805254,
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/sebdedeyne/1268079234943201280/1268190566858317824",
+    "wm-target": "https://sebastiandedeyne.com/middleware-as-a-laravel-service-provider/",
+    "content": {
+      "html": "Did you read the post?\n<a class=\"u-mention\" href=\"https://twitter.com/gocanto\"></a>",
+      "text": "Did you read the post?"
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/middleware-as-a-laravel-service-provider/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "hjtshort",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/4900e95fa0c2bf441560de551a172507ec7970f4d7988ecf07c76953813de73c.jpg",
+      "url": "https://twitter.com/hjtshort"
+    },
+    "url": "https://twitter.com/hjtshort/status/1268196561667764224",
+    "published": "2020-06-03T15:03:16+00:00",
+    "wm-received": "2020-06-03T15:12:15Z",
+    "wm-id": 805255,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1268079234943201280/1268196561667764224",
+    "wm-target": "https://sebastiandedeyne.com/middleware-as-a-laravel-service-provider/",
+    "content": {
+      "text": "Are your Laravel service providers full of conditionals in large apps? Moving things to middleware might clean things up!\n\n✒️ Middleware a"
+    },
+    "repost-of": "https://sebastiandedeyne.com/middleware-as-a-laravel-service-provider/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "gocanto",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/d3ce0961918b11edac8337b97a8be53f0e1c7465950c7bf5b1503d52165898bb.jpg",
+      "url": "https://twitter.com/gocanto"
+    },
+    "url": "https://twitter.com/gocanto/status/1268191214416719873",
+    "published": "2020-06-03T14:42:02+00:00",
+    "wm-received": "2020-06-03T15:12:15Z",
+    "wm-id": 805256,
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/sebdedeyne/1268079234943201280/1268191214416719873",
+    "wm-target": "https://sebastiandedeyne.com/middleware-as-a-laravel-service-provider/",
+    "content": {
+      "html": "Yes sir. I did ✌🏻\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/sebdedeyne\"></a>",
+      "text": "Yes sir. I did ✌🏻"
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/middleware-as-a-laravel-service-provider/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Spatie",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/3efb487e7f3a0bc3690580277105f93eda590d65e4d9eb01135a184a9df60b18.jpg",
+      "url": "https://twitter.com/spatie_be"
+    },
+    "url": "https://twitter.com/spatie_be/status/1268196142321369088",
+    "published": "2020-06-03T15:01:36+00:00",
+    "wm-received": "2020-06-03T15:12:21Z",
+    "wm-id": 805257,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1268079234943201280/1268196142321369088",
+    "wm-target": "https://sebastiandedeyne.com/middleware-as-a-laravel-service-provider/",
+    "content": {
+      "text": "Are your Laravel service providers full of conditionals in large apps? Moving things to middleware might clean things up!\n\n✒️ Middleware a"
+    },
+    "repost-of": "https://sebastiandedeyne.com/middleware-as-a-laravel-service-provider/",
+    "wm-property": "repost-of",
+    "wm-private": false
   }
 ]
