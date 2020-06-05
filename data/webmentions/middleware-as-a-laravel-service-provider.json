@@ -277,5 +277,41 @@
     "repost-of": "https://sebastiandedeyne.com/middleware-as-a-laravel-service-provider/",
     "wm-property": "repost-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Miguel Piedrafita 🚀",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/f579dec7e26e1bd80b0c624decddf9478f81e115cdc550d390dca3f3ba0f18cc.jpg",
+      "url": "https://twitter.com/m1guelpf"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1268079234943201280#favorited-by-713094195955830785",
+    "published": null,
+    "wm-received": "2020-06-04T23:59:28Z",
+    "wm-id": 805687,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1268079234943201280/713094195955830785",
+    "wm-target": "https://sebastiandedeyne.com/middleware-as-a-laravel-service-provider/",
+    "like-of": "https://sebastiandedeyne.com/middleware-as-a-laravel-service-provider/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Johannes Pichler",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/12008d8a982337bd4eec905acec1979cf82567cb192446b63e22310bac6fa283.jpg",
+      "url": "https://twitter.com/fetzi_io"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1268079234943201280#favorited-by-72600484",
+    "published": null,
+    "wm-received": "2020-06-04T23:59:29Z",
+    "wm-id": 805688,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1268079234943201280/72600484",
+    "wm-target": "https://sebastiandedeyne.com/middleware-as-a-laravel-service-provider/",
+    "like-of": "https://sebastiandedeyne.com/middleware-as-a-laravel-service-provider/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
