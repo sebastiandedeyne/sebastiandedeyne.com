@@ -925,5 +925,23 @@
     "like-of": "https://sebastiandedeyne.com/middleware-as-a-laravel-service-provider/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Tobias Scharikow 🦊",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/4de4a2cb92f9abebd622ac2e78202d83c73309050ccdeefd2afe04e4fe0708c2.jpg",
+      "url": "https://twitter.com/refuse2choose"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1268079234943201280#favorited-by-777587968454393857",
+    "published": null,
+    "wm-received": "2020-06-06T12:51:56Z",
+    "wm-id": 806290,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1268079234943201280/777587968454393857",
+    "wm-target": "https://sebastiandedeyne.com/middleware-as-a-laravel-service-provider/",
+    "like-of": "https://sebastiandedeyne.com/middleware-as-a-laravel-service-provider/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
