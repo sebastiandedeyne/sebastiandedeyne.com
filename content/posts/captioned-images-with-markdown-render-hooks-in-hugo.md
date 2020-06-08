@@ -1,5 +1,5 @@
 ---
-title: "Captioned images with markdown render hooks in Hugo"
+title: "Caption images with markdown render hooks in Hugo"
 slug: captioned-images-with-markdown-render-hooks-in-hugo
 date: 2020-06-08
 categories: ["articles"]
@@ -29,7 +29,7 @@ For example, the alt text of the image below is "A picture of my dog sleeping wi
 
 ![A picture of my dog sleeping with a ray of sun shining on his face](/media/dog-nap.jpg "My dog always looks for a ray of sun on the floor for his morning nap. Yes, morning naps are a thing if you sleep 20 hours a day.")
 
-Hugo has a lesser-known feature called [markdown render hooks](https://gohugo.io/getting-started/configuration-markup#markdown-render-hooks). They're only available if you're using the Goldmark renderer, but that's the default, so chances are you already are.
+Hugo has a lesser-known feature called [markdown render hooks](https://gohugo.io/getting-started/configuration-markup#markdown-render-hooks). They're only available if you're using the Goldmark renderer, Goldmark has been the default for a while that's the default, so chances are you already are.
 
 Markdown render hooks allow you to take full control of how an image, link or heading is rendered. We're only going to look into images now.
 
