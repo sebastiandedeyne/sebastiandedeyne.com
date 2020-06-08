@@ -1,0 +1,169 @@
+[
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Tom Witkowski",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/4c6a0072545bab629442313c0b6d9a2cd920b338d3f3132c0e23a1f1175e382a.jpg",
+      "url": "https://twitter.com/devgummibeer"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1269908299429949440#favorited-by-2995381594",
+    "published": null,
+    "wm-received": "2020-06-08T08:40:43Z",
+    "wm-id": 807726,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1269908299429949440/2995381594",
+    "wm-target": "https://sebastiandedeyne.com/captioned-images-with-markdown-render-hooks-in-hugo/",
+    "like-of": "https://sebastiandedeyne.com/captioned-images-with-markdown-render-hooks-in-hugo/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Mattias Geniar",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/d248b54bf6c9a4200c09bc494bd14ddaa4b28d5513b83c9ef6c4109a6e5e7463.jpg",
+      "url": "https://twitter.com/mattiasgeniar"
+    },
+    "url": "https://twitter.com/mattiasgeniar/status/1269913241850908677",
+    "published": "2020-06-08T08:44:45+00:00",
+    "wm-received": "2020-06-08T09:24:46Z",
+    "wm-id": 807737,
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/sebdedeyne/1269908299429949440/1269913241850908677",
+    "wm-target": "https://sebastiandedeyne.com/captioned-images-with-markdown-render-hooks-in-hugo/",
+    "content": {
+      "html": "Nice, you beat me to it! Was on my todo-list as well :D \n\nMy use case was to add the loading=\"lazy\" to every image embedded in a blogpost, used the same render-hooks to make that work.\n\nNow I'll have to extend it with &lt;figure&gt; :-)\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/GoHugoIO\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/sebdedeyne\"></a>",
+      "text": "Nice, you beat me to it! Was on my todo-list as well :D \n\nMy use case was to add the loading=\"lazy\" to every image embedded in a blogpost, used the same render-hooks to make that work.\n\nNow I'll have to extend it with <figure> :-)"
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/captioned-images-with-markdown-render-hooks-in-hugo/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Ruslan",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/6114334d09745c23c21d748a3ffb0e5f0972472d77df8a83d2914859cbd3b5fd.jpg",
+      "url": "https://twitter.com/SuddenlyRust"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1269908299429949440#favorited-by-935107835045842944",
+    "published": null,
+    "wm-received": "2020-06-08T09:24:53Z",
+    "wm-id": 807738,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1269908299429949440/935107835045842944",
+    "wm-target": "https://sebastiandedeyne.com/captioned-images-with-markdown-render-hooks-in-hugo/",
+    "like-of": "https://sebastiandedeyne.com/captioned-images-with-markdown-render-hooks-in-hugo/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Tom Witkowski",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/4c6a0072545bab629442313c0b6d9a2cd920b338d3f3132c0e23a1f1175e382a.jpg",
+      "url": "https://twitter.com/devgummibeer"
+    },
+    "url": "https://twitter.com/devgummibeer/status/1269923091804807171",
+    "published": "2020-06-08T09:23:53+00:00",
+    "wm-received": "2020-06-08T09:25:21Z",
+    "wm-id": 807739,
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/sebdedeyne/1269908299429949440/1269923091804807171",
+    "wm-target": "https://sebastiandedeyne.com/captioned-images-with-markdown-render-hooks-in-hugo/",
+    "photo": [
+      "https://pbs.twimg.com/media/EZ-sUKKX0AEYbDi.jpg"
+    ],
+    "content": {
+      "html": "I know this Frenchie thing! 🐶🥰☀️\nNot in the sun but still want to post some \"puppy\" content. 😅\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/GoHugoIO\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/sebdedeyne\"></a>",
+      "text": "I know this Frenchie thing! 🐶🥰☀️\nNot in the sun but still want to post some \"puppy\" content. 😅"
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/captioned-images-with-markdown-render-hooks-in-hugo/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Sebastian De Deyne",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/3ce609991342657b8b7e99eb7a5c6e3656fbdb1c51575f1464d354b81aaeda86.jpg",
+      "url": "https://twitter.com/sebdedeyne"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1269932050066309121",
+    "published": "2020-06-08T09:59:29+00:00",
+    "wm-received": "2020-06-08T10:06:40Z",
+    "wm-id": 807744,
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/sebdedeyne/1269908299429949440/1269932050066309121",
+    "wm-target": "https://sebastiandedeyne.com/captioned-images-with-markdown-render-hooks-in-hugo/",
+    "content": {
+      "html": "Oooh that loading attribute is a good idea, gonna add that to mine too!\n<a class=\"u-mention\" href=\"https://twitter.com/GoHugoIO\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/mattiasgeniar\"></a>",
+      "text": "Oooh that loading attribute is a good idea, gonna add that to mine too!"
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/captioned-images-with-markdown-render-hooks-in-hugo/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Tom Witkowski",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/4c6a0072545bab629442313c0b6d9a2cd920b338d3f3132c0e23a1f1175e382a.jpg",
+      "url": "https://twitter.com/devgummibeer"
+    },
+    "url": "https://twitter.com/devgummibeer/status/1269923670035742721",
+    "published": "2020-06-08T09:26:11+00:00",
+    "wm-received": "2020-06-08T10:06:41Z",
+    "wm-id": 807745,
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/sebdedeyne/1269908299429949440/1269923670035742721",
+    "wm-target": "https://sebastiandedeyne.com/captioned-images-with-markdown-render-hooks-in-hugo/",
+    "content": {
+      "html": "I have a similar blade component in Laravel. Lazy, figure, picture with retina &amp; webp.\nAbstraction is so great! 🚀🎉\nhttps://t.co/RezEqqIV1a\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/GoHugoIO\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/mattiasgeniar\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/sebdedeyne\"></a>",
+      "text": "I have a similar blade component in Laravel. Lazy, figure, picture with retina & webp.\nAbstraction is so great! 🚀🎉\nhttps://t.co/RezEqqIV1a"
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/captioned-images-with-markdown-render-hooks-in-hugo/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Sebastian De Deyne",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/3ce609991342657b8b7e99eb7a5c6e3656fbdb1c51575f1464d354b81aaeda86.jpg",
+      "url": "https://twitter.com/sebdedeyne"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1269931892813508610",
+    "published": "2020-06-08T09:58:52+00:00",
+    "wm-received": "2020-06-08T10:07:14Z",
+    "wm-id": 807746,
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/sebdedeyne/1269908299429949440/1269931892813508610",
+    "wm-target": "https://sebastiandedeyne.com/captioned-images-with-markdown-render-hooks-in-hugo/",
+    "content": {
+      "html": "😍 He's the same color :D\n<a class=\"u-mention\" href=\"https://twitter.com/GoHugoIO\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/devgummibeer\"></a>",
+      "text": "😍 He's the same color :D"
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/captioned-images-with-markdown-render-hooks-in-hugo/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Chris Ferdinandi ⚓️",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/c08ae1c4d75a3dae935062d5b6c914feff7cfbdafdb527c237ab3af3caa59ebc.jpg",
+      "url": "https://twitter.com/ChrisFerdinandi"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1269908299429949440#favorited-by-16470269",
+    "published": null,
+    "wm-received": "2020-06-08T11:57:10Z",
+    "wm-id": 807759,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1269908299429949440/16470269",
+    "wm-target": "https://sebastiandedeyne.com/captioned-images-with-markdown-render-hooks-in-hugo/",
+    "like-of": "https://sebastiandedeyne.com/captioned-images-with-markdown-render-hooks-in-hugo/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+]
