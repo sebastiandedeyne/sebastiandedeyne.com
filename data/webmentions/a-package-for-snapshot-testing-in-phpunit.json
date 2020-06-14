@@ -1,0 +1,27 @@
+[
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "NUNO MADURO",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/66bc64df878d8a1d9dcfd2ed6199a6ba856f4aed7413777459008d70f33497c2.jpg",
+      "url": "https://twitter.com/enunomaduro"
+    },
+    "url": "https://twitter.com/enunomaduro/status/1272085618030305280",
+    "published": "2020-06-14T08:37:00+00:00",
+    "wm-received": "2020-06-14T09:21:54Z",
+    "wm-id": 810299,
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1272085618030305280",
+    "wm-target": "https://sebastiandedeyne.com/a-package-for-snapshot-testing-in-phpunit/",
+    "photo": [
+      "https://pbs.twimg.com/media/Eab7POiWkAMefUj.jpg"
+    ],
+    "content": {
+      "html": "Snapshot tests are very useful when you want to make sure your UI does not change unexpectedly. I've been using it a lot with <a href=\"https://twitter.com/pestphp\">@pestphp</a>.\n\nNever heard about snapshot testing? Check out this article by <a href=\"https://twitter.com/sebdedeyne\">@sebdedeyne</a>: <a href=\"https://sebastiandedeyne.com/a-package-for-snapshot-testing-in-phpunit/\">sebastiandedeyne.com/a-package-for-…</a>. 👍🏻",
+      "text": "Snapshot tests are very useful when you want to make sure your UI does not change unexpectedly. I've been using it a lot with @pestphp.\n\nNever heard about snapshot testing? Check out this article by @sebdedeyne: sebastiandedeyne.com/a-package-for-…. 👍🏻"
+    },
+    "mention-of": "https://sebastiandedeyne.com/a-package-for-snapshot-testing-in-phpunit/",
+    "wm-property": "mention-of",
+    "wm-private": false
+  }
+]
