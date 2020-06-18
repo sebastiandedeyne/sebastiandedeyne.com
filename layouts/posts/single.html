@@ -24,7 +24,7 @@
 
 {{ define "main" }}
 <article class="mb-12 sm:mb-24">
-  {{ partial "post-header.html" . }}
+  {{ partial "post-header.html" (dict "post" . "heading" "h1" "all_series" $.Site.Data.series) }}
   <section>
     {{ if .Truncated }}
       <div class="markup">
@@ -94,7 +94,7 @@
       Webmentions
       <a
         href="https://sebastiandedeyne.com/adding-webmentions-to-my-blog"
-        class="ml-2 font-normal text-gray-700 dark:text-gray-500 text-xs w-4 h-4 inline-flex items-center justify-center bg-gray-200 dark:bg-gray-800 rounded-full font-semibold"
+        class="ml-2 font-normal text-gray-700 dark:text-gray-500 text-xs w-4 h-4 inline-flex items-center justify-center bg-gray-200 dark:bg-gray-800 rounded-full font-medium"
         style="transform: translateY(-2px)"
       >
         ?

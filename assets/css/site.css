@@ -30,44 +30,6 @@ hr {
 }
 
 /******************************************************************************\
- * Header                                                                      *
-\******************************************************************************/
-
-.header {
-  display: grid;
-  grid-column-gap: 1.5rem;
-  align-items: center;
-  grid-template-areas:
-    "title nav"
-    "title service";
-}
-
-@media (min-width: theme("screens.lg")) {
-  .header {
-    grid-template-areas: "title nav service";
-    grid-template-columns: auto auto min-content;
-  }
-}
-
-@media (min-width: theme("screens.xl")) {
-  .header {
-    grid-template-columns: 1fr auto 1fr;
-  }
-}
-
-.header-title {
-  grid-area: title;
-}
-
-.header-nav {
-  grid-area: nav;
-}
-
-.header-service {
-  grid-area: service;
-}
-
-/******************************************************************************\
  * Markup                                                                      *
 \******************************************************************************/
 
@@ -78,7 +40,7 @@ hr {
 
 .h1,
 .markup h1 {
-  font-size: theme("fontSize.2xl");
+  font-size: theme("fontSize.3xl");
   font-weight: bold;
   line-height: theme("lineHeight.tight");
   margin-bottom: 3rem;
@@ -101,14 +63,16 @@ hr {
 }
 
 .link,
-.markup a {
+.markup a,
+.markup-links a {
   color: theme("colors.blue.700");
   text-decoration: underline;
 }
 
 @media (prefers-color-scheme: dark) {
   .link,
-  .markup a {
+  .markup a,
+  .markup-links a {
     color: theme("colors.blue.500");
   }
 }

@@ -12,7 +12,7 @@
             <li><a href="{{ .slug | relURL }}">{{ .title }}</a></li>
           {{ end }}
         {{ else }}
-          <li class="text-gray-700"><span>{{ .title }}</span></li>
+          <li class="text-gray-700 dark:text-gray-600"><span>{{ .title }}</span></li>
         {{ end }}
     {{ end }}
   </ol>
