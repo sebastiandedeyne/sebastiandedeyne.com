@@ -67,15 +67,17 @@
       {{ block "main" . }}{{ end }}
     </main>
 
-    <footer class="px-6 sm:px-12 lg:px-16 py-6 text-xs flex flex-col items-center markup-links">
-      <ul class="flex space-x-3">
+    <footer class="px-6 sm:px-12 lg:px-16 py-6 text-xs flex flex-col items-center markup-links text-gray-700 dark:text-gray-600">
+      <ul class="flex flex-wrap space-x-3">
         <li><a href="/about">About</a></li>
-        <li><a href="/speaking">Speaking</a></li>
+        <li><a href="/archive">Archive</a></li>
         <li><a href="/open-source">Open source</a></li>
+        <li><a href="/speaking">Speaking</a></li>
         <li><a href="/now">What I'm up to now</a></li>
+        <li>•</li>
         <li><a href="/index.xml">RSS</a></li>
       </ul>
-      <p class="text-gray-700 dark:text-gray-600 mt-2">This site is built with <a href="https://gohugo.io/">Hugo</a> and hosted on <a href="https://netlify.com/">Netlify</a>. You can inspect source on <a href="https://github.com/sebastiandedeyne/sebastiandedeyne.com">GitHub</a>.</p>
+      <p class="mt-2">This site is built with <a href="https://gohugo.io/">Hugo</a> and hosted on <a href="https://netlify.com/">Netlify</a>. You can inspect source on <a href="https://github.com/sebastiandedeyne/sebastiandedeyne.com">GitHub</a>.</p>
     </footer>
 
     {{ with resources.Get "css/chroma.css" | minify }}
