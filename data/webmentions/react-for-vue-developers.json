@@ -412,5 +412,27 @@
     "mention-of": "https://sebastiandedeyne.com/react-for-vue-developers/",
     "wm-property": "mention-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Zacchaeus Bolaji",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/c3179c2fb16e2d0a2281f46b2f9ba405a432b831e10fd1bd2f8a6f0f51cf24bc.jpg",
+      "url": "https://twitter.com/djunehor"
+    },
+    "url": "https://twitter.com/djunehor/status/1274336145476849664",
+    "published": "2020-06-20T13:39:47+00:00",
+    "wm-received": "2020-06-20T13:49:42Z",
+    "wm-id": 812683,
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1274336145476849664",
+    "wm-target": "https://sebastiandedeyne.com/react-for-vue-developers/",
+    "content": {
+      "html": "For Vue devs that have to use React, you'll find this article useful.\n<a href=\"https://sebastiandedeyne.com/react-for-vue-developers/\">sebastiandedeyne.com/react-for-vue-…</a>",
+      "text": "For Vue devs that have to use React, you'll find this article useful.\nsebastiandedeyne.com/react-for-vue-…"
+    },
+    "mention-of": "https://sebastiandedeyne.com/react-for-vue-developers/",
+    "wm-property": "mention-of",
+    "wm-private": false
   }
 ]
