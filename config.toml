@@ -21,4 +21,5 @@ enableGitInfo = true
     noClasses = false
   [markup.goldmark.renderer]
       unsafe = true
-
+  [markup.tableOfContents]
+    ordered = true

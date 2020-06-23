@@ -358,12 +358,12 @@ hr {
  * Table of contents                                                          *
 \******************************************************************************/
 
-.toc ul {
+.toc ol {
   list-style-position: inside;
   list-style-type: decimal;
 }
 
-.toc ul ul {
+.toc ol ol {
   margin-left: 1rem;
 }
 
