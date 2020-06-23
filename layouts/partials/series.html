@@ -1,9 +1,9 @@
-<section class="bg-gray-900 dark:bg-gray-800 text-white leading-snug p-12 mt-12">
+<section class="bg-gray-900 dark:bg-gray-800 text-white leading-snug p-12 mt-12 -mx-6 sm:-mx-12">
   <p class="font-medium mb-1 text-lg">{{ .series.title }}</p>
   <div class="markup markup-series | mb-12">
     {{ .series.description | markdownify }}
   </div>
-  <ol class="toc-list | text-sm">
+  <ol class="series-list | text-sm">
     {{ range .series.posts }}
         {{ if .slug }}
           {{ if eq .slug $.currentSlug }}

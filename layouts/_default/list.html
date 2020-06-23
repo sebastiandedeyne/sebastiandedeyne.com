@@ -3,6 +3,11 @@
 
   {{ range $paginator.Pages }}
     <article>
+      {{ with .Params.cover }}
+        <div class="mb-8">
+          <img class="w-full" src="/media/{{ . }}">
+        </div>
+      {{ end }}
       {{ partial "post-header.html" (dict "post" . "heading" "h2" "all_series" $.Site.Data.series) }}
       <section class="markup">
         {{ if .Truncated }}

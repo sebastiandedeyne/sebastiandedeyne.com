@@ -305,27 +305,27 @@ hr {
  * TOC                                                                        *
 \******************************************************************************/
 
-.toc-list {
+.series-list {
   position: relative;
   list-style-position: inside;
   counter-reset: li;
 }
 
-.toc-list li:before {
+.series-list li:before {
   content: counter(li, decimal-leading-zero) ".";
   counter-increment: li;
   font-variant: tabular-nums;
   margin-right: 0.5rem;
 }
 
-.toc-list li.active:after {
+.series-list li.active:after {
   position: absolute;
   content: "→";
   left: -1.25rem;
   transform: translateY(-0.5px);
 }
 
-.toc-list a {
+.series-list a {
   text-decoration: underline;
 }
 
@@ -352,4 +352,21 @@ hr {
 .pagination li.disabled {
   color: theme("colors.gray.600");
   pointer-events: none;
+}
+
+/******************************************************************************\
+ * Table of contents                                                          *
+\******************************************************************************/
+
+.toc ul {
+  list-style-position: inside;
+  list-style-type: decimal;
+}
+
+.toc ul ul {
+  margin-left: 1rem;
+}
+
+.toc a {
+  text-decoration: underline;
 }
