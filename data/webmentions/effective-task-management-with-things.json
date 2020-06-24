@@ -371,5 +371,41 @@
     "repost-of": "https://sebastiandedeyne.com/effective-task-management-with-things/",
     "wm-property": "repost-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Cees van Egmond",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/d1c83762215fdad259f3968eb7a0122a2e81069917c57b98cfc9269b85b64340.jpg",
+      "url": "https://twitter.com/Cees_vanEgmond"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1275353580443258882#favorited-by-144588600",
+    "published": null,
+    "wm-received": "2020-06-23T22:55:10Z",
+    "wm-id": 813973,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1275353580443258882/144588600",
+    "wm-target": "https://sebastiandedeyne.com/effective-task-management-with-things/",
+    "like-of": "https://sebastiandedeyne.com/effective-task-management-with-things/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Vaggelis Yfantis",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/54f660d59e8e11f9517c06de7629abe0dafe7e143c0c6ce848514e5df2b6409e.png",
+      "url": "https://twitter.com/itsoctoper"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1275353580443258882#favorited-by-1719499016",
+    "published": null,
+    "wm-received": "2020-06-23T22:55:39Z",
+    "wm-id": 813974,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1275353580443258882/1719499016",
+    "wm-target": "https://sebastiandedeyne.com/effective-task-management-with-things/",
+    "like-of": "https://sebastiandedeyne.com/effective-task-management-with-things/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
