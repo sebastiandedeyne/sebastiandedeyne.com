@@ -407,5 +407,62 @@
     "like-of": "https://sebastiandedeyne.com/effective-task-management-with-things/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Daniel Jurgen",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/20d7fa689042151c929a3e5be7673dc7d9562263a1f036d7953613007b98ddbb.jpg",
+      "url": "https://twitter.com/lubridan"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1275353580443258882#favorited-by-1271861507438116865",
+    "published": null,
+    "wm-received": "2020-06-25T01:25:55Z",
+    "wm-id": 814567,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1275353580443258882/1271861507438116865",
+    "wm-target": "https://sebastiandedeyne.com/effective-task-management-with-things/",
+    "like-of": "https://sebastiandedeyne.com/effective-task-management-with-things/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Lord Tester",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/949174d9b39389ef66d7fecd758c6f929e0f1507f7edd252754df4d1c3b722a6.jpg",
+      "url": "https://twitter.com/lordtester"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1275353580443258882#favorited-by-151300106",
+    "published": null,
+    "wm-received": "2020-06-25T03:17:27Z",
+    "wm-id": 814611,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1275353580443258882/151300106",
+    "wm-target": "https://sebastiandedeyne.com/effective-task-management-with-things/",
+    "like-of": "https://sebastiandedeyne.com/effective-task-management-with-things/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Lord Tester",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/949174d9b39389ef66d7fecd758c6f929e0f1507f7edd252754df4d1c3b722a6.jpg",
+      "url": "https://twitter.com/lordtester"
+    },
+    "url": "https://twitter.com/lordtester/status/1275977494341001219",
+    "published": "2020-06-25T02:21:55+00:00",
+    "wm-received": "2020-06-25T03:17:27Z",
+    "wm-id": 814612,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1275353580443258882/1275977494341001219",
+    "wm-target": "https://sebastiandedeyne.com/effective-task-management-with-things/",
+    "content": {
+      "text": "New post up! How I deal with personal task management, and how I use @culturedcode Things:\n\n✒️ Effective task management with Things https:/"
+    },
+    "repost-of": "https://sebastiandedeyne.com/effective-task-management-with-things/",
+    "wm-property": "repost-of",
+    "wm-private": false
   }
 ]
