@@ -165,5 +165,27 @@
     "like-of": "https://sebastiandedeyne.com/captioned-images-with-markdown-render-hooks-in-hugo/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "𝓒𝓵é𝓶𝓮𝓷𝓽",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/26b2425b005b75c75f373432cf38f407dabba40e18497dfaab89017d4514a388.jpg",
+      "url": "https://twitter.com/shikiryu"
+    },
+    "url": "https://twitter.com/shikiryu/status/1276504576464752641",
+    "published": "2020-06-26T13:16:21+00:00",
+    "wm-received": "2020-06-26T14:01:07Z",
+    "wm-id": 815609,
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1276504576464752641",
+    "wm-target": "https://sebastiandedeyne.com/captioned-images-with-markdown-render-hooks-in-hugo/",
+    "content": {
+      "html": "<a href=\"https://sebastiandedeyne.com/captioned-images-with-markdown-render-hooks-in-hugo/\">sebastiandedeyne.com/captioned-imag…</a> Caption images with markdown render hooks in Hugo — Sebastian De Deyne <a href=\"https://twitter.com/search?q=%23hugo\">#hugo</a> <a href=\"https://twitter.com/search?q=%23tuto\">#tuto</a>",
+      "text": "sebastiandedeyne.com/captioned-imag… Caption images with markdown render hooks in Hugo — Sebastian De Deyne #hugo #tuto"
+    },
+    "mention-of": "https://sebastiandedeyne.com/captioned-images-with-markdown-render-hooks-in-hugo/",
+    "wm-property": "mention-of",
+    "wm-private": false
   }
 ]
