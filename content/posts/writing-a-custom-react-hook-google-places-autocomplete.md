@@ -6,7 +6,7 @@ keywords:
     - React
 ---
 
-I built a small React component that uses the Google Places API to autocomplete an address in a project I'm working on, and extracted the predection fetching to a custom `useAddressPredictions` hook. It's a nice example of a custom React hook composed of different primisite hooks, so I decided to pen write my thought process while building it.
+I built a small React component that uses the Google Places API to autocomplete an address in a project I'm working on, and extracted the prediction fetching to a custom `useAddressPredictions` hook. It's a nice example of a custom React hook composed of different primisite hooks, so I decided to pen write my thought process while building it.
 
 <!--more-->
 
