@@ -1,0 +1,24 @@
+[
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "darjeelingt",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/e557c8db8450783df40469c5bc31fb6a682132978237fc6f6f5d2020c6ca46ee.jpg",
+      "url": "https://twitter.com/darjeelingt"
+    },
+    "url": "https://twitter.com/darjeelingt/status/1280471194030858240",
+    "published": "2020-07-07T11:58:17+00:00",
+    "wm-received": "2020-07-07T14:48:52Z",
+    "wm-id": 821066,
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1280471194030858240",
+    "wm-target": "https://sebastiandedeyne.com/effective-task-management-with-things/#how-to-things",
+    "content": {
+      "html": "<a href=\"https://sebastiandedeyne.com/effective-task-management-with-things/#how-to-things\">sebastiandedeyne.com/effective-task…</a>",
+      "text": "sebastiandedeyne.com/effective-task…"
+    },
+    "mention-of": "https://sebastiandedeyne.com/effective-task-management-with-things/#how-to-things",
+    "wm-property": "mention-of",
+    "wm-private": false
+  }
+]
