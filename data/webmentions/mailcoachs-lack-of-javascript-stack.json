@@ -1832,5 +1832,30 @@
     "mention-of": "https://sebastiandedeyne.com/mailcoachs-lack-of-javascript-stack/",
     "wm-property": "mention-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Adam",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/88dadabee3ffbe11e57f01ca7f58f888fbb7bd40a6a922aafacb19545a43a4db.jpg",
+      "url": "https://twitter.com/adamghill"
+    },
+    "url": "https://twitter.com/adamghill/status/1282456363281588226",
+    "published": "2020-07-12T23:26:38+00:00",
+    "wm-received": "2020-07-12T23:51:31Z",
+    "wm-id": 825505,
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1282456363281588226",
+    "wm-target": "https://sebastiandedeyne.com/mailcoachs-lack-of-javascript-stack/",
+    "photo": [
+      "https://pbs.twimg.com/media/EcwzOHiXYAEh561.png"
+    ],
+    "content": {
+      "html": "<a href=\"https://sebastiandedeyne.com/mailcoachs-lack-of-javascript-stack/\">sebastiandedeyne.com/mailcoachs-lac…</a>",
+      "text": "sebastiandedeyne.com/mailcoachs-lac…"
+    },
+    "mention-of": "https://sebastiandedeyne.com/mailcoachs-lack-of-javascript-stack/",
+    "wm-property": "mention-of",
+    "wm-private": false
   }
 ]
