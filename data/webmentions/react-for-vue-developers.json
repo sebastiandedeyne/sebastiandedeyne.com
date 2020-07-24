@@ -434,5 +434,27 @@
     "mention-of": "https://sebastiandedeyne.com/react-for-vue-developers/",
     "wm-property": "mention-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Shiseri",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/1a9666cbb40fbcf6692c4abcf10c8cc10869a7bb6dbdb3e2ce83aa4e93878148.jpg",
+      "url": "https://twitter.com/shiseri"
+    },
+    "url": "https://twitter.com/shiseri/status/1286372397243928577",
+    "published": "2020-07-23T18:47:33+00:00",
+    "wm-received": "2020-07-23T20:42:59Z",
+    "wm-id": 830432,
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1286372397243928577",
+    "wm-target": "https://sebastiandedeyne.com/react-for-vue-developers/",
+    "content": {
+      "html": "If you're familiar with <a href=\"https://twitter.com/search?q=%23VueJS\">#VueJS</a> or <a href=\"https://twitter.com/search?q=%23React\">#React</a> and want to write some code on opposite technology, then this article is for you.\n\n<a href=\"https://sebastiandedeyne.com/react-for-vue-developers/\">sebastiandedeyne.com/react-for-vue-…</a>",
+      "text": "If you're familiar with #VueJS or #React and want to write some code on opposite technology, then this article is for you.\n\nsebastiandedeyne.com/react-for-vue-…"
+    },
+    "mention-of": "https://sebastiandedeyne.com/react-for-vue-developers/",
+    "wm-property": "mention-of",
+    "wm-private": false
   }
 ]
