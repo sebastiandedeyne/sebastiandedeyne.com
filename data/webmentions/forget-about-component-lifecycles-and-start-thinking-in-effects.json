@@ -1208,5 +1208,27 @@
     "mention-of": "https://sebastiandedeyne.com/forget-about-component-lifecycles-and-start-thinking-in-effects/",
     "wm-property": "mention-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Jimit 👨🏽‍💻",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/da8b79d2ebf89a1125cd997eaee6843bdd3895d473dc1f7ba9b36a5f3251d5d0.jpg",
+      "url": "https://twitter.com/jimit_shah"
+    },
+    "url": "https://twitter.com/jimit_shah/status/1289093987647848448",
+    "published": "2020-07-31T07:02:11+00:00",
+    "wm-received": "2020-07-31T07:22:34Z",
+    "wm-id": 833982,
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1289093987647848448",
+    "wm-target": "https://sebastiandedeyne.com/forget-about-component-lifecycles-and-start-thinking-in-effects/",
+    "content": {
+      "html": "\"useEffect\" solves multiple problems that we had in component lifecycle. Power of `useEffect` explained by <a href=\"https://twitter.com/sebdedeyne\">@sebdedeyne</a> 👌👍\n<a href=\"https://sebastiandedeyne.com/forget-about-component-lifecycles-and-start-thinking-in-effects/\">sebastiandedeyne.com/forget-about-c…</a>",
+      "text": "\"useEffect\" solves multiple problems that we had in component lifecycle. Power of `useEffect` explained by @sebdedeyne 👌👍\nsebastiandedeyne.com/forget-about-c…"
+    },
+    "mention-of": "https://sebastiandedeyne.com/forget-about-component-lifecycles-and-start-thinking-in-effects/",
+    "wm-property": "mention-of",
+    "wm-private": false
   }
 ]
