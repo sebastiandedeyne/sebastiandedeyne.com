@@ -464,5 +464,26 @@
     "repost-of": "https://sebastiandedeyne.com/effective-task-management-with-things/",
     "wm-property": "repost-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "FXZig",
+      "photo": "https://webmention.io/avatar/fxzig.com/68d539c7559744bddacd4b11dfed0278b189d605d4859887f87ac12719719d9e.jpg",
+      "url": "https://fxzig.com/blog/notes/"
+    },
+    "url": "https://fxzig.com/blog/notes/",
+    "published": "2020-08-05T08:41:46+00:00",
+    "wm-received": "2020-08-05T13:16:45Z",
+    "wm-id": 836159,
+    "wm-source": "https://fxzig.com/blog/notes/",
+    "wm-target": "https://sebastiandedeyne.com/effective-task-management-with-things/",
+    "content": {
+      "text": "\"Some things get assigned to a section, some get scheduled, others might belong in an entirely different app.\""
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/effective-task-management-with-things/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
   }
 ]
