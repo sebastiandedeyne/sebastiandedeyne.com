@@ -2076,5 +2076,27 @@
     "mention-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
     "wm-property": "mention-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Abdulfattah Alselwi",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/f62d876f475de574bb3251f1216fc8a9d65e3b0aa8b8d662339c9e47cdacefdc.jpg",
+      "url": "https://twitter.com/ab_alselwi"
+    },
+    "url": "https://twitter.com/ab_alselwi/status/1292384182304481280",
+    "published": "2020-08-09T08:56:15+00:00",
+    "wm-received": "2020-08-09T12:14:21Z",
+    "wm-id": 837891,
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1292384182304481280",
+    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "content": {
+      "html": "<a href=\"https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/\">sebastiandedeyne.com/inertia-js-and…</a>",
+      "text": "sebastiandedeyne.com/inertia-js-and…"
+    },
+    "mention-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "wm-property": "mention-of",
+    "wm-private": false
   }
 ]
