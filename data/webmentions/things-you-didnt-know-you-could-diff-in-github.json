@@ -1,0 +1,664 @@
+[
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Jonty Behr",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/f532f7ea88dd4bf5772324e5d58ef2fd28683ffa5d63fbe1d9a799fabc1e55c2.jpg",
+      "url": "https://twitter.com/jontybehr"
+    },
+    "url": "https://twitter.com/jontybehr/status/1296374016228446209",
+    "published": "2020-08-20T09:10:25+00:00",
+    "wm-received": "2020-08-20T09:26:29Z",
+    "wm-id": 842156,
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/sebdedeyne/1296362865100808194/1296374016228446209",
+    "wm-target": "https://sebastiandedeyne.com/things-you-didnt-know-you-could-diff-in-github/",
+    "content": {
+      "html": "As far as I'm aware, 2 dot vs 3 dot is something else; its not about comparing to master or between arbitrary commits.\n\nSee <a href=\"https://stackoverflow.com/questions/462974/what-are-the-differences-between-double-dot-and-triple-dot-in-git-com\">stackoverflow.com/questions/4629…</a>\n\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/sebdedeyne\"></a>",
+      "text": "As far as I'm aware, 2 dot vs 3 dot is something else; its not about comparing to master or between arbitrary commits.\n\nSee stackoverflow.com/questions/4629…"
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/things-you-didnt-know-you-could-diff-in-github/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "James Brooks",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/f5323761174598e04dedb4ff089cab637ab9fedb59a800356b5d6838e519c1b2.jpg",
+      "url": "https://twitter.com/jbrooksuk"
+    },
+    "url": "https://twitter.com/jbrooksuk/status/1296365893807742983",
+    "published": "2020-08-20T08:38:09+00:00",
+    "wm-received": "2020-08-20T09:26:33Z",
+    "wm-id": 842157,
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/sebdedeyne/1296362865100808194/1296365893807742983",
+    "wm-target": "https://sebastiandedeyne.com/things-you-didnt-know-you-could-diff-in-github/",
+    "content": {
+      "html": "Nice! I didn't know about the date comparison, that's handy!\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/sebdedeyne\"></a>",
+      "text": "Nice! I didn't know about the date comparison, that's handy!"
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/things-you-didnt-know-you-could-diff-in-github/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Dries Vints",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/245c5cf501e9d689596e174910f78b22cfe7a7924462a222afabba4a2e84e76c.jpg",
+      "url": "https://twitter.com/driesvints"
+    },
+    "url": "https://twitter.com/driesvints/status/1296365083082268673",
+    "published": "2020-08-20T08:34:55+00:00",
+    "wm-received": "2020-08-20T09:26:33Z",
+    "wm-id": 842158,
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/sebdedeyne/1296362865100808194/1296365083082268673",
+    "wm-target": "https://sebastiandedeyne.com/things-you-didnt-know-you-could-diff-in-github/",
+    "content": {
+      "html": "Great post! Seems like the comparing commits example is broken though.\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/sebdedeyne\"></a>",
+      "text": "Great post! Seems like the comparing commits example is broken though."
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/things-you-didnt-know-you-could-diff-in-github/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Sebastian De Deyne",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/3ce609991342657b8b7e99eb7a5c6e3656fbdb1c51575f1464d354b81aaeda86.jpg",
+      "url": "https://twitter.com/sebdedeyne"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1296366902999121920",
+    "published": "2020-08-20T08:42:09+00:00",
+    "wm-received": "2020-08-20T09:26:35Z",
+    "wm-id": 842159,
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/sebdedeyne/1296362865100808194/1296366902999121920",
+    "wm-target": "https://sebastiandedeyne.com/things-you-didnt-know-you-could-diff-in-github/",
+    "content": {
+      "html": "Whoops, fixed!\n<a class=\"u-mention\" href=\"https://twitter.com/driesvints\"></a>",
+      "text": "Whoops, fixed!"
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/things-you-didnt-know-you-could-diff-in-github/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Jonty Behr",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/f532f7ea88dd4bf5772324e5d58ef2fd28683ffa5d63fbe1d9a799fabc1e55c2.jpg",
+      "url": "https://twitter.com/jontybehr"
+    },
+    "url": "https://twitter.com/jontybehr/status/1296374356596203526",
+    "published": "2020-08-20T09:11:46+00:00",
+    "wm-received": "2020-08-20T09:26:36Z",
+    "wm-id": 842160,
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/sebdedeyne/1296362865100808194/1296374356596203526",
+    "wm-target": "https://sebastiandedeyne.com/things-you-didnt-know-you-could-diff-in-github/",
+    "content": {
+      "html": "Unless github treats this differently to git?\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/sebdedeyne\"></a>",
+      "text": "Unless github treats this differently to git?"
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/things-you-didnt-know-you-could-diff-in-github/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": ".",
+      "photo": "https://webmention.io/avatar/abs.twimg.com/0e6b2cd70aa5b35dec24ca4e1e63f8963f0118736d9ec3bba77e3a8c99a27bc2.png",
+      "url": "https://twitter.com/panda_rocks2020"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1296362865100808194#favorited-by-1107183556139192320",
+    "published": null,
+    "wm-received": "2020-08-20T09:26:37Z",
+    "wm-id": 842161,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1296362865100808194/1107183556139192320",
+    "wm-target": "https://sebastiandedeyne.com/things-you-didnt-know-you-could-diff-in-github/",
+    "like-of": "https://sebastiandedeyne.com/things-you-didnt-know-you-could-diff-in-github/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Mateus Sobrinho 💛🕊",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/c5f0113953171947fb2e2add46e5aaa19c2f783c61cf3f23e612dde79ae7fed2.jpg",
+      "url": "https://twitter.com/chocsx"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1296362865100808194#favorited-by-220563351",
+    "published": null,
+    "wm-received": "2020-08-20T09:26:37Z",
+    "wm-id": 842162,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1296362865100808194/220563351",
+    "wm-target": "https://sebastiandedeyne.com/things-you-didnt-know-you-could-diff-in-github/",
+    "like-of": "https://sebastiandedeyne.com/things-you-didnt-know-you-could-diff-in-github/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Dries Vints",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/245c5cf501e9d689596e174910f78b22cfe7a7924462a222afabba4a2e84e76c.jpg",
+      "url": "https://twitter.com/driesvints"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1296362865100808194#favorited-by-226496901",
+    "published": null,
+    "wm-received": "2020-08-20T09:26:38Z",
+    "wm-id": 842163,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1296362865100808194/226496901",
+    "wm-target": "https://sebastiandedeyne.com/things-you-didnt-know-you-could-diff-in-github/",
+    "like-of": "https://sebastiandedeyne.com/things-you-didnt-know-you-could-diff-in-github/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Steve Mushero",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/90853ce10e15b516bb8e636d49e8dada449946add2411e3185cc409ffca2bfe8.jpg",
+      "url": "https://twitter.com/stevemushero"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1296362865100808194#favorited-by-47557864",
+    "published": null,
+    "wm-received": "2020-08-20T09:26:39Z",
+    "wm-id": 842164,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1296362865100808194/47557864",
+    "wm-target": "https://sebastiandedeyne.com/things-you-didnt-know-you-could-diff-in-github/",
+    "like-of": "https://sebastiandedeyne.com/things-you-didnt-know-you-could-diff-in-github/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Anne Koepcke",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/00866b6b3cf360188c4ebb4546a93e0dcd77b80d6ca493c5ec325cedaea3c321.png",
+      "url": "https://twitter.com/AnneKoep"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1296362865100808194#favorited-by-2374240340",
+    "published": null,
+    "wm-received": "2020-08-20T09:26:39Z",
+    "wm-id": 842165,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1296362865100808194/2374240340",
+    "wm-target": "https://sebastiandedeyne.com/things-you-didnt-know-you-could-diff-in-github/",
+    "like-of": "https://sebastiandedeyne.com/things-you-didnt-know-you-could-diff-in-github/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Christoph Rumpel 🤠",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/6a9353f47bff347ef06aa35069a69e19064f5499e29fc411ead1250cac6b9013.jpg",
+      "url": "https://twitter.com/christophrumpel"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1296362865100808194#favorited-by-224375889",
+    "published": null,
+    "wm-received": "2020-08-20T09:26:40Z",
+    "wm-id": 842166,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1296362865100808194/224375889",
+    "wm-target": "https://sebastiandedeyne.com/things-you-didnt-know-you-could-diff-in-github/",
+    "like-of": "https://sebastiandedeyne.com/things-you-didnt-know-you-could-diff-in-github/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "NUNO MADURO",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/66bc64df878d8a1d9dcfd2ed6199a6ba856f4aed7413777459008d70f33497c2.jpg",
+      "url": "https://twitter.com/enunomaduro"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1296362865100808194#favorited-by-1475534683",
+    "published": null,
+    "wm-received": "2020-08-20T09:26:40Z",
+    "wm-id": 842167,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1296362865100808194/1475534683",
+    "wm-target": "https://sebastiandedeyne.com/things-you-didnt-know-you-could-diff-in-github/",
+    "like-of": "https://sebastiandedeyne.com/things-you-didnt-know-you-could-diff-in-github/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "NJ Life",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/0d4ebdc8f4cc8992876c7446ac4f7193e1e05e47381b4c6d19d3e4392f7bf1f3.jpg",
+      "url": "https://twitter.com/njames"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1296362865100808194#favorited-by-60063",
+    "published": null,
+    "wm-received": "2020-08-20T09:26:41Z",
+    "wm-id": 842168,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1296362865100808194/60063",
+    "wm-target": "https://sebastiandedeyne.com/things-you-didnt-know-you-could-diff-in-github/",
+    "like-of": "https://sebastiandedeyne.com/things-you-didnt-know-you-could-diff-in-github/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Adedoyin🔥",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/715797ca4895c036ba11c5db780c2b029c1e193703464606ccf18c06ba66bb7c.jpg",
+      "url": "https://twitter.com/aeadedoyin"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1296362865100808194#favorited-by-212180128",
+    "published": null,
+    "wm-received": "2020-08-20T09:26:42Z",
+    "wm-id": 842169,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1296362865100808194/212180128",
+    "wm-target": "https://sebastiandedeyne.com/things-you-didnt-know-you-could-diff-in-github/",
+    "like-of": "https://sebastiandedeyne.com/things-you-didnt-know-you-could-diff-in-github/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Tauseef shah",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/433f5461b05765e077dc67230d8e18ac4290917e9e8d59a7e57dc2d54de1e8f5.jpg",
+      "url": "https://twitter.com/tauseeeeeef"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1296362865100808194#favorited-by-2476541736",
+    "published": null,
+    "wm-received": "2020-08-20T09:26:43Z",
+    "wm-id": 842170,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1296362865100808194/2476541736",
+    "wm-target": "https://sebastiandedeyne.com/things-you-didnt-know-you-could-diff-in-github/",
+    "like-of": "https://sebastiandedeyne.com/things-you-didnt-know-you-could-diff-in-github/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Niels",
+      "photo": "https://webmention.io/avatar/abs.twimg.com/0e6b2cd70aa5b35dec24ca4e1e63f8963f0118736d9ec3bba77e3a8c99a27bc2.png",
+      "url": "https://twitter.com/niels09577833"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1296362865100808194#favorited-by-1022192241677426688",
+    "published": null,
+    "wm-received": "2020-08-20T09:26:44Z",
+    "wm-id": 842171,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1296362865100808194/1022192241677426688",
+    "wm-target": "https://sebastiandedeyne.com/things-you-didnt-know-you-could-diff-in-github/",
+    "like-of": "https://sebastiandedeyne.com/things-you-didnt-know-you-could-diff-in-github/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Dries Vints",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/245c5cf501e9d689596e174910f78b22cfe7a7924462a222afabba4a2e84e76c.jpg",
+      "url": "https://twitter.com/driesvints"
+    },
+    "url": "https://twitter.com/driesvints/status/1296365092615880704",
+    "published": "2020-08-20T08:34:58+00:00",
+    "wm-received": "2020-08-20T09:26:44Z",
+    "wm-id": 842172,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1296362865100808194/1296365092615880704",
+    "wm-target": "https://sebastiandedeyne.com/things-you-didnt-know-you-could-diff-in-github/",
+    "content": {
+      "text": "GitHub's comparison screen can do more than you think!\n\n✒️ New post: Things you didn't know you could diff in GitHub\n\nhttps://t.co/lHkZnGCin"
+    },
+    "repost-of": "https://sebastiandedeyne.com/things-you-didnt-know-you-could-diff-in-github/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Anne Koepcke",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/00866b6b3cf360188c4ebb4546a93e0dcd77b80d6ca493c5ec325cedaea3c321.png",
+      "url": "https://twitter.com/AnneKoep"
+    },
+    "url": "https://twitter.com/AnneKoep/status/1296364427172810752",
+    "published": "2020-08-20T08:32:19+00:00",
+    "wm-received": "2020-08-20T09:26:46Z",
+    "wm-id": 842173,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1296362865100808194/1296364427172810752",
+    "wm-target": "https://sebastiandedeyne.com/things-you-didnt-know-you-could-diff-in-github/",
+    "content": {
+      "text": "GitHub's comparison screen can do more than you think!\n\n✒️ New post: Things you didn't know you could diff in GitHub\n\nhttps://t.co/lHkZnGCin"
+    },
+    "repost-of": "https://sebastiandedeyne.com/things-you-didnt-know-you-could-diff-in-github/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "NUNO MADURO",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/66bc64df878d8a1d9dcfd2ed6199a6ba856f4aed7413777459008d70f33497c2.jpg",
+      "url": "https://twitter.com/enunomaduro"
+    },
+    "url": "https://twitter.com/enunomaduro/status/1296362990565044226",
+    "published": "2020-08-20T08:26:36+00:00",
+    "wm-received": "2020-08-20T09:26:47Z",
+    "wm-id": 842174,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1296362865100808194/1296362990565044226",
+    "wm-target": "https://sebastiandedeyne.com/things-you-didnt-know-you-could-diff-in-github/",
+    "content": {
+      "text": "GitHub's comparison screen can do more than you think!\n\n✒️ New post: Things you didn't know you could diff in GitHub\n\nhttps://t.co/lHkZnGCin"
+    },
+    "repost-of": "https://sebastiandedeyne.com/things-you-didnt-know-you-could-diff-in-github/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Toon Verwerft",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/fff5899bae5facd62c7f9264c64cfe871ab80b4119647384cdc351023e1f0ffd.jpg",
+      "url": "https://twitter.com/toonverwerft"
+    },
+    "url": "https://twitter.com/toonverwerft/status/1296363970484482048",
+    "published": "2020-08-20T08:30:30+00:00",
+    "wm-received": "2020-08-20T09:26:48Z",
+    "wm-id": 842175,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1296362865100808194/1296363970484482048",
+    "wm-target": "https://sebastiandedeyne.com/things-you-didnt-know-you-could-diff-in-github/",
+    "content": {
+      "text": "GitHub's comparison screen can do more than you think!\n\n✒️ New post: Things you didn't know you could diff in GitHub\n\nhttps://t.co/lHkZnGCin"
+    },
+    "repost-of": "https://sebastiandedeyne.com/things-you-didnt-know-you-could-diff-in-github/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "O'cakes",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/b89e295733e5f216798b1502e339b1a4ea013e2f7877c7fe30c5dabedae08a44.jpg",
+      "url": "https://twitter.com/emmanix2002"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1296362865100808194#favorited-by-160163646",
+    "published": null,
+    "wm-received": "2020-08-20T10:10:55Z",
+    "wm-id": 842179,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1296362865100808194/160163646",
+    "wm-target": "https://sebastiandedeyne.com/things-you-didnt-know-you-could-diff-in-github/",
+    "like-of": "https://sebastiandedeyne.com/things-you-didnt-know-you-could-diff-in-github/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "O'cakes",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/b89e295733e5f216798b1502e339b1a4ea013e2f7877c7fe30c5dabedae08a44.jpg",
+      "url": "https://twitter.com/emmanix2002"
+    },
+    "url": "https://twitter.com/emmanix2002/status/1296386275444961281",
+    "published": "2020-08-20T09:59:08+00:00",
+    "wm-received": "2020-08-20T10:11:05Z",
+    "wm-id": 842180,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1296362865100808194/1296386275444961281",
+    "wm-target": "https://sebastiandedeyne.com/things-you-didnt-know-you-could-diff-in-github/",
+    "content": {
+      "text": "GitHub's comparison screen can do more than you think!\n\n✒️ New post: Things you didn't know you could diff in GitHub\n\nhttps://t.co/lHkZnGCin"
+    },
+    "repost-of": "https://sebastiandedeyne.com/things-you-didnt-know-you-could-diff-in-github/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Ruslan",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/6114334d09745c23c21d748a3ffb0e5f0972472d77df8a83d2914859cbd3b5fd.jpg",
+      "url": "https://twitter.com/SuddenlyRust"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1296362865100808194#favorited-by-935107835045842944",
+    "published": null,
+    "wm-received": "2020-08-20T10:11:29Z",
+    "wm-id": 842181,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1296362865100808194/935107835045842944",
+    "wm-target": "https://sebastiandedeyne.com/things-you-didnt-know-you-could-diff-in-github/",
+    "like-of": "https://sebastiandedeyne.com/things-you-didnt-know-you-could-diff-in-github/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Rodrigo Webler",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/bb88db8069a237ff9546e414538363db540cbac654904dbe564c34bd398cf735.jpg",
+      "url": "https://twitter.com/rodrigo_webler"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1296362865100808194#favorited-by-837359161906200576",
+    "published": null,
+    "wm-received": "2020-08-20T10:51:59Z",
+    "wm-id": 842185,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1296362865100808194/837359161906200576",
+    "wm-target": "https://sebastiandedeyne.com/things-you-didnt-know-you-could-diff-in-github/",
+    "like-of": "https://sebastiandedeyne.com/things-you-didnt-know-you-could-diff-in-github/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Tony Messias",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/211bfee69261eac96f6d9b66b1d935a95abadf0b415685c73dd7ef308b08f4d8.jpg",
+      "url": "https://twitter.com/tonysmdev"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1296362865100808194#favorited-by-55294160",
+    "published": null,
+    "wm-received": "2020-08-20T10:51:59Z",
+    "wm-id": 842186,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1296362865100808194/55294160",
+    "wm-target": "https://sebastiandedeyne.com/things-you-didnt-know-you-could-diff-in-github/",
+    "like-of": "https://sebastiandedeyne.com/things-you-didnt-know-you-could-diff-in-github/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Rati Wannapanop",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/a23863304f23794336a256a62e2178ebc5b1a359cb2d825ef558484336e4ce9e.jpg",
+      "url": "https://twitter.com/rati_wannapanop"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1296362865100808194#favorited-by-144374032",
+    "published": null,
+    "wm-received": "2020-08-20T10:52:01Z",
+    "wm-id": 842187,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1296362865100808194/144374032",
+    "wm-target": "https://sebastiandedeyne.com/things-you-didnt-know-you-could-diff-in-github/",
+    "like-of": "https://sebastiandedeyne.com/things-you-didnt-know-you-could-diff-in-github/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Andreas 'Ando 🦆' Frömer",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/79f4968a30cb5dcf01d4f4917cf4e89887f3ad603b5ed63e6c6798848650faa5.jpg",
+      "url": "https://twitter.com/icanhazstring"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1296362865100808194#favorited-by-388992936",
+    "published": null,
+    "wm-received": "2020-08-20T11:40:44Z",
+    "wm-id": 842199,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1296362865100808194/388992936",
+    "wm-target": "https://sebastiandedeyne.com/things-you-didnt-know-you-could-diff-in-github/",
+    "like-of": "https://sebastiandedeyne.com/things-you-didnt-know-you-could-diff-in-github/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Martin Carlin",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/7f37449c3c90c7a645784d54efb247a243cb4623942c5d7457834626f0e57ffa.jpg",
+      "url": "https://twitter.com/martincarlin87"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1296362865100808194#favorited-by-34239168",
+    "published": null,
+    "wm-received": "2020-08-20T11:40:44Z",
+    "wm-id": 842200,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1296362865100808194/34239168",
+    "wm-target": "https://sebastiandedeyne.com/things-you-didnt-know-you-could-diff-in-github/",
+    "like-of": "https://sebastiandedeyne.com/things-you-didnt-know-you-could-diff-in-github/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Médédé Raymond KPATCHAA",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/5fed8b6343e937469e6f591b97c89ff0a0d2eb4877760996142f05f44c07a2ef.jpg",
+      "url": "https://twitter.com/mrkpatchaa"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1296362865100808194#favorited-by-73281332",
+    "published": null,
+    "wm-received": "2020-08-20T11:40:45Z",
+    "wm-id": 842201,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1296362865100808194/73281332",
+    "wm-target": "https://sebastiandedeyne.com/things-you-didnt-know-you-could-diff-in-github/",
+    "like-of": "https://sebastiandedeyne.com/things-you-didnt-know-you-could-diff-in-github/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Brandon Surowiec",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/45226abada2bd500360af6839fd38fea1257e6692dd36a1f2b659145135a4e48.jpg",
+      "url": "https://twitter.com/brandonsurowiec"
+    },
+    "url": "https://twitter.com/brandonsurowiec/status/1296411656042491907",
+    "published": "2020-08-20T11:39:59+00:00",
+    "wm-received": "2020-08-20T11:40:46Z",
+    "wm-id": 842202,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1296362865100808194/1296411656042491907",
+    "wm-target": "https://sebastiandedeyne.com/things-you-didnt-know-you-could-diff-in-github/",
+    "content": {
+      "text": "GitHub's comparison screen can do more than you think!\n\n✒️ New post: Things you didn't know you could diff in GitHub\n\nhttps://t.co/lHkZnGCin"
+    },
+    "repost-of": "https://sebastiandedeyne.com/things-you-didnt-know-you-could-diff-in-github/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Jason McCreary",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/1ead3fa43bb15e536f1bf349167875c10bf2c20e9db6cffbb15af9bab0c6f245.jpg",
+      "url": "https://twitter.com/gonedark"
+    },
+    "url": "https://twitter.com/gonedark/status/1296410786542354434",
+    "published": "2020-08-20T11:36:32+00:00",
+    "wm-received": "2020-08-20T11:40:47Z",
+    "wm-id": 842203,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1296362865100808194/1296410786542354434",
+    "wm-target": "https://sebastiandedeyne.com/things-you-didnt-know-you-could-diff-in-github/",
+    "content": {
+      "text": "GitHub's comparison screen can do more than you think!\n\n✒️ New post: Things you didn't know you could diff in GitHub\n\nhttps://t.co/lHkZnGCin"
+    },
+    "repost-of": "https://sebastiandedeyne.com/things-you-didnt-know-you-could-diff-in-github/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Andreas 'Ando 🦆' Frömer",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/79f4968a30cb5dcf01d4f4917cf4e89887f3ad603b5ed63e6c6798848650faa5.jpg",
+      "url": "https://twitter.com/icanhazstring"
+    },
+    "url": "https://twitter.com/icanhazstring/status/1296409395920801797",
+    "published": "2020-08-20T11:31:00+00:00",
+    "wm-received": "2020-08-20T11:40:48Z",
+    "wm-id": 842204,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1296362865100808194/1296409395920801797",
+    "wm-target": "https://sebastiandedeyne.com/things-you-didnt-know-you-could-diff-in-github/",
+    "content": {
+      "text": "GitHub's comparison screen can do more than you think!\n\n✒️ New post: Things you didn't know you could diff in GitHub\n\nhttps://t.co/lHkZnGCin"
+    },
+    "repost-of": "https://sebastiandedeyne.com/things-you-didnt-know-you-could-diff-in-github/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Spatie",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/3efb487e7f3a0bc3690580277105f93eda590d65e4d9eb01135a184a9df60b18.jpg",
+      "url": "https://twitter.com/spatie_be"
+    },
+    "url": "https://twitter.com/spatie_be/status/1296409314744307713",
+    "published": "2020-08-20T11:30:41+00:00",
+    "wm-received": "2020-08-20T11:40:48Z",
+    "wm-id": 842205,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1296362865100808194/1296409314744307713",
+    "wm-target": "https://sebastiandedeyne.com/things-you-didnt-know-you-could-diff-in-github/",
+    "content": {
+      "text": "GitHub's comparison screen can do more than you think!\n\n✒️ New post: Things you didn't know you could diff in GitHub\n\nhttps://t.co/lHkZnGCin"
+    },
+    "repost-of": "https://sebastiandedeyne.com/things-you-didnt-know-you-could-diff-in-github/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Brent",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/c5a1b46c900f3c274007c4b7d7e68c6fc97f3efdbd26937c16c9912c3e2fe468.jpg",
+      "url": "https://twitter.com/brendt_gd"
+    },
+    "url": "https://twitter.com/brendt_gd/status/1296408228109197312",
+    "published": "2020-08-20T11:26:22+00:00",
+    "wm-received": "2020-08-20T11:40:51Z",
+    "wm-id": 842206,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1296362865100808194/1296408228109197312",
+    "wm-target": "https://sebastiandedeyne.com/things-you-didnt-know-you-could-diff-in-github/",
+    "content": {
+      "text": "GitHub's comparison screen can do more than you think!\n\n✒️ New post: Things you didn't know you could diff in GitHub\n\nhttps://t.co/lHkZnGCin"
+    },
+    "repost-of": "https://sebastiandedeyne.com/things-you-didnt-know-you-could-diff-in-github/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  }
+]
