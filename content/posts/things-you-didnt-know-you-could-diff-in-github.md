@@ -34,7 +34,7 @@ If you compare the current version of `master` with a previous commit, use the c
 https://github.com/spatie/laravel-medialibrary/compare/<hash>..<hash>
 ```
 
-<p><a href="https://github.com/spatie/laravel-medialibrary/compare/091a1c3...8447399" target="_blank" rel="noreferer nofollow">Live example</a></p>
+<p><a href="https://github.com/spatie/laravel-medialibrary/compare/091a1c3..8447399" target="_blank" rel="noreferer nofollow">Live example</a></p>
 
 If you want to compare two arbitrary commits, use the commit hashes separated by _two_ dots.
 
