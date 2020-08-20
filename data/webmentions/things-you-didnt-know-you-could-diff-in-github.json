@@ -660,5 +660,189 @@
     "repost-of": "https://sebastiandedeyne.com/things-you-didnt-know-you-could-diff-in-github/",
     "wm-property": "repost-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "techvedi",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/85999c80ebd29b88543183196b7a7fbc6cbed9489f21787e36ef8214f58a3a9c.jpg",
+      "url": "https://twitter.com/techvedi"
+    },
+    "url": "https://twitter.com/techvedi/status/1296413013335998464",
+    "published": "2020-08-20T11:45:23+00:00",
+    "wm-received": "2020-08-20T12:48:29Z",
+    "wm-id": 842213,
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1296413013335998464",
+    "wm-target": "https://sebastiandedeyne.com/things-you-didnt-know-you-could-diff-in-github/",
+    "content": {
+      "html": "Things you didn't know you could diff in GitHub - <a href=\"https://sebastiandedeyne.com/things-you-didnt-know-you-could-diff-in-github/\">sebastiandedeyne.com/things-you-did…</a>",
+      "text": "Things you didn't know you could diff in GitHub - sebastiandedeyne.com/things-you-did…"
+    },
+    "mention-of": "https://sebastiandedeyne.com/things-you-didnt-know-you-could-diff-in-github/",
+    "wm-property": "mention-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "don",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/9482aaf138b3563d2373b4e9a64fd83106a32d9a52cf06b84cda02c7a536cb10.jpg",
+      "url": "https://twitter.com/DesignerDon"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1296362865100808194#favorited-by-12237462",
+    "published": null,
+    "wm-received": "2020-08-20T12:48:30Z",
+    "wm-id": 842214,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1296362865100808194/12237462",
+    "wm-target": "https://sebastiandedeyne.com/things-you-didnt-know-you-could-diff-in-github/",
+    "like-of": "https://sebastiandedeyne.com/things-you-didnt-know-you-could-diff-in-github/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Luigi Cruz",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/cb8ed350dda5f4f27b2bcf75e1a98f14738fd4ba795bcc731c2a28f6931a8a2d.jpg",
+      "url": "https://twitter.com/LuigiRCruz"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1296362865100808194#favorited-by-488661948",
+    "published": null,
+    "wm-received": "2020-08-20T12:48:31Z",
+    "wm-id": 842215,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1296362865100808194/488661948",
+    "wm-target": "https://sebastiandedeyne.com/things-you-didnt-know-you-could-diff-in-github/",
+    "like-of": "https://sebastiandedeyne.com/things-you-didnt-know-you-could-diff-in-github/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Sean Talbot 🌊",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/3c879e14b9cfe1fbb2dde5a7c10494bb0c4d5735d0bf3bc455c91667e9d3be86.jpg",
+      "url": "https://twitter.com/SeanPTalbot"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1296362865100808194#favorited-by-338498206",
+    "published": null,
+    "wm-received": "2020-08-20T12:48:31Z",
+    "wm-id": 842216,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1296362865100808194/338498206",
+    "wm-target": "https://sebastiandedeyne.com/things-you-didnt-know-you-could-diff-in-github/",
+    "like-of": "https://sebastiandedeyne.com/things-you-didnt-know-you-could-diff-in-github/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "José Espinal",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/769527652318233530d006f9c0bf53079e52d4f5a57abf71a692887ab2d56543.jpg",
+      "url": "https://twitter.com/josespinal"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1296362865100808194#favorited-by-12581032",
+    "published": null,
+    "wm-received": "2020-08-20T12:48:32Z",
+    "wm-id": 842217,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1296362865100808194/12581032",
+    "wm-target": "https://sebastiandedeyne.com/things-you-didnt-know-you-could-diff-in-github/",
+    "like-of": "https://sebastiandedeyne.com/things-you-didnt-know-you-could-diff-in-github/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Hardik Shah",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/e5f3af5e252fe63549babe2845d06f46b1fba244c7bf8c388d27507b993d6c48.jpg",
+      "url": "https://twitter.com/hardsshah"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1296362865100808194#favorited-by-29662788",
+    "published": null,
+    "wm-received": "2020-08-20T12:48:33Z",
+    "wm-id": 842218,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1296362865100808194/29662788",
+    "wm-target": "https://sebastiandedeyne.com/things-you-didnt-know-you-could-diff-in-github/",
+    "like-of": "https://sebastiandedeyne.com/things-you-didnt-know-you-could-diff-in-github/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Austen Cameron",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/a27005d9282fe163246040d305873c6a4b81c885a042e6a32f285182f85d2e73.jpg",
+      "url": "https://twitter.com/austencam"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1296362865100808194#favorited-by-474617811",
+    "published": null,
+    "wm-received": "2020-08-20T13:38:09Z",
+    "wm-id": 842221,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1296362865100808194/474617811",
+    "wm-target": "https://sebastiandedeyne.com/things-you-didnt-know-you-could-diff-in-github/",
+    "like-of": "https://sebastiandedeyne.com/things-you-didnt-know-you-could-diff-in-github/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Moath",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/fa4001c8cfdad20ef6609dd7f594b0a2b27bde358889fa1e7a9ea815957d84d7.jpg",
+      "url": "https://twitter.com/Dev_Moath"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1296362865100808194#favorited-by-1030931556",
+    "published": null,
+    "wm-received": "2020-08-20T14:17:55Z",
+    "wm-id": 842226,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1296362865100808194/1030931556",
+    "wm-target": "https://sebastiandedeyne.com/things-you-didnt-know-you-could-diff-in-github/",
+    "like-of": "https://sebastiandedeyne.com/things-you-didnt-know-you-could-diff-in-github/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Rubem Mota",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/9a4528fb97ec0a9b7edae2b2eee38e63e4d3f570a3a55ba01f252e929f26a2e3.jpg",
+      "url": "https://twitter.com/rubemlrm"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1296362865100808194#favorited-by-2329430118",
+    "published": null,
+    "wm-received": "2020-08-20T14:58:07Z",
+    "wm-id": 842227,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1296362865100808194/2329430118",
+    "wm-target": "https://sebastiandedeyne.com/things-you-didnt-know-you-could-diff-in-github/",
+    "like-of": "https://sebastiandedeyne.com/things-you-didnt-know-you-could-diff-in-github/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Michael Rog",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/db5fbdbc1ba259eb5e761e1f0887d73474fed18ea67bcf79c3b373ba424ac380.jpg",
+      "url": "https://twitter.com/michaelrog"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1296362865100808194#favorited-by-11211252",
+    "published": null,
+    "wm-received": "2020-08-20T16:53:37Z",
+    "wm-id": 842243,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1296362865100808194/11211252",
+    "wm-target": "https://sebastiandedeyne.com/things-you-didnt-know-you-could-diff-in-github/",
+    "like-of": "https://sebastiandedeyne.com/things-you-didnt-know-you-could-diff-in-github/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
