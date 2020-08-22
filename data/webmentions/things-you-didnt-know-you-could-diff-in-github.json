@@ -869,5 +869,45 @@
     "mention-of": "https://sebastiandedeyne.com/things-you-didnt-know-you-could-diff-in-github/",
     "wm-property": "mention-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "RedHatSpain",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/85a047b22203cb1de3fbba8b7bf1506aaaab3dc7da27263e18872bdefd69856e.jpg",
+      "url": "https://twitter.com/RedHatSpain"
+    },
+    "url": "https://twitter.com/RedHatSpain/status/1296886343038099463",
+    "published": "2020-08-21T19:06:13+00:00",
+    "wm-received": "2020-08-21T19:25:14Z",
+    "wm-id": 842538,
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1296886343038099463",
+    "wm-target": "https://sebastiandedeyne.com/things-you-didnt-know-you-could-diff-in-github/",
+    "content": {
+      "html": "<a href=\"https://sebastiandedeyne.com/things-you-didnt-know-you-could-diff-in-github/\">sebastiandedeyne.com/things-you-did…</a>",
+      "text": "sebastiandedeyne.com/things-you-did…"
+    },
+    "mention-of": "https://sebastiandedeyne.com/things-you-didnt-know-you-could-diff-in-github/",
+    "wm-property": "mention-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Wouter Brouwers",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/1f0ea5d6eb9562e28bdae39b59b46ee5bcedd843d07f67083e23a3e1beb2c991.jpg",
+      "url": "https://twitter.com/BrouwersWouter"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1296362865100808194#favorited-by-2523444206",
+    "published": null,
+    "wm-received": "2020-08-21T23:28:28Z",
+    "wm-id": 842604,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1296362865100808194/2523444206",
+    "wm-target": "https://sebastiandedeyne.com/things-you-didnt-know-you-could-diff-in-github/",
+    "like-of": "https://sebastiandedeyne.com/things-you-didnt-know-you-could-diff-in-github/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
