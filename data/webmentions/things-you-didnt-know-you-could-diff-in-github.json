@@ -988,5 +988,23 @@
     "like-of": "https://sebastiandedeyne.com/things-you-didnt-know-you-could-diff-in-github/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Percy Astocaza",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/71fa7610ec172992df87112143a5229b7c565d01fc421b883cc9f6a06b3f5943.jpg",
+      "url": "https://twitter.com/perastocaza"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1296362865100808194#favorited-by-91371219",
+    "published": null,
+    "wm-received": "2020-08-26T00:36:00Z",
+    "wm-id": 844097,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1296362865100808194/91371219",
+    "wm-target": "https://sebastiandedeyne.com/things-you-didnt-know-you-could-diff-in-github/",
+    "like-of": "https://sebastiandedeyne.com/things-you-didnt-know-you-could-diff-in-github/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
