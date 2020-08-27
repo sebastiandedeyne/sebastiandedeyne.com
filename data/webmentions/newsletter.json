@@ -73,5 +73,23 @@
     "like-of": "https://sebastiandedeyne.com/newsletter/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Tobiloba",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/22490401652b1d40f5c215cf7ee89d67464826a0504a112437b930dbe8b9f9d6.jpg",
+      "url": "https://twitter.com/t_adeyinka_"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1298560190095269893#favorited-by-376941500",
+    "published": null,
+    "wm-received": "2020-08-26T23:15:25Z",
+    "wm-id": 844349,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1298560190095269893/376941500",
+    "wm-target": "https://sebastiandedeyne.com/newsletter/",
+    "like-of": "https://sebastiandedeyne.com/newsletter/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
