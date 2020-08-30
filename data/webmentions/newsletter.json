@@ -91,5 +91,23 @@
     "like-of": "https://sebastiandedeyne.com/newsletter/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Dreamer♥️",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/bc8ea447f5c12bf9b4fd728aff93fe3ddaeb155229e22d2c63ddb1244361ad61.jpg",
+      "url": "https://twitter.com/happy_soul__"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1298560190095269893#favorited-by-1086264212211388416",
+    "published": null,
+    "wm-received": "2020-08-30T10:44:24Z",
+    "wm-id": 845629,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1298560190095269893/1086264212211388416",
+    "wm-target": "https://sebastiandedeyne.com/newsletter/",
+    "like-of": "https://sebastiandedeyne.com/newsletter/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
