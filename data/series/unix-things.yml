@@ -11,7 +11,7 @@ posts:
   - title: Zipping
     slug: unix-things/zipping
   - title: Rsync
-    slug: rsync
+    slug: unix-things/rsync
   - title: Finding files (by filename)
   - title: Finding files (by content)
   - title: Permissions
