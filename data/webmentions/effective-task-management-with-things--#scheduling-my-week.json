@@ -34,5 +34,23 @@
     "like-of": "https://sebastiandedeyne.com/effective-task-management-with-things/#scheduling-my-week",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Jerry Harrison",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/0f4aae19171a397b483430c49b2240a39425b2533ddbcd929587dc975b8a8436.jpg",
+      "url": "https://twitter.com/jerryharrison"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1305241571663773698#favorited-by-15047247",
+    "published": null,
+    "wm-received": "2020-09-14T03:46:35Z",
+    "wm-id": 851556,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1305241571663773698/15047247",
+    "wm-target": "https://sebastiandedeyne.com/effective-task-management-with-things/#scheduling-my-week",
+    "like-of": "https://sebastiandedeyne.com/effective-task-management-with-things/#scheduling-my-week",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
