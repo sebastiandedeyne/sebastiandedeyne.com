@@ -485,5 +485,27 @@
     "in-reply-to": "https://sebastiandedeyne.com/effective-task-management-with-things/",
     "wm-property": "in-reply-to",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Brandon Pittman",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/77140f9af5e1d8f45d13a4a3a3ccbcc317ad74e9d052935a184c6ae9fbf6f9be.jpg",
+      "url": "https://twitter.com/brandonpittman"
+    },
+    "url": "https://twitter.com/brandonpittman/status/1305523987523330051",
+    "published": "2020-09-14T15:09:08+00:00",
+    "wm-received": "2020-09-14T15:27:50Z",
+    "wm-id": 851806,
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1305523987523330051",
+    "wm-target": "https://sebastiandedeyne.com/effective-task-management-with-things/",
+    "content": {
+      "html": "Good timing for this article about a minimalist approach to Things from <a href=\"https://twitter.com/culturedcode\">@culturedcode</a>.\n\n<a href=\"https://sebastiandedeyne.com/effective-task-management-with-things/\">sebastiandedeyne.com/effective-task…</a>…\n\nMy outlook on task management has gotten more and more streamlined, and this usage style appeals greatly to me.",
+      "text": "Good timing for this article about a minimalist approach to Things from @culturedcode.\n\nsebastiandedeyne.com/effective-task……\n\nMy outlook on task management has gotten more and more streamlined, and this usage style appeals greatly to me."
+    },
+    "mention-of": "https://sebastiandedeyne.com/effective-task-management-with-things/",
+    "wm-property": "mention-of",
+    "wm-private": false
   }
 ]
