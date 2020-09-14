@@ -1,0 +1,38 @@
+[
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Jens Aronsson",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/968dec82979971157239e94582e56d1b0801530c9eadcf598066effd17891a60.jpg",
+      "url": "https://twitter.com/jensaronsson"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1305241571663773698#favorited-by-26706744",
+    "published": null,
+    "wm-received": "2020-09-13T22:20:04Z",
+    "wm-id": 851486,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1305241571663773698/26706744",
+    "wm-target": "https://sebastiandedeyne.com/effective-task-management-with-things/#scheduling-my-week",
+    "like-of": "https://sebastiandedeyne.com/effective-task-management-with-things/#scheduling-my-week",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Hardik Shah",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/e5f3af5e252fe63549babe2845d06f46b1fba244c7bf8c388d27507b993d6c48.jpg",
+      "url": "https://twitter.com/hardsshah"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1305241571663773698#favorited-by-29662788",
+    "published": null,
+    "wm-received": "2020-09-13T23:59:01Z",
+    "wm-id": 851502,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1305241571663773698/29662788",
+    "wm-target": "https://sebastiandedeyne.com/effective-task-management-with-things/#scheduling-my-week",
+    "like-of": "https://sebastiandedeyne.com/effective-task-management-with-things/#scheduling-my-week",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+]
