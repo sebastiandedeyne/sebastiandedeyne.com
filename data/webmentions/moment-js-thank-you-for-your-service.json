@@ -1,0 +1,1240 @@
+[
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Andre Sayej",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/00a7da3ab748395431999d2f5c901e7bee85e2279cb5b59b9d2b9299a8d3d805.jpg",
+      "url": "https://twitter.com/AndreSayej"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1305810811064115212#favorited-by-1101406245322403841",
+    "published": null,
+    "wm-received": "2020-09-15T10:12:34Z",
+    "wm-id": 852064,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1305810811064115212/1101406245322403841",
+    "wm-target": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "like-of": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Denis Žoljom",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/e67476352b8a9d66b6d69817c0cf23b16d93eb315d655cd0c8d74b8415b859fe.jpg",
+      "url": "https://twitter.com/made_by_denis"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1305810811064115212#favorited-by-276450050",
+    "published": null,
+    "wm-received": "2020-09-15T10:12:34Z",
+    "wm-id": 852065,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1305810811064115212/276450050",
+    "wm-target": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "like-of": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Freek Van der Herten",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/389862c8a30722a50adbdf8f8388f6f8ed1a665bc1b69e4355ed98b6f2e01afb.jpg",
+      "url": "https://twitter.com/freekmurze"
+    },
+    "url": "https://twitter.com/freekmurze/status/1305811044456165376",
+    "published": "2020-09-15T10:09:48+00:00",
+    "wm-received": "2020-09-15T10:12:35Z",
+    "wm-id": 852066,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1305810811064115212/1305811044456165376",
+    "wm-target": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "content": {
+      "text": "✒️ Moment.js, thank you for your service sebastiandedeyne.com/moment-js-than…"
+    },
+    "repost-of": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Bigint",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/763f2800ce900bfc9502e3a45fa985f85947759d5094ba59d57632ff0d8fa5eb.jpg",
+      "url": "https://twitter.com/big1nt"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1305810811064115212#favorited-by-1285642768799248384",
+    "published": null,
+    "wm-received": "2020-09-15T10:50:18Z",
+    "wm-id": 852075,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1305810811064115212/1285642768799248384",
+    "wm-target": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "like-of": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "ｍＡ[ N ]",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/dabe13960c58df33844f1911c4710c865120125c3ded66b1d37b85a62fcb8317.jpg",
+      "url": "https://twitter.com/EMegamanu"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1305810811064115212#favorited-by-37614792",
+    "published": null,
+    "wm-received": "2020-09-15T10:50:22Z",
+    "wm-id": 852076,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1305810811064115212/37614792",
+    "wm-target": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "like-of": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Laurent van Dommelen",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/4eac0756ce675bbd6a0c0535004683efca5099fcd70beda37699ec8eb6f69757.jpg",
+      "url": "https://twitter.com/DerLola"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1305810811064115212#favorited-by-67266209",
+    "published": null,
+    "wm-received": "2020-09-15T10:50:24Z",
+    "wm-id": 852077,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1305810811064115212/67266209",
+    "wm-target": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "like-of": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Dennis Koch",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/759b7741ca5b7eb5cac16469424256176f0d4bca33abed03d48bad46ec2177e6.jpg",
+      "url": "https://twitter.com/pixelarbeit"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1305810811064115212#favorited-by-1039774511992856576",
+    "published": null,
+    "wm-received": "2020-09-15T10:50:25Z",
+    "wm-id": 852078,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1305810811064115212/1039774511992856576",
+    "wm-target": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "like-of": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Jess Archer",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/4fb29b7a4034a067cda1411356ee76e62f884791a237c6c1f1f095ef8abd88a4.png",
+      "url": "https://twitter.com/jessarchercodes"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1305810811064115212#favorited-by-1052415515770146816",
+    "published": null,
+    "wm-received": "2020-09-15T10:50:26Z",
+    "wm-id": 852079,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1305810811064115212/1052415515770146816",
+    "wm-target": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "like-of": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "James Brooks",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/f5323761174598e04dedb4ff089cab637ab9fedb59a800356b5d6838e519c1b2.jpg",
+      "url": "https://twitter.com/jbrooksuk"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1305810811064115212#favorited-by-20612511",
+    "published": null,
+    "wm-received": "2020-09-15T10:50:26Z",
+    "wm-id": 852080,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1305810811064115212/20612511",
+    "wm-target": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "like-of": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "smknstd",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/5b025a70e5df0063838a976c2be9115e1f4c765514ceba65c6b53c87e052fd65.jpg",
+      "url": "https://twitter.com/smknstd"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1305810811064115212#favorited-by-838456235766730752",
+    "published": null,
+    "wm-received": "2020-09-15T10:50:27Z",
+    "wm-id": 852081,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1305810811064115212/838456235766730752",
+    "wm-target": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "like-of": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Paulsky",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/e0f1503fb1bc4ec7b958b14cff287a15ea2aefc3f98125b5026b1c9f725a645c.jpg",
+      "url": "https://twitter.com/MrPaulsky"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1305810811064115212#favorited-by-994222500325351424",
+    "published": null,
+    "wm-received": "2020-09-15T10:50:28Z",
+    "wm-id": 852082,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1305810811064115212/994222500325351424",
+    "wm-target": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "like-of": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Jannik Hollenbach",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/ef99ad32b6fe1aa7800e4b0a51de455f038b4edc793222223213fe4d2ac71358.jpg",
+      "url": "https://twitter.com/j12934"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1305810811064115212#favorited-by-334323437",
+    "published": null,
+    "wm-received": "2020-09-15T10:50:28Z",
+    "wm-id": 852083,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1305810811064115212/334323437",
+    "wm-target": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "like-of": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Richard Radermacher",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/5277a388649f0f63e0236cc171a6fcd7a7b84ea4092ad79c8a6ad52cc8a9b3b8.jpg",
+      "url": "https://twitter.com/radermacher_io"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1305810811064115212#favorited-by-35496266",
+    "published": null,
+    "wm-received": "2020-09-15T10:50:30Z",
+    "wm-id": 852084,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1305810811064115212/35496266",
+    "wm-target": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "like-of": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Matti.dev 🇪🇺",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/c161aee9b6f7125e7b406bab1108e3c6c4b3c171866a5b20d014251215cb3b81.jpg",
+      "url": "https://twitter.com/MatthiasFaenger"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1305810811064115212#favorited-by-256108854",
+    "published": null,
+    "wm-received": "2020-09-15T10:50:30Z",
+    "wm-id": 852085,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1305810811064115212/256108854",
+    "wm-target": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "like-of": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "m@ttias ⚡️",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/d248b54bf6c9a4200c09bc494bd14ddaa4b28d5513b83c9ef6c4109a6e5e7463.jpg",
+      "url": "https://twitter.com/mattiasgeniar"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1305810811064115212#favorited-by-93920255",
+    "published": null,
+    "wm-received": "2020-09-15T10:50:31Z",
+    "wm-id": 852086,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1305810811064115212/93920255",
+    "wm-target": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "like-of": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Dries",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/b7b0aa3e071fde7de70e274ef385546d03b6002b1436a72885f9c4bdbb1ea7fe.jpg",
+      "url": "https://twitter.com/driesvandermeul"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1305810811064115212#favorited-by-2347065655",
+    "published": null,
+    "wm-received": "2020-09-15T10:50:32Z",
+    "wm-id": 852087,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1305810811064115212/2347065655",
+    "wm-target": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "like-of": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "棗（なつめ）@フリーPG",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/cb5c51be9f1be25c2a7f1fefbfc7f301d400f02967524b4d3a71fcac36f647cc.jpg",
+      "url": "https://twitter.com/natsume_aurlia"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1305810811064115212#favorited-by-1023598681390366720",
+    "published": null,
+    "wm-received": "2020-09-15T10:50:33Z",
+    "wm-id": 852088,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1305810811064115212/1023598681390366720",
+    "wm-target": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "like-of": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Magnus Söderling",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/cde03b617e3d321790b5022b32bd5c696825692dc659c45b5dbd4293c00888a9.jpg",
+      "url": "https://twitter.com/Mange_S"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1305810811064115212#favorited-by-247830593",
+    "published": null,
+    "wm-received": "2020-09-15T10:50:33Z",
+    "wm-id": 852089,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1305810811064115212/247830593",
+    "wm-target": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "like-of": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Tom Witkowski",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/4c6a0072545bab629442313c0b6d9a2cd920b338d3f3132c0e23a1f1175e382a.jpg",
+      "url": "https://twitter.com/devgummibeer"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1305810811064115212#favorited-by-2995381594",
+    "published": null,
+    "wm-received": "2020-09-15T10:50:34Z",
+    "wm-id": 852090,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1305810811064115212/2995381594",
+    "wm-target": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "like-of": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Chris Woelk",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/c6194549981c3cf56ad6a8ec27e0d0409f24a2161b74abaa0e3bad5a89135826.jpg",
+      "url": "https://twitter.com/redbeed_chris"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1305810811064115212#favorited-by-617482792",
+    "published": null,
+    "wm-received": "2020-09-15T10:50:36Z",
+    "wm-id": 852091,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1305810811064115212/617482792",
+    "wm-target": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "like-of": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Max",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/69bb2c8e28aca4148b82a6c9c7427bae38274caba593a2f6cd162372ee98f975.jpg",
+      "url": "https://twitter.com/mxmtsk"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1305810811064115212#favorited-by-25661038",
+    "published": null,
+    "wm-received": "2020-09-15T10:50:36Z",
+    "wm-id": 852092,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1305810811064115212/25661038",
+    "wm-target": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "like-of": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Tanmay Das",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/96254657e798e3f88b25163a0d02b1ec722f57b4d16b2e06ab18767aec71aa05.jpg",
+      "url": "https://twitter.com/TanmayMishu"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1305810811064115212#favorited-by-175525875",
+    "published": null,
+    "wm-received": "2020-09-15T10:50:37Z",
+    "wm-id": 852093,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1305810811064115212/175525875",
+    "wm-target": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "like-of": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Cees-Jan Kiewiet",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/e85434b934cf41c6bd6940140e80ee4509a37f4f47bbb8cf0a7e3f3f3aef0698.jpg",
+      "url": "https://twitter.com/WyriHaximus"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1305810811064115212#favorited-by-11328822",
+    "published": null,
+    "wm-received": "2020-09-15T10:50:37Z",
+    "wm-id": 852094,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1305810811064115212/11328822",
+    "wm-target": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "like-of": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Liam Aird",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/bc048d637b1f42e746be2895547cab33e3379021ad86b3888c5e39b6af43a12f.jpg",
+      "url": "https://twitter.com/LiamAird"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1305810811064115212#favorited-by-316159885",
+    "published": null,
+    "wm-received": "2020-09-15T10:50:38Z",
+    "wm-id": 852095,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1305810811064115212/316159885",
+    "wm-target": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "like-of": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Paul Melero",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/cf742803e4ca77b4f1eea820a9f18a3940b43e6a999059beaeed8186a9857b0d.jpg",
+      "url": "https://twitter.com/paul_melero"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1305810811064115212#favorited-by-1355136739",
+    "published": null,
+    "wm-received": "2020-09-15T10:50:39Z",
+    "wm-id": 852096,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1305810811064115212/1355136739",
+    "wm-target": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "like-of": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Maxime Richard",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/55bf8a583ea1817b000e3fc9555ebaa5e480ff3efd34e61be0cd1a91f62cddef.jpg",
+      "url": "https://twitter.com/rmaximedev"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1305810811064115212#favorited-by-279614981",
+    "published": null,
+    "wm-received": "2020-09-15T10:50:40Z",
+    "wm-id": 852097,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1305810811064115212/279614981",
+    "wm-target": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "like-of": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Glenn",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/b017f63adacde1b50cd1f83dea24c1630024ce3e573e5048d388e8d7809a0bea.jpg",
+      "url": "https://twitter.com/giesburts"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1305810811064115212#favorited-by-199409802",
+    "published": null,
+    "wm-received": "2020-09-15T10:50:41Z",
+    "wm-id": 852098,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1305810811064115212/199409802",
+    "wm-target": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "like-of": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Kirushan Rasendran",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/e73725dcfab6df598b5e526547ab747bff963fc78bc8b1e3e4d4d395599477f0.jpg",
+      "url": "https://twitter.com/kirushanR"
+    },
+    "url": "https://twitter.com/kirushanR/status/1305819585543770112",
+    "published": "2020-09-15T10:43:44+00:00",
+    "wm-received": "2020-09-15T10:50:42Z",
+    "wm-id": 852099,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1305810811064115212/1305819585543770112",
+    "wm-target": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "content": {
+      "text": "✒️ Moment.js, thank you for your service sebastiandedeyne.com/moment-js-than…"
+    },
+    "repost-of": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "m@ttias ⚡️",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/d248b54bf6c9a4200c09bc494bd14ddaa4b28d5513b83c9ef6c4109a6e5e7463.jpg",
+      "url": "https://twitter.com/mattiasgeniar"
+    },
+    "url": "https://twitter.com/mattiasgeniar/status/1305818795789950976",
+    "published": "2020-09-15T10:40:36+00:00",
+    "wm-received": "2020-09-15T10:50:43Z",
+    "wm-id": 852100,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1305810811064115212/1305818795789950976",
+    "wm-target": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "content": {
+      "text": "✒️ Moment.js, thank you for your service sebastiandedeyne.com/moment-js-than…"
+    },
+    "repost-of": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Paulsky",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/e0f1503fb1bc4ec7b958b14cff287a15ea2aefc3f98125b5026b1c9f725a645c.jpg",
+      "url": "https://twitter.com/MrPaulsky"
+    },
+    "url": "https://twitter.com/MrPaulsky/status/1305817584802115585",
+    "published": "2020-09-15T10:35:47+00:00",
+    "wm-received": "2020-09-15T10:50:44Z",
+    "wm-id": 852101,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1305810811064115212/1305817584802115585",
+    "wm-target": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "content": {
+      "text": "✒️ Moment.js, thank you for your service sebastiandedeyne.com/moment-js-than…"
+    },
+    "repost-of": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Cees-Jan Kiewiet",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/e85434b934cf41c6bd6940140e80ee4509a37f4f47bbb8cf0a7e3f3f3aef0698.jpg",
+      "url": "https://twitter.com/WyriHaximus"
+    },
+    "url": "https://twitter.com/WyriHaximus/status/1305815342212616192",
+    "published": "2020-09-15T10:26:53+00:00",
+    "wm-received": "2020-09-15T10:50:45Z",
+    "wm-id": 852102,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1305810811064115212/1305815342212616192",
+    "wm-target": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "content": {
+      "text": "✒️ Moment.js, thank you for your service sebastiandedeyne.com/moment-js-than…"
+    },
+    "repost-of": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Jess Archer",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/4fb29b7a4034a067cda1411356ee76e62f884791a237c6c1f1f095ef8abd88a4.png",
+      "url": "https://twitter.com/jessarchercodes"
+    },
+    "url": "https://twitter.com/jessarchercodes/status/1305815010099167233",
+    "published": "2020-09-15T10:25:33+00:00",
+    "wm-received": "2020-09-15T10:50:46Z",
+    "wm-id": 852103,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1305810811064115212/1305815010099167233",
+    "wm-target": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "content": {
+      "text": "✒️ Moment.js, thank you for your service sebastiandedeyne.com/moment-js-than…"
+    },
+    "repost-of": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Duncan McClean",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/07d289f88614ff533abaf628da2e1ae204457fcf2827345d27191ef300ed79a0.jpg",
+      "url": "https://twitter.com/damcclean"
+    },
+    "url": "https://twitter.com/damcclean/status/1305814969934585856",
+    "published": "2020-09-15T10:25:24+00:00",
+    "wm-received": "2020-09-15T10:50:47Z",
+    "wm-id": 852104,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1305810811064115212/1305814969934585856",
+    "wm-target": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "content": {
+      "text": "✒️ Moment.js, thank you for your service sebastiandedeyne.com/moment-js-than…"
+    },
+    "repost-of": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "DeDaaf",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/2b1bab92fc96af1917358859344e20291c25adec04f9a9ded5d7f80ecd113dc4.jpg",
+      "url": "https://twitter.com/DeDaaf"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1305810811064115212#favorited-by-47481094",
+    "published": null,
+    "wm-received": "2020-09-15T10:50:48Z",
+    "wm-id": 852105,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1305810811064115212/47481094",
+    "wm-target": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "like-of": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Max",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/69bb2c8e28aca4148b82a6c9c7427bae38274caba593a2f6cd162372ee98f975.jpg",
+      "url": "https://twitter.com/mxmtsk"
+    },
+    "url": "https://twitter.com/mxmtsk/status/1305814539468931073",
+    "published": "2020-09-15T10:23:41+00:00",
+    "wm-received": "2020-09-15T10:50:48Z",
+    "wm-id": 852106,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1305810811064115212/1305814539468931073",
+    "wm-target": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "content": {
+      "text": "✒️ Moment.js, thank you for your service sebastiandedeyne.com/moment-js-than…"
+    },
+    "repost-of": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "romeoenso",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/03092463ad5504d81ee2ad3af035dd7e0d1bcc8495e4db2e5fb6f1a141d8ce63.jpg",
+      "url": "https://twitter.com/romeoenso"
+    },
+    "url": "https://twitter.com/romeoenso/status/1305812992232103942",
+    "published": "2020-09-15T10:17:32+00:00",
+    "wm-received": "2020-09-15T10:50:49Z",
+    "wm-id": 852107,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1305810811064115212/1305812992232103942",
+    "wm-target": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "content": {
+      "text": "✒️ Moment.js, thank you for your service sebastiandedeyne.com/moment-js-than…"
+    },
+    "repost-of": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Michael King",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/0d69d1cac388be6b31fd100ddff01d4068787a2be87d9009773fce8999beb77b.jpg",
+      "url": "https://twitter.com/Michgboxy"
+    },
+    "url": "https://twitter.com/Michgboxy/status/1305812611490107392",
+    "published": "2020-09-15T10:16:02+00:00",
+    "wm-received": "2020-09-15T10:50:50Z",
+    "wm-id": 852108,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1305810811064115212/1305812611490107392",
+    "wm-target": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "content": {
+      "text": "✒️ Moment.js, thank you for your service sebastiandedeyne.com/moment-js-than…"
+    },
+    "repost-of": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Dries Vints",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/245c5cf501e9d689596e174910f78b22cfe7a7924462a222afabba4a2e84e76c.jpg",
+      "url": "https://twitter.com/driesvints"
+    },
+    "url": "https://twitter.com/driesvints/status/1305812464777523200",
+    "published": "2020-09-15T10:15:27+00:00",
+    "wm-received": "2020-09-15T10:50:51Z",
+    "wm-id": 852109,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1305810811064115212/1305812464777523200",
+    "wm-target": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "content": {
+      "text": "✒️ Moment.js, thank you for your service sebastiandedeyne.com/moment-js-than…"
+    },
+    "repost-of": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Tanmay Das",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/96254657e798e3f88b25163a0d02b1ec722f57b4d16b2e06ab18767aec71aa05.jpg",
+      "url": "https://twitter.com/TanmayMishu"
+    },
+    "url": "https://twitter.com/TanmayMishu/status/1305812833221763072",
+    "published": "2020-09-15T10:16:54+00:00",
+    "wm-received": "2020-09-15T10:50:52Z",
+    "wm-id": 852110,
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1305812833221763072",
+    "wm-target": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "photo": [
+      "https://pbs.twimg.com/media/Eh8tp6rVkAIQt8b.png"
+    ],
+    "content": {
+      "html": "<a href=\"https://twitter.com/momentjs\">@momentjs</a>, Thank you for your service. https://t.co/mWoxGwGcLW\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/\"></a>",
+      "text": "@momentjs, Thank you for your service. https://t.co/mWoxGwGcLW"
+    },
+    "mention-of": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "wm-property": "mention-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "mkoldov",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/af8cb647f0e5f27cae7f68cfaba43c1bbc7d50ef830886f0d1db67741ba91dc4.jpg",
+      "url": "https://twitter.com/mkoldov"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1305810811064115212#favorited-by-17850718",
+    "published": null,
+    "wm-received": "2020-09-15T11:37:55Z",
+    "wm-id": 852120,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1305810811064115212/17850718",
+    "wm-target": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "like-of": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Rizal Fakhri",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/466597180a0def7e96321d227ed7a80a36b0eb6fa9b7c25ecaac217cd1242328.jpg",
+      "url": "https://twitter.com/rizal__fakhri"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1305810811064115212#favorited-by-1073439097392312322",
+    "published": null,
+    "wm-received": "2020-09-15T11:37:55Z",
+    "wm-id": 852121,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1305810811064115212/1073439097392312322",
+    "wm-target": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "like-of": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Silali",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/0c09bca82229295eb39cc20e554ac6f9f929a17a5db4040c725b18334d3d510c.jpg",
+      "url": "https://twitter.com/silali2"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1305810811064115212#favorited-by-2785301166",
+    "published": null,
+    "wm-received": "2020-09-15T11:37:56Z",
+    "wm-id": 852122,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1305810811064115212/2785301166",
+    "wm-target": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "like-of": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Jens Twesmann",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/f14e94855ec3f7cf427242dd9b970255aacd3f95f65ecf3f20408dd923733053.png",
+      "url": "https://twitter.com/jtwesmann"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1305810811064115212#favorited-by-1054743487",
+    "published": null,
+    "wm-received": "2020-09-15T11:37:57Z",
+    "wm-id": 852123,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1305810811064115212/1054743487",
+    "wm-target": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "like-of": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Pepe Garcia",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/1533710920dc9ef534dc1db984ef05978f7a7909d8783b4cf0fa2a3ab143e736.jpg",
+      "url": "https://twitter.com/pepeloper_"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1305810811064115212#favorited-by-751881217",
+    "published": null,
+    "wm-received": "2020-09-15T11:37:58Z",
+    "wm-id": 852124,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1305810811064115212/751881217",
+    "wm-target": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "like-of": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Geoffrey van Wyk",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/9ab784243064b3d709fd3b8b8dfe9eab7890e881ec25b52d87fda07981f5360f.png",
+      "url": "https://twitter.com/geoffreyvanwyk"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1305810811064115212#favorited-by-1570741069",
+    "published": null,
+    "wm-received": "2020-09-15T11:37:59Z",
+    "wm-id": 852125,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1305810811064115212/1570741069",
+    "wm-target": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "like-of": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Ramon H. Ornelas",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/e2025b2a9f3c52dec4ff980f6473d64ff2db2e7f2fbe1cf3fef20f0d727f44df.jpg",
+      "url": "https://twitter.com/ramonornela"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1305810811064115212#favorited-by-219112186",
+    "published": null,
+    "wm-received": "2020-09-15T11:37:59Z",
+    "wm-id": 852126,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1305810811064115212/219112186",
+    "wm-target": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "like-of": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Stefan Bauer",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/78b2190e94eb28cab02d6d26cde10e1c5bc6dd7fd544876afda443572069f642.jpg",
+      "url": "https://twitter.com/stefanbauerme"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1305810811064115212#favorited-by-270319969",
+    "published": null,
+    "wm-received": "2020-09-15T11:38:00Z",
+    "wm-id": 852127,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1305810811064115212/270319969",
+    "wm-target": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "like-of": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Michaël De Boey",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/4c253771a8d1f79422524c6dd9f74ea83b1255def284013494330c1b3792bdf1.jpg",
+      "url": "https://twitter.com/MichaelDeBoey93"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1305810811064115212#favorited-by-148502139",
+    "published": null,
+    "wm-received": "2020-09-15T11:38:01Z",
+    "wm-id": 852128,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1305810811064115212/148502139",
+    "wm-target": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "like-of": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "its",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/c8f41043f87c25af81a91513826ed81ecb7076ab496b34c1c8f5b837b051c49d.jpg",
+      "url": "https://twitter.com/itsgoingd"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1305810811064115212#favorited-by-137187102",
+    "published": null,
+    "wm-received": "2020-09-15T11:38:01Z",
+    "wm-id": 852129,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1305810811064115212/137187102",
+    "wm-target": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "like-of": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Jan D'Hollander",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/3230b3d22e22534cee51b917e928b34ee1c4f1b655907d78d5ae50a1dbaf5dea.jpg",
+      "url": "https://twitter.com/Jan_DHollander"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1305810811064115212#favorited-by-563821686",
+    "published": null,
+    "wm-received": "2020-09-15T11:38:02Z",
+    "wm-id": 852130,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1305810811064115212/563821686",
+    "wm-target": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "like-of": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Sylvain S.",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/3bbcdbd3b179026a162ca15a869814e326ccd9cdcbe66295cee47cc9bfe08702.jpg",
+      "url": "https://twitter.com/_maoosi"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1305810811064115212#favorited-by-2151249600",
+    "published": null,
+    "wm-received": "2020-09-15T11:38:03Z",
+    "wm-id": 852131,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1305810811064115212/2151249600",
+    "wm-target": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "like-of": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Mike Garrett",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/ac7dff96ed4937bc13823d572fde483d40e1125731bc4de3c5f46644973f7469.jpg",
+      "url": "https://twitter.com/MikeNGarrett"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1305810811064115212#favorited-by-3974551",
+    "published": null,
+    "wm-received": "2020-09-15T11:38:04Z",
+    "wm-id": 852132,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1305810811064115212/3974551",
+    "wm-target": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "like-of": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Eduardo Stuart",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/d908ffca5e226aac596520fcf522c939a6060f7136237d81d5413da9ef792f87.jpg",
+      "url": "https://twitter.com/eduardostuart"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1305810811064115212#favorited-by-8486682",
+    "published": null,
+    "wm-received": "2020-09-15T11:38:05Z",
+    "wm-id": 852133,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1305810811064115212/8486682",
+    "wm-target": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "like-of": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Bekele Debisa",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/b7d4828a30dbf23023a11f943c8bc9de4387877c5742e74e77085f1f93f1b998.jpg",
+      "url": "https://twitter.com/thema_d"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1305810811064115212#favorited-by-1176117872239742976",
+    "published": null,
+    "wm-received": "2020-09-15T11:38:05Z",
+    "wm-id": 852134,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1305810811064115212/1176117872239742976",
+    "wm-target": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "like-of": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Keith Knoer",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/40ec247e0d8dc796a079b2f3b088fad16328cdc5c326d564c87be32b32d83759.jpg",
+      "url": "https://twitter.com/kknoer"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1305810811064115212#favorited-by-28633363",
+    "published": null,
+    "wm-received": "2020-09-15T11:38:06Z",
+    "wm-id": 852135,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1305810811064115212/28633363",
+    "wm-target": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "like-of": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "issam ahwach",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/2a7c2f2d41b5328007cbebab0f3da79c13a8b669f40436dca903e2cf74103d8e.jpg",
+      "url": "https://twitter.com/issamahwach"
+    },
+    "url": "https://twitter.com/issamahwach/status/1305830561009881089",
+    "published": "2020-09-15T11:27:21+00:00",
+    "wm-received": "2020-09-15T11:38:08Z",
+    "wm-id": 852136,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1305810811064115212/1305830561009881089",
+    "wm-target": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "content": {
+      "text": "✒️ Moment.js, thank you for your service sebastiandedeyne.com/moment-js-than…"
+    },
+    "repost-of": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Michaël De Boey",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/4c253771a8d1f79422524c6dd9f74ea83b1255def284013494330c1b3792bdf1.jpg",
+      "url": "https://twitter.com/MichaelDeBoey93"
+    },
+    "url": "https://twitter.com/MichaelDeBoey93/status/1305829199043850240",
+    "published": "2020-09-15T11:21:56+00:00",
+    "wm-received": "2020-09-15T11:38:09Z",
+    "wm-id": 852137,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1305810811064115212/1305829199043850240",
+    "wm-target": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "content": {
+      "text": "✒️ Moment.js, thank you for your service sebastiandedeyne.com/moment-js-than…"
+    },
+    "repost-of": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Alexander Six",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/f61eda1e5e392e7c85480e345a433ea8accf543fe378b67866d9670fc2c3512c.jpg",
+      "url": "https://twitter.com/alexandersix_"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1305810811064115212#favorited-by-933028387609894912",
+    "published": null,
+    "wm-received": "2020-09-15T11:38:09Z",
+    "wm-id": 852138,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1305810811064115212/933028387609894912",
+    "wm-target": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "like-of": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "David Mehren",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/0082a882bf33ef69265fd0bb42c156d6807102e3d0b2ec05b9980104115c2901.jpg",
+      "url": "https://twitter.com/davebloggt"
+    },
+    "url": "https://twitter.com/davebloggt/status/1305827011227799552",
+    "published": "2020-09-15T11:13:15+00:00",
+    "wm-received": "2020-09-15T11:38:10Z",
+    "wm-id": 852139,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1305810811064115212/1305827011227799552",
+    "wm-target": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "content": {
+      "text": "✒️ Moment.js, thank you for your service sebastiandedeyne.com/moment-js-than…"
+    },
+    "repost-of": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Vincenzo Raco #StayHome",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/bf36579592dc8583c63b7e3c70633c18c99893ec624959afffa856677583c80e.jpg",
+      "url": "https://twitter.com/raco_vincenzo"
+    },
+    "url": "https://twitter.com/raco_vincenzo/status/1305822804621709318",
+    "published": "2020-09-15T10:56:32+00:00",
+    "wm-received": "2020-09-15T11:38:11Z",
+    "wm-id": 852140,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1305810811064115212/1305822804621709318",
+    "wm-target": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "content": {
+      "text": "✒️ Moment.js, thank you for your service sebastiandedeyne.com/moment-js-than…"
+    },
+    "repost-of": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "sander",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/bcdf14d1b6a1653589d933188281c8e7ba908f504fc0a8e1770a5d2a0b391b0e.jpg",
+      "url": "https://twitter.com/sajku"
+    },
+    "url": "https://twitter.com/sajku/status/1305821664828063744",
+    "published": "2020-09-15T10:52:00+00:00",
+    "wm-received": "2020-09-15T11:38:12Z",
+    "wm-id": 852141,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1305810811064115212/1305821664828063744",
+    "wm-target": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "content": {
+      "text": "✒️ Moment.js, thank you for your service sebastiandedeyne.com/moment-js-than…"
+    },
+    "repost-of": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Silali",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/0c09bca82229295eb39cc20e554ac6f9f929a17a5db4040c725b18334d3d510c.jpg",
+      "url": "https://twitter.com/silali2"
+    },
+    "url": "https://twitter.com/silali2/status/1305821331116752901",
+    "published": "2020-09-15T10:50:40+00:00",
+    "wm-received": "2020-09-15T11:38:13Z",
+    "wm-id": 852142,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1305810811064115212/1305821331116752901",
+    "wm-target": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "content": {
+      "text": "✒️ Moment.js, thank you for your service sebastiandedeyne.com/moment-js-than…"
+    },
+    "repost-of": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Stanzilla",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/f6ef45b50a9199e4b691c7008ed5c2c55427d11c5499cfd1ec10a4ceb980e89c.jpg",
+      "url": "https://twitter.com/stanzillaz"
+    },
+    "url": "https://twitter.com/stanzillaz/status/1305821289211408384",
+    "published": "2020-09-15T10:50:30+00:00",
+    "wm-received": "2020-09-15T11:38:14Z",
+    "wm-id": 852143,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1305810811064115212/1305821289211408384",
+    "wm-target": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "content": {
+      "text": "✒️ Moment.js, thank you for your service sebastiandedeyne.com/moment-js-than…"
+    },
+    "repost-of": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "K.",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/c9d60a615135e7360c7333d5af8bd1f1858bda8d30e0335bfda953de4d0cfef4.jpg",
+      "url": "https://twitter.com/kessir_"
+    },
+    "url": "https://twitter.com/kessir_/status/1305821228784123906",
+    "published": "2020-09-15T10:50:16+00:00",
+    "wm-received": "2020-09-15T11:38:15Z",
+    "wm-id": 852144,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1305810811064115212/1305821228784123906",
+    "wm-target": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "content": {
+      "text": "✒️ Moment.js, thank you for your service sebastiandedeyne.com/moment-js-than…"
+    },
+    "repost-of": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "dSoto",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/94b544c5f6a58b8a0aae72a9afba54cb17856dd115e9c72ae438e464dbe801e3.jpg",
+      "url": "https://twitter.com/sotoplatero"
+    },
+    "url": "https://twitter.com/sotoplatero/status/1305822124528087040",
+    "published": "2020-09-15T10:53:50+00:00",
+    "wm-received": "2020-09-15T11:38:15Z",
+    "wm-id": 852145,
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1305822124528087040",
+    "wm-target": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "content": {
+      "html": "Ohhh llegó el momento final de moment.js...gracias\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/\"></a>",
+      "text": "Ohhh llegó el momento final de moment.js...gracias"
+    },
+    "mention-of": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "wm-property": "mention-of",
+    "wm-private": false
+  }
+]
