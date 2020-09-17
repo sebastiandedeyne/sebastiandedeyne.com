@@ -2884,5 +2884,23 @@
     "like-of": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Barnabas Kecskes",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/0406d0d97ee9c064c1b52c3cbed48ac0758ba10936fd93251e4f287e5de09273.jpg",
+      "url": "https://twitter.com/BarnabasKecskes"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1305810811064115212#favorited-by-364561173",
+    "published": null,
+    "wm-received": "2020-09-17T08:09:17Z",
+    "wm-id": 853294,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1305810811064115212/364561173",
+    "wm-target": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "like-of": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
