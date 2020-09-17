@@ -2848,5 +2848,41 @@
     "like-of": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Maurizio",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/dc5452fde227c0087afca895e3b9725b45548500908d0b54fc6abfe4d009481a.jpg",
+      "url": "https://twitter.com/MaurizioLepora"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1305810811064115212#favorited-by-769472290639740929",
+    "published": null,
+    "wm-received": "2020-09-16T20:03:54Z",
+    "wm-id": 853138,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1305810811064115212/769472290639740929",
+    "wm-target": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "like-of": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Mattia Migliorini",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/6a14d8731444fcf670d427ee16ad97fc65dfe4e29f840187f09628d899c88854.jpg",
+      "url": "https://twitter.com/_deshack"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1305810811064115212#favorited-by-617127757",
+    "published": null,
+    "wm-received": "2020-09-16T20:55:47Z",
+    "wm-id": 853153,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1305810811064115212/617127757",
+    "wm-target": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "like-of": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
