@@ -2098,5 +2098,27 @@
     "mention-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
     "wm-property": "mention-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Pere Casas",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/71f2172fdfbcf1573eb5abd30899d11d0c88fa91a58eeab225fd6fbf1005dc9f.jpg",
+      "url": "https://twitter.com/CasasPerep"
+    },
+    "url": "https://twitter.com/CasasPerep/status/1306915861916192769",
+    "published": "2020-09-18T11:19:57+00:00",
+    "wm-received": "2020-09-18T11:32:28Z",
+    "wm-id": 853534,
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1306915861916192769",
+    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "content": {
+      "html": "Innertia.js vs Livewire 🥊￼\n<a href=\"https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/\">sebastiandedeyne.com/inertia-js-and…</a>",
+      "text": "Innertia.js vs Livewire 🥊￼\nsebastiandedeyne.com/inertia-js-and…"
+    },
+    "mention-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "wm-property": "mention-of",
+    "wm-private": false
   }
 ]
