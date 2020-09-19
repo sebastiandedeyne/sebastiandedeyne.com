@@ -2902,5 +2902,23 @@
     "like-of": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Michael Rog",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/db5fbdbc1ba259eb5e761e1f0887d73474fed18ea67bcf79c3b373ba424ac380.jpg",
+      "url": "https://twitter.com/michaelrog"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1305810811064115212#favorited-by-11211252",
+    "published": null,
+    "wm-received": "2020-09-18T20:04:08Z",
+    "wm-id": 853592,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1305810811064115212/11211252",
+    "wm-target": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "like-of": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
