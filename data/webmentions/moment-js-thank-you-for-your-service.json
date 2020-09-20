@@ -2920,5 +2920,23 @@
     "like-of": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "José Cage",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/813485e34c08384ba64d384b450c7c705536cdfb090e9cee4833637645d28f18.jpg",
+      "url": "https://twitter.com/cagejose"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1305810811064115212#favorited-by-944899327",
+    "published": null,
+    "wm-received": "2020-09-19T18:39:32Z",
+    "wm-id": 853752,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1305810811064115212/944899327",
+    "wm-target": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "like-of": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
