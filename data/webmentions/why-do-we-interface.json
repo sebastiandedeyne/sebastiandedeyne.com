@@ -328,5 +328,23 @@
     "like-of": "https://sebastiandedeyne.com/why-do-we-interface/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "José Cage",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/813485e34c08384ba64d384b450c7c705536cdfb090e9cee4833637645d28f18.jpg",
+      "url": "https://twitter.com/cagejose"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1307932729414123520#favorited-by-944899327",
+    "published": null,
+    "wm-received": "2020-09-21T17:56:26Z",
+    "wm-id": 854287,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1307932729414123520/944899327",
+    "wm-target": "https://sebastiandedeyne.com/why-do-we-interface/",
+    "like-of": "https://sebastiandedeyne.com/why-do-we-interface/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
