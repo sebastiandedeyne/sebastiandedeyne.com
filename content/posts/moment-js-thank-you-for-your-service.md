@@ -3,6 +3,9 @@ title: "Moment.js, thank you for your service"
 slug: moment-js-thank-you-for-your-service
 date: 2020-09-15
 categories: ["articles"]
+keywords:
+  - JavaScript
+  - OSS
 ---
 
 If you've dealt with dates in the browser, chances are you've used [Moment.js](https://momentjs.com). Moment has been _the_ date library for JavaScript in the past years. In a humble prelude of the documentation, the Moment maintainers talk about the (near) deprecated status of the project.
