@@ -1,0 +1,332 @@
+[
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Ihor Vorotnov",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/5688ef05e60048056e6aa7bb773044c44477a61880f980347ecbb2c994dd2e2e.jpg",
+      "url": "https://twitter.com/ihorvorotnov"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1307932729414123520#favorited-by-13469332",
+    "published": null,
+    "wm-received": "2020-09-21T07:16:26Z",
+    "wm-id": 854094,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1307932729414123520/13469332",
+    "wm-target": "https://sebastiandedeyne.com/why-do-we-interface/",
+    "like-of": "https://sebastiandedeyne.com/why-do-we-interface/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Alexander Hoffmann",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/bec8d32d4a05cb4677bdcfd10c7e37c956b209877548b743facf52641bbb7c34.jpg",
+      "url": "https://twitter.com/cookingcodermuc"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1307932729414123520#favorited-by-1532148961",
+    "published": null,
+    "wm-received": "2020-09-21T07:16:26Z",
+    "wm-id": 854095,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1307932729414123520/1532148961",
+    "wm-target": "https://sebastiandedeyne.com/why-do-we-interface/",
+    "like-of": "https://sebastiandedeyne.com/why-do-we-interface/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "𝗠𝘆𝗿𝗼𝘀𝗹𝗮𝘃 2.0 🇺🇦",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/e86cd6b586934719e46ca6097ef0cdaa492cdca7193fac37adba8acf10b1e41f.jpg",
+      "url": "https://twitter.com/myroslavco"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1307932729414123520#favorited-by-252151360",
+    "published": null,
+    "wm-received": "2020-09-21T07:16:28Z",
+    "wm-id": 854096,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1307932729414123520/252151360",
+    "wm-target": "https://sebastiandedeyne.com/why-do-we-interface/",
+    "like-of": "https://sebastiandedeyne.com/why-do-we-interface/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Freek Van der Herten",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/389862c8a30722a50adbdf8f8388f6f8ed1a665bc1b69e4355ed98b6f2e01afb.jpg",
+      "url": "https://twitter.com/freekmurze"
+    },
+    "url": "https://twitter.com/freekmurze/status/1307939771096891392",
+    "published": "2020-09-21T07:08:36+00:00",
+    "wm-received": "2020-09-21T07:16:28Z",
+    "wm-id": 854097,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1307932729414123520/1307939771096891392",
+    "wm-target": "https://sebastiandedeyne.com/why-do-we-interface/",
+    "content": {
+      "text": "🔗Why Do We Interface?\n\nWe need to understand *why* we need interfaces in order to build better ones sebastiandedeyne.com/why-do-we-inte…"
+    },
+    "repost-of": "https://sebastiandedeyne.com/why-do-we-interface/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Robin Dirksen",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/21c285970183e6c593d08e5877e992f144bbccaa434174e8e3b1c5a8eb571326.jpg",
+      "url": "https://twitter.com/robindirksen1"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1307932729414123520#favorited-by-826787304165560321",
+    "published": null,
+    "wm-received": "2020-09-21T07:55:36Z",
+    "wm-id": 854099,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1307932729414123520/826787304165560321",
+    "wm-target": "https://sebastiandedeyne.com/why-do-we-interface/",
+    "like-of": "https://sebastiandedeyne.com/why-do-we-interface/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Jesus O.",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/57b207d5a3f04c37416e07f59afef4326531e13de45b6988bd5f90a1cc3bd350.jpg",
+      "url": "https://twitter.com/Jeop10"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1307932729414123520#favorited-by-108797360",
+    "published": null,
+    "wm-received": "2020-09-21T07:55:36Z",
+    "wm-id": 854100,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1307932729414123520/108797360",
+    "wm-target": "https://sebastiandedeyne.com/why-do-we-interface/",
+    "like-of": "https://sebastiandedeyne.com/why-do-we-interface/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Leo Sjöberg",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/313fcf07ea7eb29a83a6b83cc10568ae0d601f016e577ae1595fd65bfc1414cd.jpg",
+      "url": "https://twitter.com/Phroggyy"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1307932729414123520#favorited-by-201161804",
+    "published": null,
+    "wm-received": "2020-09-21T07:55:38Z",
+    "wm-id": 854101,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1307932729414123520/201161804",
+    "wm-target": "https://sebastiandedeyne.com/why-do-we-interface/",
+    "like-of": "https://sebastiandedeyne.com/why-do-we-interface/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Linus Juhlin 🌋",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/148358af1f7b3a02c67006b1c21ec6c84b807453f74ef70eacfaf28b75137e1b.jpg",
+      "url": "https://twitter.com/juhlinus"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1307932729414123520#favorited-by-92947761",
+    "published": null,
+    "wm-received": "2020-09-21T07:55:39Z",
+    "wm-id": 854102,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1307932729414123520/92947761",
+    "wm-target": "https://sebastiandedeyne.com/why-do-we-interface/",
+    "like-of": "https://sebastiandedeyne.com/why-do-we-interface/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Tom Witkowski",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/4c6a0072545bab629442313c0b6d9a2cd920b338d3f3132c0e23a1f1175e382a.jpg",
+      "url": "https://twitter.com/devgummibeer"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1307932729414123520#favorited-by-2995381594",
+    "published": null,
+    "wm-received": "2020-09-21T07:55:41Z",
+    "wm-id": 854103,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1307932729414123520/2995381594",
+    "wm-target": "https://sebastiandedeyne.com/why-do-we-interface/",
+    "like-of": "https://sebastiandedeyne.com/why-do-we-interface/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Anton Kristensen",
+      "photo": "https://webmention.io/avatar/abs.twimg.com/0e6b2cd70aa5b35dec24ca4e1e63f8963f0118736d9ec3bba77e3a8c99a27bc2.png",
+      "url": "https://twitter.com/anton_n_k"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1307932729414123520#favorited-by-900607711347445760",
+    "published": null,
+    "wm-received": "2020-09-21T08:31:17Z",
+    "wm-id": 854131,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1307932729414123520/900607711347445760",
+    "wm-target": "https://sebastiandedeyne.com/why-do-we-interface/",
+    "like-of": "https://sebastiandedeyne.com/why-do-we-interface/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Cyril de Wit",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/024226e454853ac712e85cd3c646b7f3aea99b8adb6399176042dbc5db88903c.jpg",
+      "url": "https://twitter.com/cyrildewit"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1307932729414123520#favorited-by-2172253302",
+    "published": null,
+    "wm-received": "2020-09-21T08:31:18Z",
+    "wm-id": 854132,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1307932729414123520/2172253302",
+    "wm-target": "https://sebastiandedeyne.com/why-do-we-interface/",
+    "like-of": "https://sebastiandedeyne.com/why-do-we-interface/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Tauseef shah",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/433f5461b05765e077dc67230d8e18ac4290917e9e8d59a7e57dc2d54de1e8f5.jpg",
+      "url": "https://twitter.com/tauseeeeeef"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1307932729414123520#favorited-by-2476541736",
+    "published": null,
+    "wm-received": "2020-09-21T09:09:38Z",
+    "wm-id": 854144,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1307932729414123520/2476541736",
+    "wm-target": "https://sebastiandedeyne.com/why-do-we-interface/",
+    "like-of": "https://sebastiandedeyne.com/why-do-we-interface/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "paanblogger",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/029af41e1fc799256a5982552cac33ba1c52fa8e2250c4b8c719a51ec3c9b682.jpg",
+      "url": "https://twitter.com/paanblogger"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1307932729414123520#favorited-by-15893552",
+    "published": null,
+    "wm-received": "2020-09-21T09:09:49Z",
+    "wm-id": 854145,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1307932729414123520/15893552",
+    "wm-target": "https://sebastiandedeyne.com/why-do-we-interface/",
+    "like-of": "https://sebastiandedeyne.com/why-do-we-interface/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Silali",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/0c09bca82229295eb39cc20e554ac6f9f929a17a5db4040c725b18334d3d510c.jpg",
+      "url": "https://twitter.com/silali2"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1307932729414123520#favorited-by-2785301166",
+    "published": null,
+    "wm-received": "2020-09-21T09:10:12Z",
+    "wm-id": 854146,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1307932729414123520/2785301166",
+    "wm-target": "https://sebastiandedeyne.com/why-do-we-interface/",
+    "like-of": "https://sebastiandedeyne.com/why-do-we-interface/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Mosab Ibrahim",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/f1483299df5ab345208636537970213d71881baac86c627ec33cc94931ce5329.jpg",
+      "url": "https://twitter.com/miaababikir"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1307932729414123520#favorited-by-1112840588091637761",
+    "published": null,
+    "wm-received": "2020-09-21T09:51:30Z",
+    "wm-id": 854158,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1307932729414123520/1112840588091637761",
+    "wm-target": "https://sebastiandedeyne.com/why-do-we-interface/",
+    "like-of": "https://sebastiandedeyne.com/why-do-we-interface/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "oluwajubelo loves VueJS 🚨",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/b46941f64275ee2ae7ae9618ba0d3b60e9ab8ce6a343ff90b0e905321a4c24de.jpg",
+      "url": "https://twitter.com/igeoluwasegun1"
+    },
+    "url": "https://twitter.com/igeoluwasegun1/status/1307977886675148800",
+    "published": "2020-09-21T09:40:03+00:00",
+    "wm-received": "2020-09-21T09:51:31Z",
+    "wm-id": 854159,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1307932729414123520/1307977886675148800",
+    "wm-target": "https://sebastiandedeyne.com/why-do-we-interface/",
+    "content": {
+      "text": "🔗Why Do We Interface?\n\nWe need to understand *why* we need interfaces in order to build better ones sebastiandedeyne.com/why-do-we-inte…"
+    },
+    "repost-of": "https://sebastiandedeyne.com/why-do-we-interface/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "oluwajubelo loves VueJS 🚨",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/b46941f64275ee2ae7ae9618ba0d3b60e9ab8ce6a343ff90b0e905321a4c24de.jpg",
+      "url": "https://twitter.com/igeoluwasegun1"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1307932729414123520#favorited-by-982451690",
+    "published": null,
+    "wm-received": "2020-09-21T09:52:07Z",
+    "wm-id": 854160,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1307932729414123520/982451690",
+    "wm-target": "https://sebastiandedeyne.com/why-do-we-interface/",
+    "like-of": "https://sebastiandedeyne.com/why-do-we-interface/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Maurice Hofman",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/031296c9db141f8a71781b9cd55683ea980e6fe01f388ddf447c4542122711b3.jpg",
+      "url": "https://twitter.com/mauricehofman"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1307932729414123520#favorited-by-820611256793047040",
+    "published": null,
+    "wm-received": "2020-09-21T11:04:51Z",
+    "wm-id": 854168,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1307932729414123520/820611256793047040",
+    "wm-target": "https://sebastiandedeyne.com/why-do-we-interface/",
+    "like-of": "https://sebastiandedeyne.com/why-do-we-interface/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+]
