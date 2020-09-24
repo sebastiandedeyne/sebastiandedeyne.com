@@ -127,5 +127,23 @@
     "like-of": "https://sebastiandedeyne.com/dont-get-stuck/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Geoffrey Bachelet",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/374c04e607cb8dbd1f2c3db98325139cd25451a4b540ecd3615c1dc8e571849c.jpg",
+      "url": "https://twitter.com/ubermuda"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1308655870029500416#favorited-by-12680672",
+    "published": null,
+    "wm-received": "2020-09-23T22:14:22Z",
+    "wm-id": 855195,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1308655870029500416/12680672",
+    "wm-target": "https://sebastiandedeyne.com/dont-get-stuck/",
+    "like-of": "https://sebastiandedeyne.com/dont-get-stuck/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
