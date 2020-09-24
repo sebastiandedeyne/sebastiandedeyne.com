@@ -425,5 +425,23 @@
     "like-of": "https://sebastiandedeyne.com/why-do-we-interface/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Thore Sünert",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/bbd32807c83ad0b5934ad267b6cf1ff69cdea9a223acb96b525785781972913b.jpg",
+      "url": "https://twitter.com/thoresuenert"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1307932729414123520#favorited-by-178718254",
+    "published": null,
+    "wm-received": "2020-09-24T17:30:19Z",
+    "wm-id": 857042,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1307932729414123520/178718254",
+    "wm-target": "https://sebastiandedeyne.com/why-do-we-interface/",
+    "like-of": "https://sebastiandedeyne.com/why-do-we-interface/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
