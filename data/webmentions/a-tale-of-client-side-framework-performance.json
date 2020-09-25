@@ -1,0 +1,44 @@
+[
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Chris Ferdinandi ⚓️",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/c08ae1c4d75a3dae935062d5b6c914feff7cfbdafdb527c237ab3af3caa59ebc.jpg",
+      "url": "https://twitter.com/ChrisFerdinandi"
+    },
+    "url": "https://twitter.com/ChrisFerdinandi/status/1309451173079011329",
+    "published": "2020-09-25T11:14:22+00:00",
+    "wm-received": "2020-09-25T11:33:25Z",
+    "wm-id": 857607,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1309449057048375302/1309451173079011329",
+    "wm-target": "https://sebastiandedeyne.com/a-tale-of-client-side-framework-performance/",
+    "content": {
+      "text": "🔗 It's no surprise than handling an event in vanilla JavaScript runs faster than React, but it's interesting to see the numbers and talk abo"
+    },
+    "repost-of": "https://sebastiandedeyne.com/a-tale-of-client-side-framework-performance/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Tom Tchuss",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/bdb1b1165987e0a08f4e5ec12c30df85961cf63384187f8fcd53565b70b8a876.jpg",
+      "url": "https://twitter.com/ThomasClone_US"
+    },
+    "url": "https://twitter.com/ThomasClone_US/status/1309449081043980288",
+    "published": "2020-09-25T11:06:03+00:00",
+    "wm-received": "2020-09-25T11:33:28Z",
+    "wm-id": 857609,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1309449057048375302/1309449081043980288",
+    "wm-target": "https://sebastiandedeyne.com/a-tale-of-client-side-framework-performance/",
+    "content": {
+      "text": "🔗 It's no surprise than handling an event in vanilla JavaScript runs faster than React, but it's interesting to see the numbers and talk abo"
+    },
+    "repost-of": "https://sebastiandedeyne.com/a-tale-of-client-side-framework-performance/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  }
+]
