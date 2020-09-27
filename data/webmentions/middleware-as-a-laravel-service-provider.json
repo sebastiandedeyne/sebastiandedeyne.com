@@ -1000,5 +1000,27 @@
     "repost-of": "https://sebastiandedeyne.com/middleware-as-a-laravel-service-provider/",
     "wm-property": "repost-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Peter Thaleikis",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/dabf5d9c97b46f4abfee213b5c8322c13a358a79ffcc72b9dbc8a6d9d71bd550.jpg",
+      "url": "https://twitter.com/spekulatius1984"
+    },
+    "url": "https://twitter.com/spekulatius1984/status/1310242795521814531",
+    "published": "2020-09-27T15:40:00+00:00",
+    "wm-received": "2020-09-27T16:04:32Z",
+    "wm-id": 858361,
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1310242795521814531",
+    "wm-target": "https://sebastiandedeyne.com/middleware-as-a-laravel-service-provider/",
+    "content": {
+      "html": "Middleware as a <a href=\"https://twitter.com/Laravel\">@Laravel</a> service provider:\n\n<a href=\"https://sebastiandedeyne.com/middleware-as-a-laravel-service-provider/\">sebastiandedeyne.com/middleware-as-…</a>",
+      "text": "Middleware as a @Laravel service provider:\n\nsebastiandedeyne.com/middleware-as-…"
+    },
+    "mention-of": "https://sebastiandedeyne.com/middleware-as-a-laravel-service-provider/",
+    "wm-property": "mention-of",
+    "wm-private": false
   }
 ]
