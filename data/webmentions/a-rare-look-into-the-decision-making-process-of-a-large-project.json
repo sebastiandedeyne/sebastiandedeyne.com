@@ -575,5 +575,30 @@
     "like-of": "https://sebastiandedeyne.com/a-rare-look-into-the-decision-making-process-of-a-large-project/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "D4DDYKR4K3N",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/011513b1779ca40e5cf16bdfb524ad9214640e19e67452dc1e659626c7b11e9f.jpg",
+      "url": "https://twitter.com/DaddyKrakenProd"
+    },
+    "url": "https://twitter.com/DaddyKrakenProd/status/1310766358808887297",
+    "published": "2020-09-29T02:20:27+00:00",
+    "wm-received": "2020-09-29T02:24:15Z",
+    "wm-id": 859139,
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1310766358808887297",
+    "wm-target": "https://sebastiandedeyne.com/a-rare-look-into-the-decision-making-process-of-a-large-project/",
+    "photo": [
+      "https://pbs.twimg.com/media/EjDHDZLU4AACKrK.jpg"
+    ],
+    "content": {
+      "html": "W3C decides not to use Wordpress for their next website <a href=\"https://sebastiandedeyne.com/a-rare-look-into-the-decision-making-process-of-a-large-project/\">sebastiandedeyne.com/a-rare-look-in…</a>",
+      "text": "W3C decides not to use Wordpress for their next website sebastiandedeyne.com/a-rare-look-in…"
+    },
+    "mention-of": "https://sebastiandedeyne.com/a-rare-look-into-the-decision-making-process-of-a-large-project/",
+    "wm-property": "mention-of",
+    "wm-private": false
   }
 ]
