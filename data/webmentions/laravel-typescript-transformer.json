@@ -109,5 +109,41 @@
     "like-of": "https://sebastiandedeyne.com/laravel-typescript-transformer/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Ruslan",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/6114334d09745c23c21d748a3ffb0e5f0972472d77df8a83d2914859cbd3b5fd.jpg",
+      "url": "https://twitter.com/SuddenlyRust"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1310853999797641216#favorited-by-935107835045842944",
+    "published": null,
+    "wm-received": "2020-09-29T13:32:00Z",
+    "wm-id": 860266,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1310853999797641216/935107835045842944",
+    "wm-target": "https://sebastiandedeyne.com/laravel-typescript-transformer/",
+    "like-of": "https://sebastiandedeyne.com/laravel-typescript-transformer/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "José Cage",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/813485e34c08384ba64d384b450c7c705536cdfb090e9cee4833637645d28f18.jpg",
+      "url": "https://twitter.com/cagejose"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1310853999797641216#favorited-by-944899327",
+    "published": null,
+    "wm-received": "2020-09-29T15:59:58Z",
+    "wm-id": 860411,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1310853999797641216/944899327",
+    "wm-target": "https://sebastiandedeyne.com/laravel-typescript-transformer/",
+    "like-of": "https://sebastiandedeyne.com/laravel-typescript-transformer/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
