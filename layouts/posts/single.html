@@ -84,12 +84,22 @@
         {{ range . }}
           <li class="mb-6">
             <p class="font-medium leading-snug">
-              <a href="{{ .RelPermalink }}">
+                <a
+                  href="{{ .RelPermalink }}"
+                  {{ if eq (getenv "HUGO_ENV") "production" }}
+                    onclick="window.fathom.trackGoal('AZWRBU1J', 0);"
+                  {{ end }}
+                >
                 {{ .Title }}
               </a>
             </p>
             <p class="text-sm text-gray-700">
-              <a href="{{ .RelPermalink }}">
+              <a
+                href="{{ .RelPermalink }}"
+                {{ if eq (getenv "HUGO_ENV") "production" }}
+                  onclick="window.fathom.trackGoal('AZWRBU1J', 0);"
+                {{ end }}
+              >
                 <time datetime="{{ .Date.Format "2006-01-02" }}">
                   {{ .Date.Format "January 2, 2006" }}
                 </time>
