@@ -2938,5 +2938,27 @@
     "like-of": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Peter van der Zee",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/6a97fe5a879e5e00cd761a4d9d025203feba3220df72e0323999e1e563856d2c.jpg",
+      "url": "https://twitter.com/kuvos"
+    },
+    "url": "https://twitter.com/kuvos/status/1311257766065995776",
+    "published": "2020-09-30T10:53:08+00:00",
+    "wm-received": "2020-09-30T11:07:23Z",
+    "wm-id": 861104,
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1311257766065995776",
+    "wm-target": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "content": {
+      "html": "Ah yes, I guess it was. Thank you :) :taco: <a href=\"https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/\">sebastiandedeyne.com/moment-js-than…</a>",
+      "text": "Ah yes, I guess it was. Thank you :) :taco: sebastiandedeyne.com/moment-js-than…"
+    },
+    "mention-of": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "wm-property": "mention-of",
+    "wm-private": false
   }
 ]
