@@ -145,5 +145,27 @@
     "like-of": "https://sebastiandedeyne.com/laravel-typescript-transformer/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Laravel Daily",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/7c0d19fa456ded2abd78330dcb0f9d953c40cc168b23d20b6a18dd5850b08ab8.jpg",
+      "url": "https://twitter.com/DailyLaravel"
+    },
+    "url": "https://twitter.com/DailyLaravel/status/1311672974295138305",
+    "published": "2020-10-01T14:23:01+00:00",
+    "wm-received": "2020-10-01T14:58:00Z",
+    "wm-id": 862274,
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1311672974295138305",
+    "wm-target": "https://sebastiandedeyne.com/laravel-typescript-transformer/",
+    "content": {
+      "html": "Laravel Typescript Transformer <a href=\"https://sebastiandedeyne.com/laravel-typescript-transformer/\">sebastiandedeyne.com/laravel-typesc…</a>",
+      "text": "Laravel Typescript Transformer sebastiandedeyne.com/laravel-typesc…"
+    },
+    "mention-of": "https://sebastiandedeyne.com/laravel-typescript-transformer/",
+    "wm-property": "mention-of",
+    "wm-private": false
   }
 ]
