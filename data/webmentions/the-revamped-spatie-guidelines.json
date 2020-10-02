@@ -109,5 +109,139 @@
     "repost-of": "https://sebastiandedeyne.com/the-revamped-spatie-guidelines/",
     "wm-property": "repost-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Phil Betley",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/dff06436f72fdd8ddb2ae23f47c08b3447d389b3bb100b82b49d5c839f407e46.jpg",
+      "url": "https://twitter.com/JPBetley"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1311994393742761990#favorited-by-291966254",
+    "published": null,
+    "wm-received": "2020-10-02T13:07:46Z",
+    "wm-id": 863438,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1311994393742761990/291966254",
+    "wm-target": "https://sebastiandedeyne.com/the-revamped-spatie-guidelines/",
+    "like-of": "https://sebastiandedeyne.com/the-revamped-spatie-guidelines/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Akin",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/f95c467db5f77cdf977a2ebc50616440b2868f5f6aeadd527ec1d8d48d67a50f.jpg",
+      "url": "https://twitter.com/akoshodi"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1311994393742761990#favorited-by-43550567",
+    "published": null,
+    "wm-received": "2020-10-02T14:01:13Z",
+    "wm-id": 863494,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1311994393742761990/43550567",
+    "wm-target": "https://sebastiandedeyne.com/the-revamped-spatie-guidelines/",
+    "like-of": "https://sebastiandedeyne.com/the-revamped-spatie-guidelines/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Gytis Karčiauskas",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/0a48283896fa0042ca332d320bc724ced0e8ab06375b794522c7f6e799c541df.png",
+      "url": "https://twitter.com/karciauskas"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1311994393742761990#favorited-by-223617570",
+    "published": null,
+    "wm-received": "2020-10-02T14:40:48Z",
+    "wm-id": 863523,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1311994393742761990/223617570",
+    "wm-target": "https://sebastiandedeyne.com/the-revamped-spatie-guidelines/",
+    "like-of": "https://sebastiandedeyne.com/the-revamped-spatie-guidelines/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Krystian Duma",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/3c257f0758a06f3e991792f0accbf57f26c84683e594594f0f4c06cea139acb7.jpg",
+      "url": "https://twitter.com/krystianduma"
+    },
+    "url": "https://twitter.com/krystianduma/status/1312038471691894785",
+    "published": "2020-10-02T14:35:22+00:00",
+    "wm-received": "2020-10-02T14:40:49Z",
+    "wm-id": 863524,
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/sebdedeyne/1311994393742761990/1312038471691894785",
+    "wm-target": "https://sebastiandedeyne.com/the-revamped-spatie-guidelines/",
+    "content": {
+      "html": "I don’t think placing demos on subdomains of your main domain is secure nor private 😀\nYou know that DNS is not private, right?\n<a class=\"u-mention\" href=\"http://spatie.be/\"></a>\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/\"></a>\n<a class=\"u-mention\" href=\"https://spatie.be/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/freekmurze\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/sebdedeyne\"></a>",
+      "text": "I don’t think placing demos on subdomains of your main domain is secure nor private 😀\nYou know that DNS is not private, right?"
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/the-revamped-spatie-guidelines/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Babul A. Mukherjee",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/d3926c61f48f03bd9ead24a70fb714bcfa549dee067cd724f7d738395a96573d.jpg",
+      "url": "https://twitter.com/tmgBabul"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1311994393742761990#favorited-by-22333845",
+    "published": null,
+    "wm-received": "2020-10-02T15:28:37Z",
+    "wm-id": 863583,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1311994393742761990/22333845",
+    "wm-target": "https://sebastiandedeyne.com/the-revamped-spatie-guidelines/",
+    "like-of": "https://sebastiandedeyne.com/the-revamped-spatie-guidelines/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Sebastian De Deyne",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/3ce609991342657b8b7e99eb7a5c6e3656fbdb1c51575f1464d354b81aaeda86.jpg",
+      "url": "https://twitter.com/sebdedeyne"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1312046378919616517",
+    "published": "2020-10-02T15:06:48+00:00",
+    "wm-received": "2020-10-02T15:28:37Z",
+    "wm-id": 863584,
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/sebdedeyne/1311994393742761990/1312046378919616517",
+    "wm-target": "https://sebastiandedeyne.com/the-revamped-spatie-guidelines/",
+    "content": {
+      "html": "If it needs to be private or secure, we look into different options. In 90% of the cases, it doesn’t matter.\n<a class=\"u-mention\" href=\"http://spatie.be/\"></a>\n<a class=\"u-mention\" href=\"https://spatie.be/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/freekmurze\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/krystianduma\"></a>",
+      "text": "If it needs to be private or secure, we look into different options. In 90% of the cases, it doesn’t matter."
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/the-revamped-spatie-guidelines/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Songhua Hu",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/2cc9752adc705653a01412fcb3d011500c0522c6ea8ade38cdf8b7680cf43df8.jpg",
+      "url": "https://twitter.com/Songhua"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1311994393742761990#favorited-by-23150992",
+    "published": null,
+    "wm-received": "2020-10-02T15:28:39Z",
+    "wm-id": 863585,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1311994393742761990/23150992",
+    "wm-target": "https://sebastiandedeyne.com/the-revamped-spatie-guidelines/",
+    "like-of": "https://sebastiandedeyne.com/the-revamped-spatie-guidelines/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
