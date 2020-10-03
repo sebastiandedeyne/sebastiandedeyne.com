@@ -657,5 +657,27 @@
     "repost-of": "https://sebastiandedeyne.com/a-rare-look-into-the-decision-making-process-of-a-large-project/",
     "wm-property": "repost-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Yohan J. Rodríguez",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/7e6f903bb1f4d6522292e6686c5090a87c87fbf9cae501f1495bc1262d7da966.jpg",
+      "url": "https://twitter.com/hasdid"
+    },
+    "url": "https://twitter.com/hasdid/status/1312177377594621955",
+    "published": "2020-10-02T23:47:20+00:00",
+    "wm-received": "2020-10-03T00:27:07Z",
+    "wm-id": 863796,
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1312177377594621955",
+    "wm-target": "https://sebastiandedeyne.com/a-rare-look-into-the-decision-making-process-of-a-large-project/",
+    "content": {
+      "html": "<a href=\"https://twitter.com/search?q=%23PHPNews\">#PHPNews</a> <a href=\"https://twitter.com/search?q=%23PHP\">#PHP</a> <a href=\"https://twitter.com/search?q=%23Automated\">#Automated</a> | W3C wont use WordPress for their next website <a href=\"https://sebastiandedeyne.com/a-rare-look-into-the-decision-making-process-of-a-large-project\">sebastiandedeyne.com/a-rare-look-in…</a>\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/a-rare-look-into-the-decision-making-process-of-a-large-project/\"></a>",
+      "text": "#PHPNews #PHP #Automated | W3C wont use WordPress for their next website sebastiandedeyne.com/a-rare-look-in…"
+    },
+    "mention-of": "https://sebastiandedeyne.com/a-rare-look-into-the-decision-making-process-of-a-large-project/",
+    "wm-property": "mention-of",
+    "wm-private": false
   }
 ]
