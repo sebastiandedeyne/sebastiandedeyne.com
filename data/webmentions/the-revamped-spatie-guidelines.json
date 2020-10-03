@@ -285,5 +285,41 @@
     "repost-of": "https://sebastiandedeyne.com/the-revamped-spatie-guidelines/",
     "wm-property": "repost-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Roman Pronskiy",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/9373f62b650e88f9265f5742739d93f3fbaa1f7d60d8593c694c25821996528e.png",
+      "url": "https://twitter.com/pronskiy"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1311994393742761990#favorited-by-156592964",
+    "published": null,
+    "wm-received": "2020-10-03T07:56:30Z",
+    "wm-id": 864029,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1311994393742761990/156592964",
+    "wm-target": "https://sebastiandedeyne.com/the-revamped-spatie-guidelines/",
+    "like-of": "https://sebastiandedeyne.com/the-revamped-spatie-guidelines/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Steve McDougall",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/028e0a3c19bf13ac60138ea92d5b76a5e18b982a3dcfc9bbcaee04b18bc25869.jpg",
+      "url": "https://twitter.com/JustSteveKing"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1311994393742761990#favorited-by-1137428664",
+    "published": null,
+    "wm-received": "2020-10-03T10:51:15Z",
+    "wm-id": 864162,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1311994393742761990/1137428664",
+    "wm-target": "https://sebastiandedeyne.com/the-revamped-spatie-guidelines/",
+    "like-of": "https://sebastiandedeyne.com/the-revamped-spatie-guidelines/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
