@@ -504,5 +504,41 @@
     "like-of": "https://sebastiandedeyne.com/the-revamped-spatie-guidelines/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Luiz Eduardo",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/c1e3df5c89d36b0dc3ef8c08367e3564ca137823c3988cdcd06331a8d9b4ae6b.jpg",
+      "url": "https://twitter.com/luizeof"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1311994393742761990#favorited-by-14584595",
+    "published": null,
+    "wm-received": "2020-10-04T08:36:56Z",
+    "wm-id": 864800,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1311994393742761990/14584595",
+    "wm-target": "https://sebastiandedeyne.com/the-revamped-spatie-guidelines/",
+    "like-of": "https://sebastiandedeyne.com/the-revamped-spatie-guidelines/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Daniel",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/ece1042e9242019cf9f90d834fff5c451612ed4b5135f08343a7428d313e703f.jpg",
+      "url": "https://twitter.com/bashgeek"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1311994393742761990#favorited-by-48294665",
+    "published": null,
+    "wm-received": "2020-10-04T09:22:34Z",
+    "wm-id": 864815,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1311994393742761990/48294665",
+    "wm-target": "https://sebastiandedeyne.com/the-revamped-spatie-guidelines/",
+    "like-of": "https://sebastiandedeyne.com/the-revamped-spatie-guidelines/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
