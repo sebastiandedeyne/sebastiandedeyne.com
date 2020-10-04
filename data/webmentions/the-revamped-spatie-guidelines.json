@@ -321,5 +321,188 @@
     "like-of": "https://sebastiandedeyne.com/the-revamped-spatie-guidelines/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Ivars",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/bff4d80594cf73a24514fbc578191a7c2ef492477ce9d392ea58b1328e6c78cc.png",
+      "url": "https://twitter.com/kartejais"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1311994393742761990#favorited-by-125952057",
+    "published": null,
+    "wm-received": "2020-10-03T18:40:11Z",
+    "wm-id": 864403,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1311994393742761990/125952057",
+    "wm-target": "https://sebastiandedeyne.com/the-revamped-spatie-guidelines/",
+    "like-of": "https://sebastiandedeyne.com/the-revamped-spatie-guidelines/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Sidrit Trandafili",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/68d145ceda40f8536e532e9e588d6b3f1d3b5e0f6faac43398c006e8aa90cd3b.jpg",
+      "url": "https://twitter.com/strandafili"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1311994393742761990#favorited-by-6256912",
+    "published": null,
+    "wm-received": "2020-10-03T18:40:11Z",
+    "wm-id": 864404,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1311994393742761990/6256912",
+    "wm-target": "https://sebastiandedeyne.com/the-revamped-spatie-guidelines/",
+    "like-of": "https://sebastiandedeyne.com/the-revamped-spatie-guidelines/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Meet Thosar",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/6b88d0fffbe714907e04fa9ddde59c04ee18a3ecd54ec615c8dab65fc9036d2d.jpg",
+      "url": "https://twitter.com/thosar_meet"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1311994393742761990#favorited-by-957070734605606912",
+    "published": null,
+    "wm-received": "2020-10-03T18:40:13Z",
+    "wm-id": 864405,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1311994393742761990/957070734605606912",
+    "wm-target": "https://sebastiandedeyne.com/the-revamped-spatie-guidelines/",
+    "like-of": "https://sebastiandedeyne.com/the-revamped-spatie-guidelines/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Tobias Scharikow 🦊",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/4de4a2cb92f9abebd622ac2e78202d83c73309050ccdeefd2afe04e4fe0708c2.jpg",
+      "url": "https://twitter.com/refuse2choose"
+    },
+    "url": "https://twitter.com/refuse2choose/status/1312468659244154880",
+    "published": "2020-10-03T19:04:47+00:00",
+    "wm-received": "2020-10-03T19:19:48Z",
+    "wm-id": 864415,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1311994393742761990/1312468659244154880",
+    "wm-target": "https://sebastiandedeyne.com/the-revamped-spatie-guidelines/",
+    "content": {
+      "text": "🔗 Last week we republished out coding guidelines on spatie.be also extracted one of our previously private guides to set up a"
+    },
+    "repost-of": "https://sebastiandedeyne.com/the-revamped-spatie-guidelines/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Tobias Scharikow 🦊",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/4de4a2cb92f9abebd622ac2e78202d83c73309050ccdeefd2afe04e4fe0708c2.jpg",
+      "url": "https://twitter.com/refuse2choose"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1311994393742761990#favorited-by-777587968454393857",
+    "published": null,
+    "wm-received": "2020-10-03T19:20:22Z",
+    "wm-id": 864416,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1311994393742761990/777587968454393857",
+    "wm-target": "https://sebastiandedeyne.com/the-revamped-spatie-guidelines/",
+    "like-of": "https://sebastiandedeyne.com/the-revamped-spatie-guidelines/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Rohit P. Shirke 👨‍💻",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/c63ec9c8bffa64389946f5ceb7c9a4267a3f8edd704c402818a54acdb6650018.jpg",
+      "url": "https://twitter.com/rohit_p_shirke"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1311994393742761990#favorited-by-767031348460650496",
+    "published": null,
+    "wm-received": "2020-10-03T20:10:44Z",
+    "wm-id": 864423,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1311994393742761990/767031348460650496",
+    "wm-target": "https://sebastiandedeyne.com/the-revamped-spatie-guidelines/",
+    "like-of": "https://sebastiandedeyne.com/the-revamped-spatie-guidelines/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Skugga",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/6ad40b04073ccebb7590f335c4b1c8c66dbbabf4337c2c7f6697565430fce7fb.jpg",
+      "url": "https://twitter.com/skuggaco"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1311994393742761990#favorited-by-2403399671",
+    "published": null,
+    "wm-received": "2020-10-03T20:54:12Z",
+    "wm-id": 864436,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1311994393742761990/2403399671",
+    "wm-target": "https://sebastiandedeyne.com/the-revamped-spatie-guidelines/",
+    "like-of": "https://sebastiandedeyne.com/the-revamped-spatie-guidelines/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "NJ Life",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/0d4ebdc8f4cc8992876c7446ac4f7193e1e05e47381b4c6d19d3e4392f7bf1f3.jpg",
+      "url": "https://twitter.com/njames"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1311994393742761990#favorited-by-60063",
+    "published": null,
+    "wm-received": "2020-10-03T20:54:12Z",
+    "wm-id": 864437,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1311994393742761990/60063",
+    "wm-target": "https://sebastiandedeyne.com/the-revamped-spatie-guidelines/",
+    "like-of": "https://sebastiandedeyne.com/the-revamped-spatie-guidelines/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Niels",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/20eb856c98c501d1cd2cc3eb13c70cdb3a65689830f820f10b8be32816e0b645.jpg",
+      "url": "https://twitter.com/niels09577833"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1311994393742761990#favorited-by-1022192241677426688",
+    "published": null,
+    "wm-received": "2020-10-04T00:10:17Z",
+    "wm-id": 864486,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1311994393742761990/1022192241677426688",
+    "wm-target": "https://sebastiandedeyne.com/the-revamped-spatie-guidelines/",
+    "like-of": "https://sebastiandedeyne.com/the-revamped-spatie-guidelines/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Malik Krehic",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/33a4b763d1e019ee447c051b2d10d7b260c0ed74dbfd13952865793b44a93cf4.jpg",
+      "url": "https://twitter.com/krehicm"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1311994393742761990#favorited-by-876165188873060352",
+    "published": null,
+    "wm-received": "2020-10-04T00:10:50Z",
+    "wm-id": 864487,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1311994393742761990/876165188873060352",
+    "wm-target": "https://sebastiandedeyne.com/the-revamped-spatie-guidelines/",
+    "like-of": "https://sebastiandedeyne.com/the-revamped-spatie-guidelines/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
