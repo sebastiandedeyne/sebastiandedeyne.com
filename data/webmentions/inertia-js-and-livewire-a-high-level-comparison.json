@@ -2120,5 +2120,27 @@
     "mention-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
     "wm-property": "mention-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Abdelkarim Mateos ٱللَّٰهِ 🕋☪🇪🇸",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/e4dcd0ef859cb1f987fa6174990d9226fe860913bbcb43d08e05e1eb39ef9af6.jpg",
+      "url": "https://twitter.com/abkrimms"
+    },
+    "url": "https://twitter.com/abkrimms/status/1312806055320190976",
+    "published": "2020-10-04T17:25:29+00:00",
+    "wm-received": "2020-10-04T18:03:39Z",
+    "wm-id": 865116,
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1312806055320190976",
+    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "content": {
+      "html": "Sobre la discusión en Laravel sobre <a href=\"https://twitter.com/inertiajs\">@inertiajs</a> y <a href=\"https://twitter.com/LaravelLivewire\">@LaravelLivewire</a>, creo que un buen artículo es este de <a href=\"https://twitter.com/sebdedeyne\">@sebdedeyne</a> \nYo en mi caso, veo que Inertia  esta mas adecuado para el backend, pero no cumple todavía para un frontend. Pero está ahí, creciendo. \n<a href=\"https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/\">sebastiandedeyne.com/inertia-js-and…</a>",
+      "text": "Sobre la discusión en Laravel sobre @inertiajs y @LaravelLivewire, creo que un buen artículo es este de @sebdedeyne \nYo en mi caso, veo que Inertia  esta mas adecuado para el backend, pero no cumple todavía para un frontend. Pero está ahí, creciendo. \nsebastiandedeyne.com/inertia-js-and…"
+    },
+    "mention-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "wm-property": "mention-of",
+    "wm-private": false
   }
 ]

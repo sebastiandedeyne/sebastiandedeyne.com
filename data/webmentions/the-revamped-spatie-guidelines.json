@@ -540,5 +540,41 @@
     "like-of": "https://sebastiandedeyne.com/the-revamped-spatie-guidelines/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Nicolas Rodriguez M",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/9a9df4702928bc74b6dfc97eafff8b815f7a975ae0505f1bfa35f9e93d059b7b.jpg",
+      "url": "https://twitter.com/nrmedeyros"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1311994393742761990#favorited-by-2669182410",
+    "published": null,
+    "wm-received": "2020-10-04T18:03:40Z",
+    "wm-id": 865117,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1311994393742761990/2669182410",
+    "wm-target": "https://sebastiandedeyne.com/the-revamped-spatie-guidelines/",
+    "like-of": "https://sebastiandedeyne.com/the-revamped-spatie-guidelines/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Ihor Vorotnov",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/5688ef05e60048056e6aa7bb773044c44477a61880f980347ecbb2c994dd2e2e.jpg",
+      "url": "https://twitter.com/ihorvorotnov"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1311994393742761990#favorited-by-13469332",
+    "published": null,
+    "wm-received": "2020-10-04T18:03:41Z",
+    "wm-id": 865118,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1311994393742761990/13469332",
+    "wm-target": "https://sebastiandedeyne.com/the-revamped-spatie-guidelines/",
+    "like-of": "https://sebastiandedeyne.com/the-revamped-spatie-guidelines/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
