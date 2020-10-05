@@ -576,5 +576,62 @@
     "like-of": "https://sebastiandedeyne.com/the-revamped-spatie-guidelines/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Your Favorite Developer",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/43306cc7fe21134e5c2605bbbc9830dfc998e4cc6851b61a24f75edaa712f800.jpg",
+      "url": "https://twitter.com/stephenjudeso"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1311994393742761990#favorited-by-3259679903",
+    "published": null,
+    "wm-received": "2020-10-04T18:55:53Z",
+    "wm-id": 865130,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1311994393742761990/3259679903",
+    "wm-target": "https://sebastiandedeyne.com/the-revamped-spatie-guidelines/",
+    "like-of": "https://sebastiandedeyne.com/the-revamped-spatie-guidelines/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Your Favorite Developer",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/43306cc7fe21134e5c2605bbbc9830dfc998e4cc6851b61a24f75edaa712f800.jpg",
+      "url": "https://twitter.com/stephenjudeso"
+    },
+    "url": "https://twitter.com/stephenjudeso/status/1312827983716069383",
+    "published": "2020-10-04T18:52:37+00:00",
+    "wm-received": "2020-10-04T18:55:53Z",
+    "wm-id": 865131,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1311994393742761990/1312827983716069383",
+    "wm-target": "https://sebastiandedeyne.com/the-revamped-spatie-guidelines/",
+    "content": {
+      "text": "🔗 Last week we republished out coding guidelines on spatie.be also extracted one of our previously private guides to set up a"
+    },
+    "repost-of": "https://sebastiandedeyne.com/the-revamped-spatie-guidelines/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Godfather Ghost",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/a44b4f2648e8917653a9bf41fd6d5508721db3e5a707d07048c652f1fa69bdc2.jpg",
+      "url": "https://twitter.com/wisdomaebong"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1311994393742761990#favorited-by-2254209772",
+    "published": null,
+    "wm-received": "2020-10-04T19:38:47Z",
+    "wm-id": 865145,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1311994393742761990/2254209772",
+    "wm-target": "https://sebastiandedeyne.com/the-revamped-spatie-guidelines/",
+    "like-of": "https://sebastiandedeyne.com/the-revamped-spatie-guidelines/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
