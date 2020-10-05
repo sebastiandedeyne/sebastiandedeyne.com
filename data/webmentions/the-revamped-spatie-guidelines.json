@@ -633,5 +633,41 @@
     "like-of": "https://sebastiandedeyne.com/the-revamped-spatie-guidelines/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Sherman Figura",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/a390a51021ab344490af20edf74fd8c95d7ce862e77d076e3cefd7d90c3fa58f.jpg",
+      "url": "https://twitter.com/pf1gura"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1311994393742761990#favorited-by-363864729",
+    "published": null,
+    "wm-received": "2020-10-05T01:15:59Z",
+    "wm-id": 865278,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1311994393742761990/363864729",
+    "wm-target": "https://sebastiandedeyne.com/the-revamped-spatie-guidelines/",
+    "like-of": "https://sebastiandedeyne.com/the-revamped-spatie-guidelines/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Stefanvhhek",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/b79032fa3d6e28392d7a92b797f4304c72a274b5fb9b034539e9e29a3e42e852.jpg",
+      "url": "https://twitter.com/stefanvhhek"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1311994393742761990#favorited-by-1106826012644515840",
+    "published": null,
+    "wm-received": "2020-10-05T05:27:21Z",
+    "wm-id": 865567,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1311994393742761990/1106826012644515840",
+    "wm-target": "https://sebastiandedeyne.com/the-revamped-spatie-guidelines/",
+    "like-of": "https://sebastiandedeyne.com/the-revamped-spatie-guidelines/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
