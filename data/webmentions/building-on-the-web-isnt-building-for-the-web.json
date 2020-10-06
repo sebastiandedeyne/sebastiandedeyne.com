@@ -148,5 +148,77 @@
     "repost-of": "https://sebastiandedeyne.com/building-on-the-web-isnt-building-for-the-web/",
     "wm-property": "repost-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Nick Stanko",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/98e2722ccfa7b6243498a632a6b3997467abb25266489095184734a98623396c.jpg",
+      "url": "https://twitter.com/nick3twenty9"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1313400016204189701#favorited-by-28440889",
+    "published": null,
+    "wm-received": "2020-10-06T13:19:39Z",
+    "wm-id": 866934,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1313400016204189701/28440889",
+    "wm-target": "https://sebastiandedeyne.com/building-on-the-web-isnt-building-for-the-web/",
+    "like-of": "https://sebastiandedeyne.com/building-on-the-web-isnt-building-for-the-web/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Tauseef shah",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/433f5461b05765e077dc67230d8e18ac4290917e9e8d59a7e57dc2d54de1e8f5.jpg",
+      "url": "https://twitter.com/tauseeeeeef"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1313400016204189701#favorited-by-2476541736",
+    "published": null,
+    "wm-received": "2020-10-06T13:20:09Z",
+    "wm-id": 866935,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1313400016204189701/2476541736",
+    "wm-target": "https://sebastiandedeyne.com/building-on-the-web-isnt-building-for-the-web/",
+    "like-of": "https://sebastiandedeyne.com/building-on-the-web-isnt-building-for-the-web/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Wyatt",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/f22ca7a7e03a1554edeeb86c0af08fcbd055659f46256f69ce01a8513472474a.jpg",
+      "url": "https://twitter.com/WyattCastaned44"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1313400016204189701#favorited-by-534528249",
+    "published": null,
+    "wm-received": "2020-10-06T16:43:50Z",
+    "wm-id": 867103,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1313400016204189701/534528249",
+    "wm-target": "https://sebastiandedeyne.com/building-on-the-web-isnt-building-for-the-web/",
+    "like-of": "https://sebastiandedeyne.com/building-on-the-web-isnt-building-for-the-web/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Ruslan",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/6114334d09745c23c21d748a3ffb0e5f0972472d77df8a83d2914859cbd3b5fd.jpg",
+      "url": "https://twitter.com/SuddenlyRust"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1313400016204189701#favorited-by-935107835045842944",
+    "published": null,
+    "wm-received": "2020-10-06T16:43:51Z",
+    "wm-id": 867104,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1313400016204189701/935107835045842944",
+    "wm-target": "https://sebastiandedeyne.com/building-on-the-web-isnt-building-for-the-web/",
+    "like-of": "https://sebastiandedeyne.com/building-on-the-web-isnt-building-for-the-web/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
