@@ -6,6 +6,7 @@ categories: ["articles"]
 keywords:
   - webmentions
   - static sites
+  - GitHub Actions
 ---
 
 Last year, I [added webmentions to this blog](/adding-webmentions-to-my-blog/). To recap, webmentions are a web standard to create a network of comments, likes, and reposts between ordinary sites. I set up a [brid.gy](https://brid.gy) account to poll Twitter for webmentions targetting my blog, and I caught them with [webmention.io](https://webmention.io).
