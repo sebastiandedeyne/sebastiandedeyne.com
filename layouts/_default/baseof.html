@@ -39,6 +39,12 @@
       <meta property="og:image" content="{{ "media/me.jpg" | absURL }}" />
       <meta property="og:description" content="I'm a web developer and designer. I build websites & interfaces with JavaScript, CSS and PHP." />
     {{ end }}
+
+    {{ if eq (getenv "HUGO_ENV") "production" }}
+      <!-- Fathom - beautiful, simple website analytics -->
+      <script src="https://skunk.sebastiandedeyne.com/script.js" site="OETNOKQO" defer></script>
+      <!-- / Fathom -->
+    {{ end }}
   </head>
 
   <body class="font-sans leading-relaxed text-gray-900 dark:text-gray-300 dark:bg-gray-900 min-h-screen flex flex-col">

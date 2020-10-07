@@ -1,0 +1,683 @@
+[
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Brent",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/c5a1b46c900f3c274007c4b7d7e68c6fc97f3efdbd26937c16c9912c3e2fe468.jpg",
+      "url": "https://twitter.com/brendt_gd"
+    },
+    "url": "https://twitter.com/brendt_gd/status/1310479416607334400",
+    "published": "2020-09-28T07:20:15+00:00",
+    "wm-received": "2020-09-28T07:23:05Z",
+    "wm-id": 858560,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1310474786112442368/1310479416607334400",
+    "wm-target": "https://sebastiandedeyne.com/a-rare-look-into-the-decision-making-process-of-a-large-project/",
+    "content": {
+      "text": "🔗 The open w3.org redesign project is a rare look into the decision making process of a large project https://t.co/WOzNxypL"
+    },
+    "repost-of": "https://sebastiandedeyne.com/a-rare-look-into-the-decision-making-process-of-a-large-project/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Ruslan",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/6114334d09745c23c21d748a3ffb0e5f0972472d77df8a83d2914859cbd3b5fd.jpg",
+      "url": "https://twitter.com/SuddenlyRust"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1310474786112442368#favorited-by-935107835045842944",
+    "published": null,
+    "wm-received": "2020-09-28T07:55:14Z",
+    "wm-id": 858579,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1310474786112442368/935107835045842944",
+    "wm-target": "https://sebastiandedeyne.com/a-rare-look-into-the-decision-making-process-of-a-large-project/",
+    "like-of": "https://sebastiandedeyne.com/a-rare-look-into-the-decision-making-process-of-a-large-project/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Zubair Mohsin",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/480ed6e1c8e86c5107bf393166749638e905a5540d140a509234d0a510cc877f.jpg",
+      "url": "https://twitter.com/Zubairmohsin33"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1310474786112442368#favorited-by-2972870264",
+    "published": null,
+    "wm-received": "2020-09-28T07:55:15Z",
+    "wm-id": 858580,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1310474786112442368/2972870264",
+    "wm-target": "https://sebastiandedeyne.com/a-rare-look-into-the-decision-making-process-of-a-large-project/",
+    "like-of": "https://sebastiandedeyne.com/a-rare-look-into-the-decision-making-process-of-a-large-project/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Ken V.",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/f5eed926308803eb360ed1c7768b9c5aa8cae8d41932fd5250537f13f45ed25a.png",
+      "url": "https://twitter.com/Xewl"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1310474786112442368#favorited-by-54237835",
+    "published": null,
+    "wm-received": "2020-09-28T07:55:16Z",
+    "wm-id": 858581,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1310474786112442368/54237835",
+    "wm-target": "https://sebastiandedeyne.com/a-rare-look-into-the-decision-making-process-of-a-large-project/",
+    "like-of": "https://sebastiandedeyne.com/a-rare-look-into-the-decision-making-process-of-a-large-project/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Pascal Chevrel",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/8a40cd36ff85272011236daffd4dd3f144be0762fa820b4efc6a2579601ae074.jpg",
+      "url": "https://twitter.com/pascalchevrel"
+    },
+    "url": "https://twitter.com/pascalchevrel/status/1310481599088283648",
+    "published": "2020-09-28T07:28:55+00:00",
+    "wm-received": "2020-09-28T07:55:16Z",
+    "wm-id": 858582,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1310474786112442368/1310481599088283648",
+    "wm-target": "https://sebastiandedeyne.com/a-rare-look-into-the-decision-making-process-of-a-large-project/",
+    "content": {
+      "text": "🔗 The open w3.org redesign project is a rare look into the decision making process of a large project https://t.co/WOzNxypL"
+    },
+    "repost-of": "https://sebastiandedeyne.com/a-rare-look-into-the-decision-making-process-of-a-large-project/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Sérgio Jardim",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/beec3187ff586ff6613c6858cf459d0d44e8d2ef2a6750cd3ab93c843c8f2641.jpg",
+      "url": "https://twitter.com/sjardim"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1310474786112442368#favorited-by-14265456",
+    "published": null,
+    "wm-received": "2020-09-28T08:31:05Z",
+    "wm-id": 858623,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1310474786112442368/14265456",
+    "wm-target": "https://sebastiandedeyne.com/a-rare-look-into-the-decision-making-process-of-a-large-project/",
+    "like-of": "https://sebastiandedeyne.com/a-rare-look-into-the-decision-making-process-of-a-large-project/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Niels Vanpachtenbeke",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/055bd1bf23c76f93dfacf683a9c277bc019416f69af65483043de917d54ded9d.jpg",
+      "url": "https://twitter.com/NielsVanpach"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1310474786112442368#favorited-by-1446285385",
+    "published": null,
+    "wm-received": "2020-09-28T08:31:05Z",
+    "wm-id": 858624,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1310474786112442368/1446285385",
+    "wm-target": "https://sebastiandedeyne.com/a-rare-look-into-the-decision-making-process-of-a-large-project/",
+    "like-of": "https://sebastiandedeyne.com/a-rare-look-into-the-decision-making-process-of-a-large-project/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "robert",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/3a02489cd7ce7d4aee16e512d2d73aa88d764b837f7d1df56700ac1747031500.png",
+      "url": "https://twitter.com/rok_de"
+    },
+    "url": "https://twitter.com/rok_de/status/1310535304101744640",
+    "published": "2020-09-28T11:02:19+00:00",
+    "wm-received": "2020-09-28T11:45:06Z",
+    "wm-id": 858780,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1310474786112442368/1310535304101744640",
+    "wm-target": "https://sebastiandedeyne.com/a-rare-look-into-the-decision-making-process-of-a-large-project/",
+    "content": {
+      "text": "🔗 The open w3.org redesign project is a rare look into the decision making process of a large project https://t.co/WOzNxypL"
+    },
+    "repost-of": "https://sebastiandedeyne.com/a-rare-look-into-the-decision-making-process-of-a-large-project/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Miguel Piedrafita 🚀",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/82ed867d605f1130877590cceb29ccb51445db010ee6680958a0c72c2524f5d6.jpg",
+      "url": "https://twitter.com/m1guelpf"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1310474786112442368#favorited-by-713094195955830785",
+    "published": null,
+    "wm-received": "2020-09-28T12:18:58Z",
+    "wm-id": 858798,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1310474786112442368/713094195955830785",
+    "wm-target": "https://sebastiandedeyne.com/a-rare-look-into-the-decision-making-process-of-a-large-project/",
+    "like-of": "https://sebastiandedeyne.com/a-rare-look-into-the-decision-making-process-of-a-large-project/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Tony Wareck",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/a6eebb7b9c505a6a0c3fd3e9d5e019377e13fcef35e41a4df55cab9d13264d2b.jpg",
+      "url": "https://twitter.com/tonywareck"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1310474786112442368#favorited-by-157727165",
+    "published": null,
+    "wm-received": "2020-09-28T12:18:59Z",
+    "wm-id": 858799,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1310474786112442368/157727165",
+    "wm-target": "https://sebastiandedeyne.com/a-rare-look-into-the-decision-making-process-of-a-large-project/",
+    "like-of": "https://sebastiandedeyne.com/a-rare-look-into-the-decision-making-process-of-a-large-project/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Jack McDade✨📺✨",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/9666ab71816df11cc511281b4d269078652072030dfdff29009060acab4b65fc.jpg",
+      "url": "https://twitter.com/jackmcdade"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1310474786112442368#favorited-by-10737152",
+    "published": null,
+    "wm-received": "2020-09-28T12:18:59Z",
+    "wm-id": 858800,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1310474786112442368/10737152",
+    "wm-target": "https://sebastiandedeyne.com/a-rare-look-into-the-decision-making-process-of-a-large-project/",
+    "like-of": "https://sebastiandedeyne.com/a-rare-look-into-the-decision-making-process-of-a-large-project/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Jack McDade✨📺✨",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/9666ab71816df11cc511281b4d269078652072030dfdff29009060acab4b65fc.jpg",
+      "url": "https://twitter.com/jackmcdade"
+    },
+    "url": "https://twitter.com/jackmcdade/status/1310548313977032707",
+    "published": "2020-09-28T11:54:01+00:00",
+    "wm-received": "2020-09-28T12:19:01Z",
+    "wm-id": 858801,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1310474786112442368/1310548313977032707",
+    "wm-target": "https://sebastiandedeyne.com/a-rare-look-into-the-decision-making-process-of-a-large-project/",
+    "content": {
+      "text": "🔗 The open w3.org redesign project is a rare look into the decision making process of a large project https://t.co/WOzNxypL"
+    },
+    "repost-of": "https://sebastiandedeyne.com/a-rare-look-into-the-decision-making-process-of-a-large-project/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Jahid Anowar",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/8c7d5765c913febb43d468866c3677fba3cdf3598388535cc4567557deec7c20.jpg",
+      "url": "https://twitter.com/JahidDev"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1310474786112442368#favorited-by-1254311767364304896",
+    "published": null,
+    "wm-received": "2020-09-28T12:19:28Z",
+    "wm-id": 858803,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1310474786112442368/1254311767364304896",
+    "wm-target": "https://sebastiandedeyne.com/a-rare-look-into-the-decision-making-process-of-a-large-project/",
+    "like-of": "https://sebastiandedeyne.com/a-rare-look-into-the-decision-making-process-of-a-large-project/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Lise Dykes #BlackLivesMatter",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/3a6c989363649dc6af78345ee2ea9b2ba5ca24c857cea0515899df56c70e3ada.jpg",
+      "url": "https://twitter.com/LHDonline"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1310474786112442368#favorited-by-18516947",
+    "published": null,
+    "wm-received": "2020-09-28T12:59:52Z",
+    "wm-id": 858829,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1310474786112442368/18516947",
+    "wm-target": "https://sebastiandedeyne.com/a-rare-look-into-the-decision-making-process-of-a-large-project/",
+    "like-of": "https://sebastiandedeyne.com/a-rare-look-into-the-decision-making-process-of-a-large-project/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Matt Round",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/4eecfef4ac82824492f4847f38da22559a23438c9619f768740cd9ba703547eb.jpg",
+      "url": "https://twitter.com/mattround"
+    },
+    "url": "https://twitter.com/mattround/status/1310556117932691456",
+    "published": "2020-09-28T12:25:02+00:00",
+    "wm-received": "2020-09-28T12:59:53Z",
+    "wm-id": 858830,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1310474786112442368/1310556117932691456",
+    "wm-target": "https://sebastiandedeyne.com/a-rare-look-into-the-decision-making-process-of-a-large-project/",
+    "content": {
+      "text": "🔗 The open w3.org redesign project is a rare look into the decision making process of a large project https://t.co/WOzNxypL"
+    },
+    "repost-of": "https://sebastiandedeyne.com/a-rare-look-into-the-decision-making-process-of-a-large-project/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Tim Nelke",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/405c85c271f889bbc4558804c0caaea8c3577c33056fd532480c6c2e5bcb18e3.jpg",
+      "url": "https://twitter.com/horo_dev"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1310474786112442368#favorited-by-1168402657",
+    "published": null,
+    "wm-received": "2020-09-28T12:59:54Z",
+    "wm-id": 858831,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1310474786112442368/1168402657",
+    "wm-target": "https://sebastiandedeyne.com/a-rare-look-into-the-decision-making-process-of-a-large-project/",
+    "like-of": "https://sebastiandedeyne.com/a-rare-look-into-the-decision-making-process-of-a-large-project/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Ján Bočínec",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/6563a0c9c4b5acd26c50adc0330a8574832fe335fe0acf4d918024242bd83a0c.jpg",
+      "url": "https://twitter.com/JohnnyPea"
+    },
+    "url": "https://twitter.com/JohnnyPea/status/1310593886654431239",
+    "published": "2020-09-28T14:55:06+00:00",
+    "wm-received": "2020-09-28T15:11:37Z",
+    "wm-id": 858901,
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1310593886654431239",
+    "wm-target": "https://sebastiandedeyne.com/a-rare-look-into-the-decision-making-process-of-a-large-project/",
+    "content": {
+      "html": "Ako sa správne postaviť k výberu CMSka <a href=\"https://sebastiandedeyne.com/a-rare-look-into-the-decision-making-process-of-a-large-project/\">sebastiandedeyne.com/a-rare-look-in…</a> <a href=\"https://twitter.com/search?q=%23WordPress\">#WordPress</a>  <a href=\"https://twitter.com/search?q=%23PHP\">#PHP</a>",
+      "text": "Ako sa správne postaviť k výberu CMSka sebastiandedeyne.com/a-rare-look-in… #WordPress  #PHP"
+    },
+    "mention-of": "https://sebastiandedeyne.com/a-rare-look-into-the-decision-making-process-of-a-large-project/",
+    "wm-property": "mention-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Frank Baier",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/42594c538c159cf18c63a2295f4f091ea3d82854219f8bd12e90aacdf144c01c.jpg",
+      "url": "https://twitter.com/frankbaier"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1310474786112442368#favorited-by-97209976",
+    "published": null,
+    "wm-received": "2020-09-28T15:11:37Z",
+    "wm-id": 858902,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1310474786112442368/97209976",
+    "wm-target": "https://sebastiandedeyne.com/a-rare-look-into-the-decision-making-process-of-a-large-project/",
+    "like-of": "https://sebastiandedeyne.com/a-rare-look-into-the-decision-making-process-of-a-large-project/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Natetronn",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/b4b11903199bf94f3ab9f3680be61512ed1fdc71e54a8ee46d532b40fbc5bd9c.png",
+      "url": "https://twitter.com/natetronn"
+    },
+    "url": "https://twitter.com/natetronn/status/1310606950518857728",
+    "published": "2020-09-28T15:47:01+00:00",
+    "wm-received": "2020-09-28T15:59:42Z",
+    "wm-id": 858917,
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/sebdedeyne/1310474786112442368/1310606950518857728",
+    "wm-target": "https://sebastiandedeyne.com/a-rare-look-into-the-decision-making-process-of-a-large-project/",
+    "content": {
+      "html": "In regards to \"Commercial software is also closed software\", that can be the case for some CMS but, that's not exactly the case for either <a href=\"https://twitter.com/statamic\">@statamic</a> or <a href=\"https://twitter.com/CraftCMS\">@CraftCMS</a>; or most CMS these days. It's not like the old days where everything was Zend Guard-ed or ionCube-ed or something.\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/jackmcdade\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/sebdedeyne\"></a>",
+      "text": "In regards to \"Commercial software is also closed software\", that can be the case for some CMS but, that's not exactly the case for either @statamic or @CraftCMS; or most CMS these days. It's not like the old days where everything was Zend Guard-ed or ionCube-ed or something."
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/a-rare-look-into-the-decision-making-process-of-a-large-project/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Statamic ❸",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/41b2bb6577b1ba180a3cf491672ed66edf2592126a095d41c835ad1c8f28c9d3.jpg",
+      "url": "https://twitter.com/statamic"
+    },
+    "url": "https://twitter.com/statamic/status/1310607054940315653",
+    "published": "2020-09-28T15:47:26+00:00",
+    "wm-received": "2020-09-28T15:59:42Z",
+    "wm-id": 858918,
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/sebdedeyne/1310474786112442368/1310607054940315653",
+    "wm-target": "https://sebastiandedeyne.com/a-rare-look-into-the-decision-making-process-of-a-large-project/",
+    "content": {
+      "html": "Exactly.\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/CraftCMS\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/jackmcdade\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/natetronn\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/sebdedeyne\"></a>",
+      "text": "Exactly."
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/a-rare-look-into-the-decision-making-process-of-a-large-project/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Doug Black Jr",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/0f5e96f06a5d87357a6b3ae0f9e898ec6ffacc0471fbff3e91f927c7ca327f4f.jpg",
+      "url": "https://twitter.com/dougblackjr"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1310474786112442368#favorited-by-14823605",
+    "published": null,
+    "wm-received": "2020-09-28T15:59:43Z",
+    "wm-id": 858919,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1310474786112442368/14823605",
+    "wm-target": "https://sebastiandedeyne.com/a-rare-look-into-the-decision-making-process-of-a-large-project/",
+    "like-of": "https://sebastiandedeyne.com/a-rare-look-into-the-decision-making-process-of-a-large-project/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Mickaël Isaert",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/9598c3443e09f0cd8ef24c892367db18d3bfad493d823e9aeee60cf0ff9d0185.jpg",
+      "url": "https://twitter.com/misaert59"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1310474786112442368#favorited-by-1216373595687006209",
+    "published": null,
+    "wm-received": "2020-09-28T16:42:11Z",
+    "wm-id": 858941,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1310474786112442368/1216373595687006209",
+    "wm-target": "https://sebastiandedeyne.com/a-rare-look-into-the-decision-making-process-of-a-large-project/",
+    "like-of": "https://sebastiandedeyne.com/a-rare-look-into-the-decision-making-process-of-a-large-project/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Sebastian De Deyne",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/3ce609991342657b8b7e99eb7a5c6e3656fbdb1c51575f1464d354b81aaeda86.jpg",
+      "url": "https://twitter.com/sebdedeyne"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1310611889467129856",
+    "published": "2020-09-28T16:06:39+00:00",
+    "wm-received": "2020-09-28T16:42:11Z",
+    "wm-id": 858942,
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/sebdedeyne/1310474786112442368/1310611889467129856",
+    "wm-target": "https://sebastiandedeyne.com/a-rare-look-into-the-decision-making-process-of-a-large-project/",
+    "content": {
+      "html": "Yup! That's just an excerpt, in a later document there's a more nuanced paragraph on the topic: <a href=\"https://w3c.studio24.net/updates/on-not-choosing-wordpress/#the-question-of-open-source\">w3c.studio24.net/updates/on-not…</a>\n<a class=\"u-mention\" href=\"https://twitter.com/CraftCMS\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/jackmcdade\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/natetronn\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/statamic\"></a>",
+      "text": "Yup! That's just an excerpt, in a later document there's a more nuanced paragraph on the topic: w3c.studio24.net/updates/on-not…"
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/a-rare-look-into-the-decision-making-process-of-a-large-project/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "adnan mujkanovic 🇧🇦 🇩🇪",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/eddfe29e1d688363c33f1e5e732e06836a2029f0791f20b0c35a6401a671d827.jpg",
+      "url": "https://twitter.com/kickthemooon"
+    },
+    "url": "https://twitter.com/kickthemooon/status/1310623038736601091",
+    "published": "2020-09-28T16:50:57+00:00",
+    "wm-received": "2020-09-28T17:21:30Z",
+    "wm-id": 858961,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1310474786112442368/1310623038736601091",
+    "wm-target": "https://sebastiandedeyne.com/a-rare-look-into-the-decision-making-process-of-a-large-project/",
+    "content": {
+      "text": "🔗 The open w3.org redesign project is a rare look into the decision making process of a large project https://t.co/WOzNxypL"
+    },
+    "repost-of": "https://sebastiandedeyne.com/a-rare-look-into-the-decision-making-process-of-a-large-project/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "adnan mujkanovic 🇧🇦 🇩🇪",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/eddfe29e1d688363c33f1e5e732e06836a2029f0791f20b0c35a6401a671d827.jpg",
+      "url": "https://twitter.com/kickthemooon"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1310474786112442368#favorited-by-40329535",
+    "published": null,
+    "wm-received": "2020-09-28T17:22:05Z",
+    "wm-id": 858962,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1310474786112442368/40329535",
+    "wm-target": "https://sebastiandedeyne.com/a-rare-look-into-the-decision-making-process-of-a-large-project/",
+    "like-of": "https://sebastiandedeyne.com/a-rare-look-into-the-decision-making-process-of-a-large-project/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Jakob Steinn",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/b9b69e0b4ba27ea8bcb21e0522b597087aef3c12cb3e80db2f1c6e5a67cb01fe.jpg",
+      "url": "https://twitter.com/jstoone"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1310474786112442368#favorited-by-115801318",
+    "published": null,
+    "wm-received": "2020-09-28T18:13:30Z",
+    "wm-id": 858972,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1310474786112442368/115801318",
+    "wm-target": "https://sebastiandedeyne.com/a-rare-look-into-the-decision-making-process-of-a-large-project/",
+    "like-of": "https://sebastiandedeyne.com/a-rare-look-into-the-decision-making-process-of-a-large-project/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Jakob Steinn",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/b9b69e0b4ba27ea8bcb21e0522b597087aef3c12cb3e80db2f1c6e5a67cb01fe.jpg",
+      "url": "https://twitter.com/jstoone"
+    },
+    "url": "https://twitter.com/jstoone/status/1310641037854076933",
+    "published": "2020-09-28T18:02:28+00:00",
+    "wm-received": "2020-09-28T18:13:30Z",
+    "wm-id": 858973,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1310474786112442368/1310641037854076933",
+    "wm-target": "https://sebastiandedeyne.com/a-rare-look-into-the-decision-making-process-of-a-large-project/",
+    "content": {
+      "text": "🔗 The open w3.org redesign project is a rare look into the decision making process of a large project https://t.co/WOzNxypL"
+    },
+    "repost-of": "https://sebastiandedeyne.com/a-rare-look-into-the-decision-making-process-of-a-large-project/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Drew Foster",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/f4833b59da3f11330eb6155c5625bdebe83cc4c62f3f5ae18a413e90f70417c0.jpg",
+      "url": "https://twitter.com/drewfoster"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1310474786112442368#favorited-by-12307362",
+    "published": null,
+    "wm-received": "2020-09-28T21:40:13Z",
+    "wm-id": 859018,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1310474786112442368/12307362",
+    "wm-target": "https://sebastiandedeyne.com/a-rare-look-into-the-decision-making-process-of-a-large-project/",
+    "like-of": "https://sebastiandedeyne.com/a-rare-look-into-the-decision-making-process-of-a-large-project/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "👻 Zac Vineyard",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/7d5c4eaf0e97bf24d313b37514931316b8e060c4c131b3fcf591bc6d0ceab68f.jpg",
+      "url": "https://twitter.com/zvineyard"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1310474786112442368#favorited-by-21710232",
+    "published": null,
+    "wm-received": "2020-09-28T22:47:25Z",
+    "wm-id": 859034,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1310474786112442368/21710232",
+    "wm-target": "https://sebastiandedeyne.com/a-rare-look-into-the-decision-making-process-of-a-large-project/",
+    "like-of": "https://sebastiandedeyne.com/a-rare-look-into-the-decision-making-process-of-a-large-project/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Vaggelis Yfantis",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/54f660d59e8e11f9517c06de7629abe0dafe7e143c0c6ce848514e5df2b6409e.png",
+      "url": "https://twitter.com/itsoctoper"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1310474786112442368#favorited-by-1719499016",
+    "published": null,
+    "wm-received": "2020-09-28T23:27:14Z",
+    "wm-id": 859041,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1310474786112442368/1719499016",
+    "wm-target": "https://sebastiandedeyne.com/a-rare-look-into-the-decision-making-process-of-a-large-project/",
+    "like-of": "https://sebastiandedeyne.com/a-rare-look-into-the-decision-making-process-of-a-large-project/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "D4DDYKR4K3N",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/011513b1779ca40e5cf16bdfb524ad9214640e19e67452dc1e659626c7b11e9f.jpg",
+      "url": "https://twitter.com/DaddyKrakenProd"
+    },
+    "url": "https://twitter.com/DaddyKrakenProd/status/1310766358808887297",
+    "published": "2020-09-29T02:20:27+00:00",
+    "wm-received": "2020-09-29T02:24:15Z",
+    "wm-id": 859139,
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1310766358808887297",
+    "wm-target": "https://sebastiandedeyne.com/a-rare-look-into-the-decision-making-process-of-a-large-project/",
+    "photo": [
+      "https://pbs.twimg.com/media/EjDHDZLU4AACKrK.jpg"
+    ],
+    "content": {
+      "html": "W3C decides not to use Wordpress for their next website <a href=\"https://sebastiandedeyne.com/a-rare-look-into-the-decision-making-process-of-a-large-project/\">sebastiandedeyne.com/a-rare-look-in…</a>",
+      "text": "W3C decides not to use Wordpress for their next website sebastiandedeyne.com/a-rare-look-in…"
+    },
+    "mention-of": "https://sebastiandedeyne.com/a-rare-look-into-the-decision-making-process-of-a-large-project/",
+    "wm-property": "mention-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "José Cage",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/813485e34c08384ba64d384b450c7c705536cdfb090e9cee4833637645d28f18.jpg",
+      "url": "https://twitter.com/cagejose"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1310474786112442368#favorited-by-944899327",
+    "published": null,
+    "wm-received": "2020-09-29T16:00:00Z",
+    "wm-id": 860412,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1310474786112442368/944899327",
+    "wm-target": "https://sebastiandedeyne.com/a-rare-look-into-the-decision-making-process-of-a-large-project/",
+    "like-of": "https://sebastiandedeyne.com/a-rare-look-into-the-decision-making-process-of-a-large-project/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Tailwith the Tailwind Market",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/8aecddac3eb3697a319c887245fe0cd291ad35a233bdcb47af4c807350fa7fd2.jpg",
+      "url": "https://twitter.com/tailwindmarket"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1310474786112442368#favorited-by-1310633427159445507",
+    "published": null,
+    "wm-received": "2020-09-30T15:11:14Z",
+    "wm-id": 861258,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1310474786112442368/1310633427159445507",
+    "wm-target": "https://sebastiandedeyne.com/a-rare-look-into-the-decision-making-process-of-a-large-project/",
+    "like-of": "https://sebastiandedeyne.com/a-rare-look-into-the-decision-making-process-of-a-large-project/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Tailwith the Tailwind Market",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/8aecddac3eb3697a319c887245fe0cd291ad35a233bdcb47af4c807350fa7fd2.jpg",
+      "url": "https://twitter.com/tailwindmarket"
+    },
+    "url": "https://twitter.com/tailwindmarket/status/1311319641575362560",
+    "published": "2020-09-30T14:59:00+00:00",
+    "wm-received": "2020-09-30T15:11:51Z",
+    "wm-id": 861259,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1310474786112442368/1311319641575362560",
+    "wm-target": "https://sebastiandedeyne.com/a-rare-look-into-the-decision-making-process-of-a-large-project/",
+    "content": {
+      "text": "🔗 The open w3.org redesign project is a rare look into the decision making process of a large project https://t.co/WOzNxypL"
+    },
+    "repost-of": "https://sebastiandedeyne.com/a-rare-look-into-the-decision-making-process-of-a-large-project/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Yohan J. Rodríguez",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/7e6f903bb1f4d6522292e6686c5090a87c87fbf9cae501f1495bc1262d7da966.jpg",
+      "url": "https://twitter.com/hasdid"
+    },
+    "url": "https://twitter.com/hasdid/status/1312177377594621955",
+    "published": "2020-10-02T23:47:20+00:00",
+    "wm-received": "2020-10-03T00:27:07Z",
+    "wm-id": 863796,
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1312177377594621955",
+    "wm-target": "https://sebastiandedeyne.com/a-rare-look-into-the-decision-making-process-of-a-large-project/",
+    "content": {
+      "html": "<a href=\"https://twitter.com/search?q=%23PHPNews\">#PHPNews</a> <a href=\"https://twitter.com/search?q=%23PHP\">#PHP</a> <a href=\"https://twitter.com/search?q=%23Automated\">#Automated</a> | W3C wont use WordPress for their next website <a href=\"https://sebastiandedeyne.com/a-rare-look-into-the-decision-making-process-of-a-large-project\">sebastiandedeyne.com/a-rare-look-in…</a>\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/a-rare-look-into-the-decision-making-process-of-a-large-project/\"></a>",
+      "text": "#PHPNews #PHP #Automated | W3C wont use WordPress for their next website sebastiandedeyne.com/a-rare-look-in…"
+    },
+    "mention-of": "https://sebastiandedeyne.com/a-rare-look-into-the-decision-making-process-of-a-large-project/",
+    "wm-property": "mention-of",
+    "wm-private": false
+  }
+]

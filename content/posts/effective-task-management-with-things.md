@@ -101,7 +101,7 @@ I might schedule a task on a specific day, but that's meant as a guideline, not 
 
 ![](/media/things/things-upcoming.jpg "Upcoming tasks. Normally my calendar items are displayed here too, but I hid them for the screenshot.")
 
-I often use reminders to get notifications for things I don't want to forget on a certain day. If I could make one feature request to Things, it would belocation-based reminders.
+I often use reminders to get notifications for things I don't want to forget on a certain day. If I could make one feature request to Things, it would be location-based reminders.
 
 I only recently started using recurring tasks. For work, I use them to remember weekly updates I need to send to clients. For personal use, I use them to remember to pay certain bills, or to put the garbage out.
 
