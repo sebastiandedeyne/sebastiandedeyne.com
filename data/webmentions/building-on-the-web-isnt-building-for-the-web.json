@@ -220,5 +220,23 @@
     "like-of": "https://sebastiandedeyne.com/building-on-the-web-isnt-building-for-the-web/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Ziad",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/4aed80645eec435935ba92af6464a63c116d66990deb91079b2f417db399ae73.jpg",
+      "url": "https://twitter.com/AfkZiad"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1313400016204189701#favorited-by-1247662316440748032",
+    "published": null,
+    "wm-received": "2020-10-07T08:37:05Z",
+    "wm-id": 867685,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1313400016204189701/1247662316440748032",
+    "wm-target": "https://sebastiandedeyne.com/building-on-the-web-isnt-building-for-the-web/",
+    "like-of": "https://sebastiandedeyne.com/building-on-the-web-isnt-building-for-the-web/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
