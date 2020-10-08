@@ -1,0 +1,215 @@
+[
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Benjamin Beganović",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/6f06e4ed461399495c505c93fc82122afe18c1d86df909a04b15b555b8ce17fe.jpg",
+      "url": "https://twitter.com/beganovichhh"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1314159329180872704#favorited-by-1058812604548898816",
+    "published": null,
+    "wm-received": "2020-10-08T11:10:12Z",
+    "wm-id": 869004,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1314159329180872704/1058812604548898816",
+    "wm-target": "https://sebastiandedeyne.com/sublime-is-still-sublime/",
+    "like-of": "https://sebastiandedeyne.com/sublime-is-still-sublime/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "https://jgregorymcverry.com",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/f7f1c689ebcd4a5f46a543e8f33424b8c8a76c751f1dd998310bfa685c016b48.jpeg",
+      "url": "https://twitter.com/jgmac1106"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1314159329180872704#favorited-by-27620289",
+    "published": null,
+    "wm-received": "2020-10-08T11:10:12Z",
+    "wm-id": 869005,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1314159329180872704/27620289",
+    "wm-target": "https://sebastiandedeyne.com/sublime-is-still-sublime/",
+    "like-of": "https://sebastiandedeyne.com/sublime-is-still-sublime/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "NUNO MADURO",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/66bc64df878d8a1d9dcfd2ed6199a6ba856f4aed7413777459008d70f33497c2.jpg",
+      "url": "https://twitter.com/enunomaduro"
+    },
+    "url": "https://twitter.com/enunomaduro/status/1314160407666397186",
+    "published": "2020-10-08T11:07:11+00:00",
+    "wm-received": "2020-10-08T11:10:14Z",
+    "wm-id": 869007,
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1314160407666397186",
+    "wm-target": "https://sebastiandedeyne.com/sublime-is-still-sublime/",
+    "content": {
+      "html": "It's still my main editor.\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/sublime-is-still-sublime/\"></a>",
+      "text": "It's still my main editor."
+    },
+    "mention-of": "https://sebastiandedeyne.com/sublime-is-still-sublime/",
+    "wm-property": "mention-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Doug Black Jr 🎃👻🍬🍫",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/0f5e96f06a5d87357a6b3ae0f9e898ec6ffacc0471fbff3e91f927c7ca327f4f.jpg",
+      "url": "https://twitter.com/dougblackjr"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1314159329180872704#favorited-by-14823605",
+    "published": null,
+    "wm-received": "2020-10-08T11:51:32Z",
+    "wm-id": 869035,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1314159329180872704/14823605",
+    "wm-target": "https://sebastiandedeyne.com/sublime-is-still-sublime/",
+    "like-of": "https://sebastiandedeyne.com/sublime-is-still-sublime/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Jarosław Jarosik",
+      "photo": "https://webmention.io/avatar/abs.twimg.com/0e6b2cd70aa5b35dec24ca4e1e63f8963f0118736d9ec3bba77e3a8c99a27bc2.png",
+      "url": "https://twitter.com/jaroslawjarosik"
+    },
+    "url": "https://twitter.com/jaroslawjarosik/status/1314170042448318465",
+    "published": "2020-10-08T11:45:28+00:00",
+    "wm-received": "2020-10-08T11:51:32Z",
+    "wm-id": 869036,
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/sebdedeyne/1314159329180872704/1314170042448318465",
+    "wm-target": "https://sebastiandedeyne.com/sublime-is-still-sublime/",
+    "content": {
+      "html": "tried many times and many times bounced off\nno matter what I did it simply wasn't complete enough\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/sebdedeyne\"></a>",
+      "text": "tried many times and many times bounced off\nno matter what I did it simply wasn't complete enough"
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/sublime-is-still-sublime/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Parvej Ahammad",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/0231dc48bce6b471dab70ed4b1dfb8bef8475f04cedafc2875df70186609295e.jpg",
+      "url": "https://twitter.com/shajal_raihan"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1314159329180872704#favorited-by-2777477866",
+    "published": null,
+    "wm-received": "2020-10-08T11:51:34Z",
+    "wm-id": 869037,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1314159329180872704/2777477866",
+    "wm-target": "https://sebastiandedeyne.com/sublime-is-still-sublime/",
+    "like-of": "https://sebastiandedeyne.com/sublime-is-still-sublime/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Richard Radermacher",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/5277a388649f0f63e0236cc171a6fcd7a7b84ea4092ad79c8a6ad52cc8a9b3b8.jpg",
+      "url": "https://twitter.com/radermacher_io"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1314159329180872704#favorited-by-35496266",
+    "published": null,
+    "wm-received": "2020-10-08T11:51:34Z",
+    "wm-id": 869038,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1314159329180872704/35496266",
+    "wm-target": "https://sebastiandedeyne.com/sublime-is-still-sublime/",
+    "like-of": "https://sebastiandedeyne.com/sublime-is-still-sublime/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Bjørn Lindholm",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/0fdb1777423df7347cc14283896b82540d759d2043945c1275b9f647c7b3389e.jpg",
+      "url": "https://twitter.com/bjornlindholmdk"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1314159329180872704#favorited-by-712842170",
+    "published": null,
+    "wm-received": "2020-10-08T11:51:35Z",
+    "wm-id": 869039,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1314159329180872704/712842170",
+    "wm-target": "https://sebastiandedeyne.com/sublime-is-still-sublime/",
+    "like-of": "https://sebastiandedeyne.com/sublime-is-still-sublime/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Doug Black Jr 🎃👻🍬🍫",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/0f5e96f06a5d87357a6b3ae0f9e898ec6ffacc0471fbff3e91f927c7ca327f4f.jpg",
+      "url": "https://twitter.com/dougblackjr"
+    },
+    "url": "https://twitter.com/dougblackjr/status/1314162055067435008",
+    "published": "2020-10-08T11:13:44+00:00",
+    "wm-received": "2020-10-08T11:51:36Z",
+    "wm-id": 869040,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1314159329180872704/1314162055067435008",
+    "wm-target": "https://sebastiandedeyne.com/sublime-is-still-sublime/",
+    "content": {
+      "text": "✒️ Sublime Text is still sublime sebastiandedeyne.com/sublime-is-sti…"
+    },
+    "repost-of": "https://sebastiandedeyne.com/sublime-is-still-sublime/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "MiraCool",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/6b4d821d3bfb2345fc0be6811c6fd07d7ba1a2c0d3726ebfa9b57bbdbb16d715.jpg",
+      "url": "https://twitter.com/miracoolinfo"
+    },
+    "url": "https://twitter.com/miracoolinfo/status/1314168928600551430",
+    "published": "2020-10-08T11:41:03+00:00",
+    "wm-received": "2020-10-08T11:51:36Z",
+    "wm-id": 869041,
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1314168928600551430",
+    "wm-target": "https://sebastiandedeyne.com/sublime-is-still-sublime/",
+    "content": {
+      "html": "I still use sublime as my main editor. The simplicity, speed, function and class definition location is fire 🔥.\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/sublime-is-still-sublime/\"></a>",
+      "text": "I still use sublime as my main editor. The simplicity, speed, function and class definition location is fire 🔥."
+    },
+    "mention-of": "https://sebastiandedeyne.com/sublime-is-still-sublime/",
+    "wm-property": "mention-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "De Gracia Mathieu",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/45314e53b27a8001098ed106666a627c673bd4ea7326027ceb37fe1182fe7c4d.jpg",
+      "url": "https://twitter.com/DeGraciaMathieu"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1314159329180872704#favorited-by-3028071779",
+    "published": null,
+    "wm-received": "2020-10-08T11:54:04Z",
+    "wm-id": 869056,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1314159329180872704/3028071779",
+    "wm-target": "https://sebastiandedeyne.com/sublime-is-still-sublime/",
+    "like-of": "https://sebastiandedeyne.com/sublime-is-still-sublime/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+]

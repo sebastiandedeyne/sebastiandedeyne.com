@@ -1,0 +1,74 @@
+[
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "bertrandkeller",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/5705e235fe729ec62273131d966952f09e3ab0bbf8b470a3846fb0280a3d40fa.gif",
+      "url": "https://twitter.com/bertrandkeller"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1314096365610438656#favorited-by-17775069",
+    "published": null,
+    "wm-received": "2020-10-08T07:16:12Z",
+    "wm-id": 868831,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1314096365610438656/17775069",
+    "wm-target": "https://sebastiandedeyne.com/how-to-schedule-posts-with-hugo-netlify-and-github-actions/",
+    "like-of": "https://sebastiandedeyne.com/how-to-schedule-posts-with-hugo-netlify-and-github-actions/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Niels",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/20eb856c98c501d1cd2cc3eb13c70cdb3a65689830f820f10b8be32816e0b645.jpg",
+      "url": "https://twitter.com/niels09577833"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1314096365610438656#favorited-by-1022192241677426688",
+    "published": null,
+    "wm-received": "2020-10-08T09:54:31Z",
+    "wm-id": 868954,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1314096365610438656/1022192241677426688",
+    "wm-target": "https://sebastiandedeyne.com/how-to-schedule-posts-with-hugo-netlify-and-github-actions/",
+    "like-of": "https://sebastiandedeyne.com/how-to-schedule-posts-with-hugo-netlify-and-github-actions/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Stefan Zweifel",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/3b772e9239dfd15ce8527f90edd45d0678849d57b28725cc69f929bb4f11cf06.jpg",
+      "url": "https://twitter.com/_stefanzweifel"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1314096365610438656#favorited-by-76577495",
+    "published": null,
+    "wm-received": "2020-10-08T09:55:04Z",
+    "wm-id": 868955,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1314096365610438656/76577495",
+    "wm-target": "https://sebastiandedeyne.com/how-to-schedule-posts-with-hugo-netlify-and-github-actions/",
+    "like-of": "https://sebastiandedeyne.com/how-to-schedule-posts-with-hugo-netlify-and-github-actions/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Babul A. Mukherjee",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/d3926c61f48f03bd9ead24a70fb714bcfa549dee067cd724f7d738395a96573d.jpg",
+      "url": "https://twitter.com/tmgBabul"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1314096365610438656#favorited-by-22333845",
+    "published": null,
+    "wm-received": "2020-10-08T11:10:14Z",
+    "wm-id": 869006,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1314096365610438656/22333845",
+    "wm-target": "https://sebastiandedeyne.com/how-to-schedule-posts-with-hugo-netlify-and-github-actions/",
+    "like-of": "https://sebastiandedeyne.com/how-to-schedule-posts-with-hugo-netlify-and-github-actions/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+]
