@@ -1715,5 +1715,23 @@
     "mention-of": "https://sebastiandedeyne.com/sublime-is-still-sublime/",
     "wm-property": "mention-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Zidan",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/7856fb17dc114c581d5b5d26c8c78cee607e4ed9720773a038a70acc3db65c9c.jpg",
+      "url": "https://twitter.com/Zidan34569300"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1314159329180872704#favorited-by-1058209296280776704",
+    "published": null,
+    "wm-received": "2020-10-09T13:34:42Z",
+    "wm-id": 870182,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1314159329180872704/1058209296280776704",
+    "wm-target": "https://sebastiandedeyne.com/sublime-is-still-sublime/",
+    "like-of": "https://sebastiandedeyne.com/sublime-is-still-sublime/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]

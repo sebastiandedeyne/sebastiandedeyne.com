@@ -70,5 +70,23 @@
     "like-of": "https://sebastiandedeyne.com/how-to-schedule-posts-with-hugo-netlify-and-github-actions/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Boris DEHOUMON",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/3d91fc54c4d9287132ed0c20603ac7957e06bd86183b82097fdc6238a7dd6bbb.jpg",
+      "url": "https://twitter.com/dehboris"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1314096365610438656#favorited-by-2872559953",
+    "published": null,
+    "wm-received": "2020-10-09T18:04:51Z",
+    "wm-id": 870348,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1314096365610438656/2872559953",
+    "wm-target": "https://sebastiandedeyne.com/how-to-schedule-posts-with-hugo-netlify-and-github-actions/",
+    "like-of": "https://sebastiandedeyne.com/how-to-schedule-posts-with-hugo-netlify-and-github-actions/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
