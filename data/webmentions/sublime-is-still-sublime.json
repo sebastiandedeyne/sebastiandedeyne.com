@@ -1567,5 +1567,113 @@
     "like-of": "https://sebastiandedeyne.com/sublime-is-still-sublime/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Paul Ayuk",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/2f16039edf5c435c74d2206c082e06ebe7b4f019145e6ae100e4a8399dc8ee51.jpg",
+      "url": "https://twitter.com/paulayukk"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1314159329180872704#favorited-by-1566638011",
+    "published": null,
+    "wm-received": "2020-10-09T00:50:34Z",
+    "wm-id": 869519,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1314159329180872704/1566638011",
+    "wm-target": "https://sebastiandedeyne.com/sublime-is-still-sublime/",
+    "like-of": "https://sebastiandedeyne.com/sublime-is-still-sublime/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Usman Jani",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/2c439b305c56071f188102c92652cbc2cb44c7f4c13522dc9e8f334e9d92f2b7.jpg",
+      "url": "https://twitter.com/imussman22"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1314159329180872704#favorited-by-942120855521366016",
+    "published": null,
+    "wm-received": "2020-10-09T04:25:46Z",
+    "wm-id": 869700,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1314159329180872704/942120855521366016",
+    "wm-target": "https://sebastiandedeyne.com/sublime-is-still-sublime/",
+    "like-of": "https://sebastiandedeyne.com/sublime-is-still-sublime/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Alan Colver",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/a7ea77c3d295b30a75f1a8d32867183c0adf9ecb3e78f7144fccb2cfd1353197.jpg",
+      "url": "https://twitter.com/acolve"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1314159329180872704#favorited-by-170483256",
+    "published": null,
+    "wm-received": "2020-10-09T04:25:46Z",
+    "wm-id": 869701,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1314159329180872704/170483256",
+    "wm-target": "https://sebastiandedeyne.com/sublime-is-still-sublime/",
+    "like-of": "https://sebastiandedeyne.com/sublime-is-still-sublime/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Jay Vynch™",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/5c88470f0280aeb1108ab7195c547dbe7ebaa776d1185d68c4b8522a9f803c86.jpg",
+      "url": "https://twitter.com/tvynch"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1314159329180872704#favorited-by-184069274",
+    "published": null,
+    "wm-received": "2020-10-09T05:05:45Z",
+    "wm-id": 869758,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1314159329180872704/184069274",
+    "wm-target": "https://sebastiandedeyne.com/sublime-is-still-sublime/",
+    "like-of": "https://sebastiandedeyne.com/sublime-is-still-sublime/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Sharif M Eunus",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/85f4c80df9ae76467b5a62f87b14aeb7849998fbd109a9e41f4b371dc4393201.jpg",
+      "url": "https://twitter.com/smEunus"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1314159329180872704#favorited-by-2731684534",
+    "published": null,
+    "wm-received": "2020-10-09T05:05:45Z",
+    "wm-id": 869759,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1314159329180872704/2731684534",
+    "wm-target": "https://sebastiandedeyne.com/sublime-is-still-sublime/",
+    "like-of": "https://sebastiandedeyne.com/sublime-is-still-sublime/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Hector Hurtarte",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/d47f93dc80338570ce499a4db2ca168df32e44b7cb189b6d08945998ca83950a.jpg",
+      "url": "https://twitter.com/hectorh30"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1314159329180872704#favorited-by-21225242",
+    "published": null,
+    "wm-received": "2020-10-09T05:05:46Z",
+    "wm-id": 869760,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1314159329180872704/21225242",
+    "wm-target": "https://sebastiandedeyne.com/sublime-is-still-sublime/",
+    "like-of": "https://sebastiandedeyne.com/sublime-is-still-sublime/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
