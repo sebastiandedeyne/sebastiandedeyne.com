@@ -1675,5 +1675,45 @@
     "like-of": "https://sebastiandedeyne.com/sublime-is-still-sublime/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Devon Mather",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/21155d5cbc5840690917a9f0f04e70a6e39ef5b69603995d21be02ee7608c0d7.jpg",
+      "url": "https://twitter.com/devonmather"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1314159329180872704#favorited-by-10056032",
+    "published": null,
+    "wm-received": "2020-10-09T08:11:56Z",
+    "wm-id": 869916,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1314159329180872704/10056032",
+    "wm-target": "https://sebastiandedeyne.com/sublime-is-still-sublime/",
+    "like-of": "https://sebastiandedeyne.com/sublime-is-still-sublime/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Lovro Papež",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/36a17d2ba9fd0677f72081a363d65f57691e82592c47068a601a9644a1d14503.png",
+      "url": "https://twitter.com/slovenianGooner"
+    },
+    "url": "https://twitter.com/slovenianGooner/status/1314470610584694784",
+    "published": "2020-10-09T07:39:49+00:00",
+    "wm-received": "2020-10-09T08:11:56Z",
+    "wm-id": 869917,
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1314470610584694784",
+    "wm-target": "https://sebastiandedeyne.com/sublime-is-still-sublime/",
+    "content": {
+      "html": "Wow - would love to see your final outcome and if it's still as usable compared to Code.\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/sublime-is-still-sublime/\"></a>",
+      "text": "Wow - would love to see your final outcome and if it's still as usable compared to Code."
+    },
+    "mention-of": "https://sebastiandedeyne.com/sublime-is-still-sublime/",
+    "wm-property": "mention-of",
+    "wm-private": false
   }
 ]
