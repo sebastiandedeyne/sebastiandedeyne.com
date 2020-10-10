@@ -1733,5 +1733,23 @@
     "like-of": "https://sebastiandedeyne.com/sublime-is-still-sublime/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Dean McPherson",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/9e86b41f6efdad49716249c1d43525ecd1bf83cfc9a726e91168772478663992.jpg",
+      "url": "https://twitter.com/dean_mcpherson"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1314159329180872704#favorited-by-1378706502",
+    "published": null,
+    "wm-received": "2020-10-10T04:28:05Z",
+    "wm-id": 870643,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1314159329180872704/1378706502",
+    "wm-target": "https://sebastiandedeyne.com/sublime-is-still-sublime/",
+    "like-of": "https://sebastiandedeyne.com/sublime-is-still-sublime/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
