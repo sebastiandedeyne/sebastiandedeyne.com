@@ -679,5 +679,27 @@
     "mention-of": "https://sebastiandedeyne.com/a-rare-look-into-the-decision-making-process-of-a-large-project/",
     "wm-property": "mention-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "La semana PHP",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/bfd0c987004c612438e013bf5427e37b27ff4f46c2e70acd8cc8ef5d28b3f362.jpg",
+      "url": "https://twitter.com/lasemanaphp"
+    },
+    "url": "https://twitter.com/lasemanaphp/status/1314838108769259521",
+    "published": "2020-10-10T08:00:08+00:00",
+    "wm-received": "2020-10-10T08:17:14Z",
+    "wm-id": 870847,
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1314838108769259521",
+    "wm-target": "https://sebastiandedeyne.com/a-rare-look-into-the-decision-making-process-of-a-large-project/",
+    "content": {
+      "html": "Una rara mirada al proceso de toma de decisiones de un gran proyecto <a href=\"https://sebastiandedeyne.com/a-rare-look-into-the-decision-making-process-of-a-large-project/\">sebastiandedeyne.com/a-rare-look-in…</a> vía <a href=\"https://twitter.com/sebdedeyne\">@sebdedeyne</a>",
+      "text": "Una rara mirada al proceso de toma de decisiones de un gran proyecto sebastiandedeyne.com/a-rare-look-in… vía @sebdedeyne"
+    },
+    "mention-of": "https://sebastiandedeyne.com/a-rare-look-into-the-decision-making-process-of-a-large-project/",
+    "wm-property": "mention-of",
+    "wm-private": false
   }
 ]
