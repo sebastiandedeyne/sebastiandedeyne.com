@@ -456,5 +456,27 @@
     "mention-of": "https://sebastiandedeyne.com/react-for-vue-developers/",
     "wm-property": "mention-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Bakri Moharram",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/eb5c0046b2a1d6205f517af81824127beae9073bca27309a631e0aa0677a78db.jpg",
+      "url": "https://twitter.com/BakriMoharram"
+    },
+    "url": "https://twitter.com/BakriMoharram/status/1315246221443903488",
+    "published": "2020-10-11T11:01:49+00:00",
+    "wm-received": "2020-10-11T11:11:45Z",
+    "wm-id": 871770,
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1315246221443903488",
+    "wm-target": "https://sebastiandedeyne.com/react-for-vue-developers/",
+    "content": {
+      "html": "Amazing Article by <a href=\"https://twitter.com/sebdedeyne\">@sebdedeyne</a> 👌\n<a href=\"https://sebastiandedeyne.com/react-for-vue-developers/\">sebastiandedeyne.com/react-for-vue-…</a>",
+      "text": "Amazing Article by @sebdedeyne 👌\nsebastiandedeyne.com/react-for-vue-…"
+    },
+    "mention-of": "https://sebastiandedeyne.com/react-for-vue-developers/",
+    "wm-property": "mention-of",
+    "wm-private": false
   }
 ]
