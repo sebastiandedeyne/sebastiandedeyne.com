@@ -2960,5 +2960,23 @@
     "mention-of": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
     "wm-property": "mention-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "asdfdelta",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/136131c85f549d3f2775f85a347ba808ab0440603a4a57cf02e2ac1fd4898674.png",
+      "url": "https://twitter.com/asdfdelta"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1305810811064115212#favorited-by-1300415869",
+    "published": null,
+    "wm-received": "2020-10-11T04:22:25Z",
+    "wm-id": 871393,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1305810811064115212/1300415869",
+    "wm-target": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "like-of": "https://sebastiandedeyne.com/moment-js-thank-you-for-your-service/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
