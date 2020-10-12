@@ -1,0 +1,100 @@
+[
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Marvin Rabe",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/e144854cbe8b5935bb98596537ff5914b2b25c62bf2ae492b65f0ab57d43e542.jpg",
+      "url": "https://twitter.com/marvin_rabe"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1315556229968809984#favorited-by-889899445625769984",
+    "published": null,
+    "wm-received": "2020-10-12T08:10:41Z",
+    "wm-id": 872790,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1315556229968809984/889899445625769984",
+    "wm-target": "https://sebastiandedeyne.com/options-not-roadmaps/",
+    "like-of": "https://sebastiandedeyne.com/options-not-roadmaps/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Peter Tondereau",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/16e82f5f5e7bee632ee5319c4bb71259a4b0bc9bf165f6d91bbc3d0d12486ed6.jpg",
+      "url": "https://twitter.com/ptondereau1"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1315556229968809984#favorited-by-532223528",
+    "published": null,
+    "wm-received": "2020-10-12T08:10:41Z",
+    "wm-id": 872791,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1315556229968809984/532223528",
+    "wm-target": "https://sebastiandedeyne.com/options-not-roadmaps/",
+    "like-of": "https://sebastiandedeyne.com/options-not-roadmaps/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "youssef khouili",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/49fbe02912a3d86956a83deb436dc0bd9799b62032f672f9f645e0c7d4c8e204.jpg",
+      "url": "https://twitter.com/youssefkhouili4"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1315556229968809984#favorited-by-1266690334295195651",
+    "published": null,
+    "wm-received": "2020-10-12T08:10:42Z",
+    "wm-id": 872792,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1315556229968809984/1266690334295195651",
+    "wm-target": "https://sebastiandedeyne.com/options-not-roadmaps/",
+    "like-of": "https://sebastiandedeyne.com/options-not-roadmaps/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Johan Ronsse",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/104bbe1fc73a6ee166c1f20e0a80d075df7bb37b3e43330d3ce27b550c5cc115.jpg",
+      "url": "https://twitter.com/wolfr_2"
+    },
+    "url": "https://twitter.com/wolfr_2/status/1315561213858926593",
+    "published": "2020-10-12T07:53:29+00:00",
+    "wm-received": "2020-10-12T08:11:06Z",
+    "wm-id": 872793,
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/sebdedeyne/1315556229968809984/1315561213858926593",
+    "wm-target": "https://sebastiandedeyne.com/options-not-roadmaps/",
+    "content": {
+      "html": "Really depends on what you are building. We are digitizing government processes. There is a need for a roadmap and there is predictability, because the things that need to happen already happen - on physical paper.\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/sebdedeyne\"></a>",
+      "text": "Really depends on what you are building. We are digitizing government processes. There is a need for a roadmap and there is predictability, because the things that need to happen already happen - on physical paper."
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/options-not-roadmaps/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Sebastian De Deyne",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/3ce609991342657b8b7e99eb7a5c6e3656fbdb1c51575f1464d354b81aaeda86.jpg",
+      "url": "https://twitter.com/sebdedeyne"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1315588573765214208",
+    "published": "2020-10-12T09:42:13+00:00",
+    "wm-received": "2020-10-12T09:57:33Z",
+    "wm-id": 872879,
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/sebdedeyne/1315556229968809984/1315588573765214208",
+    "wm-target": "https://sebastiandedeyne.com/options-not-roadmaps/",
+    "content": {
+      "html": "Agreed, that's an interesting topic and I'm actually in a similar situation: there are different rules when rebuilding an existing process than when building a new product.\n<a class=\"u-mention\" href=\"https://twitter.com/wolfr_2\"></a>",
+      "text": "Agreed, that's an interesting topic and I'm actually in a similar situation: there are different rules when rebuilding an existing process than when building a new product."
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/options-not-roadmaps/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  }
+]
