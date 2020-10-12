@@ -96,5 +96,23 @@
     "in-reply-to": "https://sebastiandedeyne.com/options-not-roadmaps/",
     "wm-property": "in-reply-to",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Ruslan",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/6114334d09745c23c21d748a3ffb0e5f0972472d77df8a83d2914859cbd3b5fd.jpg",
+      "url": "https://twitter.com/SuddenlyRust"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1315556229968809984#favorited-by-935107835045842944",
+    "published": null,
+    "wm-received": "2020-10-12T14:06:34Z",
+    "wm-id": 873134,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1315556229968809984/935107835045842944",
+    "wm-target": "https://sebastiandedeyne.com/options-not-roadmaps/",
+    "like-of": "https://sebastiandedeyne.com/options-not-roadmaps/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
