@@ -1751,5 +1751,23 @@
     "like-of": "https://sebastiandedeyne.com/sublime-is-still-sublime/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Zonaed Hasan",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/9720b95a2e3fb97519caf81d6dc9c6bf4fe3e1018271470d117c3c688fd00096.jpg",
+      "url": "https://twitter.com/HasanZonaed"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1314159329180872704#favorited-by-1011191470563328002",
+    "published": null,
+    "wm-received": "2020-10-15T14:41:44Z",
+    "wm-id": 876884,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1314159329180872704/1011191470563328002",
+    "wm-target": "https://sebastiandedeyne.com/sublime-is-still-sublime/",
+    "like-of": "https://sebastiandedeyne.com/sublime-is-still-sublime/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
