@@ -750,5 +750,23 @@
     "like-of": "https://sebastiandedeyne.com/the-revamped-spatie-guidelines/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Agasi Gilang Persada",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/abf68ef97459b97f8f8aabbe8ea9162294b901aad9eb3d5a270daa167bb92123.jpg",
+      "url": "https://twitter.com/agasigp"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1311994393742761990#favorited-by-81312944",
+    "published": null,
+    "wm-received": "2020-10-17T16:37:59Z",
+    "wm-id": 878715,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1311994393742761990/81312944",
+    "wm-target": "https://sebastiandedeyne.com/the-revamped-spatie-guidelines/",
+    "like-of": "https://sebastiandedeyne.com/the-revamped-spatie-guidelines/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
