@@ -1,6 +1,10 @@
 const production = process.env.HUGO_ENV === "production";
 
 module.exports = {
+  future: {
+    purgeLayersByDefault: true,
+    removeDeprecatedGapUtilities: true,
+  },
   purge: {
     enabled: production,
     content: [
@@ -18,9 +22,6 @@ module.exports = {
         dark: { raw: "(prefers-color-scheme: dark)" },
       },
     },
-  },
-  variants: {
-    margin: ["responsive", "last"],
   },
   plugins: [],
   important: true,

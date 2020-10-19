@@ -125,10 +125,10 @@
         </a>
       </h2>
       <div class="pb-12 sm:pb-24">
-        <ul class="mt-8">
+        <ul class="mt-8 space-y-8">
           {{ range . }}
             {{ $reply := . }}
-            <li class="mb-8 last:mb-0">
+            <li>
               <p class="mb-1">
                 <a href="{{ $reply.author.url }}">
                   <img
