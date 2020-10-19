@@ -1,0 +1,453 @@
+[
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Robin Dirksen",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/21c285970183e6c593d08e5877e992f144bbccaa434174e8e3b1c5a8eb571326.jpg",
+      "url": "https://twitter.com/robindirksen1"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1318095571727638528#favorited-by-826787304165560321",
+    "published": null,
+    "wm-received": "2020-10-19T08:11:03Z",
+    "wm-id": 880261,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1318095571727638528/826787304165560321",
+    "wm-target": "https://sebastiandedeyne.com/blurhash/",
+    "like-of": "https://sebastiandedeyne.com/blurhash/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Adam Campbell",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/8b203f3ed5f7e07e4a679b516d857184a56860b3f77d0cef8ff73e8230d797c2.jpg",
+      "url": "https://twitter.com/hotmeteor"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1318095571727638528#favorited-by-10475672",
+    "published": null,
+    "wm-received": "2020-10-19T08:11:10Z",
+    "wm-id": 880262,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1318095571727638528/10475672",
+    "wm-target": "https://sebastiandedeyne.com/blurhash/",
+    "like-of": "https://sebastiandedeyne.com/blurhash/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Tim",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/41a9b8ca735e9d73b7a5c8b0061c2de5b3c161799d7eafb5e6ba290ddbfb2b11.jpg",
+      "url": "https://twitter.com/TimVanDijck"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1318095571727638528#favorited-by-35705702",
+    "published": null,
+    "wm-received": "2020-10-19T08:11:11Z",
+    "wm-id": 880263,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1318095571727638528/35705702",
+    "wm-target": "https://sebastiandedeyne.com/blurhash/",
+    "like-of": "https://sebastiandedeyne.com/blurhash/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "LorneG",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/2fdc69b8573eeb48eb05323459e9a0ed894ffc3008e9d6151abe1f60d9073091.jpg",
+      "url": "https://twitter.com/LorneG"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1318095571727638528#favorited-by-15294904",
+    "published": null,
+    "wm-received": "2020-10-19T08:11:11Z",
+    "wm-id": 880264,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1318095571727638528/15294904",
+    "wm-target": "https://sebastiandedeyne.com/blurhash/",
+    "like-of": "https://sebastiandedeyne.com/blurhash/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Kasper Zutterman",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/4608e268d273dcc44683b721d2e51bbbd648434726e8334c91fbc77dbfb072f7.jpg",
+      "url": "https://twitter.com/KasperZutterman"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1318095571727638528#favorited-by-929740905459994624",
+    "published": null,
+    "wm-received": "2020-10-19T08:11:12Z",
+    "wm-id": 880265,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1318095571727638528/929740905459994624",
+    "wm-target": "https://sebastiandedeyne.com/blurhash/",
+    "like-of": "https://sebastiandedeyne.com/blurhash/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Dan",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/e1ee349d801363c1c1a1ea71927429b25c50f63860b410637b7aefc3997b996e.jpg",
+      "url": "https://twitter.com/pixelbrackets"
+    },
+    "url": "https://twitter.com/pixelbrackets/status/1318100966814699521",
+    "published": "2020-10-19T08:05:34+00:00",
+    "wm-received": "2020-10-19T08:11:13Z",
+    "wm-id": 880266,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1318095571727638528/1318100966814699521",
+    "wm-target": "https://sebastiandedeyne.com/blurhash/",
+    "content": {
+      "text": "🔗 BlurHash is an algorithm to encode and decode image placeholders with 30 (!) character strings 🤯 sebastiandedeyne.com/blurhash/"
+    },
+    "repost-of": "https://sebastiandedeyne.com/blurhash/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "PiTTAYA⊿⚡️🟠",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/4ca8629bbae4d1fbe216e1913ed65368f6d3585696b914f8f06a5a23bf296ea5.jpg",
+      "url": "https://twitter.com/pittaya"
+    },
+    "url": "https://twitter.com/pittaya/status/1318097282869325824",
+    "published": "2020-10-19T07:50:55+00:00",
+    "wm-received": "2020-10-19T08:11:13Z",
+    "wm-id": 880267,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1318095571727638528/1318097282869325824",
+    "wm-target": "https://sebastiandedeyne.com/blurhash/",
+    "content": {
+      "text": "🔗 BlurHash is an algorithm to encode and decode image placeholders with 30 (!) character strings 🤯 sebastiandedeyne.com/blurhash/"
+    },
+    "repost-of": "https://sebastiandedeyne.com/blurhash/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Brent",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/c5a1b46c900f3c274007c4b7d7e68c6fc97f3efdbd26937c16c9912c3e2fe468.jpg",
+      "url": "https://twitter.com/brendt_gd"
+    },
+    "url": "https://twitter.com/brendt_gd/status/1318096620974649345",
+    "published": "2020-10-19T07:48:18+00:00",
+    "wm-received": "2020-10-19T08:11:15Z",
+    "wm-id": 880268,
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1318096620974649345",
+    "wm-target": "https://sebastiandedeyne.com/blurhash/",
+    "content": {
+      "html": "Speaking of optimizing images 🤩\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/blurhash/\"></a>",
+      "text": "Speaking of optimizing images 🤩"
+    },
+    "mention-of": "https://sebastiandedeyne.com/blurhash/",
+    "wm-property": "mention-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Ruslan",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/6114334d09745c23c21d748a3ffb0e5f0972472d77df8a83d2914859cbd3b5fd.jpg",
+      "url": "https://twitter.com/SuddenlyRust"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1318095571727638528#favorited-by-935107835045842944",
+    "published": null,
+    "wm-received": "2020-10-19T08:11:35Z",
+    "wm-id": 880269,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1318095571727638528/935107835045842944",
+    "wm-target": "https://sebastiandedeyne.com/blurhash/",
+    "like-of": "https://sebastiandedeyne.com/blurhash/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "José Cage",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/813485e34c08384ba64d384b450c7c705536cdfb090e9cee4833637645d28f18.jpg",
+      "url": "https://twitter.com/cagejose"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1318095571727638528#favorited-by-944899327",
+    "published": null,
+    "wm-received": "2020-10-19T08:50:10Z",
+    "wm-id": 880327,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1318095571727638528/944899327",
+    "wm-target": "https://sebastiandedeyne.com/blurhash/",
+    "like-of": "https://sebastiandedeyne.com/blurhash/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Arkadiusz Kondas",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/2754389c102033fdea78464cb7b445da8c31c364008ed4882014ea8274bd1e64.jpg",
+      "url": "https://twitter.com/ArkadiuszKondas"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1318095571727638528#favorited-by-450511313",
+    "published": null,
+    "wm-received": "2020-10-19T08:50:11Z",
+    "wm-id": 880328,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1318095571727638528/450511313",
+    "wm-target": "https://sebastiandedeyne.com/blurhash/",
+    "like-of": "https://sebastiandedeyne.com/blurhash/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Tomasz Kowaλczyk ⚡",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/60dcd74edc98a99a9e915b92a0863212d3ae83a6857c4141de9fa1fb3e59540f.png",
+      "url": "https://twitter.com/tmmx"
+    },
+    "url": "https://twitter.com/tmmx/status/1318105187358265344",
+    "published": "2020-10-19T08:22:20+00:00",
+    "wm-received": "2020-10-19T08:50:12Z",
+    "wm-id": 880329,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1318095571727638528/1318105187358265344",
+    "wm-target": "https://sebastiandedeyne.com/blurhash/",
+    "content": {
+      "text": "🔗 BlurHash is an algorithm to encode and decode image placeholders with 30 (!) character strings 🤯 sebastiandedeyne.com/blurhash/"
+    },
+    "repost-of": "https://sebastiandedeyne.com/blurhash/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Arkadiusz Kondas",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/2754389c102033fdea78464cb7b445da8c31c364008ed4882014ea8274bd1e64.jpg",
+      "url": "https://twitter.com/ArkadiuszKondas"
+    },
+    "url": "https://twitter.com/ArkadiuszKondas/status/1318102701373333508",
+    "published": "2020-10-19T08:12:27+00:00",
+    "wm-received": "2020-10-19T08:50:12Z",
+    "wm-id": 880330,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1318095571727638528/1318102701373333508",
+    "wm-target": "https://sebastiandedeyne.com/blurhash/",
+    "content": {
+      "text": "🔗 BlurHash is an algorithm to encode and decode image placeholders with 30 (!) character strings 🤯 sebastiandedeyne.com/blurhash/"
+    },
+    "repost-of": "https://sebastiandedeyne.com/blurhash/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "José Cage",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/813485e34c08384ba64d384b450c7c705536cdfb090e9cee4833637645d28f18.jpg",
+      "url": "https://twitter.com/cagejose"
+    },
+    "url": "https://twitter.com/cagejose/status/1318103338257403904",
+    "published": "2020-10-19T08:14:59+00:00",
+    "wm-received": "2020-10-19T08:50:14Z",
+    "wm-id": 880331,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1318095571727638528/1318103338257403904",
+    "wm-target": "https://sebastiandedeyne.com/blurhash/",
+    "content": {
+      "text": "🔗 BlurHash is an algorithm to encode and decode image placeholders with 30 (!) character strings 🤯 sebastiandedeyne.com/blurhash/"
+    },
+    "repost-of": "https://sebastiandedeyne.com/blurhash/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "henning",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/217c1bf20af36dd54090bdbe271fc6f5da431bacd957b3209fbb831322593297.jpg",
+      "url": "https://twitter.com/hactar_"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1318095571727638528#favorited-by-3425288902",
+    "published": null,
+    "wm-received": "2020-10-19T09:31:37Z",
+    "wm-id": 880427,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1318095571727638528/3425288902",
+    "wm-target": "https://sebastiandedeyne.com/blurhash/",
+    "like-of": "https://sebastiandedeyne.com/blurhash/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Jente Severi",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/7d8bdcc1d795b4c02b22b90599cadb780f0a9a5eeab57caa62ba8ddd8c4f2e62.jpg",
+      "url": "https://twitter.com/JenteSeveri"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1318095571727638528#favorited-by-858306819005001733",
+    "published": null,
+    "wm-received": "2020-10-19T09:31:38Z",
+    "wm-id": 880428,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1318095571727638528/858306819005001733",
+    "wm-target": "https://sebastiandedeyne.com/blurhash/",
+    "like-of": "https://sebastiandedeyne.com/blurhash/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Fredrik",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/41a8b7b19d8d455d5f53c80be17674499c90698b60291dfd3ba6664e591af0ed.jpg",
+      "url": "https://twitter.com/Livijn_"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1318095571727638528#favorited-by-99358706",
+    "published": null,
+    "wm-received": "2020-10-19T09:31:39Z",
+    "wm-id": 880429,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1318095571727638528/99358706",
+    "wm-target": "https://sebastiandedeyne.com/blurhash/",
+    "like-of": "https://sebastiandedeyne.com/blurhash/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Roman Pronskiy",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/9373f62b650e88f9265f5742739d93f3fbaa1f7d60d8593c694c25821996528e.png",
+      "url": "https://twitter.com/pronskiy"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1318095571727638528#favorited-by-156592964",
+    "published": null,
+    "wm-received": "2020-10-19T09:31:40Z",
+    "wm-id": 880430,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1318095571727638528/156592964",
+    "wm-target": "https://sebastiandedeyne.com/blurhash/",
+    "like-of": "https://sebastiandedeyne.com/blurhash/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Thibault Lavoisey",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/20f6791a2914182a189eaa298b94f4661a8ee883160063336fefd928cd1c1fcb.jpg",
+      "url": "https://twitter.com/thibaultlavoise"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1318095571727638528#favorited-by-916741484",
+    "published": null,
+    "wm-received": "2020-10-19T09:31:41Z",
+    "wm-id": 880431,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1318095571727638528/916741484",
+    "wm-target": "https://sebastiandedeyne.com/blurhash/",
+    "like-of": "https://sebastiandedeyne.com/blurhash/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Michael Aerni",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/7c6c0c04d1abec35240e3864ffedd482ab6ef992eaa812363f245ed2f0e8833b.jpg",
+      "url": "https://twitter.com/MichaelAerni"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1318095571727638528#favorited-by-142228969",
+    "published": null,
+    "wm-received": "2020-10-19T09:31:41Z",
+    "wm-id": 880432,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1318095571727638528/142228969",
+    "wm-target": "https://sebastiandedeyne.com/blurhash/",
+    "like-of": "https://sebastiandedeyne.com/blurhash/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Manojkiran",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/798b3e739aa05d809a5fbb23056e0390c5ba8e24a743244ba1c8f8159aa4eebc.jpg",
+      "url": "https://twitter.com/Manoj_Kiran_A"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1318095571727638528#favorited-by-1012721657339768832",
+    "published": null,
+    "wm-received": "2020-10-19T10:44:52Z",
+    "wm-id": 880563,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1318095571727638528/1012721657339768832",
+    "wm-target": "https://sebastiandedeyne.com/blurhash/",
+    "like-of": "https://sebastiandedeyne.com/blurhash/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Franco Gilio",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/344bd6597943463b80117b7639c17b37de1d2eee55becadaf85c6a1fadf159d5.jpg",
+      "url": "https://twitter.com/fgili0"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1318095571727638528#favorited-by-305749158",
+    "published": null,
+    "wm-received": "2020-10-19T10:45:29Z",
+    "wm-id": 880564,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1318095571727638528/305749158",
+    "wm-target": "https://sebastiandedeyne.com/blurhash/",
+    "like-of": "https://sebastiandedeyne.com/blurhash/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Andi Arpo",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/66f43cdfbf995ab917edaea2b24fb55ee592fe13f599ab776680b1ed49f14154.jpg",
+      "url": "https://twitter.com/chokotrix"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1318095571727638528#favorited-by-867330310433898496",
+    "published": null,
+    "wm-received": "2020-10-19T11:32:15Z",
+    "wm-id": 880624,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1318095571727638528/867330310433898496",
+    "wm-target": "https://sebastiandedeyne.com/blurhash/",
+    "like-of": "https://sebastiandedeyne.com/blurhash/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Mark van Duijker",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/428458ca3b7fc6d57f9f7866631b702a2add3b2d6f5753e5c2f58fa9a2627d01.jpg",
+      "url": "https://twitter.com/mvanduijker"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1318095571727638528#favorited-by-78974888",
+    "published": null,
+    "wm-received": "2020-10-19T12:05:50Z",
+    "wm-id": 880668,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1318095571727638528/78974888",
+    "wm-target": "https://sebastiandedeyne.com/blurhash/",
+    "like-of": "https://sebastiandedeyne.com/blurhash/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+]
