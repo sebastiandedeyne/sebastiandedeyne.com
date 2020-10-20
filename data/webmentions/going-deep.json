@@ -1,0 +1,234 @@
+[
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Jess Archer",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/4fb29b7a4034a067cda1411356ee76e62f884791a237c6c1f1f095ef8abd88a4.png",
+      "url": "https://twitter.com/jessarchercodes"
+    },
+    "url": "https://twitter.com/jessarchercodes/status/1318466900842610688",
+    "published": "2020-10-20T08:19:39+00:00",
+    "wm-received": "2020-10-20T09:01:33Z",
+    "wm-id": 881808,
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/sebdedeyne/1318465625178673153/1318466900842610688",
+    "wm-target": "https://sebastiandedeyne.com/going-deep/",
+    "content": {
+      "html": "My favourite PRs are generally full of deleted unnecessary code and not much else 😁\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/sebdedeyne\"></a>",
+      "text": "My favourite PRs are generally full of deleted unnecessary code and not much else 😁"
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/going-deep/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Dries Vints",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/245c5cf501e9d689596e174910f78b22cfe7a7924462a222afabba4a2e84e76c.jpg",
+      "url": "https://twitter.com/driesvints"
+    },
+    "url": "https://twitter.com/driesvints/status/1318470588260896773",
+    "published": "2020-10-20T08:34:18+00:00",
+    "wm-received": "2020-10-20T09:01:34Z",
+    "wm-id": 881809,
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/sebdedeyne/1318465625178673153/1318470588260896773",
+    "wm-target": "https://sebastiandedeyne.com/going-deep/",
+    "content": {
+      "html": "Same!\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/jessarchercodes\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/sebdedeyne\"></a>",
+      "text": "Same!"
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/going-deep/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Miguel Piedrafita 🚀",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/82ed867d605f1130877590cceb29ccb51445db010ee6680958a0c72c2524f5d6.jpg",
+      "url": "https://twitter.com/m1guelpf"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1318465625178673153#favorited-by-713094195955830785",
+    "published": null,
+    "wm-received": "2020-10-20T09:01:35Z",
+    "wm-id": 881810,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1318465625178673153/713094195955830785",
+    "wm-target": "https://sebastiandedeyne.com/going-deep/",
+    "like-of": "https://sebastiandedeyne.com/going-deep/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Jess Archer",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/4fb29b7a4034a067cda1411356ee76e62f884791a237c6c1f1f095ef8abd88a4.png",
+      "url": "https://twitter.com/jessarchercodes"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1318465625178673153#favorited-by-1052415515770146816",
+    "published": null,
+    "wm-received": "2020-10-20T09:01:35Z",
+    "wm-id": 881811,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1318465625178673153/1052415515770146816",
+    "wm-target": "https://sebastiandedeyne.com/going-deep/",
+    "like-of": "https://sebastiandedeyne.com/going-deep/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Franky Braem 🇧🇪",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/935867933db8b6350df5c149f7f86ee951fc38ee74ac332cb367ef67ad1511d8.jpg",
+      "url": "https://twitter.com/fbraem"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1318465625178673153#favorited-by-500028455",
+    "published": null,
+    "wm-received": "2020-10-20T09:01:36Z",
+    "wm-id": 881812,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1318465625178673153/500028455",
+    "wm-target": "https://sebastiandedeyne.com/going-deep/",
+    "like-of": "https://sebastiandedeyne.com/going-deep/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "NUNO MADURO",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/66bc64df878d8a1d9dcfd2ed6199a6ba856f4aed7413777459008d70f33497c2.jpg",
+      "url": "https://twitter.com/enunomaduro"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1318465625178673153#favorited-by-1475534683",
+    "published": null,
+    "wm-received": "2020-10-20T09:01:37Z",
+    "wm-id": 881813,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1318465625178673153/1475534683",
+    "wm-target": "https://sebastiandedeyne.com/going-deep/",
+    "like-of": "https://sebastiandedeyne.com/going-deep/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Alexander Makhaev",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/d0e288ca636669216f553ec58f2075cc256afe80a6760731e9e362983fdb3952.jpg",
+      "url": "https://twitter.com/mankms"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1318465625178673153#favorited-by-91294325",
+    "published": null,
+    "wm-received": "2020-10-20T09:01:37Z",
+    "wm-id": 881814,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1318465625178673153/91294325",
+    "wm-target": "https://sebastiandedeyne.com/going-deep/",
+    "like-of": "https://sebastiandedeyne.com/going-deep/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "henning",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/217c1bf20af36dd54090bdbe271fc6f5da431bacd957b3209fbb831322593297.jpg",
+      "url": "https://twitter.com/hactar_"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1318465625178673153#favorited-by-3425288902",
+    "published": null,
+    "wm-received": "2020-10-20T09:02:05Z",
+    "wm-id": 881815,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1318465625178673153/3425288902",
+    "wm-target": "https://sebastiandedeyne.com/going-deep/",
+    "like-of": "https://sebastiandedeyne.com/going-deep/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Nico Verbruggen",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/aa42eb254335ad1ae660accec0424fa833a8e591921540758462904ea8521eba.jpg",
+      "url": "https://twitter.com/nicoverbruggen"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1318465625178673153#favorited-by-116186312",
+    "published": null,
+    "wm-received": "2020-10-20T10:47:51Z",
+    "wm-id": 881937,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1318465625178673153/116186312",
+    "wm-target": "https://sebastiandedeyne.com/going-deep/",
+    "like-of": "https://sebastiandedeyne.com/going-deep/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Michael Dyrynda",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/ac22735af2a5141305b0cb233f84d73043df38a2c5d105a503f195af213984ac.jpg",
+      "url": "https://twitter.com/michaeldyrynda"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1318465625178673153#favorited-by-173050809",
+    "published": null,
+    "wm-received": "2020-10-20T10:47:52Z",
+    "wm-id": 881938,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1318465625178673153/173050809",
+    "wm-target": "https://sebastiandedeyne.com/going-deep/",
+    "like-of": "https://sebastiandedeyne.com/going-deep/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Freek Van der Herten",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/389862c8a30722a50adbdf8f8388f6f8ed1a665bc1b69e4355ed98b6f2e01afb.jpg",
+      "url": "https://twitter.com/freekmurze"
+    },
+    "url": "https://twitter.com/freekmurze/status/1318507286843752448",
+    "published": "2020-10-20T11:00:08+00:00",
+    "wm-received": "2020-10-20T11:33:48Z",
+    "wm-id": 881948,
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1318507286843752448",
+    "wm-target": "https://sebastiandedeyne.com/going-deep/",
+    "content": {
+      "html": "🔗 Going deep\n<a href=\"https://sebastiandedeyne.com/going-deep/\">sebastiandedeyne.com/going-deep/</a> (by <a href=\"https://twitter.com/sebdedeyne\">@sebdedeyne</a>)\n<a href=\"https://twitter.com/search?q=%23bestpractices\">#bestpractices</a>",
+      "text": "🔗 Going deep\nsebastiandedeyne.com/going-deep/ (by @sebdedeyne)\n#bestpractices"
+    },
+    "mention-of": "https://sebastiandedeyne.com/going-deep/",
+    "wm-property": "mention-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Coder Safari",
+      "photo": "https://webmention.io/avatar/abs.twimg.com/0e6b2cd70aa5b35dec24ca4e1e63f8963f0118736d9ec3bba77e3a8c99a27bc2.png",
+      "url": "https://twitter.com/CoderSafari"
+    },
+    "url": "https://twitter.com/CoderSafari/status/1318513245557125122",
+    "published": "2020-10-20T11:23:49+00:00",
+    "wm-received": "2020-10-20T12:03:30Z",
+    "wm-id": 881990,
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/freekmurze/1318507286843752448/1318513245557125122",
+    "wm-target": "https://sebastiandedeyne.com/going-deep/",
+    "content": {
+      "html": "I disagree with everything related to electron. Electron apps works for all platform but only for privileged people . Sure people from europe or america can buy 32gb macbooks but many people still use low grade computer.  So stop making apps in electron. Be sublime not vscode.\n<a class=\"u-mention\" href=\"https://freek.dev/\"></a>\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/going-deep/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/freekmurze\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/sebdedeyne\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/themsaid\"></a>",
+      "text": "I disagree with everything related to electron. Electron apps works for all platform but only for privileged people . Sure people from europe or america can buy 32gb macbooks but many people still use low grade computer.  So stop making apps in electron. Be sublime not vscode."
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/going-deep/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  }
+]

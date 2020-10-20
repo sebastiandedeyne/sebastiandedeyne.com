@@ -986,5 +986,62 @@
     "repost-of": "https://sebastiandedeyne.com/blurhash/",
     "wm-property": "repost-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Vince",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/ba0f5ecb1f82a7ccb2a965df17e838e64f5601c9640dba2412afa07b8ecefc5c.jpg",
+      "url": "https://twitter.com/LESCHAEVE"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1318095571727638528#favorited-by-318857370",
+    "published": null,
+    "wm-received": "2020-10-20T07:17:58Z",
+    "wm-id": 881692,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1318095571727638528/318857370",
+    "wm-target": "https://sebastiandedeyne.com/blurhash/",
+    "like-of": "https://sebastiandedeyne.com/blurhash/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Vince",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/ba0f5ecb1f82a7ccb2a965df17e838e64f5601c9640dba2412afa07b8ecefc5c.jpg",
+      "url": "https://twitter.com/LESCHAEVE"
+    },
+    "url": "https://twitter.com/LESCHAEVE/status/1318450431572533249",
+    "published": "2020-10-20T07:14:13+00:00",
+    "wm-received": "2020-10-20T07:17:59Z",
+    "wm-id": 881693,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1318095571727638528/1318450431572533249",
+    "wm-target": "https://sebastiandedeyne.com/blurhash/",
+    "content": {
+      "text": "🔗 BlurHash is an algorithm to encode and decode image placeholders with 30 (!) character strings 🤯 sebastiandedeyne.com/blurhash/"
+    },
+    "repost-of": "https://sebastiandedeyne.com/blurhash/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Peter Forret",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/7bdbbca466fad6d9dc8d8e1b480d1a0d6bf845b9f389d09679467494e1b04625.jpg",
+      "url": "https://twitter.com/pforret"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1318095571727638528#favorited-by-11038",
+    "published": null,
+    "wm-received": "2020-10-20T07:18:32Z",
+    "wm-id": 881694,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1318095571727638528/11038",
+    "wm-target": "https://sebastiandedeyne.com/blurhash/",
+    "like-of": "https://sebastiandedeyne.com/blurhash/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
