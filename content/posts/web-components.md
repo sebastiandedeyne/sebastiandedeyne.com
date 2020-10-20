@@ -3,6 +3,7 @@ date: 2019-04-28
 title: Web components
 categories: ["articles"]
 keywords:
+    - web components
     - JavaScript
     - the web
 ---
