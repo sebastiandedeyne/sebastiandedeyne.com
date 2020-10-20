@@ -230,5 +230,373 @@
     "in-reply-to": "https://sebastiandedeyne.com/going-deep/",
     "wm-property": "in-reply-to",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Brandon Surowiec",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/45226abada2bd500360af6839fd38fea1257e6692dd36a1f2b659145135a4e48.jpg",
+      "url": "https://twitter.com/brandonsurowiec"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1318465625178673153#favorited-by-358715811",
+    "published": null,
+    "wm-received": "2020-10-20T12:24:17Z",
+    "wm-id": 882030,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1318465625178673153/358715811",
+    "wm-target": "https://sebastiandedeyne.com/going-deep/",
+    "like-of": "https://sebastiandedeyne.com/going-deep/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Powolny Marcel 👨‍💻",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/62d79528a81b47d8af82f42a8dee0b19252282c4a8d101b69bacb0785098b20d.jpg",
+      "url": "https://twitter.com/Marcpowo"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1318465625178673153#favorited-by-87974154",
+    "published": null,
+    "wm-received": "2020-10-20T12:24:17Z",
+    "wm-id": 882031,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1318465625178673153/87974154",
+    "wm-target": "https://sebastiandedeyne.com/going-deep/",
+    "like-of": "https://sebastiandedeyne.com/going-deep/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Roy Duineveld",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/4b76af49bbb1fd8c1064e17f0579dce041838a588bb2a3c53d97496c9438e8b8.jpg",
+      "url": "https://twitter.com/royduin"
+    },
+    "url": "https://twitter.com/royduin/status/1318525527569956870",
+    "published": "2020-10-20T12:12:37+00:00",
+    "wm-received": "2020-10-20T12:25:42Z",
+    "wm-id": 882032,
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/freekmurze/1318507286843752448/1318525527569956870",
+    "wm-target": "https://sebastiandedeyne.com/going-deep/",
+    "content": {
+      "html": "Nice, quote of the year: \"Be sublime not vscode\" 🤘🏻🚀\n<a class=\"u-mention\" href=\"https://freek.dev/\"></a>\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/going-deep/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/CoderSafari\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/freekmurze\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/sebdedeyne\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/themsaid\"></a>",
+      "text": "Nice, quote of the year: \"Be sublime not vscode\" 🤘🏻🚀"
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/going-deep/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Jarosław Jarosik",
+      "photo": "https://webmention.io/avatar/abs.twimg.com/0e6b2cd70aa5b35dec24ca4e1e63f8963f0118736d9ec3bba77e3a8c99a27bc2.png",
+      "url": "https://twitter.com/jaroslawjarosik"
+    },
+    "url": "https://twitter.com/jaroslawjarosik/status/1318564953197084672",
+    "published": "2020-10-20T14:49:17+00:00",
+    "wm-received": "2020-10-20T15:45:43Z",
+    "wm-id": 882294,
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/sebdedeyne/1318465625178673153/1318564953197084672",
+    "wm-target": "https://sebastiandedeyne.com/going-deep/",
+    "content": {
+      "html": "latest technology way too often adds bloat and subtracts features, exponentially reducing value for end user\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/sebdedeyne\"></a>",
+      "text": "latest technology way too often adds bloat and subtracts features, exponentially reducing value for end user"
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/going-deep/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Adrian Nürnberger 🐙",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/863cfa16ee0e48a6aa53e495ddbfb0da79cb60e9662f1a6b55a39fb7d9a2e467.jpg",
+      "url": "https://twitter.com/nuernberger_me"
+    },
+    "url": "https://twitter.com/nuernberger_me/status/1318577240259571715",
+    "published": "2020-10-20T15:38:06+00:00",
+    "wm-received": "2020-10-20T15:45:44Z",
+    "wm-id": 882295,
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/sebdedeyne/1318465625178673153/1318577240259571715",
+    "wm-target": "https://sebastiandedeyne.com/going-deep/",
+    "photo": [
+      "https://pbs.twimg.com/media/EkyGMakWAAEiS-P.png"
+    ],
+    "content": {
+      "html": "That's what I do in the <a href=\"https://twitter.com/LaravelLivewire\">@LaravelLivewire</a> repo 🤣\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/calebporzio\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/sebdedeyne\"></a>",
+      "text": "That's what I do in the @LaravelLivewire repo 🤣"
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/going-deep/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Adrian Nürnberger 🐙",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/863cfa16ee0e48a6aa53e495ddbfb0da79cb60e9662f1a6b55a39fb7d9a2e467.jpg",
+      "url": "https://twitter.com/nuernberger_me"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1318465625178673153#favorited-by-3220622807",
+    "published": null,
+    "wm-received": "2020-10-20T15:45:45Z",
+    "wm-id": 882296,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1318465625178673153/3220622807",
+    "wm-target": "https://sebastiandedeyne.com/going-deep/",
+    "like-of": "https://sebastiandedeyne.com/going-deep/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Caleb Porzio",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/9c549798360f6e394c6d6558014099bcb01afa6eee5a8dd79527fd6e615d0f6f.jpg",
+      "url": "https://twitter.com/calebporzio"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1318465625178673153#favorited-by-24035747",
+    "published": null,
+    "wm-received": "2020-10-20T15:45:46Z",
+    "wm-id": 882297,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1318465625178673153/24035747",
+    "wm-target": "https://sebastiandedeyne.com/going-deep/",
+    "like-of": "https://sebastiandedeyne.com/going-deep/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Sebastian De Deyne",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/3ce609991342657b8b7e99eb7a5c6e3656fbdb1c51575f1464d354b81aaeda86.jpg",
+      "url": "https://twitter.com/sebdedeyne"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1318577148043558913",
+    "published": "2020-10-20T15:37:44+00:00",
+    "wm-received": "2020-10-20T15:45:47Z",
+    "wm-id": 882298,
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/sebdedeyne/1318465625178673153/1318577148043558913",
+    "wm-target": "https://sebastiandedeyne.com/going-deep/",
+    "content": {
+      "html": "Hadn't heard that before, love it!\n<a class=\"u-mention\" href=\"https://twitter.com/calebporzio\"></a>",
+      "text": "Hadn't heard that before, love it!"
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/going-deep/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Caleb Porzio",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/9c549798360f6e394c6d6558014099bcb01afa6eee5a8dd79527fd6e615d0f6f.jpg",
+      "url": "https://twitter.com/calebporzio"
+    },
+    "url": "https://twitter.com/calebporzio/status/1318575123180507137",
+    "published": "2020-10-20T15:29:41+00:00",
+    "wm-received": "2020-10-20T15:46:06Z",
+    "wm-id": 882299,
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/sebdedeyne/1318465625178673153/1318575123180507137",
+    "wm-target": "https://sebastiandedeyne.com/going-deep/",
+    "content": {
+      "html": "Lovely writeup as always Sebastian.\n\nQuote that came to mind from Lao Tzu:\n\n\"To attain knowledge, add things every day; To attain wisdom, subtract things every day\"\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/sebdedeyne\"></a>",
+      "text": "Lovely writeup as always Sebastian.\n\nQuote that came to mind from Lao Tzu:\n\n\"To attain knowledge, add things every day; To attain wisdom, subtract things every day\""
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/going-deep/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Rasmus C Nielsen",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/05e992a731c36c2499accd9b413f960732bb6d0c4e8b429d881ded298b3765f2.jpg",
+      "url": "https://twitter.com/rasmuscnielsen"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1318465625178673153#favorited-by-1157476964",
+    "published": null,
+    "wm-received": "2020-10-20T16:30:21Z",
+    "wm-id": 882369,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1318465625178673153/1157476964",
+    "wm-target": "https://sebastiandedeyne.com/going-deep/",
+    "like-of": "https://sebastiandedeyne.com/going-deep/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "João Oliveira",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/750db14ee73d55cc52e1589fb089075f8b673f17fe57af9efb7472724cb6124a.jpg",
+      "url": "https://twitter.com/jfvoliveira"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1318465625178673153#favorited-by-138255002",
+    "published": null,
+    "wm-received": "2020-10-20T16:30:21Z",
+    "wm-id": 882370,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1318465625178673153/138255002",
+    "wm-target": "https://sebastiandedeyne.com/going-deep/",
+    "like-of": "https://sebastiandedeyne.com/going-deep/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "use Vyas\\Ishan;",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/0aaeedea908ec867c0a23614c1643bc5ba5c3f793d9c6d32f5a03213422bfc51.jpg",
+      "url": "https://twitter.com/Ishanvyas22"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1318465625178673153#favorited-by-411391417",
+    "published": null,
+    "wm-received": "2020-10-20T16:30:22Z",
+    "wm-id": 882371,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1318465625178673153/411391417",
+    "wm-target": "https://sebastiandedeyne.com/going-deep/",
+    "like-of": "https://sebastiandedeyne.com/going-deep/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Richard Radermacher",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/5277a388649f0f63e0236cc171a6fcd7a7b84ea4092ad79c8a6ad52cc8a9b3b8.jpg",
+      "url": "https://twitter.com/radermacher_io"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1318465625178673153#favorited-by-35496266",
+    "published": null,
+    "wm-received": "2020-10-20T16:30:22Z",
+    "wm-id": 882372,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1318465625178673153/35496266",
+    "wm-target": "https://sebastiandedeyne.com/going-deep/",
+    "like-of": "https://sebastiandedeyne.com/going-deep/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Austen Cameron",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/a27005d9282fe163246040d305873c6a4b81c885a042e6a32f285182f85d2e73.jpg",
+      "url": "https://twitter.com/austencam"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1318465625178673153#favorited-by-474617811",
+    "published": null,
+    "wm-received": "2020-10-20T16:30:24Z",
+    "wm-id": 882373,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1318465625178673153/474617811",
+    "wm-target": "https://sebastiandedeyne.com/going-deep/",
+    "like-of": "https://sebastiandedeyne.com/going-deep/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Tony Messias",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/211bfee69261eac96f6d9b66b1d935a95abadf0b415685c73dd7ef308b08f4d8.jpg",
+      "url": "https://twitter.com/tonysmdev"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1318465625178673153#favorited-by-55294160",
+    "published": null,
+    "wm-received": "2020-10-20T16:30:24Z",
+    "wm-id": 882374,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1318465625178673153/55294160",
+    "wm-target": "https://sebastiandedeyne.com/going-deep/",
+    "like-of": "https://sebastiandedeyne.com/going-deep/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "João Oliveira",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/750db14ee73d55cc52e1589fb089075f8b673f17fe57af9efb7472724cb6124a.jpg",
+      "url": "https://twitter.com/jfvoliveira"
+    },
+    "url": "https://twitter.com/jfvoliveira/status/1318583904530477061",
+    "published": "2020-10-20T16:04:35+00:00",
+    "wm-received": "2020-10-20T16:30:25Z",
+    "wm-id": 882375,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1318465625178673153/1318583904530477061",
+    "wm-target": "https://sebastiandedeyne.com/going-deep/",
+    "content": {
+      "text": "✒️ Solving problems by adding more code or features accrues debt in the long term.\n\nStrive to subtract more often, and to subtract, you need"
+    },
+    "repost-of": "https://sebastiandedeyne.com/going-deep/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Cyril de Wit",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/024226e454853ac712e85cd3c646b7f3aea99b8adb6399176042dbc5db88903c.jpg",
+      "url": "https://twitter.com/cyrildewit"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1318465625178673153#favorited-by-2172253302",
+    "published": null,
+    "wm-received": "2020-10-20T17:26:09Z",
+    "wm-id": 882422,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1318465625178673153/2172253302",
+    "wm-target": "https://sebastiandedeyne.com/going-deep/",
+    "like-of": "https://sebastiandedeyne.com/going-deep/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Danny Kinyua",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/9178319cac3984999988cb6df7d96a24e7a2eb91b910d17786f70d0a15551b17.jpg",
+      "url": "https://twitter.com/danny_kinyua"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1318465625178673153#favorited-by-1245503671137439748",
+    "published": null,
+    "wm-received": "2020-10-20T17:26:18Z",
+    "wm-id": 882424,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1318465625178673153/1245503671137439748",
+    "wm-target": "https://sebastiandedeyne.com/going-deep/",
+    "like-of": "https://sebastiandedeyne.com/going-deep/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Chase Somero",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/971caf04da2b88093df4c79abb6a7e4dc911be8df8df9fcce764d1f149d9a145.jpg",
+      "url": "https://twitter.com/ChaDonSom"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1318465625178673153#favorited-by-776625493",
+    "published": null,
+    "wm-received": "2020-10-20T17:26:42Z",
+    "wm-id": 882426,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1318465625178673153/776625493",
+    "wm-target": "https://sebastiandedeyne.com/going-deep/",
+    "like-of": "https://sebastiandedeyne.com/going-deep/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
