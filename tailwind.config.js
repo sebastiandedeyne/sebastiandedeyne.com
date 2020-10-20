@@ -1,3 +1,4 @@
+const defaultTheme = require('tailwindcss/defaultTheme');
 const production = process.env.HUGO_ENV === "production";
 
 module.exports = {
@@ -15,6 +16,9 @@ module.exports = {
   },
   theme: {
     extend: {
+      fontFamily: {
+        mono: ['Fira Code', ...defaultTheme.fontFamily.mono],
+      },
       colors: {
         inherit: "inherit",
       },

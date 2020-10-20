@@ -26,9 +26,6 @@
     {{ with resources.Get "css/site.css" | resources.PostCSS | minify }}
       <style>{{ .Content | safeCSS }}</style>
     {{ end }}
-    {{ with resources.Get "css/fonts.css" | minify }}
-      <style>{{ .Content | safeCSS }}</style>
-    {{ end }}
 
     {{ block "meta" . }}
       <meta name="description" content="I'm a web developer and designer. I build websites & interfaces with JavaScript, CSS and PHP." />

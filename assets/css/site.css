@@ -1,6 +1,15 @@
 @tailwind base;
 @tailwind utilities;
 
+@font-face {
+  font-family: "Fira Code";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local("Fira Code"), url("/fonts/fira-code-regular.woff2") format("woff2"),
+    url("/fonts/fira-code-regular.woff") format("woff");
+}
+
 html {
   font-size: 18px;
 }
@@ -204,7 +213,7 @@ hr {
 }
 
 .markup code {
-  font-family: "Fira Code", monospace;
+  font-family: theme("fontFamily.mono");
   font-size: 0.85em;
 }
 
