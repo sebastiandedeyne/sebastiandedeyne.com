@@ -42,18 +42,24 @@ hr {
 }
 
 .h1,
-.markup h1,
-.h2,
-.markup h2 {
+.markup h1 {
   font-size: theme("fontSize.2xl");
   font-weight: bold;
   line-height: theme("lineHeight.tight");
   margin-bottom: 3rem;
 }
 
+.h2,
+.markup h2 {
+  font-size: theme("fontSize.xl");
+  font-weight: bold;
+  line-height: theme("lineHeight.tight");
+  margin-top: 3rem;
+  margin-bottom: 2rem;
+}
+
 .h3,
 .markup h3 {
-  font-size: 1rem;
   font-weight: bold;
   line-height: theme("lineHeight.tight");
   margin-top: 3rem;
