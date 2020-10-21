@@ -781,5 +781,23 @@
     "like-of": "https://sebastiandedeyne.com/going-deep/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Ruslan",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/6114334d09745c23c21d748a3ffb0e5f0972472d77df8a83d2914859cbd3b5fd.jpg",
+      "url": "https://twitter.com/SuddenlyRust"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1318465625178673153#favorited-by-935107835045842944",
+    "published": null,
+    "wm-received": "2020-10-21T05:49:37Z",
+    "wm-id": 882933,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1318465625178673153/935107835045842944",
+    "wm-target": "https://sebastiandedeyne.com/going-deep/",
+    "like-of": "https://sebastiandedeyne.com/going-deep/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
