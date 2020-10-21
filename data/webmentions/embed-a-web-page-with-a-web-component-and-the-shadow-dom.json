@@ -349,5 +349,95 @@
     "like-of": "https://sebastiandedeyne.com/embed-a-web-page-with-a-web-component-and-the-shadow-dom/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Johnson Page",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/1d8c28326ba1a43af9c50cd5f6eaff3135c45e304a21d0096a345b33ce2d8cca.jpg",
+      "url": "https://twitter.com/jwpage"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1318829291900182528#favorited-by-14595578",
+    "published": null,
+    "wm-received": "2020-10-21T12:15:50Z",
+    "wm-id": 883237,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1318829291900182528/14595578",
+    "wm-target": "https://sebastiandedeyne.com/embed-a-web-page-with-a-web-component-and-the-shadow-dom/",
+    "like-of": "https://sebastiandedeyne.com/embed-a-web-page-with-a-web-component-and-the-shadow-dom/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Tony Messias",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/211bfee69261eac96f6d9b66b1d935a95abadf0b415685c73dd7ef308b08f4d8.jpg",
+      "url": "https://twitter.com/tonysmdev"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1318829291900182528#favorited-by-55294160",
+    "published": null,
+    "wm-received": "2020-10-21T12:15:50Z",
+    "wm-id": 883238,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1318829291900182528/55294160",
+    "wm-target": "https://sebastiandedeyne.com/embed-a-web-page-with-a-web-component-and-the-shadow-dom/",
+    "like-of": "https://sebastiandedeyne.com/embed-a-web-page-with-a-web-component-and-the-shadow-dom/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Niko Halink",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/480255906f71b0fbaf71373ec45fbf9dbaa6fdaa59c28b3795ff0097d52e0d11.jpg",
+      "url": "https://twitter.com/nikohalink"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1318829291900182528#favorited-by-28577342",
+    "published": null,
+    "wm-received": "2020-10-21T12:15:52Z",
+    "wm-id": 883239,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1318829291900182528/28577342",
+    "wm-target": "https://sebastiandedeyne.com/embed-a-web-page-with-a-web-component-and-the-shadow-dom/",
+    "like-of": "https://sebastiandedeyne.com/embed-a-web-page-with-a-web-component-and-the-shadow-dom/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Songhua Hu",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/2cc9752adc705653a01412fcb3d011500c0522c6ea8ade38cdf8b7680cf43df8.jpg",
+      "url": "https://twitter.com/Songhua"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1318829291900182528#favorited-by-23150992",
+    "published": null,
+    "wm-received": "2020-10-21T15:15:09Z",
+    "wm-id": 883321,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1318829291900182528/23150992",
+    "wm-target": "https://sebastiandedeyne.com/embed-a-web-page-with-a-web-component-and-the-shadow-dom/",
+    "like-of": "https://sebastiandedeyne.com/embed-a-web-page-with-a-web-component-and-the-shadow-dom/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Richard Radermacher",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/5277a388649f0f63e0236cc171a6fcd7a7b84ea4092ad79c8a6ad52cc8a9b3b8.jpg",
+      "url": "https://twitter.com/radermacher_io"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1318829291900182528#favorited-by-35496266",
+    "published": null,
+    "wm-received": "2020-10-21T16:13:10Z",
+    "wm-id": 883376,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1318829291900182528/35496266",
+    "wm-target": "https://sebastiandedeyne.com/embed-a-web-page-with-a-web-component-and-the-shadow-dom/",
+    "like-of": "https://sebastiandedeyne.com/embed-a-web-page-with-a-web-component-and-the-shadow-dom/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
