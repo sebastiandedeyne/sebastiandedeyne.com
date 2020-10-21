@@ -799,5 +799,23 @@
     "like-of": "https://sebastiandedeyne.com/going-deep/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Niko Halink",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/480255906f71b0fbaf71373ec45fbf9dbaa6fdaa59c28b3795ff0097d52e0d11.jpg",
+      "url": "https://twitter.com/nikohalink"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1318465625178673153#favorited-by-28577342",
+    "published": null,
+    "wm-received": "2020-10-21T11:21:39Z",
+    "wm-id": 883193,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1318465625178673153/28577342",
+    "wm-target": "https://sebastiandedeyne.com/going-deep/",
+    "like-of": "https://sebastiandedeyne.com/going-deep/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]

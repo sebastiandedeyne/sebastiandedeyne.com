@@ -1043,5 +1043,23 @@
     "like-of": "https://sebastiandedeyne.com/blurhash/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "𖤐 𝐋𝐔𝐊𝐘 𝐕𝐉",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/99c6575d51b74c02f4f8cb750e95d496f5ed32d38dea131a5c61a4d5a11cdd74.jpg",
+      "url": "https://twitter.com/LukyVJ"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1318095571727638528#favorited-by-123355349",
+    "published": null,
+    "wm-received": "2020-10-21T07:50:53Z",
+    "wm-id": 883038,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1318095571727638528/123355349",
+    "wm-target": "https://sebastiandedeyne.com/blurhash/",
+    "like-of": "https://sebastiandedeyne.com/blurhash/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
