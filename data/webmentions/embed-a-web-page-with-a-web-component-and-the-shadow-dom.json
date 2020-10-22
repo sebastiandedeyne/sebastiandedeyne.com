@@ -457,5 +457,23 @@
     "like-of": "https://sebastiandedeyne.com/embed-a-web-page-with-a-web-component-and-the-shadow-dom/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Hardik Shah",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/e5f3af5e252fe63549babe2845d06f46b1fba244c7bf8c388d27507b993d6c48.jpg",
+      "url": "https://twitter.com/hardsshah"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1318829291900182528#favorited-by-29662788",
+    "published": null,
+    "wm-received": "2020-10-22T01:34:56Z",
+    "wm-id": 883535,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1318829291900182528/29662788",
+    "wm-target": "https://sebastiandedeyne.com/embed-a-web-page-with-a-web-component-and-the-shadow-dom/",
+    "like-of": "https://sebastiandedeyne.com/embed-a-web-page-with-a-web-component-and-the-shadow-dom/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]

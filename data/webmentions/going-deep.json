@@ -817,5 +817,23 @@
     "like-of": "https://sebastiandedeyne.com/going-deep/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Web Developer MF",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/a0b81eae78aff997b26a3751899d1abe1b126cc805f05e7cc98882e0f02f0424.jpg",
+      "url": "https://twitter.com/developer_mf"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1318465625178673153#favorited-by-1316954352808992768",
+    "published": null,
+    "wm-received": "2020-10-22T04:59:52Z",
+    "wm-id": 883781,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1318465625178673153/1316954352808992768",
+    "wm-target": "https://sebastiandedeyne.com/going-deep/",
+    "like-of": "https://sebastiandedeyne.com/going-deep/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
