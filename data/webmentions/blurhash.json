@@ -1061,5 +1061,23 @@
     "like-of": "https://sebastiandedeyne.com/blurhash/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Corey Coburn",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/718248a1c5a1f1f6a160112c69140f616983f8a631b53573b5b7273023770950.jpg",
+      "url": "https://twitter.com/coreycoburn"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1318095571727638528#favorited-by-904895969497456640",
+    "published": null,
+    "wm-received": "2020-10-21T20:04:33Z",
+    "wm-id": 883459,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1318095571727638528/904895969497456640",
+    "wm-target": "https://sebastiandedeyne.com/blurhash/",
+    "like-of": "https://sebastiandedeyne.com/blurhash/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
