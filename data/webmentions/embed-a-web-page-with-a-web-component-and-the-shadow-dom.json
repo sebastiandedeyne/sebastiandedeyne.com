@@ -475,5 +475,27 @@
     "like-of": "https://sebastiandedeyne.com/embed-a-web-page-with-a-web-component-and-the-shadow-dom/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Freek Van der Herten",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/389862c8a30722a50adbdf8f8388f6f8ed1a665bc1b69e4355ed98b6f2e01afb.jpg",
+      "url": "https://twitter.com/freekmurze"
+    },
+    "url": "https://twitter.com/freekmurze/status/1319257424377860096",
+    "published": "2020-10-22T12:40:55+00:00",
+    "wm-received": "2020-10-22T12:55:38Z",
+    "wm-id": 884155,
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1319257424377860096",
+    "wm-target": "https://sebastiandedeyne.com/embed-a-web-page-with-a-web-component-and-the-shadow-dom/",
+    "content": {
+      "html": "🔗 Embed a web page with a web component and the shadow DOM (by <a href=\"https://twitter.com/sebdedeyne\">@sebdedeyne</a>)\n<a href=\"https://sebastiandedeyne.com/embed-a-web-page-with-a-web-component-and-the-shadow-dom/\">sebastiandedeyne.com/embed-a-web-pa…</a>\n<a href=\"https://twitter.com/search?q=%23html\">#html</a>",
+      "text": "🔗 Embed a web page with a web component and the shadow DOM (by @sebdedeyne)\nsebastiandedeyne.com/embed-a-web-pa…\n#html"
+    },
+    "mention-of": "https://sebastiandedeyne.com/embed-a-web-page-with-a-web-component-and-the-shadow-dom/",
+    "wm-property": "mention-of",
+    "wm-private": false
   }
 ]
