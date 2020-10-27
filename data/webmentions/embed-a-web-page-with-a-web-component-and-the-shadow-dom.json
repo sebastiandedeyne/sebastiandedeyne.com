@@ -497,5 +497,27 @@
     "mention-of": "https://sebastiandedeyne.com/embed-a-web-page-with-a-web-component-and-the-shadow-dom/",
     "wm-property": "mention-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Ciprian Amariei",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/38f29bc7b9b0e7bdf8bbb5182a3018596c62a0332a12f43eb30f59f5829eb16d.jpg",
+      "url": "https://twitter.com/acip"
+    },
+    "url": "https://twitter.com/acip/status/1321001738867003395",
+    "published": "2020-10-27T08:12:12+00:00",
+    "wm-received": "2020-10-27T08:50:18Z",
+    "wm-id": 889059,
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1321001738867003395",
+    "wm-target": "https://sebastiandedeyne.com/embed-a-web-page-with-a-web-component-and-the-shadow-dom/",
+    "content": {
+      "html": "🆒 <a href=\"https://twitter.com/search?q=%23WebComponents\">#WebComponents</a>  - the holy grail of widgets\n<a href=\"https://sebastiandedeyne.com/embed-a-web-page-with-a-web-component-and-the-shadow-dom/\">sebastiandedeyne.com/embed-a-web-pa…</a>\n\n<a href=\"https://twitter.com/search?q=%23js\">#js</a> <a href=\"https://twitter.com/search?q=%23HTML5\">#HTML5</a>",
+      "text": "🆒 #WebComponents  - the holy grail of widgets\nsebastiandedeyne.com/embed-a-web-pa…\n\n#js #HTML5"
+    },
+    "mention-of": "https://sebastiandedeyne.com/embed-a-web-page-with-a-web-component-and-the-shadow-dom/",
+    "wm-property": "mention-of",
+    "wm-private": false
   }
 ]
