@@ -478,5 +478,27 @@
     "mention-of": "https://sebastiandedeyne.com/react-for-vue-developers/",
     "wm-property": "mention-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Víctor Adrián",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/78711afd2fca217c7c049b20cce4a1510d4eb072b404536b9deeca64d1bd5523.jpg",
+      "url": "https://twitter.com/lobo_tuerto"
+    },
+    "url": "https://twitter.com/lobo_tuerto/status/1320866068878008321",
+    "published": "2020-10-26T23:13:05+00:00",
+    "wm-received": "2020-10-26T23:30:52Z",
+    "wm-id": 888601,
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1320866068878008321",
+    "wm-target": "https://sebastiandedeyne.com/react-for-vue-developers/",
+    "content": {
+      "html": "<a href=\"https://sebastiandedeyne.com/react-for-vue-developers/\">sebastiandedeyne.com/react-for-vue-…</a>",
+      "text": "sebastiandedeyne.com/react-for-vue-…"
+    },
+    "mention-of": "https://sebastiandedeyne.com/react-for-vue-developers/",
+    "wm-property": "mention-of",
+    "wm-private": false
   }
 ]
