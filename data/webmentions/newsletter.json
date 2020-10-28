@@ -203,5 +203,23 @@
     "like-of": "https://sebastiandedeyne.com/newsletter/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Larry Ball",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/36e80caeca476c245ae181d26302e1db2dc995f771034210ecdfc74f4f79c795.jpg",
+      "url": "https://twitter.com/lball70"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1321354319132766215#favorited-by-1170037525425074177",
+    "published": null,
+    "wm-received": "2020-10-28T12:44:25Z",
+    "wm-id": 890359,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1321354319132766215/1170037525425074177",
+    "wm-target": "https://sebastiandedeyne.com/newsletter/",
+    "like-of": "https://sebastiandedeyne.com/newsletter/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
