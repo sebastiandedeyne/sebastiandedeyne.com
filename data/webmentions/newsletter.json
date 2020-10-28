@@ -109,5 +109,99 @@
     "like-of": "https://sebastiandedeyne.com/newsletter/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Mark Topper",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/02eabbea6b50b2aa84146d51b1ca8e3bec05efe90d281d37278fd033115023a8.jpg",
+      "url": "https://twitter.com/webmanio"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1321354319132766215#favorited-by-557179005",
+    "published": null,
+    "wm-received": "2020-10-28T08:02:47Z",
+    "wm-id": 889964,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1321354319132766215/557179005",
+    "wm-target": "https://sebastiandedeyne.com/newsletter/",
+    "like-of": "https://sebastiandedeyne.com/newsletter/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Freek Van der Herten",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/389862c8a30722a50adbdf8f8388f6f8ed1a665bc1b69e4355ed98b6f2e01afb.jpg",
+      "url": "https://twitter.com/freekmurze"
+    },
+    "url": "https://twitter.com/freekmurze/status/1321354959322046464",
+    "published": "2020-10-28T07:35:46+00:00",
+    "wm-received": "2020-10-28T08:02:47Z",
+    "wm-id": 889965,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1321354319132766215/1321354959322046464",
+    "wm-target": "https://sebastiandedeyne.com/newsletter/",
+    "content": {
+      "html": "📭 Another newsletter going out very soon! Topics include focus &amp; productivity, Roam, and more.\n\nSubscribe here ➡️ sebastiandedeyne.com/newsletter/",
+      "text": "📭 Another newsletter going out very soon! Topics include focus & productivity, Roam, and more.\n\nSubscribe here ➡️ sebastiandedeyne.com/newsletter/"
+    },
+    "repost-of": "https://sebastiandedeyne.com/newsletter/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Fabio",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/c66e8a9dede9250502a3181955bd06b98338297dfcc549b80082e7f983c854d3.jpg",
+      "url": "https://twitter.com/FabioIngra"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1321354319132766215#favorited-by-2325497114",
+    "published": null,
+    "wm-received": "2020-10-28T08:41:33Z",
+    "wm-id": 889981,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1321354319132766215/2325497114",
+    "wm-target": "https://sebastiandedeyne.com/newsletter/",
+    "like-of": "https://sebastiandedeyne.com/newsletter/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Roël Gonzalez",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/d44d2de7ba68565b1e97ff2a236652cdb977d0155ccac69c129bc34157b375fc.png",
+      "url": "https://twitter.com/roelgonzalez94"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1321354319132766215#favorited-by-1106348383814512640",
+    "published": null,
+    "wm-received": "2020-10-28T08:41:33Z",
+    "wm-id": 889982,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1321354319132766215/1106348383814512640",
+    "wm-target": "https://sebastiandedeyne.com/newsletter/",
+    "like-of": "https://sebastiandedeyne.com/newsletter/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Miguel Piedrafita 🚀",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/82ed867d605f1130877590cceb29ccb51445db010ee6680958a0c72c2524f5d6.jpg",
+      "url": "https://twitter.com/m1guelpf"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1321354319132766215#favorited-by-713094195955830785",
+    "published": null,
+    "wm-received": "2020-10-28T11:47:17Z",
+    "wm-id": 890115,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1321354319132766215/713094195955830785",
+    "wm-target": "https://sebastiandedeyne.com/newsletter/",
+    "like-of": "https://sebastiandedeyne.com/newsletter/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
