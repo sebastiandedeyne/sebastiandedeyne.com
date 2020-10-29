@@ -221,5 +221,27 @@
     "like-of": "https://sebastiandedeyne.com/newsletter/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Sebastian De Deyne",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/3ce609991342657b8b7e99eb7a5c6e3656fbdb1c51575f1464d354b81aaeda86.jpg",
+      "url": "https://twitter.com/sebdedeyne"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1321727807962157056",
+    "published": "2020-10-29T08:17:20+00:00",
+    "wm-received": "2020-10-29T08:46:59Z",
+    "wm-id": 891454,
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1321727807962157056",
+    "wm-target": "https://sebastiandedeyne.com/newsletter/",
+    "content": {
+      "html": "Annnnd it’s gone!\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/newsletter/\"></a>",
+      "text": "Annnnd it’s gone!"
+    },
+    "mention-of": "https://sebastiandedeyne.com/newsletter/",
+    "wm-property": "mention-of",
+    "wm-private": false
   }
 ]
