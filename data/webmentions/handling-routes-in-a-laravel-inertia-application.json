@@ -703,5 +703,23 @@
     "mention-of": "https://sebastiandedeyne.com/handling-routes-in-a-laravel-inertia-application/",
     "wm-property": "mention-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "George Buckingham",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/c93b2b371d0ec376596a9a306e9d4301413650e963f91a9c0b48e7547f2bb90f.png",
+      "url": "https://twitter.com/gbuckingham89"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1321804222686466049#favorited-by-20177194",
+    "published": null,
+    "wm-received": "2020-10-29T14:07:51Z",
+    "wm-id": 891700,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1321804222686466049/20177194",
+    "wm-target": "https://sebastiandedeyne.com/handling-routes-in-a-laravel-inertia-application/",
+    "like-of": "https://sebastiandedeyne.com/handling-routes-in-a-laravel-inertia-application/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
