@@ -243,5 +243,23 @@
     "mention-of": "https://sebastiandedeyne.com/newsletter/",
     "wm-property": "mention-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Roman Pronskiy",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/9373f62b650e88f9265f5742739d93f3fbaa1f7d60d8593c694c25821996528e.png",
+      "url": "https://twitter.com/pronskiy"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1321354319132766215#favorited-by-156592964",
+    "published": null,
+    "wm-received": "2020-10-31T00:11:59Z",
+    "wm-id": 893546,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1321354319132766215/156592964",
+    "wm-target": "https://sebastiandedeyne.com/newsletter/",
+    "like-of": "https://sebastiandedeyne.com/newsletter/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
