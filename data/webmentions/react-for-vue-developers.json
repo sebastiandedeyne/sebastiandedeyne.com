@@ -500,5 +500,27 @@
     "mention-of": "https://sebastiandedeyne.com/react-for-vue-developers/",
     "wm-property": "mention-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "yasudanaoya",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/6156f138d3342bf6f98d3e14591056bc1e58524aa7c1ae14149942165769375a.jpg",
+      "url": "https://twitter.com/708yasuda"
+    },
+    "url": "https://twitter.com/708yasuda/status/1323625390053621765",
+    "published": "2020-11-03T13:57:39+00:00",
+    "wm-received": "2020-11-03T14:40:05Z",
+    "wm-id": 897831,
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1323625390053621765",
+    "wm-target": "https://sebastiandedeyne.com/react-for-vue-developers/",
+    "content": {
+      "html": "なるほどが強くて爆笑してる\n<a href=\"https://sebastiandedeyne.com/react-for-vue-developers/\">sebastiandedeyne.com/react-for-vue-…</a>",
+      "text": "なるほどが強くて爆笑してる\nsebastiandedeyne.com/react-for-vue-…"
+    },
+    "mention-of": "https://sebastiandedeyne.com/react-for-vue-developers/",
+    "wm-property": "mention-of",
+    "wm-private": false
   }
 ]
