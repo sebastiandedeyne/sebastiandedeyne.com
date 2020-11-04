@@ -29,7 +29,7 @@
 {{ define "main" }}
   <article class="mb-12 sm:mb-24">
     {{ with .Params.cover }}
-      <img class="w-full mb-10" src="/media/{{ . }}">
+      <img class="block w-full mb-8" src="/media/{{ . }}">
     {{ end }}
     {{ partial "post-header.html" (dict "post" . "heading" "h1" "all_series" $.Site.Data.series) }}
     <section>
