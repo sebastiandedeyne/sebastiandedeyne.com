@@ -8,7 +8,11 @@
   <meta property="og:type" content="article" />
   <meta property="og:locale" content="en_US" />
   <meta property="og:url" content="{{ .Permalink }}" />
-  <meta property="og:image" content="{{ "media/me.jpg" | absURL }}" />
+  {{ with .Params.cover }}
+    <meta property="og:image" content="https://sebastiandedeyne.com/media/{{ . }}" />
+  {{ else }}
+    <meta property="og:image" content="https://sebastiandedeyne.com/media/me.jpg" />
+  {{ end }}
   {{ with .Params.description }}
     <meta name="description" content="{{ . }}" />
   {{ else }}
@@ -22,16 +26,11 @@
   {{ end }}
 {{ end }}
 
-{{ define "cover" }}
-  {{ with .Params.cover }}
-    <div class="-mt-12 mb-8" style="height: calc(100vh - 15rem)">
-      <img class="w-full h-full object-cover" src="/media/{{ . }}">
-    </div>
-  {{ end }}
-{{ end }}
-
 {{ define "main" }}
   <article class="mb-12 sm:mb-24">
+    {{ with .Params.cover }}
+      <img class="w-full mb-10" src="/media/{{ . }}">
+    {{ end }}
     {{ partial "post-header.html" (dict "post" . "heading" "h1" "all_series" $.Site.Data.series) }}
     <section>
       {{ if .Truncated }}
