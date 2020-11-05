@@ -274,5 +274,44 @@
     "like-of": "https://sebastiandedeyne.com/masonry-layout/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "R Geerolf",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/997ca89b3321ed6aaa3faa9a2e998cdbbef6da9b044ac48aeea6fac94b2ae58d.jpg",
+      "url": "https://twitter.com/RGeerolf"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1323975109066035200#favorited-by-196316698",
+    "published": null,
+    "wm-received": "2020-11-04T20:05:50Z",
+    "wm-id": 899003,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1323975109066035200/196316698",
+    "wm-target": "https://sebastiandedeyne.com/masonry-layout/",
+    "like-of": "https://sebastiandedeyne.com/masonry-layout/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Jesse Dobbelaere",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/e4e63111fe6679cac703970c6b91aeba8a11ca7b6dbcf8b2dff0f3c4fb115be6.png",
+      "url": "https://twitter.com/JesseDobbelaere"
+    },
+    "url": "https://twitter.com/JesseDobbelaere/status/1324122311423889408",
+    "published": "2020-11-04T22:52:14+00:00",
+    "wm-received": "2020-11-04T23:27:42Z",
+    "wm-id": 899090,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1323975109066035200/1324122311423889408",
+    "wm-target": "https://sebastiandedeyne.com/masonry-layout/",
+    "content": {
+      "text": "✒️ Masonry layouts have landed in CSS with CSS grid!\n\nA short post explaining what it's about, why it's cool, and some fun resources about"
+    },
+    "repost-of": "https://sebastiandedeyne.com/masonry-layout/",
+    "wm-property": "repost-of",
+    "wm-private": false
   }
 ]
