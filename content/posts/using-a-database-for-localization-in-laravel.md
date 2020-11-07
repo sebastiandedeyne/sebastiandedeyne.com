@@ -26,8 +26,6 @@ First off, we need to create a model that represents a fragment of text in our a
 ```php
 <?php
 
-<?php
-
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Database\Migrations\Migration;
 
@@ -65,8 +63,6 @@ In the model, we'll declare the `text` attribute as a translatable property.
 ```php
 <?php
 
-<?php
-
 namespace App\Models;
 
 use Illuminate\Database\Eloquent\Model;
@@ -100,8 +96,6 @@ First we'll check if there's a namespace in the `load` call, and if not we'll fa
 In our case, that means we'd have to return a group of fragments in a certain locale. Let's hide that process in a `getGroup` method for now, and revisit it later. Lastly, let's cache the result since translations aren't that prone to change.
 
 ```php
-<?php
-
 <?php
 
 namespace App\Services\Locale;
@@ -138,8 +132,6 @@ class TranslationLoader extends FileLoader
 A translation group is an associative array with a `key => text` format. To create this group, we'll need to retrieve all relevant fragments with `like`, and extract their keys and texts. The key will have it's group in it too, we'll need to strip that with a regular expression.
 
 ```php
-<?php
-
 <?php
 
 namespace App\Models;
@@ -179,8 +171,6 @@ Alternatively you could store the <code>group</code> and <code>key</code> separa
 To change the source of our translated strings, we don't need to reimplement the entire translator, just the translation loader. In the base `TranslationServiceProvider` the loader registration happens in it's own method, so we can just extend that class and overwrite it. The method will look exactly the same as the one in the base provider, but the `TranslationLoader` is loaded from a different namespace.
 
 ```php
-<?php
-
 <?php
 
 namespace App\Services\Locale;
