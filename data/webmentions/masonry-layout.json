@@ -352,5 +352,23 @@
     "like-of": "https://sebastiandedeyne.com/masonry-layout/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Juan Pablo 👨🏻‍💻",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/09d1b7ecb4b16f04ca136bf99274942f81d433adaa78dbdd4d39de9cf1c92096.jpg",
+      "url": "https://twitter.com/jpbalda"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1323975109066035200#favorited-by-96972012",
+    "published": null,
+    "wm-received": "2020-11-06T21:45:33Z",
+    "wm-id": 901100,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1323975109066035200/96972012",
+    "wm-target": "https://sebastiandedeyne.com/masonry-layout/",
+    "like-of": "https://sebastiandedeyne.com/masonry-layout/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
