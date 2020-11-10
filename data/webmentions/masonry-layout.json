@@ -370,5 +370,23 @@
     "like-of": "https://sebastiandedeyne.com/masonry-layout/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Olivier Grenet",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/6618801d21ec94d3c5de3b61436005d6afd999ca0274e08ace8244652a149843.png",
+      "url": "https://twitter.com/Olivier_Grenet"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1323975109066035200#favorited-by-61012334",
+    "published": null,
+    "wm-received": "2020-11-09T20:58:58Z",
+    "wm-id": 904546,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1323975109066035200/61012334",
+    "wm-target": "https://sebastiandedeyne.com/masonry-layout/",
+    "like-of": "https://sebastiandedeyne.com/masonry-layout/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
