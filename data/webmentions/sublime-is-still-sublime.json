@@ -1787,5 +1787,30 @@
     "like-of": "https://sebastiandedeyne.com/sublime-is-still-sublime/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Alexander Makhaev",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/d0e288ca636669216f553ec58f2075cc256afe80a6760731e9e362983fdb3952.jpg",
+      "url": "https://twitter.com/mankms"
+    },
+    "url": "https://twitter.com/mankms/status/1326752343690502146",
+    "published": "2020-11-12T05:03:03+00:00",
+    "wm-received": "2020-11-12T05:15:37Z",
+    "wm-id": 907440,
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1326752343690502146",
+    "wm-target": "https://sebastiandedeyne.com/sublime-is-still-sublime/",
+    "photo": [
+      "https://pbs.twimg.com/media/EmmSOcYXUAEvtNf.png"
+    ],
+    "content": {
+      "html": "Sublime is still sublime, <a href=\"https://twitter.com/sebdedeyne\">@sebdedeyne</a>\n\nSublime has a feel that no other editor has. Scrolling, jumping, and typing are seamless. It’s an analog tool in an Electron infested world. I miss that experience, so I’m giving it another go.\n\n<a href=\"https://sebastiandedeyne.com/sublime-is-still-sublime/\">sebastiandedeyne.com/sublime-is-sti…</a>",
+      "text": "Sublime is still sublime, @sebdedeyne\n\nSublime has a feel that no other editor has. Scrolling, jumping, and typing are seamless. It’s an analog tool in an Electron infested world. I miss that experience, so I’m giving it another go.\n\nsebastiandedeyne.com/sublime-is-sti…"
+    },
+    "mention-of": "https://sebastiandedeyne.com/sublime-is-still-sublime/",
+    "wm-property": "mention-of",
+    "wm-private": false
   }
 ]
