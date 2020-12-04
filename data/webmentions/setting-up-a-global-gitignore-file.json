@@ -3644,5 +3644,27 @@
     "mention-of": "https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/",
     "wm-property": "mention-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Deedo-dev",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/f52ec1343ce2b73b3515fb0141f367577702c81e9e6c8675527f92b770a18d86.jpg",
+      "url": "https://twitter.com/DeedoDev"
+    },
+    "url": "https://twitter.com/DeedoDev/status/1334831422272638976",
+    "published": "2020-12-04T12:06:25+00:00",
+    "wm-received": "2020-12-04T12:37:39Z",
+    "wm-id": 935626,
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1334831422272638976",
+    "wm-target": "https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/",
+    "content": {
+      "html": "Make your repos agnostic of personal environment files and folders by using a global .gitignore <a href=\"https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/\">sebastiandedeyne.com/setting-up-a-g…</a> <a href=\"https://twitter.com/search?q=%23webdev\">#webdev</a> <a href=\"https://twitter.com/search?q=%23git\">#git</a> <a href=\"https://twitter.com/search?q=%23javascript\">#javascript</a> <a href=\"https://twitter.com/search?q=%23versioncontrol\">#versioncontrol</a>",
+      "text": "Make your repos agnostic of personal environment files and folders by using a global .gitignore sebastiandedeyne.com/setting-up-a-g… #webdev #git #javascript #versioncontrol"
+    },
+    "mention-of": "https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/",
+    "wm-property": "mention-of",
+    "wm-private": false
   }
 ]
