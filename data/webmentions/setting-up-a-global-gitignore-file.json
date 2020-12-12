@@ -3666,5 +3666,27 @@
     "mention-of": "https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/",
     "wm-property": "mention-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Geofrey Flores",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/20218e1316c78513f26d0ec03d801fc9869913a0ee87f77375f8ffb11dc45ef2.png",
+      "url": "https://twitter.com/geofreyflores"
+    },
+    "url": "https://twitter.com/geofreyflores/status/1337420809242103810",
+    "published": "2020-12-11T15:35:43+00:00",
+    "wm-received": "2020-12-11T19:05:43Z",
+    "wm-id": 945800,
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1337420809242103810",
+    "wm-target": "https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/",
+    "content": {
+      "html": "TIL you can set a global .gitignore file locally <a href=\"https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/\">sebastiandedeyne.com/setting-up-a-g…</a>",
+      "text": "TIL you can set a global .gitignore file locally sebastiandedeyne.com/setting-up-a-g…"
+    },
+    "mention-of": "https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/",
+    "wm-property": "mention-of",
+    "wm-private": false
   }
 ]
