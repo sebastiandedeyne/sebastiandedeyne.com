@@ -1,5 +1,5 @@
 ---
-title: "Local first-software"
+title: "Local-first software"
 slug: local-first-software
 date: 2020-12-14
 categories: ["articles"]
