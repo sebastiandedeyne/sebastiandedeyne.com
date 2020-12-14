@@ -1,6 +1,6 @@
 {{ define "main" }}
 
-<article class="pb-12 sm:pb-20">
+<article>
   <header>
     <h1 class="h1 mb-1">
       <a href="{{ .RelPermalink }}">
@@ -24,5 +24,17 @@
     </div>
   </section>
 </article>
+
+<hr>
+
+<section class="markup | mb-12 sm:mb-24">
+  <h2>Subscribe</h2>
+  <p>
+    I occasionally send out a newsletter. The goal is to share things I believe
+    are worth sharing. Whether those are personal stories, things I’ve been
+    working on in the past month or just interesting things I come across.
+  </p>
+  {{ partial "newsletter-form.html" }}
+</section>
 
 {{ end }}
