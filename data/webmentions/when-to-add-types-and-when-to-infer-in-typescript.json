@@ -1,0 +1,77 @@
+[
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "ArielMejiaDev",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/76519dca9b4c835e4edf3f3ae782fbb5acb8257a9c6463824f3171ed4b8b4cce.jpg",
+      "url": "https://twitter.com/ArielMejiaDev"
+    },
+    "url": "https://twitter.com/ArielMejiaDev/status/1338846392698155008",
+    "published": "2020-12-15T14:00:29+00:00",
+    "wm-received": "2020-12-15T14:42:29Z",
+    "wm-id": 949554,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1338846064724627458/1338846392698155008",
+    "wm-target": "https://sebastiandedeyne.com/when-to-add-types-and-when-to-infer-in-typescript/",
+    "content": {
+      "text": "✒️ TypeScript has intelligent type inference, but that doesn't mean you should always rely on it. This is how I decided when I want to add a"
+    },
+    "repost-of": "https://sebastiandedeyne.com/when-to-add-types-and-when-to-infer-in-typescript/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Anne Pambid",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/b879c4a10a83782fa449fe60a078c2d6eabb61570b363f7cd3b7a18eff847c5e.jpg",
+      "url": "https://twitter.com/Annevigoss"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1338846064724627458#favorited-by-2788301381",
+    "published": null,
+    "wm-received": "2020-12-15T14:42:30Z",
+    "wm-id": 949555,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1338846064724627458/2788301381",
+    "wm-target": "https://sebastiandedeyne.com/when-to-add-types-and-when-to-infer-in-typescript/",
+    "like-of": "https://sebastiandedeyne.com/when-to-add-types-and-when-to-infer-in-typescript/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "KGG",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/f3041a5993d71da6155c72f27cb3e451d58ec354c9f980eff631c934b131d8ee.png",
+      "url": "https://twitter.com/gzhkevin"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1338846064724627458#favorited-by-797239",
+    "published": null,
+    "wm-received": "2020-12-15T14:42:58Z",
+    "wm-id": 949556,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1338846064724627458/797239",
+    "wm-target": "https://sebastiandedeyne.com/when-to-add-types-and-when-to-infer-in-typescript/",
+    "like-of": "https://sebastiandedeyne.com/when-to-add-types-and-when-to-infer-in-typescript/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "ArielMejiaDev",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/76519dca9b4c835e4edf3f3ae782fbb5acb8257a9c6463824f3171ed4b8b4cce.jpg",
+      "url": "https://twitter.com/ArielMejiaDev"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1338846064724627458#favorited-by-1089643802300727309",
+    "published": null,
+    "wm-received": "2020-12-15T14:42:59Z",
+    "wm-id": 949557,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1338846064724627458/1089643802300727309",
+    "wm-target": "https://sebastiandedeyne.com/when-to-add-types-and-when-to-infer-in-typescript/",
+    "like-of": "https://sebastiandedeyne.com/when-to-add-types-and-when-to-infer-in-typescript/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+]
