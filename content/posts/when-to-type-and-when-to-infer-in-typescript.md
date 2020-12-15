@@ -51,7 +51,7 @@ const result = divide(10, 2);
 
 I type function declarations for two reasons: readability and contract.
 
-**Readability:** by typing the declaration, I exactly what to expect of the function without looking at its body.
+**Readability:** by typing the declaration, I know exactly what to expect of the function without looking at its body.
 
 While we could assume this will return a number, we can't be sure. And assumptions are exactly what we're trying to avoid by using types.
 
