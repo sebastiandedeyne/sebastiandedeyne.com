@@ -468,5 +468,23 @@
     "repost-of": "https://sebastiandedeyne.com/newsletter/",
     "wm-property": "repost-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Roman Pronskiy",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/9373f62b650e88f9265f5742739d93f3fbaa1f7d60d8593c694c25821996528e.png",
+      "url": "https://twitter.com/pronskiy"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1338447088863113219#favorited-by-156592964",
+    "published": null,
+    "wm-received": "2020-12-15T00:05:36Z",
+    "wm-id": 948630,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1338447088863113219/156592964",
+    "wm-target": "https://sebastiandedeyne.com/newsletter/",
+    "like-of": "https://sebastiandedeyne.com/newsletter/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]

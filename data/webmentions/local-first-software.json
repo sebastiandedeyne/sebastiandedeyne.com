@@ -1,0 +1,77 @@
+[
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "𝗠𝘆𝗿𝗼𝘀𝗹𝗮𝘃 2.0 🇺🇦",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/e86cd6b586934719e46ca6097ef0cdaa492cdca7193fac37adba8acf10b1e41f.jpg",
+      "url": "https://twitter.com/myroslavco"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1338540570826989570#favorited-by-252151360",
+    "published": null,
+    "wm-received": "2020-12-14T19:03:37Z",
+    "wm-id": 948511,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1338540570826989570/252151360",
+    "wm-target": "https://sebastiandedeyne.com/local-first-software/",
+    "like-of": "https://sebastiandedeyne.com/local-first-software/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Jorge Ordovás",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/88d3bf25b525ff4ef7c27cf6a6036bca9b7559a454460f5656123f3a086e7f27.jpg",
+      "url": "https://twitter.com/joobid"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1338540570826989570#favorited-by-276656109",
+    "published": null,
+    "wm-received": "2020-12-14T20:04:18Z",
+    "wm-id": 948532,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1338540570826989570/276656109",
+    "wm-target": "https://sebastiandedeyne.com/local-first-software/",
+    "like-of": "https://sebastiandedeyne.com/local-first-software/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Alfonso de la Rocha",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/fc8d4712d0024d632b4f7d58b2f9170ee03412a1bb20ba7c60b755a4caa84ba5.png",
+      "url": "https://twitter.com/adlrocha"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1338540570826989570#favorited-by-1027529251682181120",
+    "published": null,
+    "wm-received": "2020-12-14T20:04:18Z",
+    "wm-id": 948533,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1338540570826989570/1027529251682181120",
+    "wm-target": "https://sebastiandedeyne.com/local-first-software/",
+    "like-of": "https://sebastiandedeyne.com/local-first-software/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Alfonso de la Rocha",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/fc8d4712d0024d632b4f7d58b2f9170ee03412a1bb20ba7c60b755a4caa84ba5.png",
+      "url": "https://twitter.com/adlrocha"
+    },
+    "url": "https://twitter.com/adlrocha/status/1338560424497778706",
+    "published": "2020-12-14T19:04:09+00:00",
+    "wm-received": "2020-12-14T20:04:20Z",
+    "wm-id": 948534,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1338540570826989570/1338560424497778706",
+    "wm-target": "https://sebastiandedeyne.com/local-first-software/",
+    "content": {
+      "text": "🔗 Some thoughts on today's Google downtime, and compelling read on local-first software by @adlrocha. There's more to the idea than the \"wor"
+    },
+    "repost-of": "https://sebastiandedeyne.com/local-first-software/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  }
+]
