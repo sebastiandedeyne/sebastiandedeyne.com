@@ -73,5 +73,23 @@
     "like-of": "https://sebastiandedeyne.com/when-to-add-types-and-when-to-infer-in-typescript/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Lambert Traccard",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/0092681de01f8f15b50eaefca8c54cafc66c7490050d59bc1bf6bcfac892c184.jpg",
+      "url": "https://twitter.com/lamberttraccard"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1338846064724627458#favorited-by-236706279",
+    "published": null,
+    "wm-received": "2020-12-15T19:52:37Z",
+    "wm-id": 949920,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1338846064724627458/236706279",
+    "wm-target": "https://sebastiandedeyne.com/when-to-add-types-and-when-to-infer-in-typescript/",
+    "like-of": "https://sebastiandedeyne.com/when-to-add-types-and-when-to-infer-in-typescript/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
