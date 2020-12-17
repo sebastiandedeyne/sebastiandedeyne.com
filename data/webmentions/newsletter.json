@@ -486,5 +486,27 @@
     "like-of": "https://sebastiandedeyne.com/newsletter/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Sebastian De Deyne",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/3ce609991342657b8b7e99eb7a5c6e3656fbdb1c51575f1464d354b81aaeda86.jpg",
+      "url": "https://twitter.com/sebdedeyne"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1339524937116233728",
+    "published": "2020-12-17T10:56:46+00:00",
+    "wm-received": "2020-12-17T11:47:11Z",
+    "wm-id": 951736,
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1339524937116233728",
+    "wm-target": "https://sebastiandedeyne.com/newsletter/",
+    "content": {
+      "html": "Last chance, going out after lunch!\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/newsletter\"></a>\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/newsletter/\"></a>\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/newsletter/focussing-roaming-and-running/\"></a>",
+      "text": "Last chance, going out after lunch!"
+    },
+    "mention-of": "https://sebastiandedeyne.com/newsletter/",
+    "wm-property": "mention-of",
+    "wm-private": false
   }
 ]
