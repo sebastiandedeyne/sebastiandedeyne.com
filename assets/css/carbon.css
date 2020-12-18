@@ -8,12 +8,6 @@
   }
 }
 
-@screen sm {
-  #carbonads {
-    @apply p-6;
-  }
-}
-
 #carbonads > span {
   display: grid;
   grid-gap: 0.5rem;
