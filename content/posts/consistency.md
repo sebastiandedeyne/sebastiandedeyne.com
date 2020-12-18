@@ -15,7 +15,7 @@ I quit using the front stall. The less choices I have to make, the more room I h
 
 <!--more-->
 
-This mindset also affects the way I program. In a large projects we're working on, we often need form request objects. Form request objects take care of validating a requests, before they enter a controller.
+This mindset also affects the way I code. In a large projects we're working on, we often need form request objects. Form request objects take care of validating a requests, before they enter a controller.
 
 ```php
 <?php
