@@ -1,6 +1,6 @@
 ---
 title: "Consistency"
-slug: consustency
+slug: consistency
 date: 2020-12-18
 categories: ["articles"]
 keywords:
