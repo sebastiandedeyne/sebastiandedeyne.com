@@ -2,6 +2,7 @@
 title: "Consistency"
 slug: consistency
 date: 2020-12-18
+cover: consistency.svg
 categories: ["articles"]
 keywords:
   - Programming
