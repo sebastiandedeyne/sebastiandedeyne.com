@@ -1,0 +1,113 @@
+[
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Léa",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/aef9b4566542cd00f2291d5e59659660b0ff4f48a2572c5a560d0926a1202997.jpg",
+      "url": "https://twitter.com/_ldaril_"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1339842752952070145#favorited-by-3223601609",
+    "published": null,
+    "wm-received": "2020-12-18T08:16:16Z",
+    "wm-id": 952517,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1339842752952070145/3223601609",
+    "wm-target": "https://sebastiandedeyne.com/consistency/",
+    "like-of": "https://sebastiandedeyne.com/consistency/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Günther Debrauwer",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/509fc35edb29ff0fadb002f2d9c7e4a1f8ac9fae8bac0cb4748ebe64524df7b9.jpg",
+      "url": "https://twitter.com/gdebrauwer"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1339842752952070145#favorited-by-2827961035",
+    "published": null,
+    "wm-received": "2020-12-18T08:16:17Z",
+    "wm-id": 952518,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1339842752952070145/2827961035",
+    "wm-target": "https://sebastiandedeyne.com/consistency/",
+    "like-of": "https://sebastiandedeyne.com/consistency/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "youssef khouili",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/49fbe02912a3d86956a83deb436dc0bd9799b62032f672f9f645e0c7d4c8e204.jpg",
+      "url": "https://twitter.com/youssefkhouili4"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1339842752952070145#favorited-by-1266690334295195651",
+    "published": null,
+    "wm-received": "2020-12-18T08:16:17Z",
+    "wm-id": 952519,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1339842752952070145/1266690334295195651",
+    "wm-target": "https://sebastiandedeyne.com/consistency/",
+    "like-of": "https://sebastiandedeyne.com/consistency/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Niels Vanpachtenbeke",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/055bd1bf23c76f93dfacf683a9c277bc019416f69af65483043de917d54ded9d.jpg",
+      "url": "https://twitter.com/NielsVanpach"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1339842752952070145#favorited-by-1446285385",
+    "published": null,
+    "wm-received": "2020-12-18T08:16:18Z",
+    "wm-id": 952520,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1339842752952070145/1446285385",
+    "wm-target": "https://sebastiandedeyne.com/consistency/",
+    "like-of": "https://sebastiandedeyne.com/consistency/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Léa",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/aef9b4566542cd00f2291d5e59659660b0ff4f48a2572c5a560d0926a1202997.jpg",
+      "url": "https://twitter.com/_ldaril_"
+    },
+    "url": "https://twitter.com/_ldaril_/status/1339843209673977857",
+    "published": "2020-12-18T08:01:28+00:00",
+    "wm-received": "2020-12-18T08:16:18Z",
+    "wm-id": 952521,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1339842752952070145/1339843209673977857",
+    "wm-target": "https://sebastiandedeyne.com/consistency/",
+    "content": {
+      "text": "✒️ A short story about consistency, and why I value it in code sebastiandedeyne.com/consistency/"
+    },
+    "repost-of": "https://sebastiandedeyne.com/consistency/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Jeroen van Rensen 🇳🇱",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/f435e3d0a69469ae46dc938dc501cd032bee23042ea150e3fc37094ad167ecf0.jpg",
+      "url": "https://twitter.com/JeroenvanRensen"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1339842752952070145#favorited-by-1151155416233140225",
+    "published": null,
+    "wm-received": "2020-12-18T08:58:02Z",
+    "wm-id": 952555,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1339842752952070145/1151155416233140225",
+    "wm-target": "https://sebastiandedeyne.com/consistency/",
+    "like-of": "https://sebastiandedeyne.com/consistency/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+]
