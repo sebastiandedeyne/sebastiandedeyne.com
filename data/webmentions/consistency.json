@@ -184,5 +184,27 @@
     "like-of": "https://sebastiandedeyne.com/consistency/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "locopin.io",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/03b5e0182ae8329dbaccc7ae445240907437962bfbaf8099d01c3ae095fbbf00.jpg",
+      "url": "https://twitter.com/locopinio"
+    },
+    "url": "https://twitter.com/locopinio/status/1340281981763006464",
+    "published": "2020-12-19T13:05:00+00:00",
+    "wm-received": "2020-12-19T13:39:45Z",
+    "wm-id": 954096,
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1340281981763006464",
+    "wm-target": "https://sebastiandedeyne.com/consistency/",
+    "content": {
+      "html": "An inspiring article on consistency and making decisions (when writing code):\n<a href=\"https://sebastiandedeyne.com/consistency/\">sebastiandedeyne.com/consistency/</a>",
+      "text": "An inspiring article on consistency and making decisions (when writing code):\nsebastiandedeyne.com/consistency/"
+    },
+    "mention-of": "https://sebastiandedeyne.com/consistency/",
+    "wm-property": "mention-of",
+    "wm-private": false
   }
 ]
