@@ -109,5 +109,23 @@
     "like-of": "https://sebastiandedeyne.com/local-first-software/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "David Arroyo",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/3ffa70952c430763e65a89536ec71affa4016561a41f34a34a49bf158044887b.jpg",
+      "url": "https://twitter.com/david_arroyo"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1338540570826989570#favorited-by-39616863",
+    "published": null,
+    "wm-received": "2020-12-18T18:47:06Z",
+    "wm-id": 952949,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1338540570826989570/39616863",
+    "wm-target": "https://sebastiandedeyne.com/local-first-software/",
+    "like-of": "https://sebastiandedeyne.com/local-first-software/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
