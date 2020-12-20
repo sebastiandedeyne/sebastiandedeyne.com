@@ -206,5 +206,41 @@
     "mention-of": "https://sebastiandedeyne.com/consistency/",
     "wm-property": "mention-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Jerome Fitzpatrick",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/e439df3b0c7fcecf13bacfcb36ba16d175905ae0872181e0f702ccd475c39eb4.jpg",
+      "url": "https://twitter.com/whtReign"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1339842752952070145#favorited-by-921569924086198273",
+    "published": null,
+    "wm-received": "2020-12-19T22:08:33Z",
+    "wm-id": 954619,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1339842752952070145/921569924086198273",
+    "wm-target": "https://sebastiandedeyne.com/consistency/",
+    "like-of": "https://sebastiandedeyne.com/consistency/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "𝗠𝘆𝗿𝗼𝘀𝗹𝗮𝘃 2.0 🇺🇦",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/e86cd6b586934719e46ca6097ef0cdaa492cdca7193fac37adba8acf10b1e41f.jpg",
+      "url": "https://twitter.com/myroslavco"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1339842752952070145#favorited-by-252151360",
+    "published": null,
+    "wm-received": "2020-12-19T22:09:08Z",
+    "wm-id": 954620,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1339842752952070145/252151360",
+    "wm-target": "https://sebastiandedeyne.com/consistency/",
+    "like-of": "https://sebastiandedeyne.com/consistency/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
