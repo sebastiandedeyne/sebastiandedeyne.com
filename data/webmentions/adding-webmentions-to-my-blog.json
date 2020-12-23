@@ -588,5 +588,26 @@
     "mention-of": "https://sebastiandedeyne.com/adding-webmentions-to-my-blog/",
     "wm-property": "mention-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Anonymous",
+      "photo": "https://webmention.io/avatar/commentpara.de/ef200c8b639d79d1cfbc0abf0e25f42dcbc585b4398003dd90f5a56c9d56e3bf.svg",
+      "url": ""
+    },
+    "url": "https://commentpara.de/comment/748.htm",
+    "published": null,
+    "wm-received": "2020-12-23T11:17:44Z",
+    "wm-id": 959903,
+    "wm-source": "https://commentpara.de/comment/748.htm",
+    "wm-target": "https://sebastiandedeyne.com/adding-webmentions-to-my-blog/",
+    "content": {
+      "text": "try to comment with comment parade :)"
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/adding-webmentions-to-my-blog/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
   }
 ]
