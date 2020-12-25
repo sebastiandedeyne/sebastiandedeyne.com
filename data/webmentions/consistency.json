@@ -242,5 +242,30 @@
     "like-of": "https://sebastiandedeyne.com/consistency/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "PhpGig",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/3b6692cf51d53ee5f68a81d4ddb30a5fef6d933e53d585123174df5a2fea394c.jpg",
+      "url": "https://twitter.com/phpgig"
+    },
+    "url": "https://twitter.com/phpgig/status/1342334768206274560",
+    "published": "2020-12-25T05:02:02+00:00",
+    "wm-received": "2020-12-25T05:31:28Z",
+    "wm-id": 962917,
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1342334768206274560",
+    "wm-target": "https://sebastiandedeyne.com/consistency/",
+    "photo": [
+      "https://pbs.twimg.com/media/EqDuW8WXUAILwSm.jpg"
+    ],
+    "content": {
+      "html": "Consistency, <a href=\"https://twitter.com/sebdedeyne\">@sebdedeyne</a>\n\nA short story about consistency, and why I value it in code.\n\n<a href=\"https://sebastiandedeyne.com/consistency\">sebastiandedeyne.com/consistency</a>\n\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/consistency/\"></a>",
+      "text": "Consistency, @sebdedeyne\n\nA short story about consistency, and why I value it in code.\n\nsebastiandedeyne.com/consistency"
+    },
+    "mention-of": "https://sebastiandedeyne.com/consistency/",
+    "wm-property": "mention-of",
+    "wm-private": false
   }
 ]
