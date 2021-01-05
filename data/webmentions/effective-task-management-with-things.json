@@ -507,5 +507,66 @@
     "mention-of": "https://sebastiandedeyne.com/effective-task-management-with-things/",
     "wm-property": "mention-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Brandon Williams",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/456b0a268133189528d09c92afa887e110ec7e21a4a7670fb3728db6d150c1d6.jpg",
+      "url": "https://twitter.com/brandonw_27"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1346509659419648002#favorited-by-1199728697751638016",
+    "published": null,
+    "wm-received": "2021-01-05T18:01:20Z",
+    "wm-id": 977289,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1346509659419648002/1199728697751638016",
+    "wm-target": "https://sebastiandedeyne.com/effective-task-management-with-things/",
+    "like-of": "https://sebastiandedeyne.com/effective-task-management-with-things/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Paul Redmond 🇺🇸",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/268ef2d8db48537326b50858bf546e09c7463518acd63d8d88994818476be0bc.jpg",
+      "url": "https://twitter.com/paulredmond"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1346509659419648002#favorited-by-14081470",
+    "published": null,
+    "wm-received": "2021-01-05T18:01:21Z",
+    "wm-id": 977290,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1346509659419648002/14081470",
+    "wm-target": "https://sebastiandedeyne.com/effective-task-management-with-things/",
+    "like-of": "https://sebastiandedeyne.com/effective-task-management-with-things/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Paul Redmond 🇺🇸",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/268ef2d8db48537326b50858bf546e09c7463518acd63d8d88994818476be0bc.jpg",
+      "url": "https://twitter.com/paulredmond"
+    },
+    "url": "https://twitter.com/paulredmond/status/1346510417099513856",
+    "published": "2021-01-05T17:34:35+00:00",
+    "wm-received": "2021-01-05T18:01:54Z",
+    "wm-id": 977291,
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/sebdedeyne/1346509659419648002/1346510417099513856",
+    "wm-target": "https://sebastiandedeyne.com/effective-task-management-with-things/",
+    "video": [
+      "https://video.twimg.com/tweet_video/Eq_EFbrUUAA5n2A.mp4"
+    ],
+    "content": {
+      "html": "I've been telling him Things for YEARS 📈\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/ericlbarnes\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/sebdedeyne\"></a>",
+      "text": "I've been telling him Things for YEARS 📈"
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/effective-task-management-with-things/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
   }
 ]

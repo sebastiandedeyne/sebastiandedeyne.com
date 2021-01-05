@@ -1,0 +1,684 @@
+[
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Andy Clyde",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/fa3aa193b2d171dc9516b2261d86ca213be74fd7b0b57c1fce21dab67587a396.png",
+      "url": "https://twitter.com/LiquorVicar"
+    },
+    "url": "https://twitter.com/LiquorVicar/status/1346441513019047937",
+    "published": "2021-01-05T13:00:47+00:00",
+    "wm-received": "2021-01-05T14:23:41Z",
+    "wm-id": 977101,
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/sebdedeyne/1346371256568979456/1346441513019047937",
+    "wm-target": "https://sebastiandedeyne.com/jq/",
+    "content": {
+      "html": "Oooh yes, love a bit of `jq`! Have used it for quite a few devOps-y scripts over the years. Even did a talk on it at my local PHP UG: <a href=\"https://www.meetup.com/PHP-Oxford/events/vvrzwqybcnblc/\">meetup.com/PHP-Oxford/eve…</a>\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/ShawnMcCool\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/sebdedeyne\"></a>",
+      "text": "Oooh yes, love a bit of `jq`! Have used it for quite a few devOps-y scripts over the years. Even did a talk on it at my local PHP UG: meetup.com/PHP-Oxford/eve…"
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/jq/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Shawn McCool",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/afc68d432b8fa9ca858e8ad53805fc60e19f4087f259ac50f64b4812e8a46447.jpg",
+      "url": "https://twitter.com/ShawnMcCool"
+    },
+    "url": "https://twitter.com/ShawnMcCool/status/1346408759095160832",
+    "published": "2021-01-05T10:50:37+00:00",
+    "wm-received": "2021-01-05T14:23:42Z",
+    "wm-id": 977102,
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/sebdedeyne/1346371256568979456/1346408759095160832",
+    "wm-target": "https://sebastiandedeyne.com/jq/",
+    "content": {
+      "html": "I absolutely love `jq` and rely on it (and bat) from the command line. There is no place in my life where a lack of JSON tooling is acceptable.\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/sebdedeyne\"></a>",
+      "text": "I absolutely love `jq` and rely on it (and bat) from the command line. There is no place in my life where a lack of JSON tooling is acceptable."
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/jq/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Miguel Piedrafita 🚀",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/82ed867d605f1130877590cceb29ccb51445db010ee6680958a0c72c2524f5d6.jpg",
+      "url": "https://twitter.com/m1guelpf"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1346371256568979456#favorited-by-713094195955830785",
+    "published": null,
+    "wm-received": "2021-01-05T14:23:43Z",
+    "wm-id": 977103,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1346371256568979456/713094195955830785",
+    "wm-target": "https://sebastiandedeyne.com/jq/",
+    "like-of": "https://sebastiandedeyne.com/jq/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Dushyant Vishwakarma",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/942d594652c709c7048bfa5835e000da568f589c7cf8b35f2d5a20b0b650e8b4.jpg",
+      "url": "https://twitter.com/CoolDV235"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1346371256568979456#favorited-by-1476145002",
+    "published": null,
+    "wm-received": "2021-01-05T14:23:43Z",
+    "wm-id": 977104,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1346371256568979456/1476145002",
+    "wm-target": "https://sebastiandedeyne.com/jq/",
+    "like-of": "https://sebastiandedeyne.com/jq/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "james cowie",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/cfd2a3e902c22684088cb28494cd805e8d3013e8a01e4aef38c72b945229bb3d.jpg",
+      "url": "https://twitter.com/jcowie"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1346371256568979456#favorited-by-16885415",
+    "published": null,
+    "wm-received": "2021-01-05T14:23:44Z",
+    "wm-id": 977105,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1346371256568979456/16885415",
+    "wm-target": "https://sebastiandedeyne.com/jq/",
+    "like-of": "https://sebastiandedeyne.com/jq/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Aaron Heath",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/98d25d4a3758de563cbd13c374a6780aa6871ced0b5d775c25acb93d3c45772c.jpg",
+      "url": "https://twitter.com/bomberaza"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1346371256568979456#favorited-by-14247295",
+    "published": null,
+    "wm-received": "2021-01-05T14:23:44Z",
+    "wm-id": 977106,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1346371256568979456/14247295",
+    "wm-target": "https://sebastiandedeyne.com/jq/",
+    "like-of": "https://sebastiandedeyne.com/jq/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Parthasarathi G K",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/8aeec53804a307c819f358ca9005edd34594572382f435a06101b4472cece754.jpg",
+      "url": "https://twitter.com/parthasarathigk"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1346371256568979456#favorited-by-103580638",
+    "published": null,
+    "wm-received": "2021-01-05T14:23:45Z",
+    "wm-id": 977107,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1346371256568979456/103580638",
+    "wm-target": "https://sebastiandedeyne.com/jq/",
+    "like-of": "https://sebastiandedeyne.com/jq/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Aiman Ismail",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/340bc06213de85f1a33eabe585608f9239fdb4c58207ecb8d8f6b2bd4a567fce.jpg",
+      "url": "https://twitter.com/pokgak73"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1346371256568979456#favorited-by-1301195802107424769",
+    "published": null,
+    "wm-received": "2021-01-05T14:23:46Z",
+    "wm-id": 977108,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1346371256568979456/1301195802107424769",
+    "wm-target": "https://sebastiandedeyne.com/jq/",
+    "like-of": "https://sebastiandedeyne.com/jq/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Mior Muhammad Zaki",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/dc3f4750b7591c255bb125d0ebd5a9295de7159cf12181e8904ff2ea6d809045.jpg",
+      "url": "https://twitter.com/crynobone"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1346371256568979456#favorited-by-8205802",
+    "published": null,
+    "wm-received": "2021-01-05T14:23:46Z",
+    "wm-id": 977109,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1346371256568979456/8205802",
+    "wm-target": "https://sebastiandedeyne.com/jq/",
+    "like-of": "https://sebastiandedeyne.com/jq/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Fabian Blechschmidt",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/34af2baca237984f36347b37312419304255100487f08905280dcb97e9dd2746.jpg",
+      "url": "https://twitter.com/Fabian_ikono"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1346371256568979456#favorited-by-259672053",
+    "published": null,
+    "wm-received": "2021-01-05T14:23:47Z",
+    "wm-id": 977110,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1346371256568979456/259672053",
+    "wm-target": "https://sebastiandedeyne.com/jq/",
+    "like-of": "https://sebastiandedeyne.com/jq/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Wes Gabes",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/1ab8cbe4df5d15ce07cb8820f978cb4e52266b651f09fb41b1d661eec0d65887.jpg",
+      "url": "https://twitter.com/wesgabes"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1346371256568979456#favorited-by-1219236493081837568",
+    "published": null,
+    "wm-received": "2021-01-05T14:23:48Z",
+    "wm-id": 977111,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1346371256568979456/1219236493081837568",
+    "wm-target": "https://sebastiandedeyne.com/jq/",
+    "like-of": "https://sebastiandedeyne.com/jq/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "José Cage",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/813485e34c08384ba64d384b450c7c705536cdfb090e9cee4833637645d28f18.jpg",
+      "url": "https://twitter.com/cagejose"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1346371256568979456#favorited-by-944899327",
+    "published": null,
+    "wm-received": "2021-01-05T14:23:49Z",
+    "wm-id": 977112,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1346371256568979456/944899327",
+    "wm-target": "https://sebastiandedeyne.com/jq/",
+    "like-of": "https://sebastiandedeyne.com/jq/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Vincent",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/ee8c7d44215d3f4556b05d8f380d2dac06d69ef20d39b24aa448a53c81e8bd5f.jpg",
+      "url": "https://twitter.com/vincentpetritz"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1346371256568979456#favorited-by-844959150497038336",
+    "published": null,
+    "wm-received": "2021-01-05T14:23:50Z",
+    "wm-id": 977113,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1346371256568979456/844959150497038336",
+    "wm-target": "https://sebastiandedeyne.com/jq/",
+    "like-of": "https://sebastiandedeyne.com/jq/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Shawn McCool",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/afc68d432b8fa9ca858e8ad53805fc60e19f4087f259ac50f64b4812e8a46447.jpg",
+      "url": "https://twitter.com/ShawnMcCool"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1346371256568979456#favorited-by-14142021",
+    "published": null,
+    "wm-received": "2021-01-05T14:23:51Z",
+    "wm-id": 977114,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1346371256568979456/14142021",
+    "wm-target": "https://sebastiandedeyne.com/jq/",
+    "like-of": "https://sebastiandedeyne.com/jq/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Daragh O'Shea",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/1db028339e4a4362cf837c43f40e5d5ba6d5fd528b6f8f4586467950a26b27d1.jpg",
+      "url": "https://twitter.com/DaraghOShea"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1346371256568979456#favorited-by-116070431",
+    "published": null,
+    "wm-received": "2021-01-05T14:23:52Z",
+    "wm-id": 977115,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1346371256568979456/116070431",
+    "wm-target": "https://sebastiandedeyne.com/jq/",
+    "like-of": "https://sebastiandedeyne.com/jq/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Andrew Schmelyun",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/064380825d28cc6e8eea378a0f0856cbc196072cdd76147ae513acc96c54fd73.jpg",
+      "url": "https://twitter.com/aschmelyun"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1346371256568979456#favorited-by-125744842",
+    "published": null,
+    "wm-received": "2021-01-05T14:23:53Z",
+    "wm-id": 977116,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1346371256568979456/125744842",
+    "wm-target": "https://sebastiandedeyne.com/jq/",
+    "like-of": "https://sebastiandedeyne.com/jq/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Tauseef shah",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/433f5461b05765e077dc67230d8e18ac4290917e9e8d59a7e57dc2d54de1e8f5.jpg",
+      "url": "https://twitter.com/tauseeeeeef"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1346371256568979456#favorited-by-2476541736",
+    "published": null,
+    "wm-received": "2021-01-05T14:23:53Z",
+    "wm-id": 977117,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1346371256568979456/2476541736",
+    "wm-target": "https://sebastiandedeyne.com/jq/",
+    "like-of": "https://sebastiandedeyne.com/jq/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Dmitry Bubyakin",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/aff1e7caa433cff43eebb2a171c92d7aa71ccc972d6335230c7b382b6dabc885.jpg",
+      "url": "https://twitter.com/dmitrybubyakin"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1346371256568979456#favorited-by-969993608534380544",
+    "published": null,
+    "wm-received": "2021-01-05T14:23:54Z",
+    "wm-id": 977118,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1346371256568979456/969993608534380544",
+    "wm-target": "https://sebastiandedeyne.com/jq/",
+    "like-of": "https://sebastiandedeyne.com/jq/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Karel",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/ec7dbb3131dfbd93d689216c13e69c42350363722bed29e6fd12966dc8a4c650.jpg",
+      "url": "https://twitter.com/Shaffe"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1346371256568979456#favorited-by-6856672",
+    "published": null,
+    "wm-received": "2021-01-05T14:23:55Z",
+    "wm-id": 977119,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1346371256568979456/6856672",
+    "wm-target": "https://sebastiandedeyne.com/jq/",
+    "like-of": "https://sebastiandedeyne.com/jq/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Luís Dalmolin",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/0c6b13fa571ddcc96a8d8f566e950565d4ba4b5f1ca3978bf15163bd3bc749a9.jpg",
+      "url": "https://twitter.com/luisdalmolin"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1346371256568979456#favorited-by-62308456",
+    "published": null,
+    "wm-received": "2021-01-05T14:23:56Z",
+    "wm-id": 977120,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1346371256568979456/62308456",
+    "wm-target": "https://sebastiandedeyne.com/jq/",
+    "like-of": "https://sebastiandedeyne.com/jq/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Liam Norris 🩸",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/4dda95d8831d9e17b9ece8792c9a174771182bf64c5788e779cb5fd982514afd.jpg",
+      "url": "https://twitter.com/wistrix"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1346371256568979456#favorited-by-866746471714050053",
+    "published": null,
+    "wm-received": "2021-01-05T14:23:57Z",
+    "wm-id": 977121,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1346371256568979456/866746471714050053",
+    "wm-target": "https://sebastiandedeyne.com/jq/",
+    "like-of": "https://sebastiandedeyne.com/jq/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "ArielMejiaDev",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/d4bcb7351459d338d4a9f5bfc31857449f25cb0c18e0cc34c33f5996093e64b9.jpg",
+      "url": "https://twitter.com/ArielMejiaDev"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1346371256568979456#favorited-by-1089643802300727309",
+    "published": null,
+    "wm-received": "2021-01-05T14:23:58Z",
+    "wm-id": 977122,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1346371256568979456/1089643802300727309",
+    "wm-target": "https://sebastiandedeyne.com/jq/",
+    "like-of": "https://sebastiandedeyne.com/jq/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "adnan mujkanovic 🇧🇦 🇩🇪",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/eddfe29e1d688363c33f1e5e732e06836a2029f0791f20b0c35a6401a671d827.jpg",
+      "url": "https://twitter.com/kickthemooon"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1346371256568979456#favorited-by-40329535",
+    "published": null,
+    "wm-received": "2021-01-05T14:23:59Z",
+    "wm-id": 977123,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1346371256568979456/40329535",
+    "wm-target": "https://sebastiandedeyne.com/jq/",
+    "like-of": "https://sebastiandedeyne.com/jq/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "José Cage",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/813485e34c08384ba64d384b450c7c705536cdfb090e9cee4833637645d28f18.jpg",
+      "url": "https://twitter.com/cagejose"
+    },
+    "url": "https://twitter.com/cagejose/status/1346437304303411206",
+    "published": "2021-01-05T12:44:03+00:00",
+    "wm-received": "2021-01-05T14:24:01Z",
+    "wm-id": 977124,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1346371256568979456/1346437304303411206",
+    "wm-target": "https://sebastiandedeyne.com/jq/",
+    "photo": [
+      "https://pbs.twimg.com/media/Eq9Fdh1XEAANHvO.jpg"
+    ],
+    "content": {
+      "text": "✒️ I rediscovered jq the other day! A fun tool to play with JSON objects in the command line sebastiandedeyne.com/jq/"
+    },
+    "repost-of": "https://sebastiandedeyne.com/jq/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Mior Muhammad Zaki",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/dc3f4750b7591c255bb125d0ebd5a9295de7159cf12181e8904ff2ea6d809045.jpg",
+      "url": "https://twitter.com/crynobone"
+    },
+    "url": "https://twitter.com/crynobone/status/1346381684388728835",
+    "published": "2021-01-05T09:03:02+00:00",
+    "wm-received": "2021-01-05T14:24:02Z",
+    "wm-id": 977125,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1346371256568979456/1346381684388728835",
+    "wm-target": "https://sebastiandedeyne.com/jq/",
+    "photo": [
+      "https://pbs.twimg.com/media/Eq9Fdh1XEAANHvO.jpg"
+    ],
+    "content": {
+      "text": "✒️ I rediscovered jq the other day! A fun tool to play with JSON objects in the command line sebastiandedeyne.com/jq/"
+    },
+    "repost-of": "https://sebastiandedeyne.com/jq/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "ArielMejiaDev",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/d4bcb7351459d338d4a9f5bfc31857449f25cb0c18e0cc34c33f5996093e64b9.jpg",
+      "url": "https://twitter.com/ArielMejiaDev"
+    },
+    "url": "https://twitter.com/ArielMejiaDev/status/1346380667765067777",
+    "published": "2021-01-05T08:59:00+00:00",
+    "wm-received": "2021-01-05T14:24:03Z",
+    "wm-id": 977126,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1346371256568979456/1346380667765067777",
+    "wm-target": "https://sebastiandedeyne.com/jq/",
+    "photo": [
+      "https://pbs.twimg.com/media/Eq9Fdh1XEAANHvO.jpg"
+    ],
+    "content": {
+      "text": "✒️ I rediscovered jq the other day! A fun tool to play with JSON objects in the command line sebastiandedeyne.com/jq/"
+    },
+    "repost-of": "https://sebastiandedeyne.com/jq/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Fabian Blechschmidt",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/34af2baca237984f36347b37312419304255100487f08905280dcb97e9dd2746.jpg",
+      "url": "https://twitter.com/Fabian_ikono"
+    },
+    "url": "https://twitter.com/Fabian_ikono/status/1346378018479075329",
+    "published": "2021-01-05T08:48:28+00:00",
+    "wm-received": "2021-01-05T14:24:04Z",
+    "wm-id": 977127,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1346371256568979456/1346378018479075329",
+    "wm-target": "https://sebastiandedeyne.com/jq/",
+    "photo": [
+      "https://pbs.twimg.com/media/Eq9Fdh1XEAANHvO.jpg"
+    ],
+    "content": {
+      "text": "✒️ I rediscovered jq the other day! A fun tool to play with JSON objects in the command line sebastiandedeyne.com/jq/"
+    },
+    "repost-of": "https://sebastiandedeyne.com/jq/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "sean modd",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/380f954d15686a589e1b65dff18e65e2a588939d7dc505ef0ec489e75bba9b1d.jpg",
+      "url": "https://twitter.com/persiansean"
+    },
+    "url": "https://twitter.com/persiansean/status/1346377094037553153",
+    "published": "2021-01-05T08:44:48+00:00",
+    "wm-received": "2021-01-05T14:24:05Z",
+    "wm-id": 977128,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1346371256568979456/1346377094037553153",
+    "wm-target": "https://sebastiandedeyne.com/jq/",
+    "photo": [
+      "https://pbs.twimg.com/media/Eq9Fdh1XEAANHvO.jpg"
+    ],
+    "content": {
+      "text": "✒️ I rediscovered jq the other day! A fun tool to play with JSON objects in the command line sebastiandedeyne.com/jq/"
+    },
+    "repost-of": "https://sebastiandedeyne.com/jq/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Freek Van der Herten ⚡️",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/389862c8a30722a50adbdf8f8388f6f8ed1a665bc1b69e4355ed98b6f2e01afb.jpg",
+      "url": "https://twitter.com/freekmurze"
+    },
+    "url": "https://twitter.com/freekmurze/status/1346377064321069059",
+    "published": "2021-01-05T08:44:41+00:00",
+    "wm-received": "2021-01-05T14:24:06Z",
+    "wm-id": 977129,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1346371256568979456/1346377064321069059",
+    "wm-target": "https://sebastiandedeyne.com/jq/",
+    "photo": [
+      "https://pbs.twimg.com/media/Eq9Fdh1XEAANHvO.jpg"
+    ],
+    "content": {
+      "text": "✒️ I rediscovered jq the other day! A fun tool to play with JSON objects in the command line sebastiandedeyne.com/jq/"
+    },
+    "repost-of": "https://sebastiandedeyne.com/jq/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Madalin Tache 🇷🇴",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/1ad39c8af2538a1f7b4f4fbe3830f1899b84746ca67a479b6c05c208d6903472.jpg",
+      "url": "https://twitter.com/niladam"
+    },
+    "url": "https://twitter.com/niladam/status/1346409019376873472",
+    "published": "2021-01-05T10:51:39+00:00",
+    "wm-received": "2021-01-05T14:24:10Z",
+    "wm-id": 977130,
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/sebdedeyne/1346371256568979456/1346409019376873472",
+    "wm-target": "https://sebastiandedeyne.com/jq/",
+    "content": {
+      "html": "I love it. I've used it to build a couple of things. The last one I can remember is a BitBar Sensibo plugin. <a href=\"https://github.com/niladam/sensibo-bitbar\">github.com/niladam/sensib…</a> - 2 years ago.\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/sebdedeyne\"></a>",
+      "text": "I love it. I've used it to build a couple of things. The last one I can remember is a BitBar Sensibo plugin. github.com/niladam/sensib… - 2 years ago."
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/jq/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Stephen S. Musoke - Homo sapiens #aedifex #Xennial",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/0926e03642b55d9fef65e8d16f3d3ca9c811b35391a24bd256adc875da30c30e.jpg",
+      "url": "https://twitter.com/ssmusoke"
+    },
+    "url": "https://twitter.com/ssmusoke/status/1346374701225017344",
+    "published": "2021-01-05T08:35:17+00:00",
+    "wm-received": "2021-01-05T14:24:11Z",
+    "wm-id": 977131,
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/sebdedeyne/1346371256568979456/1346374701225017344",
+    "wm-target": "https://sebastiandedeyne.com/jq/",
+    "content": {
+      "html": "Oh yeah jq is a great tool especially for dealing with API results\n\nI found it pretty useful when working with the AWS cli\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/sebdedeyne\"></a>",
+      "text": "Oh yeah jq is a great tool especially for dealing with API results\n\nI found it pretty useful when working with the AWS cli"
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/jq/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Klemen Magajne",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/ca83589cd3d39e7fe9a211b17c0e8f1342435a37b7bd632ce9daca09e95ec253.jpg",
+      "url": "https://twitter.com/klemen_magajne"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1346371256568979456#favorited-by-1314140546944860160",
+    "published": null,
+    "wm-received": "2021-01-05T14:24:15Z",
+    "wm-id": 977132,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1346371256568979456/1314140546944860160",
+    "wm-target": "https://sebastiandedeyne.com/jq/",
+    "like-of": "https://sebastiandedeyne.com/jq/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Placebo Domingo",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/c64ed43d1bcd2c0fa37e0b1d25f5bc26830922e2c9c08287939d126d62b9c40f.jpg",
+      "url": "https://twitter.com/brbcoding"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1346371256568979456#favorited-by-1157124170066595840",
+    "published": null,
+    "wm-received": "2021-01-05T15:45:44Z",
+    "wm-id": 977180,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1346371256568979456/1157124170066595840",
+    "wm-target": "https://sebastiandedeyne.com/jq/",
+    "like-of": "https://sebastiandedeyne.com/jq/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Julio Serpone",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/c3250acd62f42016939ec354395a00a92872bb61c12619d46399cc87057f8152.png",
+      "url": "https://twitter.com/julioserpone"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1346371256568979456#favorited-by-132610533",
+    "published": null,
+    "wm-received": "2021-01-05T15:45:45Z",
+    "wm-id": 977181,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1346371256568979456/132610533",
+    "wm-target": "https://sebastiandedeyne.com/jq/",
+    "like-of": "https://sebastiandedeyne.com/jq/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Larry",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/2073970ee3a057619819b5de6b91263fc4c76c9061bf5eb3f19867ca7b16a791.jpg",
+      "url": "https://twitter.com/larry_x46"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1346371256568979456#favorited-by-425149471",
+    "published": null,
+    "wm-received": "2021-01-05T15:45:46Z",
+    "wm-id": 977182,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1346371256568979456/425149471",
+    "wm-target": "https://sebastiandedeyne.com/jq/",
+    "like-of": "https://sebastiandedeyne.com/jq/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+]
