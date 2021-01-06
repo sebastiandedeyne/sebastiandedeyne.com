@@ -568,5 +568,23 @@
     "in-reply-to": "https://sebastiandedeyne.com/effective-task-management-with-things/",
     "wm-property": "in-reply-to",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Stefan Galescu",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/1ac2958ba331f33eb90bec4852cf7033613c71a71bebf016bed17db4fefac09f.jpg",
+      "url": "https://twitter.com/StefanGalescu"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1346509659419648002#favorited-by-795749974898253824",
+    "published": null,
+    "wm-received": "2021-01-05T22:24:58Z",
+    "wm-id": 977448,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1346509659419648002/795749974898253824",
+    "wm-target": "https://sebastiandedeyne.com/effective-task-management-with-things/",
+    "like-of": "https://sebastiandedeyne.com/effective-task-management-with-things/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
