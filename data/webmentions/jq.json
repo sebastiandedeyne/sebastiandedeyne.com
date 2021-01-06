@@ -820,5 +820,161 @@
     "like-of": "https://sebastiandedeyne.com/jq/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Spatie",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/3efb487e7f3a0bc3690580277105f93eda590d65e4d9eb01135a184a9df60b18.jpg",
+      "url": "https://twitter.com/spatie_be"
+    },
+    "url": "https://twitter.com/spatie_be/status/1346791399379918851",
+    "published": "2021-01-06T12:11:06+00:00",
+    "wm-received": "2021-01-06T12:12:53Z",
+    "wm-id": 978227,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1346371256568979456/1346791399379918851",
+    "wm-target": "https://sebastiandedeyne.com/jq/",
+    "photo": [
+      "https://pbs.twimg.com/media/Eq9Fdh1XEAANHvO.jpg"
+    ],
+    "content": {
+      "text": "✒️ I rediscovered jq the other day! A fun tool to play with JSON objects in the command line sebastiandedeyne.com/jq/"
+    },
+    "repost-of": "https://sebastiandedeyne.com/jq/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Ernestas Kvedaras",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/b8f316e7c6355ae28770dd259d373e21cde8a05832e275299b503b7c02e32f7e.jpg",
+      "url": "https://twitter.com/ekvedaras"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1346371256568979456#favorited-by-740832893967163392",
+    "published": null,
+    "wm-received": "2021-01-06T12:56:14Z",
+    "wm-id": 978249,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1346371256568979456/740832893967163392",
+    "wm-target": "https://sebastiandedeyne.com/jq/",
+    "like-of": "https://sebastiandedeyne.com/jq/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Tonistack",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/180fc6040f99205099f46c5faeca9f64f2d1c2771f9fd5975ea77e2e09d45454.jpg",
+      "url": "https://twitter.com/64ost"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1346371256568979456#favorited-by-755428775693811713",
+    "published": null,
+    "wm-received": "2021-01-06T12:56:15Z",
+    "wm-id": 978250,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1346371256568979456/755428775693811713",
+    "wm-target": "https://sebastiandedeyne.com/jq/",
+    "like-of": "https://sebastiandedeyne.com/jq/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Ernestas Kvedaras",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/b8f316e7c6355ae28770dd259d373e21cde8a05832e275299b503b7c02e32f7e.jpg",
+      "url": "https://twitter.com/ekvedaras"
+    },
+    "url": "https://twitter.com/ekvedaras/status/1346795925562421248",
+    "published": "2021-01-06T12:29:05+00:00",
+    "wm-received": "2021-01-06T12:56:16Z",
+    "wm-id": 978251,
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/sebdedeyne/1346371256568979456/1346795925562421248",
+    "wm-target": "https://sebastiandedeyne.com/jq/",
+    "photo": [
+      "https://pbs.twimg.com/media/Eq9Fdh1XEAANHvO.jpg"
+    ],
+    "content": {
+      "text": "✒️ I rediscovered jq the other day! A fun tool to play with JSON objects in the command line sebastiandedeyne.com/jq/"
+    },
+    "repost-of": "https://sebastiandedeyne.com/jq/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Christoph Vigano | BLM",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/a0007dd621bde791fdb75aebdeecd92e160ef85d8a7b34b8e139570a5d91f146.jpeg",
+      "url": "https://twitter.com/vigachri"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1346371256568979456#favorited-by-2933522273",
+    "published": null,
+    "wm-received": "2021-01-06T12:56:39Z",
+    "wm-id": 978252,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1346371256568979456/2933522273",
+    "wm-target": "https://sebastiandedeyne.com/jq/",
+    "like-of": "https://sebastiandedeyne.com/jq/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Barnabas Kecskes",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/0406d0d97ee9c064c1b52c3cbed48ac0758ba10936fd93251e4f287e5de09273.jpg",
+      "url": "https://twitter.com/BarnabasKecskes"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1346371256568979456#favorited-by-364561173",
+    "published": null,
+    "wm-received": "2021-01-06T13:41:33Z",
+    "wm-id": 978286,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1346371256568979456/364561173",
+    "wm-target": "https://sebastiandedeyne.com/jq/",
+    "like-of": "https://sebastiandedeyne.com/jq/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Jeff Finley",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/b1e6c9f0babd22ba1692bfa52c86d2987079b4a85f6825b234265f93d982fc04.jpg",
+      "url": "https://twitter.com/quickliketurtle"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1346371256568979456#favorited-by-14768847",
+    "published": null,
+    "wm-received": "2021-01-06T15:18:57Z",
+    "wm-id": 978382,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1346371256568979456/14768847",
+    "wm-target": "https://sebastiandedeyne.com/jq/",
+    "like-of": "https://sebastiandedeyne.com/jq/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Twelfth",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/84ad90a18bf7da2e482b2f16290c9b6f7f557b9db01c6a4a30d4b75333caa73f.jpg",
+      "url": "https://twitter.com/ayatenkangem"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1346371256568979456#favorited-by-130102893",
+    "published": null,
+    "wm-received": "2021-01-06T17:29:34Z",
+    "wm-id": 978533,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1346371256568979456/130102893",
+    "wm-target": "https://sebastiandedeyne.com/jq/",
+    "like-of": "https://sebastiandedeyne.com/jq/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
