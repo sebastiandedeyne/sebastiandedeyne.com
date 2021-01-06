@@ -802,5 +802,23 @@
     "mention-of": "https://sebastiandedeyne.com/jq/",
     "wm-property": "mention-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Vaggelis Yfantis",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/f7782b48b86b6f5f15a799c0391ef2a4df8a79522e8119d6805671a57185889c.jpg",
+      "url": "https://twitter.com/itsoctoper"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1346371256568979456#favorited-by-1719499016",
+    "published": null,
+    "wm-received": "2021-01-06T10:29:30Z",
+    "wm-id": 978158,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1346371256568979456/1719499016",
+    "wm-target": "https://sebastiandedeyne.com/jq/",
+    "like-of": "https://sebastiandedeyne.com/jq/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]

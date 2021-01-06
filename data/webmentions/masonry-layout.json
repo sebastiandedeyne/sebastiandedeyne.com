@@ -388,5 +388,31 @@
     "like-of": "https://sebastiandedeyne.com/masonry-layout/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Alexander Makhaev",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/d0e288ca636669216f553ec58f2075cc256afe80a6760731e9e362983fdb3952.jpg",
+      "url": "https://twitter.com/mankms"
+    },
+    "url": "https://twitter.com/mankms/status/1346714375361622019",
+    "published": "2021-01-06T07:05:02+00:00",
+    "wm-received": "2021-01-06T07:15:48Z",
+    "wm-id": 978024,
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1346714375361622019",
+    "wm-target": "https://sebastiandedeyne.com/masonry-layout/",
+    "photo": [
+      "https://pbs.twimg.com/media/ErB9llxXEAIuZgj.jpg",
+      "https://pbs.twimg.com/media/ErB9ln4WMAEd9LU.png"
+    ],
+    "content": {
+      "html": "Masonry layouts with CSS grid <a href=\"https://twitter.com/sebdedeyne\">@sebdedeyne</a>\n\nMasonry layout support has been added to the CSS grid specification! To create a masonry layout in CSS, use the new grid-template-rows: masonry property.\n\n<a href=\"https://sebastiandedeyne.com/masonry-layout/\">sebastiandedeyne.com/masonry-layout/</a>",
+      "text": "Masonry layouts with CSS grid @sebdedeyne\n\nMasonry layout support has been added to the CSS grid specification! To create a masonry layout in CSS, use the new grid-template-rows: masonry property.\n\nsebastiandedeyne.com/masonry-layout/"
+    },
+    "mention-of": "https://sebastiandedeyne.com/masonry-layout/",
+    "wm-property": "mention-of",
+    "wm-private": false
   }
 ]
