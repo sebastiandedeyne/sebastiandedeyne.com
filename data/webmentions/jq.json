@@ -976,5 +976,23 @@
     "like-of": "https://sebastiandedeyne.com/jq/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Javier Fernández",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/e0d25c5741ce1c1301b64e4aa2a949294bba5f7caaa7010b3b4e34febdbed97d.jpg",
+      "url": "https://twitter.com/jopo79"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1346371256568979456#favorited-by-631859822",
+    "published": null,
+    "wm-received": "2021-01-06T21:54:02Z",
+    "wm-id": 978684,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1346371256568979456/631859822",
+    "wm-target": "https://sebastiandedeyne.com/jq/",
+    "like-of": "https://sebastiandedeyne.com/jq/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
