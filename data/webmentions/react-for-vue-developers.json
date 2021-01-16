@@ -522,5 +522,27 @@
     "mention-of": "https://sebastiandedeyne.com/react-for-vue-developers/",
     "wm-property": "mention-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Zalsk Dorky",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/331628b45c58c90de0e5d6d7387bc8fb2ff47fa58924ca5c3e47cbdbaad65069.jpg",
+      "url": "https://twitter.com/paraparataaa"
+    },
+    "url": "https://twitter.com/paraparataaa/status/1350095806531997696",
+    "published": "2021-01-15T15:01:38+00:00",
+    "wm-received": "2021-01-15T20:24:57Z",
+    "wm-id": 990420,
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1350095806531997696",
+    "wm-target": "https://sebastiandedeyne.com/react-for-vue-developers/",
+    "content": {
+      "html": "nice and clean React article for Vue developer like me by <a href=\"https://twitter.com/sebdedeyne\">@sebdedeyne</a> \n<a href=\"https://sebastiandedeyne.com/react-for-vue-developers/\">sebastiandedeyne.com/react-for-vue-…</a>",
+      "text": "nice and clean React article for Vue developer like me by @sebdedeyne \nsebastiandedeyne.com/react-for-vue-…"
+    },
+    "mention-of": "https://sebastiandedeyne.com/react-for-vue-developers/",
+    "wm-property": "mention-of",
+    "wm-private": false
   }
 ]
