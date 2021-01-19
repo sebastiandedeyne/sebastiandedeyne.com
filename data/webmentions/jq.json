@@ -994,5 +994,27 @@
     "like-of": "https://sebastiandedeyne.com/jq/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "La semana PHP",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/bfd0c987004c612438e013bf5427e37b27ff4f46c2e70acd8cc8ef5d28b3f362.jpg",
+      "url": "https://twitter.com/lasemanaphp"
+    },
+    "url": "https://twitter.com/lasemanaphp/status/1351544966481391620",
+    "published": "2021-01-19T15:00:05+00:00",
+    "wm-received": "2021-01-19T15:42:26Z",
+    "wm-id": 995520,
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1351544966481391620",
+    "wm-target": "https://sebastiandedeyne.com/jq/",
+    "content": {
+      "html": "Leyendo y formateando JSON en la CLI con jq <a href=\"https://sebastiandedeyne.com/jq/\">sebastiandedeyne.com/jq/</a> vía <a href=\"https://twitter.com/sebdedeyne\">@sebdedeyne</a>",
+      "text": "Leyendo y formateando JSON en la CLI con jq sebastiandedeyne.com/jq/ vía @sebdedeyne"
+    },
+    "mention-of": "https://sebastiandedeyne.com/jq/",
+    "wm-property": "mention-of",
+    "wm-private": false
   }
 ]
