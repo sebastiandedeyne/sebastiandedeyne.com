@@ -875,5 +875,59 @@
     "mention-of": "https://sebastiandedeyne.com/javascript-framework-diet/",
     "wm-property": "mention-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Thomas Vercruysse",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/daa8dbf2b820731b74f060189f3ff22a491206c7179dca59eab40334d9050da8.jpg",
+      "url": "https://twitter.com/TVercruysse"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1351830040615464960#favorited-by-282983449",
+    "published": null,
+    "wm-received": "2021-01-20T10:36:18Z",
+    "wm-id": 996555,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1351830040615464960/282983449",
+    "wm-target": "https://sebastiandedeyne.com/javascript-framework-diet/",
+    "like-of": "https://sebastiandedeyne.com/javascript-framework-diet/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Smashing Magazine",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/88e32509189eef41466ae9a853ba87a3d5a608a6f441c8359265de7e3181eb3b.jpg",
+      "url": "https://twitter.com/smashingmag"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1351830040615464960#favorited-by-15736190",
+    "published": null,
+    "wm-received": "2021-01-20T10:36:18Z",
+    "wm-id": 996556,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1351830040615464960/15736190",
+    "wm-target": "https://sebastiandedeyne.com/javascript-framework-diet/",
+    "like-of": "https://sebastiandedeyne.com/javascript-framework-diet/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "chocochips",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/8107b9a7b217339632da6817b01332dd07582a50b6e660e70291727fde7d4a6c.jpg",
+      "url": "https://twitter.com/moreandmeow"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1351830040615464960#favorited-by-545774834",
+    "published": null,
+    "wm-received": "2021-01-20T10:36:19Z",
+    "wm-id": 996557,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1351830040615464960/545774834",
+    "wm-target": "https://sebastiandedeyne.com/javascript-framework-diet/",
+    "like-of": "https://sebastiandedeyne.com/javascript-framework-diet/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]

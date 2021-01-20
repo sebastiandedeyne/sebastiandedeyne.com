@@ -3688,5 +3688,30 @@
     "mention-of": "https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/",
     "wm-property": "mention-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Deedo-dev",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/f52ec1343ce2b73b3515fb0141f367577702c81e9e6c8675527f92b770a18d86.jpg",
+      "url": "https://twitter.com/DeedoDev"
+    },
+    "url": "https://twitter.com/DeedoDev/status/1351848472954118144",
+    "published": "2021-01-20T11:06:06+00:00",
+    "wm-received": "2021-01-20T11:24:39Z",
+    "wm-id": 996632,
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/sebdedeyne/1351848472954118144",
+    "wm-target": "https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/",
+    "photo": [
+      "https://pbs.twimg.com/media/EsK64n2W8AErHhN.jpg"
+    ],
+    "content": {
+      "html": "I've posted about global gitignore files before: This file could benefit from that very much because it spends 40 lines ignoring every possible editor.  <a href=\"https://twitter.com/search?q=%23git\">#git</a> <a href=\"https://twitter.com/search?q=%23webdev\">#webdev</a> <a href=\"https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/\">sebastiandedeyne.com/setting-up-a-g…</a>",
+      "text": "I've posted about global gitignore files before: This file could benefit from that very much because it spends 40 lines ignoring every possible editor.  #git #webdev sebastiandedeyne.com/setting-up-a-g…"
+    },
+    "mention-of": "https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/",
+    "wm-property": "mention-of",
+    "wm-private": false
   }
 ]
