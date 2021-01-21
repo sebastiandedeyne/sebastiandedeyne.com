@@ -929,5 +929,41 @@
     "like-of": "https://sebastiandedeyne.com/javascript-framework-diet/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Satyam Kumar Verman",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/fea63042fd3a2135c2e973daacba72c0462ab7226c433be9270fb55e4d7e5767.jpg",
+      "url": "https://twitter.com/skvprogrammer"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1351830040615464960#favorited-by-1261207381234638848",
+    "published": null,
+    "wm-received": "2021-01-21T09:33:24Z",
+    "wm-id": 997905,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1351830040615464960/1261207381234638848",
+    "wm-target": "https://sebastiandedeyne.com/javascript-framework-diet/",
+    "like-of": "https://sebastiandedeyne.com/javascript-framework-diet/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Thiago Bignotto",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/1f0094efa061883bf6ba0ad3e2941890e12191776dff27a560550170ab74d689.jpg",
+      "url": "https://twitter.com/bignotto"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1351830040615464960#favorited-by-29215989",
+    "published": null,
+    "wm-received": "2021-01-21T10:43:18Z",
+    "wm-id": 997977,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/sebdedeyne/1351830040615464960/29215989",
+    "wm-target": "https://sebastiandedeyne.com/javascript-framework-diet/",
+    "like-of": "https://sebastiandedeyne.com/javascript-framework-diet/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
