@@ -130,5 +130,27 @@
     "repost-of": "https://sebastiandedeyne.com/when-to-add-types-and-when-to-infer-in-typescript/",
     "wm-property": "repost-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Freek Van der Herten 📯",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/389862c8a30722a50adbdf8f8388f6f8ed1a665bc1b69e4355ed98b6f2e01afb.jpg",
+      "url": "https://twitter.com/freekmurze"
+    },
+    "url": "https://twitter.com/freekmurze/status/1358680517047123969",
+    "published": "2021-02-08T07:34:12+00:00",
+    "wm-received": "2021-02-08T10:22:40Z",
+    "wm-id": 1022233,
+    "wm-source": "https://brid.gy/post/twitter/sebdedeyne/1358680517047123969",
+    "wm-target": "https://sebastiandedeyne.com/when-to-add-types-and-when-to-infer-in-typescript/",
+    "content": {
+      "html": "🔗 When to add types and when to infer in TypeScript (by <a href=\"https://twitter.com/sebdedeyne\">@sebdedeyne</a>)\n<a href=\"https://sebastiandedeyne.com/when-to-add-types-and-when-to-infer-in-typescript/\">sebastiandedeyne.com/when-to-add-ty…</a>\n<a href=\"https://twitter.com/search?q=%23bestpractices\">#bestpractices</a> <a href=\"https://twitter.com/search?q=%23typescript\">#typescript</a>",
+      "text": "🔗 When to add types and when to infer in TypeScript (by @sebdedeyne)\nsebastiandedeyne.com/when-to-add-ty…\n#bestpractices #typescript"
+    },
+    "mention-of": "https://sebastiandedeyne.com/when-to-add-types-and-when-to-infer-in-typescript/",
+    "wm-property": "mention-of",
+    "wm-private": false
   }
 ]
