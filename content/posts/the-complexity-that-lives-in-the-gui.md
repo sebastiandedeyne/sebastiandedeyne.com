@@ -16,3 +16,5 @@ RoyalSloth reviews the three most common patterns to model interconnected state 
 *Connect the boxes* and *lift the state up* seem to be the most common choices for React apps; respectively prop drilling and context or single state trees (like Redux).
 
 There's no silver bullet to UI complexity, all methods have their caveats.
+
+Read the full article on [blog.royalsloth.eu](https://blog.royalsloth.eu/posts/the-complexity-that-lives-in-the-gui/).
