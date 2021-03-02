@@ -1,6 +1,6 @@
 {{ define "main" }}
 
-<header class="flex items-end justify-between mb-12">
+<header class="flex items-start/ justify-between mb-12">
   <h1 class="h1 mb-0">Archive</h1>
   <input
     type="search"
@@ -43,7 +43,7 @@
                   {{ . | replaceRE "[^\\w]" "" | lower }}
                 {{ end }}
               ">
-              <a href="{{ .RelPermalink }}" class="font-semibold">
+              <a href="{{ .RelPermalink }}" class="font-bold">
                 {{ .Title }}
               </a>
               <br>

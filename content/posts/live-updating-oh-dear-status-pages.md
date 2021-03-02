@@ -76,7 +76,7 @@ The template on the server always displays a fresh timestamp. That means the tim
     Live updates enabled
     <br>
     Last checked
-    <time datetime="{{ now($statusPage->timezone)->toISOString() }}" class="font-semibold tabular-nums">
+    <time datetime="{{ now($statusPage->timezone)->toISOString() }}" class="font-bold tabular-nums">
         {{ now($statusPage->timezone)->format('H:i:s T') }}
     </time>
 </p>
@@ -88,7 +88,7 @@ When the browser's offline, we wanted to visualize that live updates are disable
 <p id="autorefresh-online" class="inline-block rounded p-2 leading-snug text-left text-xs">
     <!---->
 </p>
-<p id="autorefresh-offline" class="inline-block hidden bg-red-600 font-semibold px-1 rounded text-red-100 text-sm">
+<p id="autorefresh-offline" class="inline-block hidden bg-red-600 font-bold px-1 rounded text-red-100 text-sm">
     Offline
 </p>
 ```

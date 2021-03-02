@@ -1,7 +1,7 @@
 {{ $post := .post }}
 <header>
   {{ if eq .heading "h1" }}
-    <h1 class="h1 mt-0 mb-1">
+    <h1 class="font-bold">
       <a href="{{ $post.RelPermalink }}">
         {{ $post.Title }}
       </a>
@@ -14,7 +14,7 @@
       </a>
     </h2>
   {{ end }}
-  <p class="text-sm text-gray-700 dark:text-gray-600 mb-4">
+  <p class="text-gray-700 dark:text-gray-600 mb-6">
       <a href="{{ $post.RelPermalink }}">
         <time datetime="{{ $post.Date.Format "2006-01-02" }}">
           {{ $post.Date.Format "January 2, 2006" }}

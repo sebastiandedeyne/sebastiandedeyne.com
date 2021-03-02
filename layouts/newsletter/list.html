@@ -25,7 +25,7 @@
   {{ range (where $.Site.RegularPages "Section" "newsletter") }}
   <ul>
     <li class="mb-6">
-      <p class="font-semibold">
+      <p class="font-bold">
         <a href="{{ .RelPermalink }}"> {{ .Title }} </a>
       </p>
       <p class="text-sm text-gray-700 dark:text-gray-600 markup">
