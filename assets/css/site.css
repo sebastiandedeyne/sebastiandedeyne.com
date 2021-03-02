@@ -10,25 +10,21 @@
     url("/fonts/fira-code-regular.woff") format("woff");
 }
 
-html {
-  font-size: 18px;
+hr {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
 }
 
-hr {
-  margin-top: 3rem;
-  margin-bottom: 3rem;
+@media (min-width: theme("screens.sm")) {
+  hr {
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+  }
 }
 
 @media (prefers-color-scheme: dark) {
   hr {
     border-color: theme("colors.gray.800");
-  }
-}
-
-@media (min-width: theme("screens.sm")) {
-  hr {
-    margin-top: 4rem;
-    margin-bottom: 4rem;
   }
 }
 
@@ -171,26 +167,6 @@ hr {
 
 .markup > blockquote > *:not(:last-child) {
   margin-bottom: 1rem;
-}
-
-.markup img,
-.markup pre,
-.markup blockquote,
-.markup .cp_embed_wrapper,
-.markup .chroma .hl {
-  margin-left: -1.5rem;
-  margin-right: -1.5rem;
-}
-
-@media (min-width: theme("screens.sm")) {
-  .markup img,
-  .markup pre,
-  .markup blockquote,
-  .markup .cp_embed_wrapper,
-  .markup .chroma .hl {
-    margin-left: -3rem;
-    margin-right: -3rem;
-  }
 }
 
 .markup .chroma .hl {

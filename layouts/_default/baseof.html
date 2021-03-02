@@ -39,43 +39,33 @@
   </head>
 
   <body class="font-sans leading-relaxed text-gray-900 dark:text-gray-300 dark:bg-gray-900 min-h-screen flex flex-col">
-    <header class="px-6 sm:px-12 lg:px-16 py-6 mb-12 lg:flex justify-between text-sm">
-      <nav class="text-center">
-        <a href="/" class="font-bold leading-tight">
-          Sebastian De Deyne
-        </a>
-      </nav>
-      <nav class="text-gray-700 dark:text-gray-600">
-        <ul class="flex justify-center lg:justify-end space-x-4">
+    <div class="flex w-full max-w-4xl mx-auto px-6 sm:px-12 lg:px-16 pt-16">
+      <nav class="pr-24 text-gray-700 dark:text-gray-600">
+        <ul>
           {{ $section := index (split .RelPermalink "/") 1 }}
           {{ $isBlog := eq (in "speaking open-source newsletter about" $section) false }}
+          <li class="font-bold text-black mb-6">
+            <a href="/">
+              Sebastian De Deyne
+            </a>
+          </li>
           <li class="{{ cond $isBlog "text-gray-900 dark:text-gray-300" "" }}">
             <a href="/posts">Blog</a>
           </li>
+          <li><a href="/archive">Archive</a></li>
           <li class="{{ cond (eq $section "newsletter") "text-gray-900 dark:text-gray-300" "" }}">
             <a href="/newsletter">Newsletter</a>
           </li>
-          <li><a href="https://twitter.com/sebdedeyne" rel="me">Twitter</a></li>
+          <li class="mt-3"><a href="/about">About</a></li>
+          <li><a href="/now">Now</a></li>
+          <li class="mt-3"><a href="https://twitter.com/sebdedeyne" rel="me">Twitter</a></li>
+          <li><a href="/index.xml">RSS</a></li>
         </ul>
       </nav>
-    </header>
-
-    <main class="flex-1 w-full max-w-xl mx-auto px-6 sm:px-12 lg:px-16">
-      {{ block "main" . }}{{ end }}
-    </main>
-
-    <footer class="px-6 sm:px-12 lg:px-16 py-6 text-xs flex flex-col items-center markup-links text-gray-700 dark:text-gray-600">
-      <ul class="flex flex-wrap space-x-3">
-        <li><a href="/about">About</a></li>
-        <li><a href="/archive">Archive</a></li>
-        <li><a href="/open-source">Open source</a></li>
-        <li><a href="/speaking">Speaking</a></li>
-        <li><a href="/now">What I'm up to now</a></li>
-        <li>•</li>
-        <li><a href="/index.xml">RSS</a></li>
-      </ul>
-      <p class="mt-2">This site is built with <a href="https://gohugo.io/">Hugo</a> and hosted on <a href="https://netlify.com/">Netlify</a>. You can inspect source on <a href="https://github.com/sebastiandedeyne/sebastiandedeyne.com">GitHub</a>.</p>
-    </footer>
+      <main class="flex-1">
+        {{ block "main" . }}{{ end }}
+      </main>
+    </div>
 
     {{ with resources.Get "css/chroma.css" | minify }}
       <style>{{ .Content | safeCSS }}</style>
