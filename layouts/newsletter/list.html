@@ -1,7 +1,6 @@
 {{ define "main" }}
-<h1 class="h1">Newsletter</h1>
-
 <section class="markup">
+  <h1>Newsletter</h1>
   <p>
     I occasionally send out a newsletter with personal stories, things I’ve been
     working on in the past month, and interesting things I come across.
@@ -15,24 +14,16 @@
     You can also subscribe via <a href="/newsletter/index.xml">RSS</a>. The feed
     generally gets updated within a week of sending the newsletter.
   </p>
-</section>
-
-<hr />
-
-<section class="pb-12 sm:pb-24">
-  <h2 class="h2 mb-8">Previous editions</h2>
-
+  <h2>Previous editions</h2>
   {{ range (where $.Site.RegularPages "Section" "newsletter") }}
-  <ul>
-    <li class="mb-6">
-      <p class="font-bold">
-        <a href="{{ .RelPermalink }}"> {{ .Title }} </a>
-      </p>
-      <p class="text-sm text-gray-700 dark:text-gray-600 markup">
+    <dl>
+      <dt>
+        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+      </dt>
+      <dd>
         {{ .Date.Format "January 2, 2006" }}
-      </p>
-    </li>
-  </ul>
+      </dd>
+    </dl>
   {{ end }}
 </section>
 {{ end }}

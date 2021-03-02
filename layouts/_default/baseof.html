@@ -24,7 +24,10 @@
     <link rel="pingback" href="https://webmention.io/sebastiandedeyne.com/xmlrpc" />
 
     <link rel="stylesheet" href="https://rsms.me/inter/inter.css">
-    {{ with resources.Get "css/site.css" | resources.PostCSS | minify }}
+    {{ with resources.Get "css/reset.css" | minify }}
+      <style>{{ .Content | safeCSS }}</style>
+    {{ end }}
+    {{ with resources.Get "css/site.css" | minify }}
       <style>{{ .Content | safeCSS }}</style>
     {{ end }}
 
@@ -39,45 +42,43 @@
     {{ end }}
   </head>
 
-  <body class="font-sans leading-relaxed text-gray-900 dark:text-gray-300 dark:bg-gray-900 min-h-screen flex flex-col">
-    <div class="w-full max-w-4xl mx-auto px-6 sm:px-12 lg:px-16">
-      {{ block "cover" . }}{{ end }}
-      <div class="md:flex pt-8 md:pt-16">
-        <div>
-          <header class="font-bold text-black mb-2 md:mb-0 whitespace-no-wrap">
-            <a href="/">
-              Sebastian De Deyne
-            </a>
-          </header>
-          <nav class="pr-24 flex md:block items-start text-gray-700 dark:text-gray-600 md:w-64 space-x-8 md:space-x-0 md:space-y-3">
-            <ul>
-              {{ $section := index (split .RelPermalink "/") 1 }}
-              {{ $isBlog := eq (in "speaking open-source newsletter about" $section) false }}
-              <li class="{{ cond $isBlog "text-gray-900 dark:text-gray-300" "" }}">
-                <a href="/posts">Blog</a>
-              </li>
-              <li><a href="/archive">Archive</a></li>
-              <li class="{{ cond (eq $section "newsletter") "text-gray-900 dark:text-gray-300" "" }}">
-                <a href="/newsletter">Newsletter</a>
-              </li>
-            </ul>
-            <ul>
-              <li><a href="/about">About</a></li>
-              <li><a href="/now">Now</a></li>
-            </ul>
-            <ul>
-              <li><a href="https://twitter.com/sebdedeyne" rel="me">Twitter</a></li>
-              <li><a href="/index.xml">RSS</a></li>
-            </ul>
-            {{ if ne .RelPermalink "/" }}
-              {{ partial "ad" }}
-            {{ end }}
-          </nav>
-        </div>
-        <main class="flex-1 mt-8 md:mt-0 pb-16">
-          {{ block "main" . }}{{ end }}
-        </main>
-      </div>
+  <body>
+    {{ block "cover" . }}{{ end }}
+    <div class="layout wrapper">
+      <nav class="sidebar">
+        <header>
+          <a href="/">Sebastian De Deyne</a>
+        </header>
+        <ul>
+          {{ $section := index (split .RelPermalink "/") 1 }}
+          {{ $isBlog := eq (in "speaking open-source newsletter archive about now" $section) false }}
+          <li class="{{ cond $isBlog "active" "" }}">
+            <a href="/posts">Blog</a>
+          </li>
+          <li class="{{ cond (eq $section "newsletter") "active" "" }}">
+            <a href="/newsletter">Newsletter</a>
+          </li>
+          <!-- <li class="{{ cond (eq $section "now") "active" "" }}">
+            <a href="/now">Now</a>
+          </li> -->
+          <li class="{{ cond (eq $section "about") "active" "" }}">
+            <a href="/about">About</a>
+          </li>
+          <!-- <li class="{{ cond (eq $section "archive") "active" "" }}">
+            <a href="/archive">Archive</a>
+          </li> -->
+        </ul>
+        <ul>
+          <li><a href="https://twitter.com/sebdedeyne" rel="me">Twitter</a></li>
+          <li><a href="/index.xml">RSS</a></li>
+        </ul>
+        {{ if ne .RelPermalink "/" }}
+          <script async type="text/javascript" src="//cdn.carbonads.com/carbon.js?serve=CE7DC2QJ&placement=sebastiandedeynecom" id="_carbonads_js"></script>
+        {{ end }}
+      </nav>
+      <main class="flex-1 mt-8 md:mt-0 pb-16">
+        {{ block "main" . }}{{ end }}
+      </main>
     </div>
 
     {{ with resources.Get "css/chroma.css" | minify }}

@@ -1,13 +1,13 @@
 {{ define "main" }}
 
-<article>
+<article class="post">
   <header>
-    <h1 class="h1 mb-1">
+    <h1>
       <a href="{{ .RelPermalink }}">
         {{ .Title }}
       </a>
     </h1>
-    <p class="text-sm text-gray-700 dark:text-gray-600 mb-8">
+    <p>
         <a href="{{ .RelPermalink }}">
           <time datetime="{{ .Date.Format "2006-01-02" }}">
             {{ .Date.Format "January 2, 2006" }}
@@ -15,18 +15,11 @@
         </a>
     </p>
   </header>
-  <section>
-    <div class="mb-8">
-      {{ partial "ad" }}
-    </div>
-    <div class="markup">
-      {{ .Content }}
-    </div>
+  <section class="markup">
+    {{ .Content }}
   </section>
 </article>
-
 <hr>
-
 <section class="markup">
   <h2>Subscribe</h2>
   <p>

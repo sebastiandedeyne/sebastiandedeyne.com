@@ -1,20 +1,20 @@
 {{ $post := .post }}
 <header>
   {{ if eq .heading "h1" }}
-    <h1 class="font-bold">
+    <h1>
       <a href="{{ $post.RelPermalink }}">
         {{ $post.Title }}
       </a>
     </h1>
   {{ end }}
   {{ if eq .heading "h2" }}
-    <h2 class="font-bold">
+    <h2>
       <a href="{{ $post.RelPermalink }}">
         {{ $post.Title }}
       </a>
     </h2>
   {{ end }}
-  <p class="text-gray-700 dark:text-gray-600 mb-6">
+  <p>
       <a href="{{ $post.RelPermalink }}">
         <time datetime="{{ $post.Date.Format "2006-01-02" }}">
           {{ $post.Date.Format "January 2, 2006" }}
@@ -24,7 +24,7 @@
           | {{ cond (lt $readingtime 1) 1 $readingtime }} min read
         {{ end }}
         {{ with $post.Params.link }}
-          | on <a href="{{ . }}" class="link">{{ (urls.Parse .).Host }}</a>
+          | on <a href="{{ . }}">{{ (urls.Parse .).Host }}</a>
         {{ end }}
         {{ if $post.Params.series }}
           {{ with $series := index .all_series $post.Params.series }}
