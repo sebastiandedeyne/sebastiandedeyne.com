@@ -12,6 +12,8 @@ I rediscovered jq the other day, a little command line tool to format, read, and
 
 Jq falls into one of my favorite categories of tools: the "simple and do one thing good" category—the [Unix philosophy](https://en.wikipedia.org/wiki/Unix_philosophy) at its finest.
 
+<!--more-->
+
 Pipe any JSON to `jq`. The first thing you'll notice is the added syntax highlighting.
 
 ![A curl request to the GitHub API](/media/jq-before.jpg)
@@ -26,4 +28,4 @@ The path syntax supports arrays and deeply nested objects, and can even map data
 
 ![Transforming a JSON object with jq's path syntax](/media/jq-pipe.jpg)
 
-Installing jq on a Mac is as easy as `brew install jq`. Read the [docs](https://stedolan.github.io/jq/) for further instructions and a detailed explanation of the path syntax. 
+Installing jq on a Mac is as easy as `brew install jq`. Read the [docs](https://stedolan.github.io/jq/) for further instructions and a detailed explanation of the path syntax.
