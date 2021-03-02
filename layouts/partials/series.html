@@ -1,9 +1,9 @@
-<section class="bg-gray-900 dark:bg-gray-800 text-white leading-snug p-12 mt-12">
-  <p class="font-bold mb-1 text-lg">{{ .series.title }}</p>
-  <div class="markup markup-series | mb-12">
+<section class="series">
+  <header>{{ .series.title }}</header>
+  <div class="markup markup-series">
     {{ .series.description | markdownify }}
   </div>
-  <ol class="series-list">
+  <ol>
     {{ range .series.posts }}
         {{ if .slug }}
           {{ if eq .slug $.currentSlug }}
@@ -12,7 +12,7 @@
             <li><a href="{{ .slug | relURL }}">{{ .title }}</a></li>
           {{ end }}
         {{ else }}
-          <li class="text-gray-700 dark:text-gray-600"><span>{{ .title }}</span></li>
+          <li><span>{{ .title }}</span></li>
         {{ end }}
     {{ end }}
   </ol>

@@ -2,11 +2,9 @@
   {{ $paginator := .Paginate (where $.Site.RegularPages "Section" "posts") }}
 
   {{ range $paginator.Pages }}
-    <article>
+    <article class="post">
       {{ with .Params.cover }}
-        <div class="mb-8">
-          <img class="w-full" src="/media/{{ . }}">
-        </div>
+        <img class="post-cover" src="/media/{{ . }}">
       {{ end }}
       {{ partial "post-header.html" (dict "post" . "heading" "h2" "all_series" $.Site.Data.series) }}
       <section class="markup">

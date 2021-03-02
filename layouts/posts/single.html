@@ -28,12 +28,14 @@
 
 {{ define "cover" }}
   {{ with .Params.cover }}
-    <img class="block w-full" src="/media/{{ . }}">
+    <div class="cover wrapper">
+      <img src="/media/{{ . }}">
+    </div>
   {{ end }}
 {{ end }}
 
 {{ define "main" }}
-  <article>
+  <article class="post">
     {{ partial "post-header.html" (dict "post" . "heading" "h1" "all_series" $.Site.Data.series) }}
     <section>
       {{ if .Truncated }}
@@ -41,8 +43,8 @@
           {{ .Summary }}
         </div>
         {{ if .Params.toc }}
-          <aside class="toc bg-gray-900 dark:bg-gray-800 text-white text-sm p-12 mt-6">
-            <h2 class="font-bold mb-2 text-lg">Table of contents</h2>
+          <aside class="toc">
+            <h2>Table of contents</h2>
             {{ .TableOfContents }}
           </aside>
         {{ end }}
@@ -63,7 +65,6 @@
       {{ end }}
     {{ end }}
   </article>
-
   <hr>
   <section class="markup">
     <h2>Subscribe</h2>
@@ -78,73 +79,27 @@
   {{ $keywords := .Keywords }}
   {{ with $related }}
     <hr>
-    <section>
-      <h2 class="h2 mt-6 mb-8">
+    <section class="markup">
+      <h2>
         More about {{ delimit $keywords ", " " & " }}
       </h2>
-      <ul>
+      <dl>
         {{ range . }}
-          <li class="mb-6">
-            <p class="font-bold leading-snug">
-              <a href="{{ .RelPermalink }}">
-                {{ .Title }}
-              </a>
-            </p>
-            <p class="text-sm text-gray-700">
+          <dt>
+            <a href="{{ .RelPermalink }}">
+              {{ .Title }}
+            </a>
+          </dt>
+          <dd>
               <a href="{{ .RelPermalink }}">
                 <time datetime="{{ .Date.Format "2006-01-02" }}">
                   {{ .Date.Format "January 2, 2006" }}
                 </time>
               </a>
             </p>
-          </li>
+          </dd>
         {{ end }}
       </ul>
     </section>
-  {{ end }}
-
-  {{ with index $.Site.Data.webmentions (replace (trim .RelPermalink "/") "/" "--") }}
-    {{ with where . "wm-property" "in" (slice "in-reply-to" "mention-of") }}
-      <hr>
-      <h2 class="h2 mt-6">
-        Webmentions
-        <a
-          href="https://sebastiandedeyne.com/adding-webmentions-to-my-blog"
-          class="ml-2 font-normal text-gray-700 dark:text-gray-500 text-xs w-4 h-4 inline-flex items-center justify-center bg-gray-200 dark:bg-gray-800 rounded-full font-bold"
-          style="transform: translateY(-2px)"
-        >
-          ?
-        </a>
-      </h2>
-      <div class="pb-12 sm:pb-24">
-        <ul class="mt-8 space-y-8">
-          {{ range . }}
-            {{ $reply := . }}
-            <li>
-              <p class="mb-1">
-                <a href="{{ $reply.author.url }}">
-                  <img
-                    src="{{ $reply.author.photo }}"
-                    alt="Photo of {{ $reply.author.name }}"
-                    class="inline-block w-8 h-8 object-cover rounded-full mr-1 mb-1 border"
-                  />
-                  <span class="font-bold">{{ $reply.author.name }}</span>
-                </a>
-                <a href="{{ $reply.url }}" class="text-gray-700 text-sm ml-1">
-                  {{ (index $reply "wm-received") | replaceRE "^([^T]+)T([^Z]+):[0-9][0-9]Z" "$1 $2" }}
-                </a>
-              </p>
-              <div class="markup">
-                {{ if $reply.content.html }}
-                  {{ safeHTML $reply.content.html }}
-                {{ else }}
-                  {{ $reply.content.text }}
-                {{ end }}
-              </div>
-            </li>
-          {{ end }}
-        </ul>
-      </div>
-    {{ end }}
   {{ end }}
 {{ end }}
