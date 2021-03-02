@@ -1,0 +1,154 @@
+[
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Koen Van den Wijngaert",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/25eb86bf7cf75235827b8a5f48493280012d7abfaf2ae1119fe4e6b1995a9b25.jpg",
+      "url": "https://twitter.com/vdwijngaert"
+    },
+    "url": "https://twitter.com/vdwijngaert/status/1366675733620400131",
+    "published": "2021-03-02T09:04:21+00:00",
+    "wm-received": "2021-03-02T09:29:41Z",
+    "wm-id": 1053622,
+    "wm-source": "https://brid.gy/comment/twitter/sebdedeyne/1366675125844795392/1366675733620400131",
+    "wm-target": "https://sebastiandedeyne.com/twitter-break/",
+    "content": {
+      "html": "Welcome back! :)\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/sebdedeyne\"></a>",
+      "text": "Welcome back! :)"
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/twitter-break/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Stefan Bauer",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/78b2190e94eb28cab02d6d26cde10e1c5bc6dd7fd544876afda443572069f642.jpg",
+      "url": "https://twitter.com/stefanbauerme"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1366675125844795392#favorited-by-270319969",
+    "published": null,
+    "wm-received": "2021-03-02T09:29:41Z",
+    "wm-id": 1053623,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1366675125844795392/270319969",
+    "wm-target": "https://sebastiandedeyne.com/twitter-break/",
+    "like-of": "https://sebastiandedeyne.com/twitter-break/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Stefan Bauer",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/78b2190e94eb28cab02d6d26cde10e1c5bc6dd7fd544876afda443572069f642.jpg",
+      "url": "https://twitter.com/stefanbauerme"
+    },
+    "url": "https://twitter.com/stefanbauerme/status/1366680109009293312",
+    "published": "2021-03-02T09:21:44+00:00",
+    "wm-received": "2021-03-02T09:30:15Z",
+    "wm-id": 1053624,
+    "wm-source": "https://brid.gy/comment/twitter/sebdedeyne/1366675125844795392/1366680109009293312",
+    "wm-target": "https://sebastiandedeyne.com/twitter-break/",
+    "content": {
+      "html": "Welcome back, Sebastian! Had wondered where you are :)\n\nI hear you. I regularly clean up my follows to have a clean and focused stream, even if some feel slighted by it. But it's not meant in a bad way. In the end, it's all about focus and distraction.\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/sebdedeyne\"></a>",
+      "text": "Welcome back, Sebastian! Had wondered where you are :)\n\nI hear you. I regularly clean up my follows to have a clean and focused stream, even if some feel slighted by it. But it's not meant in a bad way. In the end, it's all about focus and distraction."
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/twitter-break/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Ruslan",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/6114334d09745c23c21d748a3ffb0e5f0972472d77df8a83d2914859cbd3b5fd.jpg",
+      "url": "https://twitter.com/SuddenlyRust"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1366675125844795392#favorited-by-935107835045842944",
+    "published": null,
+    "wm-received": "2021-03-02T10:17:08Z",
+    "wm-id": 1053664,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1366675125844795392/935107835045842944",
+    "wm-target": "https://sebastiandedeyne.com/twitter-break/",
+    "like-of": "https://sebastiandedeyne.com/twitter-break/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "𝗠𝘆𝗿𝗼𝘀𝗹𝗮𝘃 2.0 🇺🇦",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/e86cd6b586934719e46ca6097ef0cdaa492cdca7193fac37adba8acf10b1e41f.jpg",
+      "url": "https://twitter.com/myroslavco"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1366675125844795392#favorited-by-252151360",
+    "published": null,
+    "wm-received": "2021-03-02T10:17:10Z",
+    "wm-id": 1053665,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1366675125844795392/252151360",
+    "wm-target": "https://sebastiandedeyne.com/twitter-break/",
+    "like-of": "https://sebastiandedeyne.com/twitter-break/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "João Alves",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/013a095ecebca44addda9154e60ad814be9d2246398874390663b750f3a3b1bf.jpg",
+      "url": "https://twitter.com/JohnnyBig0des"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1366675125844795392#favorited-by-152972409",
+    "published": null,
+    "wm-received": "2021-03-02T11:06:36Z",
+    "wm-id": 1053709,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1366675125844795392/152972409",
+    "wm-target": "https://sebastiandedeyne.com/twitter-break/",
+    "like-of": "https://sebastiandedeyne.com/twitter-break/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Kenneth Schabrechts",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/022aac685e4129d091f662937f15b55f24d557164413cf53f74d1e00f8d25cd0.jpg",
+      "url": "https://twitter.com/schabrechtsk"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1366675125844795392#favorited-by-986701140967510017",
+    "published": null,
+    "wm-received": "2021-03-02T11:06:37Z",
+    "wm-id": 1053710,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1366675125844795392/986701140967510017",
+    "wm-target": "https://sebastiandedeyne.com/twitter-break/",
+    "like-of": "https://sebastiandedeyne.com/twitter-break/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Sebastian Schöps",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/aa9baf2e453295010d0873630dac6b806da918df405094ffd935877198537ff6.jpg",
+      "url": "https://twitter.com/ZapSeb"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1366675125844795392#favorited-by-411818731",
+    "published": null,
+    "wm-received": "2021-03-02T12:01:09Z",
+    "wm-id": 1053757,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1366675125844795392/411818731",
+    "wm-target": "https://sebastiandedeyne.com/twitter-break/",
+    "like-of": "https://sebastiandedeyne.com/twitter-break/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+]
