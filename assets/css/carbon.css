@@ -1,5 +1,5 @@
 #carbonads {
-  @apply p-4 bg-yellow-100 border border-yellow-300 text-xs text-gray-700 leading-snug mx-auto my-10 max-w-sm;
+  @apply text-xs text-gray-700 leading-snug mx-auto mt-48 max-w-sm;
 }
 
 @screen dark {
@@ -8,36 +8,12 @@
   }
 }
 
-#carbonads > span {
-  display: grid;
-  grid-gap: 0.5rem;
-  grid-template-areas:
-    "img"
-    "text"
-    "poweredby";
+#carbonads .carbon-text {
+  display: block;
+  margin-top: 0.5rem;
 }
 
-@screen sm {
-  #carbonads > span {
-    grid-gap: 1rem;
-    grid-template-areas:
-      "img text"
-      "img poweredby";
-  }
-}
-
-.carbon-img {
-  grid-area: img;
-}
-
-.carbon-text {
-  grid-area: text;
-}
-
-.carbon-poweredby {
-  grid-area: poweredby;
-}
-
-.carbon-wrap {
-  display: contents;
+#carbonads .carbon-poweredby {
+  display: block;
+  margin-top: 0.25rem;
 }

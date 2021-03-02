@@ -39,16 +39,13 @@ hr {
 
 .h1,
 .markup h1 {
-  font-size: theme("fontSize.2xl");
-  font-weight: bold;
-  line-height: theme("lineHeight.tight");
+  font-weight: theme("fontWeight.bold");
   margin-bottom: 3rem;
 }
 
 .h2,
 .markup h2 {
-  font-size: theme("fontSize.xl");
-  font-weight: bold;
+  font-weight: theme("fontWeight.bold");
   line-height: theme("lineHeight.tight");
   margin-top: 3rem;
   margin-bottom: 2rem;
@@ -56,9 +53,12 @@ hr {
 
 .h3,
 .markup h3 {
-  font-weight: bold;
+  color: theme("colors.gray.700");
+  font-size: theme("fontSize.sm");
+  font-weight: theme("fontWeight.bold");
   line-height: theme("lineHeight.tight");
   margin-top: 3rem;
+  text-transform: uppercase;
 }
 
 .link,
@@ -85,7 +85,7 @@ hr {
 }
 
 .markup strong {
-  font-weight: bold;
+  font-weight: theme("fontWeight.bold");
 }
 
 .markup ul {
@@ -100,17 +100,10 @@ hr {
 
 .markup img {
   display: block;
-  min-width: calc(100% + 3rem);
-}
-
-@media (min-width: theme("screens.sm")) {
-  .markup img {
-    min-width: calc(100% + 6rem);
-  }
+  max-width: 100%;
 }
 
 .markup img.centered {
-  min-width: 100%;
   margin-left: auto;
   margin-right: auto;
 }
@@ -137,19 +130,14 @@ hr {
 }
 
 .markup blockquote {
-  padding: 1rem 1.5rem;
+  padding: 1.5rem;
   background-color: theme("colors.gray.100");
+  border-left: 1px solid theme("colors.gray.300");
 }
 
 @media (prefers-color-scheme: dark) {
   .markup blockquote {
     background-color: theme("colors.gray.800");
-  }
-}
-
-@media (min-width: theme("screens.sm")) {
-  .markup blockquote {
-    padding: 2rem 3rem;
   }
 }
 
@@ -238,7 +226,7 @@ hr {
 
 @media (min-width: theme("screens.sm")) {
   .markup .highlight pre {
-    padding: 3rem;
+    padding: 1.5rem;
   }
 }
 
@@ -267,8 +255,8 @@ hr {
 }
 
 .markup-series {
-  color: theme("colors.gray.400");
-  font-size: theme("fontSize.xs");
+  color: theme("colors.gray.300");
+  font-size: theme("fontSize.sm");
 }
 
 .markup-series > *:not(:last-child) {
