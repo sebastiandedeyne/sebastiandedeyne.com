@@ -1,19 +1,22 @@
 {{ define "main" }}
   <article>
-    <p class="font-bold text-2xl">Sebastian De Deyne</p>
-    <p class="text-sm text-gray-700 dark:text-gray-600">(or just Seb)</p>
-    <p class="mt-6">Designer and full-stack developer from Ghent, Belgium.</p>
-    <hr class="md:mt-20 mb-8 w-1/4">
-    <p>I write and share links about programming, JavaScript, Inertia.js, Laravel, and more. Here's a selection of my favorite posts over the years:</p>
-    <ul class="mt-6 mb-16 space-y-4">
+    <div class="markup">
+      <p>I'm a designer and full-stack developer from Ghent, Belgium.</p>
+      <p>I write and share links about programming, JavaScript, Inertia.js, Laravel, and more. Here's a selection of my favorite posts over the years:</p>
+    </div>
+    <style>
+      .list-arrows li { position: relative; padding-left: 1.75rem; }
+      .list-arrows li:before { content: '→ '; position: absolute; left: 0 }
+    </style>
+    <ul class="list-arrows mt-6 mb-16 space-y-4">
       <li>
         <p class="font-semibold">
           <a href="/effective-task-management-with-things">
             Effective task management with Things
           </a>
         </p>
-        <p class="text-sm text-gray-700 dark:text-gray-600">
-          How I use Things on daily basis, and how I think about task management in general
+        <p>
+          How I use Things on daily basis, and how I think about task management in general.
         </p>
       </li>
       <li>
@@ -22,8 +25,8 @@
             JavaScript Framework Diet
           </a>
         </p>
-        <p class="text-sm text-gray-700 dark:text-gray-600">
-          A series on building common functionality with vanilla JS
+        <p>
+          A series on building common functionality with vanilla JS.
         </p>
       </li>
       <li>
@@ -32,8 +35,8 @@
             Strawberry jelly
           </a>
         </p>
-        <p class="text-sm text-gray-700 dark:text-gray-600">
-          Tradeoffs we make with external dependencies
+        <p>
+          Tradeoffs we make with external dependencies.
         </p>
       </li>
       <li>
@@ -42,8 +45,8 @@
             Shop built jigs
           </a>
         </p>
-        <p class="text-sm text-gray-700 dark:text-gray-600">
-          Don't be afraid to build and maintain something yourself
+        <p>
+          Don't be afraid to build and maintain something yourself.
         </p>
       </li>
       <li>
@@ -52,8 +55,8 @@
             React for Vue developers
           </a>
         </p>
-        <p class="text-sm text-gray-700 dark:text-gray-600">
-          How to React when you're coming from Vue
+        <p>
+          How to React when you're coming from Vue.
         </p>
       </li>
       <li>
@@ -62,8 +65,8 @@
             Forget about component lifecycles and start thinking in effects
           </a>
         </p>
-        <p class="text-sm text-gray-700 dark:text-gray-600">
-          All about React's useEffect
+        <p>
+          All about React's useEffect.
         </p>
       </li>
     </ul>
