@@ -46,7 +46,7 @@
     {{ block "cover" . }}{{ end }}
     <div class="layout wrapper">
       <nav class="sidebar">
-        <header>
+        <header {{ if eq .RelPermalink "/" }}class="active"{{ end }}>
           <a href="/">Sebastian De Deyne</a>
         </header>
         <ul>
