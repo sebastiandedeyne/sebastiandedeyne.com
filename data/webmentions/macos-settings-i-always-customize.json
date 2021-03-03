@@ -468,5 +468,41 @@
     "like-of": "https://sebastiandedeyne.com/macos-settings-i-always-customize/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Jason McCreary",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/1ead3fa43bb15e536f1bf349167875c10bf2c20e9db6cffbb15af9bab0c6f245.jpg",
+      "url": "https://twitter.com/gonedark"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1367033435940880385#favorited-by-10938952",
+    "published": null,
+    "wm-received": "2021-03-03T12:52:39Z",
+    "wm-id": 1055163,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1367033435940880385/10938952",
+    "wm-target": "https://sebastiandedeyne.com/macos-settings-i-always-customize/",
+    "like-of": "https://sebastiandedeyne.com/macos-settings-i-always-customize/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Flamur Mavraj",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/832bd3a8f8a784c798300537cdb62973e4b88ddd2e6d7f7747b79edb9a17b0d0.jpg",
+      "url": "https://twitter.com/oxodesign"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1367033435940880385#favorited-by-14636348",
+    "published": null,
+    "wm-received": "2021-03-03T17:28:09Z",
+    "wm-id": 1055344,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1367033435940880385/14636348",
+    "wm-target": "https://sebastiandedeyne.com/macos-settings-i-always-customize/",
+    "like-of": "https://sebastiandedeyne.com/macos-settings-i-always-customize/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
