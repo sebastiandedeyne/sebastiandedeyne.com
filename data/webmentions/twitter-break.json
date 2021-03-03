@@ -402,5 +402,23 @@
     "like-of": "https://sebastiandedeyne.com/twitter-break/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "/dev/faisal",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/387f8e85a454c121be31108e64717194e7c5a7835103e7868cf552e62bf5ba64.jpg",
+      "url": "https://twitter.com/Faisal50x"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1366675125844795392#favorited-by-2916854836",
+    "published": null,
+    "wm-received": "2021-03-03T05:22:16Z",
+    "wm-id": 1054823,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1366675125844795392/2916854836",
+    "wm-target": "https://sebastiandedeyne.com/twitter-break/",
+    "like-of": "https://sebastiandedeyne.com/twitter-break/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
