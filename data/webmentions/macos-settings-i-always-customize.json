@@ -633,5 +633,23 @@
     "like-of": "https://sebastiandedeyne.com/macos-settings-i-always-customize/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": ".",
+      "photo": "https://webmention.io/avatar/abs.twimg.com/0e6b2cd70aa5b35dec24ca4e1e63f8963f0118736d9ec3bba77e3a8c99a27bc2.png",
+      "url": "https://twitter.com/panda_rocks2020"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1367033435940880385#favorited-by-1107183556139192320",
+    "published": null,
+    "wm-received": "2021-03-04T01:03:52Z",
+    "wm-id": 1055716,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1367033435940880385/1107183556139192320",
+    "wm-target": "https://sebastiandedeyne.com/macos-settings-i-always-customize/",
+    "like-of": "https://sebastiandedeyne.com/macos-settings-i-always-customize/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
