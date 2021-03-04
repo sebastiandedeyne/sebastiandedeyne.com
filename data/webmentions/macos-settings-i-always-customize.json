@@ -504,5 +504,134 @@
     "like-of": "https://sebastiandedeyne.com/macos-settings-i-always-customize/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Cepi 🇲🇨",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/d6f4434bfedc4aeb0d0eeb234d7f80b27ca9c20024f096f62faf0deb15ba1f9e.jpg",
+      "url": "https://twitter.com/cepideh"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1367033435940880385#favorited-by-84235456",
+    "published": null,
+    "wm-received": "2021-03-03T18:42:40Z",
+    "wm-id": 1055439,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1367033435940880385/84235456",
+    "wm-target": "https://sebastiandedeyne.com/macos-settings-i-always-customize/",
+    "like-of": "https://sebastiandedeyne.com/macos-settings-i-always-customize/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "José Cage",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/8de62c528d88bef4bccb55da030112ae95d99c62fd1e883f6c4dc320c0d599e6.jpg",
+      "url": "https://twitter.com/cagejose"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1367033435940880385#favorited-by-944899327",
+    "published": null,
+    "wm-received": "2021-03-03T20:36:49Z",
+    "wm-id": 1055538,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1367033435940880385/944899327",
+    "wm-target": "https://sebastiandedeyne.com/macos-settings-i-always-customize/",
+    "like-of": "https://sebastiandedeyne.com/macos-settings-i-always-customize/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "mjczz1",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/444b54918a62d22c9e929ef39dff43941595fa13754670451c0b18090a972615.jpg",
+      "url": "https://twitter.com/mjczz1"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1367033435940880385#favorited-by-1120192550168514561",
+    "published": null,
+    "wm-received": "2021-03-03T21:30:29Z",
+    "wm-id": 1055558,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1367033435940880385/1120192550168514561",
+    "wm-target": "https://sebastiandedeyne.com/macos-settings-i-always-customize/",
+    "like-of": "https://sebastiandedeyne.com/macos-settings-i-always-customize/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "mjczz1",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/444b54918a62d22c9e929ef39dff43941595fa13754670451c0b18090a972615.jpg",
+      "url": "https://twitter.com/mjczz1"
+    },
+    "url": "https://twitter.com/mjczz1/status/1367224306309099522",
+    "published": "2021-03-03T21:24:11+00:00",
+    "wm-received": "2021-03-03T21:30:30Z",
+    "wm-id": 1055559,
+    "wm-source": "https://brid.gy/repost/twitter/sebdedeyne/1367033435940880385/1367224306309099522",
+    "wm-target": "https://sebastiandedeyne.com/macos-settings-i-always-customize/",
+    "content": {
+      "text": "✒️ New post! Whenever I set up a a Mac, there are a few preferences I need to tweak to make it feel like \"mine\". Here are the most important"
+    },
+    "repost-of": "https://sebastiandedeyne.com/macos-settings-i-always-customize/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Максим Купров",
+      "photo": "https://webmention.io/avatar/abs.twimg.com/0e6b2cd70aa5b35dec24ca4e1e63f8963f0118736d9ec3bba77e3a8c99a27bc2.png",
+      "url": "https://twitter.com/35RSrVqkOLHHZAj"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1367033435940880385#favorited-by-1356691102967947264",
+    "published": null,
+    "wm-received": "2021-03-03T21:31:03Z",
+    "wm-id": 1055560,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1367033435940880385/1356691102967947264",
+    "wm-target": "https://sebastiandedeyne.com/macos-settings-i-always-customize/",
+    "like-of": "https://sebastiandedeyne.com/macos-settings-i-always-customize/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Xavier Roussel",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/27394bb5261571335ebd0a7beb0c631d6996370f5bbe9373593bb10c0c40cb57.jpg",
+      "url": "https://twitter.com/XavRsl"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1367033435940880385#favorited-by-17775094",
+    "published": null,
+    "wm-received": "2021-03-03T23:17:50Z",
+    "wm-id": 1055631,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1367033435940880385/17775094",
+    "wm-target": "https://sebastiandedeyne.com/macos-settings-i-always-customize/",
+    "like-of": "https://sebastiandedeyne.com/macos-settings-i-always-customize/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Kevin Morris",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/4d86515db000da5e8ef30c450989b90a7a5bff4cd1a0c3532a39dc05207efd16.png",
+      "url": "https://twitter.com/kevinmorris"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1367033435940880385#favorited-by-5371112",
+    "published": null,
+    "wm-received": "2021-03-04T00:13:19Z",
+    "wm-id": 1055652,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1367033435940880385/5371112",
+    "wm-target": "https://sebastiandedeyne.com/macos-settings-i-always-customize/",
+    "like-of": "https://sebastiandedeyne.com/macos-settings-i-always-customize/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
