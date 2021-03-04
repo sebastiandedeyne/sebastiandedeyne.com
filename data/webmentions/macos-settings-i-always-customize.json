@@ -651,5 +651,23 @@
     "like-of": "https://sebastiandedeyne.com/macos-settings-i-always-customize/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Stefan Göllner",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/18d92fb9bcc9bacf76316beeb3a9a1ab26f670939c7a29fb3b4367f2857a3dd3.jpg",
+      "url": "https://twitter.com/goellner"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1367033435940880385#favorited-by-18454834",
+    "published": null,
+    "wm-received": "2021-03-04T07:27:26Z",
+    "wm-id": 1055914,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1367033435940880385/18454834",
+    "wm-target": "https://sebastiandedeyne.com/macos-settings-i-always-customize/",
+    "like-of": "https://sebastiandedeyne.com/macos-settings-i-always-customize/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
