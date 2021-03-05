@@ -1,57 +1,34 @@
 {{ define "main" }}
-  <article>
-    <div class="markup">
-      <p>I'm a designer and full-stack developer from Ghent, Belgium.</p>
-      <p>I write and share links about programming, JavaScript, Inertia.js, Laravel, and more. Here's a selection of my favorite posts over the years:</p>
-      <dl>
-        <dt>
-          <a href="/effective-task-management-with-things">
-            Effective task management with Things
-          </a>
-        <dd>
-          How I use Things on daily basis, and how I think about task management in general.
-        </dd>
-        <dt>
-          <a href="/javascript-framework-diet">
-            JavaScript Framework Diet
-          </a>
-        </dt>
-        <dd>
-          A series on building common functionality with vanilla JS.
-        </dd>
-        <dt>
-          <a href="/strawberry-jelly">
-            Strawberry jelly
-          </a>
-        </dt>
-        <dd>
-          Tradeoffs we make with external dependencies.
-        </dd>
-        <dt>
-          <a href="/shop-built-jigs">
-            Shop built jigs
-          </a>
-        </dt>
-        <dd>
-          Don't be afraid to build and maintain something yourself.
-        </dd>
-        <dt>
-          <a href="/react-for-vue-developers">
-            React for Vue developers
-          </a>
-        </dt>
-        <dd>
-          How to React when you're coming from Vue.
-        </dd>
-        <dt>
-          <a href="/forget-about-component-lifecycles-and-start-thinking-in-effects">
-            Forget about component lifecycles and start thinking in effects
-          </a>
-        </dt>
-        <dd>
-          All about React's useEffect.
-        </dd>
-      </dl>
-    </div>
-  </article>
+  {{ $paginator := .Paginate (where $.Site.RegularPages "Section" "posts") }}
+
+  {{ range $paginator.Pages }}
+    <article class="post">
+      {{ with .Params.cover }}
+        <img class="post-cover" src="/media/{{ . }}">
+      {{ end }}
+      {{ partial "post-header.html" (dict "post" . "heading" "h2" "all_series" $.Site.Data.series) }}
+      <section class="markup">
+        {{ if .Truncated }}
+          {{ .Summary }}
+          <p>
+            <a href="{{ .RelPermalink }}">
+              Read more
+            </a>
+          </p>
+        {{ else if .Params.summary }}
+          {{ .Params.summary | markdownify }}
+          <p>
+            <a href="{{ .RelPermalink }}">
+              Read more
+            </a>
+          </p>
+        {{ else }}
+          {{ .Content }}
+        {{ end }}
+      </section>
+    </article>
+    <hr>
+  {{ end }}
+
+  {{ template "_internal/pagination.html" . }}
 {{ end }}

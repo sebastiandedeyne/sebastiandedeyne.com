@@ -46,27 +46,21 @@
     {{ block "cover" . }}{{ end }}
     <div class="layout wrapper">
       <nav class="sidebar">
-        <header {{ if eq .RelPermalink "/" }}class="active"{{ end }}>
+        <header>
           <a href="/">Sebastian De Deyne</a>
         </header>
         <ul>
           {{ $section := index (split .RelPermalink "/") 1 }}
-          {{ $isBlog := eq (in "speaking open-source newsletter archive about now" $section) false }}
+          {{ $isBlog := or (eq (in "speaking open-source newsletter archive about now" $section) false) (eq .RelPermalink "/") }}
           <li class="{{ cond $isBlog "active" "" }}">
             <a href="/posts">Blog</a>
           </li>
           <li class="{{ cond (eq $section "newsletter") "active" "" }}">
             <a href="/newsletter">Newsletter</a>
           </li>
-          <!-- <li class="{{ cond (eq $section "now") "active" "" }}">
-            <a href="/now">Now</a>
-          </li> -->
           <li class="{{ cond (eq $section "about") "active" "" }}">
             <a href="/about">About</a>
           </li>
-          <!-- <li class="{{ cond (eq $section "archive") "active" "" }}">
-            <a href="/archive">Archive</a>
-          </li> -->
         </ul>
         <ul>
           <li><a href="https://twitter.com/sebdedeyne" rel="me">Twitter</a></li>
