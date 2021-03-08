@@ -16,7 +16,7 @@
   </p>
   <h2>Previous editions</h2>
   {{ range (where $.Site.RegularPages "Section" "newsletter") }}
-    <dl>
+    <dl class="arrowless">
       <dt>
         <a href="{{ .RelPermalink }}">{{ .Title }}</a>
       </dt>

@@ -58,6 +58,41 @@ hr {
   }
 }
 
+input[type="text"],
+input[type="email"],
+input[type="search"] {
+  background-color: var(--gray-100);
+  border: 2px solid var(--gray-100);
+  font: inherit;
+  height: 2.5rem;
+  padding: 0 0.75rem;
+}
+
+input[type="search"] {
+  padding: 0;
+}
+
+input[type="text"]:focus,
+input[type="email"]:focus,
+input[type="search"]:focus {
+  border-color: var(--blue-500);
+  outline: none;
+}
+
+input[type="submit"] {
+  background-color: var(--gray-900);
+  color: white;
+  font: inherit;
+  font-weight: 600;
+  height: 2.5rem;
+  padding: 0.25rem 0.5rem;
+}
+
+input[type="submit"]:focus {
+  background-color: var(--blue-700);
+  outline: none;
+}
+
 .cover {
   padding: 0 1.5rem;
   margin: 0 auto;
@@ -144,20 +179,6 @@ hr {
   margin-bottom: 1.75rem;
 }
 
-.newsletter-form input {
-  font: inherit;
-  padding: 0.25rem 0.5rem;
-}
-
-.newsletter-form input[type="email"] {
-  background-color: var(--gray-100);
-}
-
-.newsletter-form input[type="submit"] {
-  background-color: var(--gray-900);
-  color: white;
-}
-
 @media (prefers-color-scheme: dark) {
   .newsletter-form input[type="submit"] {
     background-color: var(--gray-600);
@@ -176,6 +197,45 @@ hr {
   .newsletter-form p {
     color: var(--gray-500);
   }
+}
+
+.archive-search {
+  height: 1.75rem;
+  margin-bottom: 1.75rem;
+}
+
+.archive-keywords {
+  display: flex;
+  flex-wrap: wrap;
+  line-height: 1.25;
+}
+
+.archive-keywords button {
+  text-decoration: underline;
+  font-size: 0.75rem;
+}
+
+.archive-groups {
+  border-bottom: 1px solid var(--gray-300);
+  padding-bottom: 3.5rem;
+}
+
+.archive-group {
+  border-top: 1px solid var(--gray-300);
+  display: grid;
+  grid-gap: 1.75rem;
+  margin-top: 3.5rem;
+  padding-top: 3.5rem;
+}
+
+@media (min-width: 640px) {
+  .archive-group {
+    grid-template-columns: 9em 1fr;
+  }
+} 
+
+.archive-group h2 {
+  font-weight: 600;
 }
 
 #carbonads {
@@ -289,8 +349,8 @@ hr {
   }
 }
 
-.markup dt a:after {
-  content: '→';
+.markup dl:not(.arrowless) dt a:after {
+  content: ' →';
 }
 
 .markup dd,

@@ -39,7 +39,7 @@ function filterArchiveList(input) {
 
   if (!search) {
     [...items, ...groups].forEach(item => {
-      item.classList.remove("hidden");
+      item.style.display = '';
     });
 
     window.history.replaceState(null, null, window.location.pathname);
@@ -49,9 +49,9 @@ function filterArchiveList(input) {
 
   items.forEach(item => {
     if (item.dataset.archiveItem.indexOf(search) !== -1) {
-      item.classList.remove("hidden");
+      item.style.display = '';
     } else {
-      item.classList.add("hidden");
+      item.style.display = 'none';
     }
   });
 
@@ -59,13 +59,13 @@ function filterArchiveList(input) {
     const allHidden = Array.from(
       group.querySelectorAll("[data-archive-item]")
     ).every(item => {
-      return item.classList.contains("hidden");
+      return item.style.display === 'none';
     });
 
     if (allHidden) {
-      group.classList.add("hidden");
+      group.style.display = 'none';
     } else {
-      group.classList.remove("hidden");
+      group.style.display = '';
     }
   });
 

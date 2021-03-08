@@ -55,6 +55,9 @@
           <li class="{{ cond $isBlog "active" "" }}">
             <a href="/posts">Blog</a>
           </li>
+          <li class="{{ cond (eq $section "archive") "active" "" }}">
+            <a href="/archive">Archive</a>
+          </li>
           <li class="{{ cond (eq $section "newsletter") "active" "" }}">
             <a href="/newsletter">Newsletter</a>
           </li>
