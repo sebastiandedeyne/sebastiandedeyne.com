@@ -1,0 +1,38 @@
+[
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Tim Sterker",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/3e49b730cbfcd604e6f42838a006bd095dbec6577d56c333e560973c90b1f762.png",
+      "url": "https://twitter.com/tsterker"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1369698766085840905#favorited-by-473531022",
+    "published": null,
+    "wm-received": "2021-03-10T17:34:07Z",
+    "wm-id": 1064972,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1369698766085840905/473531022",
+    "wm-target": "https://sebastiandedeyne.com/self-deprecating-comments/",
+    "like-of": "https://sebastiandedeyne.com/self-deprecating-comments/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Jorge González",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/c37d58fb7570b7fc2c749e974aa5efec6ae1abfef7673ce079fdb9fb2aa1a472.jpg",
+      "url": "https://twitter.com/iksaku2"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1369698766085840905#favorited-by-255728220",
+    "published": null,
+    "wm-received": "2021-03-10T17:34:07Z",
+    "wm-id": 1064973,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1369698766085840905/255728220",
+    "wm-target": "https://sebastiandedeyne.com/self-deprecating-comments/",
+    "like-of": "https://sebastiandedeyne.com/self-deprecating-comments/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+]
