@@ -93,19 +93,6 @@ input[type="submit"]:focus {
   outline: none;
 }
 
-.cover {
-  padding: 0 1.5rem;
-  margin: 0 auto;
-  max-width: 60rem;
-  width: 100%;
-}
-
-@media (min-width: 640px) {
-  .cover {
-    padding: 0 5.25rem;
-  }
-}
-
 .layout {
   margin: 0 auto;
   max-width: 60rem;
@@ -126,10 +113,6 @@ input[type="submit"]:focus {
     grid-template-columns: 16rem 1fr;
     padding: 5.25rem;
   }
-}
-
-.cover + .layout {
-  padding-top: 1.75rem;
 }
 
 .sidebar {
@@ -172,10 +155,6 @@ input[type="submit"]:focus {
 
 .post header p {
   color: var(--gray-500);
-  margin-bottom: 1.75rem;
-}
-
-.post-cover {
   margin-bottom: 1.75rem;
 }
 

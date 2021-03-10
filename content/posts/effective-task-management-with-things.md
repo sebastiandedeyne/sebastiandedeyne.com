@@ -3,7 +3,6 @@ title: "Effective task management with Things"
 slug: effective-task-management-with-things
 date: 2020-06-22T18:37:42+02:00
 categories: ["articles"]
-cover: things/things-cover.jpg
 toc: true
 description: |
   Ever since Things 3 came along, it's been my todo app of choice. Every now and then I check out the competition, but I always swing back.

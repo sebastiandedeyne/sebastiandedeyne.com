@@ -2,7 +2,6 @@
 title: "Masonry layouts with CSS grid"
 slug: masonry-layout
 date: 2020-11-04
-cover: masonry.jpg
 keywords:
   - CSS
   - CSS Grid

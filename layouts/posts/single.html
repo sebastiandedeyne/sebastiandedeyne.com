@@ -8,11 +8,7 @@
   <meta property="og:type" content="article" />
   <meta property="og:locale" content="en_US" />
   <meta property="og:url" content="{{ .Permalink }}" />
-  {{ with .Params.cover }}
-    <meta property="og:image" content="https://sebastiandedeyne.com/media/{{ . }}" />
-  {{ else }}
-    <meta property="og:image" content="https://sebastiandedeyne.com/media/me.jpg" />
-  {{ end }}
+  <meta property="og:image" content="https://sebastiandedeyne.com/media/me.jpg" />
   {{ with .Params.description }}
     <meta name="description" content="{{ . }}" />
   {{ else }}
@@ -23,14 +19,6 @@
   <meta property="article:author" content="Sebastian De Deyne" />
   {{ with .Keywords }}
     <meta property="article:section" content="{{ index . 0 | title }}" />
-  {{ end }}
-{{ end }}
-
-{{ define "cover" }}
-  {{ with .Params.cover }}
-    <div class="cover wrapper">
-      <img src="/media/{{ . }}">
-    </div>
   {{ end }}
 {{ end }}
 
