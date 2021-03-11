@@ -67,7 +67,7 @@
   */
 
  html {
-   font-family: theme('fontFamily.sans', ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"); /* 1 */
+   font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; /* 1 */
    line-height: 1.5; /* 2 */
  }
 
@@ -114,7 +114,7 @@
    box-sizing: border-box; /* 1 */
    border-width: 0; /* 2 */
    border-style: solid; /* 2 */
-   border-color: theme('borderColor.DEFAULT', currentColor); /* 2 */
+   border-color: currentColor; /* 2 */
  }
 
  /*
@@ -146,7 +146,7 @@
  input::placeholder,
  textarea::placeholder {
    opacity: 1;
-   color: theme('colors.gray.400', #a1a1aa);
+   color: #a1a1aa;
  }
 
  button,
@@ -207,7 +207,7 @@
  code,
  kbd,
  samp {
-   font-family: theme('fontFamily.mono', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace);
+   font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
  }
 
  /**
