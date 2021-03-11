@@ -34,5 +34,230 @@
     "like-of": "https://sebastiandedeyne.com/self-deprecating-comments/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Henrik Nyh",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/f2e7086f18060bd2fd181aba79340a1d979608c6b7d633f6c57170e18cf09794.jpg",
+      "url": "https://twitter.com/henrik"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1369698766085840905#favorited-by-14208392",
+    "published": null,
+    "wm-received": "2021-03-10T18:50:18Z",
+    "wm-id": 1065208,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1369698766085840905/14208392",
+    "wm-target": "https://sebastiandedeyne.com/self-deprecating-comments/",
+    "like-of": "https://sebastiandedeyne.com/self-deprecating-comments/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "José Cage",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/8de62c528d88bef4bccb55da030112ae95d99c62fd1e883f6c4dc320c0d599e6.jpg",
+      "url": "https://twitter.com/cagejose"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1369698766085840905#favorited-by-944899327",
+    "published": null,
+    "wm-received": "2021-03-10T18:50:28Z",
+    "wm-id": 1065210,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1369698766085840905/944899327",
+    "wm-target": "https://sebastiandedeyne.com/self-deprecating-comments/",
+    "like-of": "https://sebastiandedeyne.com/self-deprecating-comments/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Spatie",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/3efb487e7f3a0bc3690580277105f93eda590d65e4d9eb01135a184a9df60b18.jpg",
+      "url": "https://twitter.com/spatie_be"
+    },
+    "url": "https://twitter.com/spatie_be/status/1369713508171083778",
+    "published": "2021-03-10T18:15:23+00:00",
+    "wm-received": "2021-03-10T18:51:10Z",
+    "wm-id": 1065211,
+    "wm-source": "https://brid.gy/repost/twitter/sebdedeyne/1369698766085840905/1369713508171083778",
+    "wm-target": "https://sebastiandedeyne.com/self-deprecating-comments/",
+    "content": {
+      "text": "🔗 Self-deprecating comments, by @henrik\nsebastiandedeyne.com/self-deprecati…"
+    },
+    "repost-of": "https://sebastiandedeyne.com/self-deprecating-comments/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Jiří Šmika",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/3f3392875908455ad7d3fe034a9bf7023deec7f0ff545d58f1d329d9041f94dc.jpg",
+      "url": "https://twitter.com/jirismika"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1369698766085840905#favorited-by-63372909",
+    "published": null,
+    "wm-received": "2021-03-10T18:51:21Z",
+    "wm-id": 1065212,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1369698766085840905/63372909",
+    "wm-target": "https://sebastiandedeyne.com/self-deprecating-comments/",
+    "like-of": "https://sebastiandedeyne.com/self-deprecating-comments/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Richard Radermacher",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/5277a388649f0f63e0236cc171a6fcd7a7b84ea4092ad79c8a6ad52cc8a9b3b8.jpg",
+      "url": "https://twitter.com/radermacher_io"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1369698766085840905#favorited-by-35496266",
+    "published": null,
+    "wm-received": "2021-03-10T18:51:21Z",
+    "wm-id": 1065213,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1369698766085840905/35496266",
+    "wm-target": "https://sebastiandedeyne.com/self-deprecating-comments/",
+    "like-of": "https://sebastiandedeyne.com/self-deprecating-comments/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Anne Koepcke",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/00866b6b3cf360188c4ebb4546a93e0dcd77b80d6ca493c5ec325cedaea3c321.png",
+      "url": "https://twitter.com/AnneKoep"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1369698766085840905#favorited-by-2374240340",
+    "published": null,
+    "wm-received": "2021-03-10T18:51:28Z",
+    "wm-id": 1065214,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1369698766085840905/2374240340",
+    "wm-target": "https://sebastiandedeyne.com/self-deprecating-comments/",
+    "like-of": "https://sebastiandedeyne.com/self-deprecating-comments/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Muhammed Sarı",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/4478cb4984df83c91c0d066e66e4fd5f926eacc42dd16b45dd9e4b1a2ab04229.jpg",
+      "url": "https://twitter.com/mabdullahsari"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1369698766085840905#favorited-by-1269260326891069440",
+    "published": null,
+    "wm-received": "2021-03-10T18:51:44Z",
+    "wm-id": 1065215,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1369698766085840905/1269260326891069440",
+    "wm-target": "https://sebastiandedeyne.com/self-deprecating-comments/",
+    "like-of": "https://sebastiandedeyne.com/self-deprecating-comments/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Neil Carlo Faisan Sucuangco",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/737d4faf10025e9f86a8d0f54866e65be28593c696996b8668a5badbbb3e391f.jpg",
+      "url": "https://twitter.com/faisuc"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1369698766085840905#favorited-by-337041104",
+    "published": null,
+    "wm-received": "2021-03-10T20:03:35Z",
+    "wm-id": 1065302,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1369698766085840905/337041104",
+    "wm-target": "https://sebastiandedeyne.com/self-deprecating-comments/",
+    "like-of": "https://sebastiandedeyne.com/self-deprecating-comments/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Sven",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/699875b0233cc378ce582d4b8488f084892ff33825b42ad2b92b5858e014823f.jpg",
+      "url": "https://twitter.com/hofmannsven"
+    },
+    "url": "https://twitter.com/hofmannsven/status/1369725080163475456",
+    "published": "2021-03-10T19:01:22+00:00",
+    "wm-received": "2021-03-10T20:03:35Z",
+    "wm-id": 1065303,
+    "wm-source": "https://brid.gy/repost/twitter/sebdedeyne/1369698766085840905/1369725080163475456",
+    "wm-target": "https://sebastiandedeyne.com/self-deprecating-comments/",
+    "content": {
+      "text": "🔗 Self-deprecating comments, by @henrik\nsebastiandedeyne.com/self-deprecati…"
+    },
+    "repost-of": "https://sebastiandedeyne.com/self-deprecating-comments/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Neil Carlo Faisan Sucuangco",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/737d4faf10025e9f86a8d0f54866e65be28593c696996b8668a5badbbb3e391f.jpg",
+      "url": "https://twitter.com/faisuc"
+    },
+    "url": "https://twitter.com/faisuc/status/1369722933103357952",
+    "published": "2021-03-10T18:52:50+00:00",
+    "wm-received": "2021-03-10T20:03:36Z",
+    "wm-id": 1065304,
+    "wm-source": "https://brid.gy/repost/twitter/sebdedeyne/1369698766085840905/1369722933103357952",
+    "wm-target": "https://sebastiandedeyne.com/self-deprecating-comments/",
+    "content": {
+      "text": "🔗 Self-deprecating comments, by @henrik\nsebastiandedeyne.com/self-deprecati…"
+    },
+    "repost-of": "https://sebastiandedeyne.com/self-deprecating-comments/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Babul A. Mukherjee",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/d3926c61f48f03bd9ead24a70fb714bcfa549dee067cd724f7d738395a96573d.jpg",
+      "url": "https://twitter.com/tmgBabul"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1369698766085840905#favorited-by-22333845",
+    "published": null,
+    "wm-received": "2021-03-10T21:14:46Z",
+    "wm-id": 1065494,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1369698766085840905/22333845",
+    "wm-target": "https://sebastiandedeyne.com/self-deprecating-comments/",
+    "like-of": "https://sebastiandedeyne.com/self-deprecating-comments/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Paul Redmond 🇺🇸",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/268ef2d8db48537326b50858bf546e09c7463518acd63d8d88994818476be0bc.jpg",
+      "url": "https://twitter.com/paulredmond"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1369698766085840905#favorited-by-14081470",
+    "published": null,
+    "wm-received": "2021-03-10T22:19:50Z",
+    "wm-id": 1065530,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1369698766085840905/14081470",
+    "wm-target": "https://sebastiandedeyne.com/self-deprecating-comments/",
+    "like-of": "https://sebastiandedeyne.com/self-deprecating-comments/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
