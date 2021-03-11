@@ -277,5 +277,23 @@
     "like-of": "https://sebastiandedeyne.com/self-deprecating-comments/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Ihor Vorotnov",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/5688ef05e60048056e6aa7bb773044c44477a61880f980347ecbb2c994dd2e2e.jpg",
+      "url": "https://twitter.com/ihorvorotnov"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1369698766085840905#favorited-by-13469332",
+    "published": null,
+    "wm-received": "2021-03-11T11:34:41Z",
+    "wm-id": 1066564,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1369698766085840905/13469332",
+    "wm-target": "https://sebastiandedeyne.com/self-deprecating-comments/",
+    "like-of": "https://sebastiandedeyne.com/self-deprecating-comments/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
