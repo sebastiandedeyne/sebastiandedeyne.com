@@ -11,6 +11,8 @@ Mac is case insensitive, Linux isn't. This has caused me trouble in the past aft
 
 If you rename a file on Mac, git won't pick up any changes if you only change the case.
 
+<!--more-->
+
 ```bash
 mv app.js App.js
 ```
