@@ -115,9 +115,13 @@ input[type="submit"]:focus {
   }
 }
 
-.sidebar {
+.layout-sidebar {
   padding-right: 3rem;
   margin-bottom: 3.5rem;
+}
+
+.layout-main {
+  min-width: 0;
 }
 
 .sidebar header {
@@ -211,7 +215,7 @@ input[type="submit"]:focus {
   .archive-group {
     grid-template-columns: 9em 1fr;
   }
-} 
+}
 
 .archive-group h2 {
   font-weight: 600;
