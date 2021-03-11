@@ -1,0 +1,105 @@
+<style type="text/css">
+  .search-backdrop {
+    display: none;
+    bottom: 0;
+    left: 0;
+    position: fixed;
+    right: 0;
+    top: 0;
+    background-color: #0005;
+  }
+
+  .search-pane {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%);
+    width: 24rem;
+    margin-top: -16rem;
+    background-color: white;
+    overflow: hidden;
+    border-radius: 0.5rem;
+    box-shadow: 0 0 25px #0005, 0 0 7px #0002;
+  }
+
+  .search-input {
+    display: block;
+    width: 100%;
+    font: inherit;
+    font-size: 1.2rem;
+    padding: 1rem 0.5rem;
+    background-color: var(--gray-100);
+  }
+
+  .search-input:focus {
+    outline: none;
+  }
+
+  .search-results {
+    max-height: 20rem;
+    overflow: auto;
+    line-height: 1.5;
+  }
+
+  .search-results a {
+    display: block;
+    padding: 0.75rem 1rem;
+  }
+
+  .search-results a:hover {
+    background-color: var(--blue-500);
+  }
+
+  .search-result-title {
+    display: block;
+    font-weight: 500;
+  }
+
+  .search-result-meta {
+    color: var(--gray-600);
+    font-size: 0.875rem;
+  }
+
+  .search-result-keyword {
+    display: inline-block;
+    text-transform: lowercase;
+    color: var(--gray-500);
+  }
+
+  .search-results a:hover .search-result-title,
+  .search-results a:hover .search-result-meta,
+  .search-results a:hover .search-result-keyword {
+    color: white;
+  }
+</style>
+<div class="search-backdrop" data-search-backdrop>
+  <nav class="search-pane">
+    <input type="search" class="search-input" data-search-input autofocus>
+    <ul class="search-results">
+      {{ range (where site.RegularPages "Section" "posts") }}
+        <li data-search-result="
+          {{ .Title | replaceRE "[^\\w]" "" | lower }}
+          {{ range .Keywords }}
+            {{ . | replaceRE "[^\\w]" "" | lower }}
+          {{ end }}
+        ">
+          <a href="{{ .RelPermalink }}">
+            <span class="search-result-title">{{ .Title }}</span>
+            <span class="search-result-meta">
+              <time datetime="{{ .Date.Format "2006-01-02" }}">
+                {{ .Date.Format "January 2, 2006" }}
+              </time>
+              {{ range .Keywords }}
+                <span class="search-result-keyword">#{{ . }}</span>
+              {{ end }}
+            </span>
+          </a>
+        </li>
+      {{ end }}
+    </ul>
+  </nav>
+</div>
+
+{{ with resources.Get "js/search.js" | minify }}
+  <script>{{ .Content | safeJS }}</script>
+{{ end }}
