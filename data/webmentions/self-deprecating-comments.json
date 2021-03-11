@@ -259,5 +259,23 @@
     "like-of": "https://sebastiandedeyne.com/self-deprecating-comments/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Michał Karnicki",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/c42da3e2cc2a673a0123d47d68ab3fda5d0348fba7aadaad6278eeb76866b43f.jpg",
+      "url": "https://twitter.com/mkarnicki"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1369698766085840905#favorited-by-35588318",
+    "published": null,
+    "wm-received": "2021-03-11T01:15:40Z",
+    "wm-id": 1065714,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1369698766085840905/35588318",
+    "wm-target": "https://sebastiandedeyne.com/self-deprecating-comments/",
+    "like-of": "https://sebastiandedeyne.com/self-deprecating-comments/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
