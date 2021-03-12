@@ -217,5 +217,23 @@
     "like-of": "https://sebastiandedeyne.com/how-to-do-a-case-sensitive-file-rename-in-git-on-macos/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Michał Karnicki",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/c42da3e2cc2a673a0123d47d68ab3fda5d0348fba7aadaad6278eeb76866b43f.jpg",
+      "url": "https://twitter.com/mkarnicki"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1370076781894627332#favorited-by-35588318",
+    "published": null,
+    "wm-received": "2021-03-12T00:15:36Z",
+    "wm-id": 1067513,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1370076781894627332/35588318",
+    "wm-target": "https://sebastiandedeyne.com/how-to-do-a-case-sensitive-file-rename-in-git-on-macos/",
+    "like-of": "https://sebastiandedeyne.com/how-to-do-a-case-sensitive-file-rename-in-git-on-macos/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
