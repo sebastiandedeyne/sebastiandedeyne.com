@@ -40,8 +40,10 @@
       <meta property="og:image" content="{{ "media/me.jpg" | absURL }}" />
       <meta property="og:description" content="I'm a web developer and designer. I build websites & interfaces with JavaScript, CSS and PHP." />
     {{ end }}
+    {{ if eq (getenv "HUGO_ENV") "production" }}
+      <script async defer data-domain="sebastiandedeyne.com" src="https://plausible.io/js/plausible.js"></script>
+    {{ end }}
   </head>
-
   <body>
     <div class="layout wrapper">
       <nav class="layout-sidebar sidebar">
