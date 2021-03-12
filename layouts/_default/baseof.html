@@ -70,7 +70,9 @@
           <li><a href="https://twitter.com/sebdedeyne" rel="me">Twitter</a></li>
           <li><a href="/index.xml">RSS</a></li>
         </ul>
-        <script async type="text/javascript" src="//cdn.carbonads.com/carbon.js?serve=CE7DC2QJ&placement=sebastiandedeynecom" id="_carbonads_js"></script>
+        {{ if eq (getenv "HUGO_ENV") "production" }}
+          <script async type="text/javascript" src="//cdn.carbonads.com/carbon.js?serve=CE7DC2QJ&placement=sebastiandedeynecom" id="_carbonads_js"></script>
+        {{ end }}
       </nav>
       <main class="layout-main">
         {{ block "main" . }}{{ end }}
