@@ -282,6 +282,10 @@ input[type="submit"]:focus {
   text-transform: uppercase;
 }
 
+.markup h2 + h3 {
+  margin-top: 1.75rem;
+}
+
 .markup a,
 .markup-links a {
   color: var(--blue-700);
