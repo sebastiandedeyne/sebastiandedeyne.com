@@ -330,5 +330,3 @@ function openDropdown(event, dropdownTrigger) {
   });
 }
 ```
-
-And done! Our `enter` and `leave` functions will come in handy in the next lesson too, where we'll build a modal.

@@ -8,8 +8,6 @@ keywords:
   - Vue.js
 ---
 
-_This is the first post in a series about removing distractions from an interface to provide a better user experience._
-
 I have a specific pet peeve with user interfaces: things that draw my attention when they don't need to. In any graphical interface, movement is distraction. Our eyes are naturally drawn to anything in motion.
 
 Motion is a powerful tool. We can abuse this distraction to attract our users to a certain place: a notification, an added list item after a background refresh, etc. Let's look into the movement behind a form submission. Below are three dummy forms, each with a different server response time.
@@ -212,5 +210,3 @@ Above, we introduced an `isSlowRequest` property to take care of how we want to 
 Note that we're also using an `is-disabled` class so the button there's no immediate visual change when it gets disabled in the DOM.
 
 I'm using similar `setTimeout` techniques in a bunch of projects, and it's a great trick to remove unnecessary distraction.
-
-In my next post about distraction-less interfaces, we'll tackle the same problem with the opposite solution: by _always_ showing the transient state.
