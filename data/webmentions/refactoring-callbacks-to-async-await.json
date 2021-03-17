@@ -848,5 +848,71 @@
     "like-of": "https://sebastiandedeyne.com/refactoring-callbacks-to-async-await/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Julien Wajsberg",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/079e8b6d4d606c25447891e40542e9d4f62b9e045b7f19f88e00262468d79454.jpeg",
+      "url": "https://twitter.com/jwajsberg"
+    },
+    "url": "https://twitter.com/jwajsberg/status/1372147620416733184",
+    "published": "2021-03-17T11:27:40+00:00",
+    "wm-received": "2021-03-17T12:31:48Z",
+    "wm-id": 1077861,
+    "wm-source": "https://brid.gy/comment/twitter/sebdedeyne/1372070356903735298/1372147620416733184",
+    "wm-target": "https://sebastiandedeyne.com/refactoring-callbacks-to-async-await/",
+    "content": {
+      "html": "I believe that the point of rAF is to execute the callback right at the moment it is called, so using a promise on this misses the point.\nThat said, I've seen what seems to me abuses of rAF to make sure the browser actually rendered something before getting some layout properties\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/dan_abramov\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/kriskowal\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/sebdedeyne\"></a>",
+      "text": "I believe that the point of rAF is to execute the callback right at the moment it is called, so using a promise on this misses the point.\nThat said, I've seen what seems to me abuses of rAF to make sure the browser actually rendered something before getting some layout properties"
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/refactoring-callbacks-to-async-await/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Julien Wajsberg",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/079e8b6d4d606c25447891e40542e9d4f62b9e045b7f19f88e00262468d79454.jpeg",
+      "url": "https://twitter.com/jwajsberg"
+    },
+    "url": "https://twitter.com/jwajsberg/status/1372147706265751556",
+    "published": "2021-03-17T11:28:01+00:00",
+    "wm-received": "2021-03-17T13:29:23Z",
+    "wm-id": 1077953,
+    "wm-source": "https://brid.gy/comment/twitter/sebdedeyne/1372070356903735298/1372147706265751556",
+    "wm-target": "https://sebastiandedeyne.com/refactoring-callbacks-to-async-await/",
+    "content": {
+      "html": "No idea if these are useful or real abuses...\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/dan_abramov\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/kriskowal\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/sebdedeyne\"></a>",
+      "text": "No idea if these are useful or real abuses..."
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/refactoring-callbacks-to-async-await/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Sebastian De Deyne",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/3ce609991342657b8b7e99eb7a5c6e3656fbdb1c51575f1464d354b81aaeda86.jpg",
+      "url": "https://twitter.com/sebdedeyne"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1372167977353633794",
+    "published": "2021-03-17T12:48:34+00:00",
+    "wm-received": "2021-03-17T13:29:58Z",
+    "wm-id": 1077954,
+    "wm-source": "https://brid.gy/comment/twitter/sebdedeyne/1372070356903735298/1372167977353633794",
+    "wm-target": "https://sebastiandedeyne.com/refactoring-callbacks-to-async-await/",
+    "content": {
+      "html": "Good point, in those situations a promise doesn't make sense. However, most of the time I need rAF is to ensure we're far enough ahead to render something, I don't really mind if a promise makes that distance a bit longer.\n<a class=\"u-mention\" href=\"https://twitter.com/dan_abramov\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/jwajsberg\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/kriskowal\"></a>",
+      "text": "Good point, in those situations a promise doesn't make sense. However, most of the time I need rAF is to ensure we're far enough ahead to render something, I don't really mind if a promise makes that distance a bit longer."
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/refactoring-callbacks-to-async-await/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
   }
 ]
