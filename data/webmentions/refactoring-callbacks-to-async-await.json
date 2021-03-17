@@ -830,5 +830,23 @@
     "mention-of": "https://sebastiandedeyne.com/refactoring-callbacks-to-async-await/",
     "wm-property": "mention-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Mazedul Islam Khan",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/c151555f03e3e7ac6b4bcc3c68282f43e9de326d550322bc38575257890b98b3.jpg",
+      "url": "https://twitter.com/iamazik"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1372070356903735298#favorited-by-2953205123",
+    "published": null,
+    "wm-received": "2021-03-17T06:48:25Z",
+    "wm-id": 1077531,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1372070356903735298/2953205123",
+    "wm-target": "https://sebastiandedeyne.com/refactoring-callbacks-to-async-await/",
+    "like-of": "https://sebastiandedeyne.com/refactoring-callbacks-to-async-await/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
