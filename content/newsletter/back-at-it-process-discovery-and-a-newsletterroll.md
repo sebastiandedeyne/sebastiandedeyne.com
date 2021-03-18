@@ -9,7 +9,7 @@ In the beginning of 2021 I decided to tone things down: low blogging activity, n
 
 ## Process discovery & communication: things I learned at an event storming workshop
 
-Last month I attended an event storming workshop at [DDDEU](https://dddeurope.com/2021/). It was given by the creator of the method, Alberto Brandolini. 
+Last month I attended an event storming workshop at [DDDEU](https://dddeurope.com/2021/). It was given by the creator of the method, Alberto Brandolini.
 
 In short, [event storming](https://www.eventstorming.com) is a collection of methods to discover concepts and processes in a business. The main tool: Post-Its.
 
@@ -62,7 +62,7 @@ Newsletters have become my main source of reading and discovering. Here a list o
 [Forte Labs](https://fortelabs.co)
 : *Productivity & self-improvement* — Articles about productivity and personal knowledge management.
 
-[Morning Brew](morningbrew.com/daily/r/?kid=398f5646)
+[Morning Brew](https://morningbrew.com/daily/r/?kid=398f5646)
 : *News* — A daily newsletter with bite sized articles about business & finance. I don't read it every day, but skim through often.
 
 [Monday Medley by Nat Eliason](https://www.nateliason.com/join)
