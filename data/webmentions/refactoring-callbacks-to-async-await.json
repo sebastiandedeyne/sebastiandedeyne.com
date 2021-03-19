@@ -914,5 +914,45 @@
     "in-reply-to": "https://sebastiandedeyne.com/refactoring-callbacks-to-async-await/",
     "wm-property": "in-reply-to",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Kris Kowal 🧙🏻‍♂️🧝🏻‍♀️",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/bd0d41ed8ea5b521b5903ea10b6e478163bdcc417edbbab417097840df2a6f97.jpg",
+      "url": "https://twitter.com/kriskowal"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1372070356903735298#favorited-by-6585632",
+    "published": null,
+    "wm-received": "2021-03-19T00:38:17Z",
+    "wm-id": 1080947,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1372070356903735298/6585632",
+    "wm-target": "https://sebastiandedeyne.com/refactoring-callbacks-to-async-await/",
+    "like-of": "https://sebastiandedeyne.com/refactoring-callbacks-to-async-await/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Kris Kowal 🧙🏻‍♂️🧝🏻‍♀️",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/bd0d41ed8ea5b521b5903ea10b6e478163bdcc417edbbab417097840df2a6f97.jpg",
+      "url": "https://twitter.com/kriskowal"
+    },
+    "url": "https://twitter.com/kriskowal/status/1372702717190184962",
+    "published": "2021-03-19T00:13:26+00:00",
+    "wm-received": "2021-03-19T00:38:52Z",
+    "wm-id": 1080948,
+    "wm-source": "https://brid.gy/comment/twitter/sebdedeyne/1372070356903735298/1372702717190184962",
+    "wm-target": "https://sebastiandedeyne.com/refactoring-callbacks-to-async-await/",
+    "content": {
+      "html": "Good point. And, you mentioned in the last bit of your post that using a promise-oriented API discards the return value of setTimeout. There are a number of viable approaches to threading a cancellation token as an argument. <a href=\"https://gist.github.com/kriskowal/abcba770b5dba526a1af801d692fd94e#file-async-composition-2020-js-L240-L248\">gist.github.com/kriskowal/abcb…</a>\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/dan_abramov\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/sebdedeyne\"></a>",
+      "text": "Good point. And, you mentioned in the last bit of your post that using a promise-oriented API discards the return value of setTimeout. There are a number of viable approaches to threading a cancellation token as an argument. gist.github.com/kriskowal/abcb…"
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/refactoring-callbacks-to-async-await/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
   }
 ]
