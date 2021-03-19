@@ -630,5 +630,33 @@
     "in-reply-to": "https://sebastiandedeyne.com/adding-webmentions-to-my-blog/",
     "wm-property": "in-reply-to",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Wouter Groeneveld",
+      "photo": "https://webmention.io/avatar/brainbaking.com/4966f3a2a3d4594117a1a709c48bc3d9dc079f6fe32ae92e91acecde0127a5ec.jpg",
+      "url": ""
+    },
+    "url": "https://brainbaking.com/",
+    "published": "2021-02-27T17:51:00",
+    "wm-received": "2021-03-18T20:20:30Z",
+    "wm-id": 1080662,
+    "wm-source": "https://brainbaking.com/notes/2021/02/27h17m51s39/",
+    "wm-target": "https://sebastiandedeyne.com/adding-webmentions-to-my-blog/",
+    "syndication": [
+      "https://chat.brainbaking.com/objects/0a54f23f-d362-4b12-9d67-3f8a4945d5ae"
+    ],
+    "content": {
+      "html": "<p>Trying to wrap my mind around WebMentions and how I could implement them without resorting to a third-party provider… <a href=\"https://sebastiandedeyne.com/adding-webmentions-to-my-blog/\"></a><a href=\"https://sebastiandedeyne.com/adding-webmentions-to-my-blog/\">https://sebastiandedeyne.com/adding-webmentions-to-my-blog/</a> I wonder if a link such as this one would receive a webmention/pingback if I just write about it using Hugo.</p>",
+      "text": "Trying to wrap my mind around WebMentions and how I could implement them without resorting to a third-party provider… https://sebastiandedeyne.com/adding-webmentions-to-my-blog/ I wonder if a link such as this one would receive a webmention/pingback if I just write about it using Hugo."
+    },
+    "mention-of": "https://sebastiandedeyne.com/adding-webmentions-to-my-blog/",
+    "wm-property": "mention-of",
+    "wm-private": false,
+    "rels": {
+      "canonical": "https://brainbaking.com/notes/2021/02/27h17m51s39/"
+    }
   }
 ]
