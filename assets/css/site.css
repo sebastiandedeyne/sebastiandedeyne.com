@@ -20,6 +20,8 @@
   --gray-900: #111827;
   --blue-500: #3B82F6;
   --blue-700: #1D4ED8;
+  --green-50: #ecfdf5;
+  --green-950: #053026;
 }
 
 html {
@@ -412,14 +414,10 @@ input[type="submit"]:focus {
 .markup .chroma .hl {
   display: block;
   position: relative;
-  padding-left: 1.5rem;
-  padding-right: 1.5rem;
 }
 
 @media (min-width: 640px) {
   .markup .chroma .hl {
-    padding-left: 3rem;
-    padding-right: 3rem;
   }
 }
 
@@ -427,8 +425,8 @@ input[type="submit"]:focus {
   content: "";
   height: 2em;
   position: absolute;
-  left: 0;
-  width: 0.5rem;
+  left: -1.75rem;
+  width: 0.66rem;
   background-color: var(--blue-500);
 }
 
@@ -462,7 +460,7 @@ input[type="submit"]:focus {
 .markup .highlight pre {
   display: block;
   overflow-x: auto;
-  padding: 1.5rem;
+  padding: 1.75rem;
   background-color: var(--gray-900);
   color: var(--gray-100);
 }
@@ -475,7 +473,7 @@ input[type="submit"]:focus {
 
 @media (min-width: 640px) {
   .markup .highlight pre {
-    padding: 1.5rem;
+    padding: 1.75rem;
   }
 }
 
@@ -501,67 +499,6 @@ input[type="submit"]:focus {
   padding-top: 0.5rem;
   padding-bottom: 0.5rem;
   border-bottom: 1px solid var(--gray-300);
-}
-
-.markup-series {
-  color: var(--gray-300);
-  font-size: 0.875rem;
-  line-height: 1.5;
-}
-
-.markup-series > *:not(:last-child) {
-  margin-bottom: 0.5rem;
-}
-
-.markup-series :not(pre) > code {
-  background-color: var(--gray-800);
-  color: inherit;
-}
-
-/******************************************************************************\
- * TOC                                                                        *
-\******************************************************************************/
-
-.series {
-  background-color: var(--gray-900);
-  padding: 1.75rem;
-  color: var(--gray-100);
-  margin-top: 1.75rem;
-}
-
-@media (prefers-color-scheme: dark) {
-  .series {
-    background-color: var(--gray-800);
-  }
-}
-
-.series header {
-  font-weight: 600;
-}
-
-.series ol {
-  position: relative;
-  list-style-position: inside;
-  counter-reset: li;
-  margin-top: 1.75rem;
-}
-
-.series ol li:before {
-  content: counter(li, decimal-leading-zero) ".";
-  counter-increment: li;
-  font-variant: tabular-nums;
-  margin-right: 0.5rem;
-}
-
-.series ol li.active:after {
-  position: absolute;
-  content: "→";
-  left: -1.25rem;
-  transform: translateY(-0.5px);
-}
-
-.series ol a {
-  text-decoration: underline;
 }
 
 /******************************************************************************\
@@ -593,29 +530,43 @@ input[type="submit"]:focus {
 \******************************************************************************/
 
 .toc {
-  background-color: var(--gray-900);
-  color: var(--gray-100);
+  background-color: var(--green-50);
+  color: var(--green-950);
   margin-top: 1.75rem;
+  margin-bottom: 1.75rem;
   padding: 1.75rem;
 }
 
 @media (prefers-color-scheme: dark) {
   .toc {
     background-color: var(--gray-800);
+    color: var(--gray-300);
   }
 }
 
 .toc h2 {
+  font-size: 1.05rem;
   font-weight: 600;
 }
 
 .toc ol {
-  list-style-position: inside;
-  list-style-type: decimal;
+  counter-reset: toc;
+  list-style: none;
 }
 
 .toc ol ol {
-  margin-left: 1rem;
+  margin-left: 1.75rem;
+}
+
+.toc li:before {
+  display: inline-block;
+  counter-increment: toc;
+  content: counter(toc) ".";
+  width: 1.75rem;
+}
+
+.toc li.active:before {
+  content: "→";
 }
 
 .toc a {

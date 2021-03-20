@@ -26,16 +26,6 @@
         {{ with $post.Params.link }}
           | on <a href="{{ . }}">{{ (urls.Parse .).Host }}</a>
         {{ end }}
-        {{ if $post.Params.series }}
-          {{ with $series := index .all_series $post.Params.series }}
-            | {{ $series.title }}
-            {{ range $index, $p := $series.posts }}
-              {{ if eq $p.slug $post.Params.slug }}
-                {{ add $index 1 }}/{{ len $series.posts }}
-              {{ end }}
-            {{ end }}
-          {{ end }}
-        {{ end }}
       </a>
   </p>
 </header>

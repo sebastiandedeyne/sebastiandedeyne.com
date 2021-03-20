@@ -26,13 +26,18 @@
   <article class="post">
     {{ partial "post-header.html" (dict "post" . "heading" "h1" "all_series" $.Site.Data.series) }}
     <section>
+      {{ if .Params.series }}
+        {{ with index $.Site.Data.series .Params.series }}
+          {{ partial "series.html" (dict "series" . "currentSlug" $.Page.Slug) }}
+        {{ end }}
+      {{ end }}
       {{ if .Truncated }}
         <div class="markup">
           {{ .Summary }}
         </div>
         {{ if .Params.toc }}
           <aside class="toc">
-            <h2>Table of contents</h2>
+            <h2>In this post</h2>
             {{ .TableOfContents }}
           </aside>
         {{ end }}
@@ -44,14 +49,12 @@
           {{ .Content }}
         </div>
       {{ end }}
-    </section>
-    {{ if .Params.series }}
-      {{ with index $.Site.Data.series .Params.series }}
-        <div id="series" class="pt-8">
+      {{ if .Params.series }}
+        {{ with index $.Site.Data.series .Params.series }}
           {{ partial "series.html" (dict "series" . "currentSlug" $.Page.Slug) }}
-        </div>
+        {{ end }}
       {{ end }}
-    {{ end }}
+    </section>
   </article>
   <hr>
   <section class="markup">

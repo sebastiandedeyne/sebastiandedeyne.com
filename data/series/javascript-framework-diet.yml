@@ -3,8 +3,6 @@ description: |
   JavaScript frameworks are great, but overused. Adding small bits of interactivity to an interface shouldn't mean installing kilobytes of dependencies or introducing complex build tools.
 
   It's time for a diet. I'm challenging you to build something without a framework, or follow along and learn something along the way.
-
-  Series under development, posts are added on a weekly basis.
 posts:
   - title: Introduction
     slug: javascript-framework-diet

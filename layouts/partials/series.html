@@ -1,8 +1,5 @@
-<section class="series">
-  <header>{{ .series.title }}</header>
-  <div class="markup markup-series">
-    {{ .series.description | markdownify }}
-  </div>
+<aside class="toc">
+  <h2>Series: {{ .series.title }}</h2>
   <ol>
     {{ range .series.posts }}
         {{ if .slug }}
@@ -16,4 +13,4 @@
         {{ end }}
     {{ end }}
   </ol>
-</section>
+</aside>
