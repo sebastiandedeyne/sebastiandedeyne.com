@@ -8,24 +8,24 @@
 }
 
 :root {
-  --gray-50: #F9FAFB;
-  --gray-100: #F3F4F6;
-  --gray-200: #E5E7EB;
-  --gray-300: #D1D5DB;
-  --gray-400: #9CA3AF;
-  --gray-500: #6B7280;
-  --gray-600: #4B5563;
+  --gray-50: #f9fafb;
+  --gray-100: #f3f4f6;
+  --gray-200: #e5e7eb;
+  --gray-300: #d1d5db;
+  --gray-400: #9ca3af;
+  --gray-500: #6b7280;
+  --gray-600: #4b5563;
   --gray-700: #374151;
-  --gray-800: #1F2937;
+  --gray-800: #1f2937;
   --gray-900: #111827;
-  --blue-500: #3B82F6;
-  --blue-700: #1D4ED8;
+  --blue-500: #3b82f6;
+  --blue-700: #1d4ed8;
   --green-50: #ecfdf5;
   --green-950: #053026;
 }
 
 html {
-  font-family: 'Inter', system-ui, sans-serif;
+  font-family: "Inter", system-ui, sans-serif;
   line-height: 1.75rem;
 }
 
@@ -240,13 +240,13 @@ kbd {
 }
 
 .markup h1 {
-  font-size: 1.2rem;;
+  font-size: 1.2rem;
   font-weight: 600;
   margin-bottom: 3.5rem;
 }
 
 .markup h2 {
-  font-size: 1.1rem;;
+  font-size: 1.1rem;
   font-weight: 600;
   margin-bottom: 3.5rem;
 }
@@ -317,7 +317,7 @@ kbd {
 }
 
 .markup dl:not(.arrowless) dt a:after {
-  content: '→';
+  content: "→";
   display: inline-block;
   padding-left: 0.33em;
   text-decoration: none !important;
@@ -370,7 +370,7 @@ kbd {
 @media (prefers-color-scheme: dark) {
   .markup blockquote {
     background-color: var(--gray-800);
-    border-left: 1px solid var(--g  ray-600);
+    border-left: 1px solid var(--g ray-600);
   }
 }
 
@@ -410,7 +410,7 @@ kbd {
 }
 
 .markup code {
-  font-family: 'Fira Code', monospace;
+  font-family: "Fira Code", monospace;
   font-size: 0.875em;
 }
 
@@ -571,12 +571,21 @@ kbd {
   top: 50%;
   left: 50%;
   transform: translate(-50%);
-  width: 24rem;
+  width: calc(100% - 3.5rem);
+  max-width: 24rem;
   margin-top: -12rem;
   background-color: white;
   overflow: hidden;
   border-radius: 0.5rem;
   box-shadow: 0 0 25px #0005, 0 0 7px #0002;
+}
+
+@media (max-height: 445px) {
+  .search-pane {
+    margin-top: 2rem;
+    top: 0;
+    transform: translateX(-50%);
+  }
 }
 
 .search-input {
@@ -596,6 +605,12 @@ kbd {
   max-height: 20rem;
   overflow: auto;
   line-height: 1.5;
+}
+
+@media (max-height: 445px) {
+  .search-results {
+    max-height: calc(100vh - 8rem);
+  }
 }
 
 .search-results a {

@@ -31,7 +31,7 @@ function updateResults(input) {
 
   if (!search) {
     results.forEach((result) => {
-      result.style.display = '';
+      result.style.display = "";
     });
 
     updateSelected(0);
@@ -41,9 +41,9 @@ function updateResults(input) {
 
   results.forEach((result) => {
     if (result.dataset.searchResult.indexOf(search) !== -1) {
-      result.style.display = '';
+      result.style.display = "";
     } else {
-      result.style.display = 'none';
+      result.style.display = "none";
     }
   });
 
@@ -51,7 +51,9 @@ function updateResults(input) {
 }
 
 function updateSelected(newIndex, scroll = true) {
-  const visibleResults = results.filter(result => result.style.display === '');
+  const visibleResults = results.filter(
+    (result) => result.style.display === ""
+  );
 
   if (newIndex < 0 || newIndex >= visibleResults.length) {
     return;
@@ -60,12 +62,12 @@ function updateSelected(newIndex, scroll = true) {
   selectedIndex = newIndex;
 
   results.forEach((result) => {
-    result.classList.remove('selected');
+    result.classList.remove("selected");
   });
 
   visibleResults.forEach((result, index) => {
     if (index === selectedIndex) {
-      result.classList.add('selected');
+      result.classList.add("selected");
       if (scroll) {
         window.requestAnimationFrame(() => {
           result.scrollIntoView({ block: "center" });
@@ -77,15 +79,15 @@ function updateSelected(newIndex, scroll = true) {
 
 function visitSelected() {
   const selected = results.find((result) => {
-    return result.classList.contains('selected');
+    return result.classList.contains("selected");
   });
 
   if (selected) {
-    window.location = selected.querySelector("a").href; 
+    window.location = selected.querySelector("a").href;
   }
 }
 
-triggers.forEach(trigger => {
+triggers.forEach((trigger) => {
   trigger.addEventListener("click", (event) => {
     event.preventDefault();
     showSearch();
@@ -105,7 +107,7 @@ window.addEventListener("keydown", (event) => {
   }
 });
 
-backdrop.addEventListener("click", event => {
+backdrop.addEventListener("click", (event) => {
   if (event.target === backdrop) {
     hideSearch();
   }
