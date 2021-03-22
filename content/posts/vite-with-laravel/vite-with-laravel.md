@@ -19,7 +19,7 @@ Vite is a frontend build tool like webpack. Instead of bundling development asse
 
 *If you want to delve deeper into Vite's background, check out [Why Vite](https://vitejs.dev/guide/why.html) in their docs. Now, let's dive into Laravel.*
 
-After adding Vite to a JavaScrip-heavy Laravel project we're working on, we saw:
+After adding Vite to a JavaScript-heavy Laravel project we're working on, we saw:
 
 - **Faster dev server startup** — `npm run hot` went from 15s to <1s
 - **Faster production builds** — `npm run production` went from from 18s to 15s
