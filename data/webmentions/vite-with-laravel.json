@@ -2033,5 +2033,285 @@
     "repost-of": "https://sebastiandedeyne.com/vite-with-laravel/",
     "wm-property": "repost-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Mateus Galasso",
+      "photo": "https://webmention.io/avatar/abs.twimg.com/0e6b2cd70aa5b35dec24ca4e1e63f8963f0118736d9ec3bba77e3a8c99a27bc2.png",
+      "url": "https://twitter.com/GalassoMateus"
+    },
+    "url": "https://twitter.com/GalassoMateus/status/1373975334136246276",
+    "published": "2021-03-22T12:30:21+00:00",
+    "wm-received": "2021-03-22T12:45:40Z",
+    "wm-id": 1087022,
+    "wm-source": "https://brid.gy/comment/twitter/sebdedeyne/1373889803046035457/1373975334136246276",
+    "wm-target": "https://sebastiandedeyne.com/vite-with-laravel/",
+    "content": {
+      "html": "Works with InertiaJS?\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/sebdedeyne\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/themsaid\"></a>",
+      "text": "Works with InertiaJS?"
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/vite-with-laravel/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "hiszpek",
+      "photo": "https://webmention.io/avatar/abs.twimg.com/0e6b2cd70aa5b35dec24ca4e1e63f8963f0118736d9ec3bba77e3a8c99a27bc2.png",
+      "url": "https://twitter.com/hishpec"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1373889803046035457#favorited-by-1309565338275766272",
+    "published": null,
+    "wm-received": "2021-03-22T12:45:40Z",
+    "wm-id": 1087023,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1373889803046035457/1309565338275766272",
+    "wm-target": "https://sebastiandedeyne.com/vite-with-laravel/",
+    "like-of": "https://sebastiandedeyne.com/vite-with-laravel/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Matt Stauffer",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/f6b28ffbb8faf4fc4ece1c0b03327355dbe119e48304b86b80523ea3f9bda06c.jpg",
+      "url": "https://twitter.com/stauffermatt"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1373889803046035457#favorited-by-14280918",
+    "published": null,
+    "wm-received": "2021-03-22T12:45:47Z",
+    "wm-id": 1087024,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1373889803046035457/14280918",
+    "wm-target": "https://sebastiandedeyne.com/vite-with-laravel/",
+    "like-of": "https://sebastiandedeyne.com/vite-with-laravel/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Simon Ellensohn",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/28ee67afb92f0466fa26ca02fdf06601e4028c2c222659136a8531698110d2c8.jpg",
+      "url": "https://twitter.com/simon_ellensohn"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1373889803046035457#favorited-by-782724726175232000",
+    "published": null,
+    "wm-received": "2021-03-22T12:45:48Z",
+    "wm-id": 1087025,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1373889803046035457/782724726175232000",
+    "wm-target": "https://sebastiandedeyne.com/vite-with-laravel/",
+    "like-of": "https://sebastiandedeyne.com/vite-with-laravel/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Craig Paul",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/7b34dffc93784726af0ab85e96312abb36f8bf57b349fc735a2eb8874ad95a41.jpg",
+      "url": "https://twitter.com/TheCraigPaul"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1373889803046035457#favorited-by-636472279",
+    "published": null,
+    "wm-received": "2021-03-22T13:42:41Z",
+    "wm-id": 1087124,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1373889803046035457/636472279",
+    "wm-target": "https://sebastiandedeyne.com/vite-with-laravel/",
+    "like-of": "https://sebastiandedeyne.com/vite-with-laravel/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Devin Gray",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/32d1d6e82c27c3c128d33c2392c27629df9ee24260a4f33bd8980d2f0f1ad837.jpg",
+      "url": "https://twitter.com/devingray__"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1373889803046035457#favorited-by-1146625576469274624",
+    "published": null,
+    "wm-received": "2021-03-22T13:42:41Z",
+    "wm-id": 1087125,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1373889803046035457/1146625576469274624",
+    "wm-target": "https://sebastiandedeyne.com/vite-with-laravel/",
+    "like-of": "https://sebastiandedeyne.com/vite-with-laravel/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Victor",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/3fe5a5f079d9c806874879fbf481b2be55ca4640f36307242526109536cd6517.jpg",
+      "url": "https://twitter.com/victortolbert"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1373889803046035457#favorited-by-649823",
+    "published": null,
+    "wm-received": "2021-03-22T13:42:43Z",
+    "wm-id": 1087126,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1373889803046035457/649823",
+    "wm-target": "https://sebastiandedeyne.com/vite-with-laravel/",
+    "like-of": "https://sebastiandedeyne.com/vite-with-laravel/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Craig Paul",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/7b34dffc93784726af0ab85e96312abb36f8bf57b349fc735a2eb8874ad95a41.jpg",
+      "url": "https://twitter.com/TheCraigPaul"
+    },
+    "url": "https://twitter.com/TheCraigPaul/status/1373980574998700032",
+    "published": "2021-03-22T12:51:11+00:00",
+    "wm-received": "2021-03-22T13:42:44Z",
+    "wm-id": 1087127,
+    "wm-source": "https://brid.gy/repost/twitter/sebdedeyne/1373889803046035457/1373980574998700032",
+    "wm-target": "https://sebastiandedeyne.com/vite-with-laravel/",
+    "photo": [
+      "https://pbs.twimg.com/media/ExEI_5SXAAgtRAb.jpg"
+    ],
+    "content": {
+      "text": "✒️ Here we go! How to add Vite to your Laravel app for that sweet, sweet developer experience\n\nsebastiandedeyne.com/vite-with-lara… https://t.co/GZ61WhIt"
+    },
+    "repost-of": "https://sebastiandedeyne.com/vite-with-laravel/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Captain Barbosa",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/e304a6c21edc4658e7bb0a6aca9a2ae6e3d9af7d8322dfaab7b53a8d8ebc0b47.jpg",
+      "url": "https://twitter.com/Omar_Andres_Bar"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1373889803046035457#favorited-by-1377043825",
+    "published": null,
+    "wm-received": "2021-03-22T13:43:10Z",
+    "wm-id": 1087131,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1373889803046035457/1377043825",
+    "wm-target": "https://sebastiandedeyne.com/vite-with-laravel/",
+    "like-of": "https://sebastiandedeyne.com/vite-with-laravel/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Casper Sørensen",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/90c3bef344ad4935c6049db953cade44678a6b8fd2491dc7fb7d080a6cca2a2c.jpg",
+      "url": "https://twitter.com/csasorensen"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1373889803046035457#favorited-by-1073765688",
+    "published": null,
+    "wm-received": "2021-03-22T17:15:59Z",
+    "wm-id": 1087382,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1373889803046035457/1073765688",
+    "wm-target": "https://sebastiandedeyne.com/vite-with-laravel/",
+    "like-of": "https://sebastiandedeyne.com/vite-with-laravel/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Placebo Domingo",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/c64ed43d1bcd2c0fa37e0b1d25f5bc26830922e2c9c08287939d126d62b9c40f.jpg",
+      "url": "https://twitter.com/brbcoding"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1373889803046035457#favorited-by-1157124170066595840",
+    "published": null,
+    "wm-received": "2021-03-22T17:15:59Z",
+    "wm-id": 1087383,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1373889803046035457/1157124170066595840",
+    "wm-target": "https://sebastiandedeyne.com/vite-with-laravel/",
+    "like-of": "https://sebastiandedeyne.com/vite-with-laravel/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Songhua Hu",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/2cc9752adc705653a01412fcb3d011500c0522c6ea8ade38cdf8b7680cf43df8.jpg",
+      "url": "https://twitter.com/Songhua"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1373889803046035457#favorited-by-23150992",
+    "published": null,
+    "wm-received": "2021-03-22T17:16:01Z",
+    "wm-id": 1087384,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1373889803046035457/23150992",
+    "wm-target": "https://sebastiandedeyne.com/vite-with-laravel/",
+    "like-of": "https://sebastiandedeyne.com/vite-with-laravel/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Mulia Nasution (mul14)",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/416221f71330e80ef72f57dd352e5e41435fa0438df276707ef841ce19d2ca35.jpg",
+      "url": "https://twitter.com/mul14"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1373889803046035457#favorited-by-56012770",
+    "published": null,
+    "wm-received": "2021-03-22T17:16:02Z",
+    "wm-id": 1087385,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1373889803046035457/56012770",
+    "wm-target": "https://sebastiandedeyne.com/vite-with-laravel/",
+    "like-of": "https://sebastiandedeyne.com/vite-with-laravel/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Len Woodward",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/68e55e487787324fcac84eff70174c69a480acd873d6585b2f2bdb156036d2b1.jpg",
+      "url": "https://twitter.com/ProjektGopher"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1373889803046035457#favorited-by-156880871",
+    "published": null,
+    "wm-received": "2021-03-22T17:16:02Z",
+    "wm-id": 1087386,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1373889803046035457/156880871",
+    "wm-target": "https://sebastiandedeyne.com/vite-with-laravel/",
+    "like-of": "https://sebastiandedeyne.com/vite-with-laravel/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Ruslan",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/732bf6e483279809ace753630d1a569de069117861766e999cd589b42ecab32f.jpg",
+      "url": "https://twitter.com/SuddenlyRust"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1373889803046035457#favorited-by-935107835045842944",
+    "published": null,
+    "wm-received": "2021-03-22T17:16:28Z",
+    "wm-id": 1087387,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1373889803046035457/935107835045842944",
+    "wm-target": "https://sebastiandedeyne.com/vite-with-laravel/",
+    "like-of": "https://sebastiandedeyne.com/vite-with-laravel/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
