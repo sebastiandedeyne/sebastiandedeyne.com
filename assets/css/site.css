@@ -61,8 +61,7 @@ hr {
 }
 
 input[type="text"],
-input[type="email"],
-input[type="search"] {
+input[type="email"] {
   background-color: var(--gray-100);
   border: 2px solid var(--gray-100);
   font: inherit;
@@ -70,13 +69,8 @@ input[type="search"] {
   padding: 0 0.75rem;
 }
 
-input[type="search"] {
-  padding: 0;
-}
-
 input[type="text"]:focus,
-input[type="email"]:focus,
-input[type="search"]:focus {
+input[type="email"]:focus {
   border-color: var(--blue-500);
   outline: none;
 }
@@ -94,6 +88,18 @@ input[type="submit"]:focus {
   background-color: var(--blue-700);
   outline: none;
 }
+
+kbd {
+  font-size: 0.875rem;
+  color: var(--gray-400);
+  border: 1px solid var(--gray-300);
+  border-radius: 2px;
+  padding: 0 0.33em;
+}
+
+/******************************************************************************\
+ * Layout                                                                     *
+\******************************************************************************/
 
 .layout {
   margin: 0 auto;
@@ -153,6 +159,10 @@ input[type="submit"]:focus {
   }
 }
 
+/******************************************************************************\
+ * Posts                                                                      *
+\******************************************************************************/
+
 .post header h1,
 .post header h2 {
   font-size: 1.2rem;
@@ -163,6 +173,10 @@ input[type="submit"]:focus {
   color: var(--gray-500);
   margin-bottom: 1.75rem;
 }
+
+/******************************************************************************\
+ * Newsletter                                                                 *
+\******************************************************************************/
 
 @media (prefers-color-scheme: dark) {
   .newsletter-form input[type="submit"] {
@@ -184,44 +198,9 @@ input[type="submit"]:focus {
   }
 }
 
-.archive-search {
-  height: 1.75rem;
-  margin-bottom: 1.75rem;
-}
-
-.archive-keywords {
-  display: flex;
-  flex-wrap: wrap;
-  line-height: 1.25;
-}
-
-.archive-keywords button {
-  text-decoration: underline;
-  font-size: 0.75rem;
-}
-
-.archive-groups {
-  border-bottom: 1px solid var(--gray-300);
-  padding-bottom: 3.5rem;
-}
-
-.archive-group {
-  border-top: 1px solid var(--gray-300);
-  display: grid;
-  grid-gap: 1.75rem;
-  margin-top: 3.5rem;
-  padding-top: 3.5rem;
-}
-
-@media (min-width: 640px) {
-  .archive-group {
-    grid-template-columns: 9em 1fr;
-  }
-}
-
-.archive-group h2 {
-  font-weight: 600;
-}
+/******************************************************************************\
+ * Carbon                                                                     *
+\******************************************************************************/
 
 #carbonads {
   display: none;
@@ -572,3 +551,80 @@ input[type="submit"]:focus {
 .toc a {
   text-decoration: underline;
 }
+
+/******************************************************************************\
+ * Search                                                                     *
+\******************************************************************************/
+
+.search-backdrop {
+    display: none;
+    bottom: 0;
+    left: 0;
+    position: fixed;
+    right: 0;
+    top: 0;
+    background-color: #0005;
+  }
+
+  .search-pane {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%);
+    width: 24rem;
+    margin-top: -12rem;
+    background-color: white;
+    overflow: hidden;
+    border-radius: 0.5rem;
+    box-shadow: 0 0 25px #0005, 0 0 7px #0002;
+  }
+
+  .search-input {
+    display: block;
+    width: 100%;
+    font: inherit;
+    font-size: 1.2rem;
+    padding: 1rem 0.5rem;
+    background-color: var(--gray-100);
+  }
+
+  .search-input:focus {
+    outline: none;
+  }
+
+  .search-results {
+    max-height: 20rem;
+    overflow: auto;
+    line-height: 1.5;
+  }
+
+  .search-results a {
+    display: block;
+    padding: 0.75rem 1rem;
+  }
+
+  .search-results li.selected a {
+    background-color: var(--blue-500);
+  }
+
+  .search-result-title {
+    display: block;
+    font-weight: 500;
+  }
+
+  .search-result-meta {
+    color: var(--gray-600);
+    font-size: 0.875rem;
+  }
+
+  .search-result-keyword {
+    display: inline-block;
+    text-transform: lowercase;
+    color: var(--gray-500);
+  }
+
+  .search-results li.selected .search-result-title,
+  .search-results li.selected .search-result-meta,
+  .search-results li.selected .search-result-keyword {
+    color: white;
+  }

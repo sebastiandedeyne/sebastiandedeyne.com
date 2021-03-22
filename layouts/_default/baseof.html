@@ -52,12 +52,9 @@
         </header>
         <ul>
           {{ $section := index (split .RelPermalink "/") 1 }}
-          {{ $isBlog := or (eq (in "speaking open-source newsletter archive about now" $section) false) (eq .RelPermalink "/") }}
+          {{ $isBlog := or (eq (in "speaking open-source newsletter about now" $section) false) (eq .RelPermalink "/") }}
           <li class="{{ cond $isBlog "active" "" }}">
             <a href="/posts">Blog</a>
-          </li>
-          <li class="{{ cond (eq $section "archive") "active" "" }}">
-            <a href="/archive">Archive</a>
           </li>
           <li class="{{ cond (eq $section "newsletter") "active" "" }}">
             <a href="/newsletter">Newsletter</a>
@@ -67,6 +64,9 @@
           </li>
         </ul>
         <ul>
+          <li>
+            <a href="#" data-search-trigger>Search <kbd>⌘K</kbd></button>
+          </li>
           <li><a href="https://twitter.com/sebdedeyne" rel="me">Twitter</a></li>
           <li><a href="/index.xml">RSS</a></li>
         </ul>
@@ -82,5 +82,7 @@
     {{ with resources.Get "css/chroma.css" | minify }}
       <style>{{ .Content | safeCSS }}</style>
     {{ end }}
+
+    {{ partial "search.html" }}
   </body>
 </html>
