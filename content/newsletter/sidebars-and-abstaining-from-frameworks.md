@@ -9,7 +9,7 @@ I love blog sidebars. Besides being a place for useful content, they make room f
 
 I finally took the time to add one to my blog. On the useful side it has a short "about" paragraph (for new visitors), a link to what I'm up to now, and secondary navigation (the header was getting crowded). As some fun extras I added a small blogroll which will I'll expand gradually, and a colophon.
 
-Besides the sidebar, I added an [archive/search page](https://sebastiandedeyne.com/archive/) and a ["now" page](https://sebastiandedeyne.com/now/) inspired by [Derek Sivers](https://nownownow.com/about).
+Besides the sidebar, I added an archive/search page and a ["now" page](https://sebastiandedeyne.com/now/) inspired by [Derek Sivers](https://nownownow.com/about).
 
 ## Building Mailcoach: a brave new frameworkless world
 
