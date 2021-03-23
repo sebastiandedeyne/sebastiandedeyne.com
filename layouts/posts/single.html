@@ -41,11 +41,11 @@
             {{ .TableOfContents }}
           </aside>
         {{ end }}
-        <div class="markup">
+        <div class="markup {{ if .Params.large_code_blocks }} large-code-blocks {{ end }}">
           {{ safeHTML (replace .Content .Summary "") }}
         </div>
       {{ else }}
-        <div class="markup">
+        <div class="markup {{ if .Params.large_code_blocks }} large-code-blocks {{ end }}">
           {{ .Content }}
         </div>
       {{ end }}

@@ -4,6 +4,7 @@ title: Vite with Laravel
 slug: vite-with-laravel
 categories: ["articles"]
 series: vite-with-laravel
+large_code_blocks: true
 keywords:
   - Laravel
   - Vite
@@ -241,9 +242,11 @@ Devs can run `npm run production` to generate assets once, but the application w
 
 To work around this, we can ping `localhost:3000`. It it connects, we know the dev server is running and we can render the hot scripts.
 
-First, let's extract the code we had written in our Blade template to a helper function. Next, we'll use Laravel `Http` facade to ping `localhost:3000`. If it connects, we know the dev server is running.
+{{< aside >}}
+This could go in a `helpers.php` file, learn how to set one up [here](https://laravel-news.com/creating-helpers).
+{{< /aside >}}
 
-*This could go in a `helpers.php` file, learn how to set one up [here](https://laravel-news.com/creating-helpers).*
+First, let's extract the code we had written in our Blade template to a helper function. Next, we'll use Laravel `Http` facade to ping `localhost:3000`. If it connects, we know the dev server is running.
 
 ```php
 <?php

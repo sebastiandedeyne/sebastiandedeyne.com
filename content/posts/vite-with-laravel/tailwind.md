@@ -4,6 +4,7 @@ title: "Vite with Laravel: Using Tailwind CSS"
 slug: vite-with-laravel/tailwind
 categories: ["articles"]
 series: vite-with-laravel
+large_code_blocks: true
 keywords:
   - Laravel
   - Vite
