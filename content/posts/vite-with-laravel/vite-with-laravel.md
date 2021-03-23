@@ -243,6 +243,8 @@ To work around this, we can ping `localhost:3000`. It it connects, we know the d
 
 First, let's extract the code we had written in our Blade template to a helper function. Next, we'll use Laravel `Http` facade to ping `localhost:3000`. If it connects, we know the dev server is running.
 
+*This could go in a `helpers.php` file, learn how to set one up [here](https://laravel-news.com/creating-helpers).*
+
 ```php
 <?php
 
