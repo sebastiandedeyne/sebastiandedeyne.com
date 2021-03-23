@@ -13,7 +13,11 @@
             </a>
           </p>
         {{ else if .Params.summary }}
-          {{ .Params.summary | markdownify }}
+          {{ if in .Params.summary "\n\n" }}
+            {{ .Params.summary | markdownify }}
+          {{ else }}
+            <p>{{ .Params.summary }}</p>
+          {{ end }}
           <p>
             <a href="{{ .RelPermalink }}">
               Read more
