@@ -19,14 +19,7 @@
     {{ .Content }}
   </section>
 </article>
-<hr>
-<section class="markup">
-  <h2>Subscribe</h2>
-  <p>
-    I occasionally send out a newsletter with personal stories, things I’ve been
-    working on in the past month, and interesting things I come across.
-  </p>
-  {{ partial "newsletter-form.html" }}
-</section>
+
+{{ partial "newsletter.html" }}
 
 {{ end }}

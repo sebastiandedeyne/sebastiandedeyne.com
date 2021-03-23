@@ -56,23 +56,15 @@
       {{ end }}
     </section>
   </article>
-  <hr>
-  <section class="markup">
-    <h2>Subscribe</h2>
-    <p>
-      I occasionally send out a newsletter with personal stories, things I’ve been
-      working on in the past month, and interesting things I come across.
-    </p>
-    {{ partial "newsletter-form.html" }}
-  </section>
+
+  {{ partial "newsletter.html" }}
 
   {{ $related := .Site.RegularPages.Related . | first 3 }}
   {{ $keywords := .Keywords }}
   {{ with $related }}
-    <hr>
     <section class="markup">
       <h2>
-        More about {{ delimit $keywords ", " " & " }}
+        More {{ delimit $keywords ", " " & " }}
       </h2>
       <dl>
         {{ range . }}
