@@ -23,6 +23,7 @@
   --green-50: #ecfdf5;
   --green-950: #053026;
   --indigo-50: #F5F3FF;
+  --indigo-800: #5B21B6;
   --indigo-900: #4C1D95;
 }
 
@@ -68,6 +69,13 @@ kbd {
   border: 1px solid var(--gray-300);
   border-radius: 2px;
   padding: 0 0.33em;
+}
+
+@media (prefers-color-scheme: dark) {
+  kbd {
+    color: var(--gray-500);
+    border-color: var(--gray-500);
+  }
 }
 
 input[type="email"],
@@ -153,6 +161,16 @@ input[type="submit"] {
   }
 }
 
+.sidebar kbd {
+  display: none;
+}
+
+@media (min-width: 640px) {
+  .sidebar kbd {
+    display: inline;
+  }
+}
+
 /******************************************************************************\
  * Posts                                                                      *
 \******************************************************************************/
@@ -201,6 +219,17 @@ input[type="submit"] {
 .newsletter-cta .newsletter-form input[type="submit"] {
   background-color: var(--indigo-900);
   color: var(--indigo-50);
+}
+
+@media (prefers-color-scheme: dark) {
+  .newsletter-cta {
+    background-color: var(--indigo-800);
+    color: var(--indigo-50);
+  }
+
+  .newsletter-cta .newsletter-form input[type="email"] {
+    color: var(--indigo-900);
+  }
 }
 
 /******************************************************************************\
