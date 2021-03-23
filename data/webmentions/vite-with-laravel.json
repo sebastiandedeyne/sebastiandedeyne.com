@@ -2313,5 +2313,161 @@
     "like-of": "https://sebastiandedeyne.com/vite-with-laravel/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Placebo Domingo",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/c64ed43d1bcd2c0fa37e0b1d25f5bc26830922e2c9c08287939d126d62b9c40f.jpg",
+      "url": "https://twitter.com/brbcoding"
+    },
+    "url": "https://twitter.com/brbcoding/status/1374063245221376002",
+    "published": "2021-03-22T18:19:41+00:00",
+    "wm-received": "2021-03-22T18:51:59Z",
+    "wm-id": 1087488,
+    "wm-source": "https://brid.gy/post/twitter/sebdedeyne/1374063245221376002",
+    "wm-target": "https://sebastiandedeyne.com/vite-with-laravel/",
+    "content": {
+      "html": "New super cool tooling comes along, still super hard to set up. Thanks for the effort in writing this up!\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/vite-with-laravel/\"></a>",
+      "text": "New super cool tooling comes along, still super hard to set up. Thanks for the effort in writing this up!"
+    },
+    "mention-of": "https://sebastiandedeyne.com/vite-with-laravel/",
+    "wm-property": "mention-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Surfers Developers",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/965a8590f2c84ad648dddabb98149ab3e205eec3aa9233394b836953a8a0e595.jpg",
+      "url": "https://twitter.com/SuDevelopers"
+    },
+    "url": "https://twitter.com/SuDevelopers/status/1374050744073064457",
+    "published": "2021-03-22T17:30:00+00:00",
+    "wm-received": "2021-03-22T18:52:00Z",
+    "wm-id": 1087489,
+    "wm-source": "https://brid.gy/repost/twitter/sebdedeyne/1373889803046035457/1374050744073064457",
+    "wm-target": "https://sebastiandedeyne.com/vite-with-laravel/",
+    "photo": [
+      "https://pbs.twimg.com/media/ExEI_5SXAAgtRAb.jpg"
+    ],
+    "content": {
+      "text": "✒️ Here we go! How to add Vite to your Laravel app for that sweet, sweet developer experience\n\nsebastiandedeyne.com/vite-with-lara… https://t.co/GZ61WhIt"
+    },
+    "repost-of": "https://sebastiandedeyne.com/vite-with-laravel/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "René Sinnbeck",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/b0e9c457fe430dd79e28ea14ef4941a802dee4b119083ea2e86d64de15a78b12.jpg",
+      "url": "https://twitter.com/rsinnbeck"
+    },
+    "url": "https://twitter.com/rsinnbeck/status/1374081824511655939",
+    "published": "2021-03-22T19:33:30+00:00",
+    "wm-received": "2021-03-22T19:54:50Z",
+    "wm-id": 1087552,
+    "wm-source": "https://brid.gy/post/twitter/sebdedeyne/1374081824511655939",
+    "wm-target": "https://sebastiandedeyne.com/vite-with-laravel/",
+    "content": {
+      "html": "Going to try this out tomorrow 😁\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/vite-with-laravel/\"></a>",
+      "text": "Going to try this out tomorrow 😁"
+    },
+    "mention-of": "https://sebastiandedeyne.com/vite-with-laravel/",
+    "wm-property": "mention-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "marco asperti",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/3119083fbb37262467964a9d521429fca32b3c9de6fc1ab3ab2992c225569277.jpg",
+      "url": "https://twitter.com/marcoaxx"
+    },
+    "url": "https://twitter.com/marcoaxx/status/1374079611932409856",
+    "published": "2021-03-22T19:24:43+00:00",
+    "wm-received": "2021-03-22T19:55:15Z",
+    "wm-id": 1087553,
+    "wm-source": "https://brid.gy/post/twitter/sebdedeyne/1374079611932409856",
+    "wm-target": "https://sebastiandedeyne.com/vite-with-laravel/",
+    "content": {
+      "html": "<a href=\"https://sebastiandedeyne.com/vite-with-laravel/\">sebastiandedeyne.com/vite-with-lara…</a>",
+      "text": "sebastiandedeyne.com/vite-with-lara…"
+    },
+    "mention-of": "https://sebastiandedeyne.com/vite-with-laravel/",
+    "wm-property": "mention-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Facundo",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/d2e6b421df1ddab816a786cd57e06f567096602e8c2f92115231f97fef854e6f.jpg",
+      "url": "https://twitter.com/gonifacundo"
+    },
+    "url": "https://twitter.com/gonifacundo/status/1374109259680604172",
+    "published": "2021-03-22T21:22:31+00:00",
+    "wm-received": "2021-03-22T21:58:15Z",
+    "wm-id": 1087655,
+    "wm-source": "https://brid.gy/comment/twitter/sebdedeyne/1373889803046035457/1374109259680604172",
+    "wm-target": "https://sebastiandedeyne.com/vite-with-laravel/",
+    "content": {
+      "html": "Is this only for SPA or works for hybrid Blade+Vue Laravel?\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/sebdedeyne\"></a>",
+      "text": "Is this only for SPA or works for hybrid Blade+Vue Laravel?"
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/vite-with-laravel/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Sebastian De Deyne",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/3ce609991342657b8b7e99eb7a5c6e3656fbdb1c51575f1464d354b81aaeda86.jpg",
+      "url": "https://twitter.com/sebdedeyne"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1374113097401704448",
+    "published": "2021-03-22T21:37:46+00:00",
+    "wm-received": "2021-03-22T21:58:15Z",
+    "wm-id": 1087656,
+    "wm-source": "https://brid.gy/comment/twitter/sebdedeyne/1373889803046035457/1374113097401704448",
+    "wm-target": "https://sebastiandedeyne.com/vite-with-laravel/",
+    "content": {
+      "html": "Works like a charm for non-SPA's!\n<a class=\"u-mention\" href=\"https://twitter.com/gonifacundo\"></a>",
+      "text": "Works like a charm for non-SPA's!"
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/vite-with-laravel/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Facundo",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/d2e6b421df1ddab816a786cd57e06f567096602e8c2f92115231f97fef854e6f.jpg",
+      "url": "https://twitter.com/gonifacundo"
+    },
+    "url": "https://twitter.com/gonifacundo/status/1374113425794666496",
+    "published": "2021-03-22T21:39:05+00:00",
+    "wm-received": "2021-03-22T21:58:16Z",
+    "wm-id": 1087657,
+    "wm-source": "https://brid.gy/comment/twitter/sebdedeyne/1373889803046035457/1374113425794666496",
+    "wm-target": "https://sebastiandedeyne.com/vite-with-laravel/",
+    "content": {
+      "html": "Great thanks!👌👌\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/sebdedeyne\"></a>",
+      "text": "Great thanks!👌👌"
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/vite-with-laravel/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
   }
 ]
