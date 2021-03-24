@@ -4031,5 +4031,201 @@
     "repost-of": "https://sebastiandedeyne.com/vite-with-laravel/",
     "wm-property": "repost-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Rui Saraiva",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/c814b5a076202a0aaa3469f26f3ce8db3dd1015128deec3a6f52acbdb217f279.jpg",
+      "url": "https://twitter.com/ruisaraiva19"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1373889803046035457#favorited-by-365136365",
+    "published": null,
+    "wm-received": "2021-03-23T18:58:37Z",
+    "wm-id": 1089806,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1373889803046035457/365136365",
+    "wm-target": "https://sebastiandedeyne.com/vite-with-laravel/",
+    "like-of": "https://sebastiandedeyne.com/vite-with-laravel/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Bhavya Daiya",
+      "photo": "https://webmention.io/avatar/abs.twimg.com/0e6b2cd70aa5b35dec24ca4e1e63f8963f0118736d9ec3bba77e3a8c99a27bc2.png",
+      "url": "https://twitter.com/BhavyaDaiya"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1373889803046035457#favorited-by-8399732",
+    "published": null,
+    "wm-received": "2021-03-23T18:58:46Z",
+    "wm-id": 1089808,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1373889803046035457/8399732",
+    "wm-target": "https://sebastiandedeyne.com/vite-with-laravel/",
+    "like-of": "https://sebastiandedeyne.com/vite-with-laravel/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "boring day",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/e591f305b0adccd1b00d0c725357625ac03e7a13b2ff014bd8c719bb6e8235d3.jpg",
+      "url": "https://twitter.com/qqwertyiiop"
+    },
+    "url": "https://twitter.com/qqwertyiiop/status/1374416143952138247",
+    "published": "2021-03-23T17:41:58+00:00",
+    "wm-received": "2021-03-23T18:58:47Z",
+    "wm-id": 1089809,
+    "wm-source": "https://brid.gy/repost/twitter/sebdedeyne/1373889803046035457/1374416143952138247",
+    "wm-target": "https://sebastiandedeyne.com/vite-with-laravel/",
+    "photo": [
+      "https://pbs.twimg.com/media/ExEI_5SXAAgtRAb.jpg"
+    ],
+    "content": {
+      "text": "✒️ Here we go! How to add Vite to your Laravel app for that sweet, sweet developer experience\n\nsebastiandedeyne.com/vite-with-lara… https://t.co/GZ61WhIt"
+    },
+    "repost-of": "https://sebastiandedeyne.com/vite-with-laravel/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Michał Karnicki",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/c42da3e2cc2a673a0123d47d68ab3fda5d0348fba7aadaad6278eeb76866b43f.jpg",
+      "url": "https://twitter.com/mkarnicki"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1373889803046035457#favorited-by-35588318",
+    "published": null,
+    "wm-received": "2021-03-23T18:59:11Z",
+    "wm-id": 1089810,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1373889803046035457/35588318",
+    "wm-target": "https://sebastiandedeyne.com/vite-with-laravel/",
+    "like-of": "https://sebastiandedeyne.com/vite-with-laravel/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "David Hellmann",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/2616d50385170b3b02a273ad2c879c4b19cd1bb7d64d86207356fb8e8a6e768d.jpg",
+      "url": "https://twitter.com/davidhellmann"
+    },
+    "url": "https://twitter.com/davidhellmann/status/1374458182261641227",
+    "published": "2021-03-23T20:29:01+00:00",
+    "wm-received": "2021-03-23T20:34:33Z",
+    "wm-id": 1089873,
+    "wm-source": "https://brid.gy/repost/twitter/sebdedeyne/1373889803046035457/1374458182261641227",
+    "wm-target": "https://sebastiandedeyne.com/vite-with-laravel/",
+    "photo": [
+      "https://pbs.twimg.com/media/ExEI_5SXAAgtRAb.jpg"
+    ],
+    "content": {
+      "text": "✒️ Here we go! How to add Vite to your Laravel app for that sweet, sweet developer experience\n\nsebastiandedeyne.com/vite-with-lara… https://t.co/GZ61WhIt"
+    },
+    "repost-of": "https://sebastiandedeyne.com/vite-with-laravel/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "游泳褲",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/a24567423e3df185004bacc917ef98b736875f1d59c20fb7252bea76252b6202.jpg",
+      "url": "https://twitter.com/fripig"
+    },
+    "url": "https://twitter.com/fripig/status/1374440214102347787",
+    "published": "2021-03-23T19:17:37+00:00",
+    "wm-received": "2021-03-23T20:35:11Z",
+    "wm-id": 1089874,
+    "wm-source": "https://brid.gy/post/twitter/sebdedeyne/1374440214102347787",
+    "wm-target": "https://sebastiandedeyne.com/vite-with-laravel/",
+    "content": {
+      "html": "<a href=\"https://sebastiandedeyne.com/vite-with-laravel/\">sebastiandedeyne.com/vite-with-lara…</a> (Vite with Laravel — Sebastian De Deyne) <a href=\"https://twitter.com/search?q=%23%E6%8A%80%E8%A1%93%E6%96%87%E7%AB%A0\">#技術文章</a> <a href=\"https://plurk.com/p/oa5lsu\">plurk.com/p/oa5lsu</a>",
+      "text": "sebastiandedeyne.com/vite-with-lara… (Vite with Laravel — Sebastian De Deyne) #技術文章 plurk.com/p/oa5lsu"
+    },
+    "mention-of": "https://sebastiandedeyne.com/vite-with-laravel/",
+    "wm-property": "mention-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "David Hellmann",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/2616d50385170b3b02a273ad2c879c4b19cd1bb7d64d86207356fb8e8a6e768d.jpg",
+      "url": "https://twitter.com/davidhellmann"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1373889803046035457#favorited-by-14592777",
+    "published": null,
+    "wm-received": "2021-03-23T22:03:57Z",
+    "wm-id": 1089899,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1373889803046035457/14592777",
+    "wm-target": "https://sebastiandedeyne.com/vite-with-laravel/",
+    "like-of": "https://sebastiandedeyne.com/vite-with-laravel/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Justus Kraft",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/b8e1fdaca594c7ae936d3fa95063c4e9b2e66d72b1d88013136f84f1d2ba370a.jpg",
+      "url": "https://twitter.com/JuKra00"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1373889803046035457#favorited-by-64742453",
+    "published": null,
+    "wm-received": "2021-03-23T22:03:57Z",
+    "wm-id": 1089900,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1373889803046035457/64742453",
+    "wm-target": "https://sebastiandedeyne.com/vite-with-laravel/",
+    "like-of": "https://sebastiandedeyne.com/vite-with-laravel/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Ibrahim Samad",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/f28b971fcf0376e563de92964f5dabe2387851a4c725bb57b1ead51ef41c2a23.jpg",
+      "url": "https://twitter.com/ultrasamad"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1373889803046035457#favorited-by-2403138564",
+    "published": null,
+    "wm-received": "2021-03-23T22:03:59Z",
+    "wm-id": 1089901,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1373889803046035457/2403138564",
+    "wm-target": "https://sebastiandedeyne.com/vite-with-laravel/",
+    "like-of": "https://sebastiandedeyne.com/vite-with-laravel/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Nandor Sperl",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/849bae028175615bc37c9d98eaad0beb243298eddacb4a5d85c44a0d92fdf6ba.jpg",
+      "url": "https://twitter.com/nandorsperl"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1373889803046035457#favorited-by-339583926",
+    "published": null,
+    "wm-received": "2021-03-23T22:04:00Z",
+    "wm-id": 1089902,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1373889803046035457/339583926",
+    "wm-target": "https://sebastiandedeyne.com/vite-with-laravel/",
+    "like-of": "https://sebastiandedeyne.com/vite-with-laravel/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
