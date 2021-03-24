@@ -4381,5 +4381,59 @@
     "like-of": "https://sebastiandedeyne.com/vite-with-laravel/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Chris Carver",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/5222352f81585e619ddb4968dbb1a88f2f0f22f631e41f6c7a152739e1678f8b.jpg",
+      "url": "https://twitter.com/Chrislcarver"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1373889803046035457#favorited-by-837816890462466048",
+    "published": null,
+    "wm-received": "2021-03-24T12:29:51Z",
+    "wm-id": 1090913,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1373889803046035457/837816890462466048",
+    "wm-target": "https://sebastiandedeyne.com/vite-with-laravel/",
+    "like-of": "https://sebastiandedeyne.com/vite-with-laravel/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Rakesh",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/7d7a570f3ca4c22f2545762fee3b553d595cfbc5bcd1c15eff28e667556b38c4.jpg",
+      "url": "https://twitter.com/_raakesh"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1373889803046035457#favorited-by-363918155",
+    "published": null,
+    "wm-received": "2021-03-24T15:21:39Z",
+    "wm-id": 1091241,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1373889803046035457/363918155",
+    "wm-target": "https://sebastiandedeyne.com/vite-with-laravel/",
+    "like-of": "https://sebastiandedeyne.com/vite-with-laravel/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Mohammad Ataei",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/1a8746c5604a2695c770ef852ab1627fdd29f67641d5db956e3dafcc1e990ba1.png",
+      "url": "https://twitter.com/mammadataei"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1373889803046035457#favorited-by-887472187967504385",
+    "published": null,
+    "wm-received": "2021-03-24T17:32:29Z",
+    "wm-id": 1091476,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1373889803046035457/887472187967504385",
+    "wm-target": "https://sebastiandedeyne.com/vite-with-laravel/",
+    "like-of": "https://sebastiandedeyne.com/vite-with-laravel/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
