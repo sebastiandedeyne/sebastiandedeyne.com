@@ -4323,5 +4323,63 @@
     "repost-of": "https://sebastiandedeyne.com/vite-with-laravel/",
     "wm-property": "repost-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Anas",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/d3dea472cb626338ffa6395fb893163340ed8cafa334f0f2c0faa7fae3957aa1.jpg",
+      "url": "https://twitter.com/Stormix_co"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1373889803046035457#favorited-by-886993658",
+    "published": null,
+    "wm-received": "2021-03-24T07:30:59Z",
+    "wm-id": 1090601,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1373889803046035457/886993658",
+    "wm-target": "https://sebastiandedeyne.com/vite-with-laravel/",
+    "like-of": "https://sebastiandedeyne.com/vite-with-laravel/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Povilas Korop",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/5f47c904a89b90876bd4f8edd8e12bc8e11bc2892b9a2d251905a137ebd59062.jpg",
+      "url": "https://twitter.com/PovilasKorop"
+    },
+    "url": "https://twitter.com/PovilasKorop/status/1374673601375436800",
+    "published": "2021-03-24T10:45:01+00:00",
+    "wm-received": "2021-03-24T11:33:27Z",
+    "wm-id": 1090863,
+    "wm-source": "https://brid.gy/post/twitter/sebdedeyne/1374673601375436800",
+    "wm-target": "https://sebastiandedeyne.com/vite-with-laravel/",
+    "content": {
+      "html": "Vite with Laravel - a 7-part article series by <a href=\"https://twitter.com/sebdedeyne\">@sebdedeyne</a> <a href=\"https://sebastiandedeyne.com/vite-with-laravel/\">sebastiandedeyne.com/vite-with-lara…</a>",
+      "text": "Vite with Laravel - a 7-part article series by @sebdedeyne sebastiandedeyne.com/vite-with-lara…"
+    },
+    "mention-of": "https://sebastiandedeyne.com/vite-with-laravel/",
+    "wm-property": "mention-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Shirish Nigam | शिरीष निगम",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/b86f436236ef5017a7f150c53190bc62162e3ea6bd1887ec99f3f73f6703c08b.jpg",
+      "url": "https://twitter.com/_shirish"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1373889803046035457#favorited-by-25048064",
+    "published": null,
+    "wm-received": "2021-03-24T11:33:34Z",
+    "wm-id": 1090864,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1373889803046035457/25048064",
+    "wm-target": "https://sebastiandedeyne.com/vite-with-laravel/",
+    "like-of": "https://sebastiandedeyne.com/vite-with-laravel/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
