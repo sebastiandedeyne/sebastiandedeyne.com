@@ -4227,5 +4227,101 @@
     "like-of": "https://sebastiandedeyne.com/vite-with-laravel/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Crisis2010",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/266cfa50122b8be0f2413f7543e09d6ca11b1526893290e0bc0827c4d711cb83.png",
+      "url": "https://twitter.com/crisis4433"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1373889803046035457#favorited-by-538703055",
+    "published": null,
+    "wm-received": "2021-03-24T01:55:58Z",
+    "wm-id": 1090153,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1373889803046035457/538703055",
+    "wm-target": "https://sebastiandedeyne.com/vite-with-laravel/",
+    "like-of": "https://sebastiandedeyne.com/vite-with-laravel/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Sarayut Y.",
+      "photo": "https://webmention.io/avatar/abs.twimg.com/0e6b2cd70aa5b35dec24ca4e1e63f8963f0118736d9ec3bba77e3a8c99a27bc2.png",
+      "url": "https://twitter.com/y_sarayut"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1373889803046035457#favorited-by-1361479952420364292",
+    "published": null,
+    "wm-received": "2021-03-24T01:55:58Z",
+    "wm-id": 1090154,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1373889803046035457/1361479952420364292",
+    "wm-target": "https://sebastiandedeyne.com/vite-with-laravel/",
+    "like-of": "https://sebastiandedeyne.com/vite-with-laravel/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Even André Fiskvik",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/7cfc0d4cef89b10f4a8f9b9f2de7c4311c73e1be63b3f9f9f9fc6da7b6719a26.jpg",
+      "url": "https://twitter.com/grEvenX"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1373889803046035457#favorited-by-3292741",
+    "published": null,
+    "wm-received": "2021-03-24T01:56:00Z",
+    "wm-id": 1090155,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1373889803046035457/3292741",
+    "wm-target": "https://sebastiandedeyne.com/vite-with-laravel/",
+    "like-of": "https://sebastiandedeyne.com/vite-with-laravel/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Jon Dingman",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/0748b91c77c917fd7e64e3aed2dec4302890e217f4c7fde876545d46d58dcd97.jpg",
+      "url": "https://twitter.com/Dingman"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1373889803046035457#favorited-by-7765902",
+    "published": null,
+    "wm-received": "2021-03-24T01:56:01Z",
+    "wm-id": 1090156,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1373889803046035457/7765902",
+    "wm-target": "https://sebastiandedeyne.com/vite-with-laravel/",
+    "like-of": "https://sebastiandedeyne.com/vite-with-laravel/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "DonLik",
+      "photo": "https://webmention.io/avatar/abs.twimg.com/0e6b2cd70aa5b35dec24ca4e1e63f8963f0118736d9ec3bba77e3a8c99a27bc2.png",
+      "url": "https://twitter.com/DonLik19"
+    },
+    "url": "https://twitter.com/DonLik19/status/1374546166889713664",
+    "published": "2021-03-24T02:18:38+00:00",
+    "wm-received": "2021-03-24T03:03:58Z",
+    "wm-id": 1090227,
+    "wm-source": "https://brid.gy/repost/twitter/sebdedeyne/1373889803046035457/1374546166889713664",
+    "wm-target": "https://sebastiandedeyne.com/vite-with-laravel/",
+    "photo": [
+      "https://pbs.twimg.com/media/ExEI_5SXAAgtRAb.jpg"
+    ],
+    "content": {
+      "text": "✒️ Here we go! How to add Vite to your Laravel app for that sweet, sweet developer experience\n\nsebastiandedeyne.com/vite-with-lara… https://t.co/GZ61WhIt"
+    },
+    "repost-of": "https://sebastiandedeyne.com/vite-with-laravel/",
+    "wm-property": "repost-of",
+    "wm-private": false
   }
 ]
