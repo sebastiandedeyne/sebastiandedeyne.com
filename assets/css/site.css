@@ -147,11 +147,6 @@ input[type="submit"] {
   min-width: 0;
 }
 
-.sidebar {
-  position: sticky;
-  top: 0;
-}
-
 .sidebar header {
   font-weight: 600;
   white-space: nowrap;
