@@ -4435,5 +4435,29 @@
     "like-of": "https://sebastiandedeyne.com/vite-with-laravel/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Yash Pal",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/e5eea9c3c962e673be34fd0e2ee6b6bbf5e38217aa4efa8737782fe5cd99e82f.jpg",
+      "url": "https://twitter.com/_iyashpal"
+    },
+    "url": "https://twitter.com/_iyashpal/status/1374788881879425029",
+    "published": "2021-03-24T18:23:06+00:00",
+    "wm-received": "2021-03-24T19:02:10Z",
+    "wm-id": 1091560,
+    "wm-source": "https://brid.gy/repost/twitter/sebdedeyne/1373889803046035457/1374788881879425029",
+    "wm-target": "https://sebastiandedeyne.com/vite-with-laravel/",
+    "photo": [
+      "https://pbs.twimg.com/media/ExEI_5SXAAgtRAb.jpg"
+    ],
+    "content": {
+      "text": "✒️ Here we go! How to add Vite to your Laravel app for that sweet, sweet developer experience\n\nsebastiandedeyne.com/vite-with-lara… https://t.co/GZ61WhIt"
+    },
+    "repost-of": "https://sebastiandedeyne.com/vite-with-laravel/",
+    "wm-property": "repost-of",
+    "wm-private": false
   }
 ]
