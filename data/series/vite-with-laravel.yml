@@ -8,9 +8,9 @@ posts:
     slug: vite-with-laravel/tailwind
   - title: Using Vue.js
     slug: vite-with-laravel/vue
-  - title: Using React (coming soon)
-    # slug: vite-with-laravel/react
-  - title: Using TypeScript (coming soon)
-    # slug: vite-with-laravel/typescript
+  - title: Using React
+    slug: vite-with-laravel/react
+  - title: Using TypeScript
+    slug: vite-with-laravel/typescript
   - title: Using Inertia.js (coming soon)
     # slug: vite-with-laravel/inertia
