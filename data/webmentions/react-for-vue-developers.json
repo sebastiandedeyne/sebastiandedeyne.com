@@ -544,5 +544,27 @@
     "mention-of": "https://sebastiandedeyne.com/react-for-vue-developers/",
     "wm-property": "mention-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "DianaTech 🦄",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/63d66fa136a20a062d4bcf1dfca39075f827b8c76e45a21359919b1b23f127eb.jpg",
+      "url": "https://twitter.com/diana_nerd"
+    },
+    "url": "https://twitter.com/diana_nerd/status/1374929696996130819",
+    "published": "2021-03-25T03:42:39+00:00",
+    "wm-received": "2021-03-25T11:19:43Z",
+    "wm-id": 1092380,
+    "wm-source": "https://brid.gy/post/twitter/sebdedeyne/1374929696996130819",
+    "wm-target": "https://sebastiandedeyne.com/react-for-vue-developers/",
+    "content": {
+      "html": "No sé cómo no se me ocurrió buscar algo así antes. 🙃\n\n<a href=\"https://twitter.com/search?q=%23vue\">#vue</a> <a href=\"https://twitter.com/search?q=%23react\">#react</a> <a href=\"https://twitter.com/search?q=%23code\">#code</a> <a href=\"https://twitter.com/search?q=%23javascript\">#javascript</a> \n<a href=\"https://sebastiandedeyne.com/react-for-vue-developers/\">sebastiandedeyne.com/react-for-vue-…</a>",
+      "text": "No sé cómo no se me ocurrió buscar algo así antes. 🙃\n\n#vue #react #code #javascript \nsebastiandedeyne.com/react-for-vue-…"
+    },
+    "mention-of": "https://sebastiandedeyne.com/react-for-vue-developers/",
+    "wm-property": "mention-of",
+    "wm-private": false
   }
 ]
