@@ -12,5 +12,5 @@ posts:
     slug: vite-with-laravel/react
   - title: Using TypeScript
     slug: vite-with-laravel/typescript
-  - title: Using Inertia.js (coming soon)
-    # slug: vite-with-laravel/inertia
+  - title: Using Inertia.js
+    slug: vite-with-laravel/inertia
