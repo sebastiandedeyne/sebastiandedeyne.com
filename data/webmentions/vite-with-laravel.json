@@ -4477,5 +4477,27 @@
     "like-of": "https://sebastiandedeyne.com/vite-with-laravel/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Freek Van der Herten 📯",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/df0b08af8527090085ffdf1f7f8dc6daf99a52521222454d2c0149e61ee142f8.jpg",
+      "url": "https://twitter.com/freekmurze"
+    },
+    "url": "https://twitter.com/freekmurze/status/1375439920261701633",
+    "published": "2021-03-26T13:30:06+00:00",
+    "wm-received": "2021-03-26T14:11:57Z",
+    "wm-id": 1093807,
+    "wm-source": "https://brid.gy/post/twitter/sebdedeyne/1375439920261701633",
+    "wm-target": "https://sebastiandedeyne.com/vite-with-laravel/",
+    "content": {
+      "html": "🔗 Vite with Laravel (by <a href=\"https://twitter.com/sebdedeyne\">@sebdedeyne</a>)\n<a href=\"https://sebastiandedeyne.com/vite-with-laravel/\">sebastiandedeyne.com/vite-with-lara…</a>\n<a href=\"https://twitter.com/search?q=%23frontend\">#frontend</a> <a href=\"https://twitter.com/search?q=%23js\">#js</a> <a href=\"https://twitter.com/search?q=%23bundler\">#bundler</a> <a href=\"https://twitter.com/search?q=%23vite\">#vite</a>",
+      "text": "🔗 Vite with Laravel (by @sebdedeyne)\nsebastiandedeyne.com/vite-with-lara…\n#frontend #js #bundler #vite"
+    },
+    "mention-of": "https://sebastiandedeyne.com/vite-with-laravel/",
+    "wm-property": "mention-of",
+    "wm-private": false
   }
 ]
