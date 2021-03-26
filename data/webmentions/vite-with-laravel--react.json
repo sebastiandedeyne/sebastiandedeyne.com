@@ -240,5 +240,23 @@
     "like-of": "https://sebastiandedeyne.com/vite-with-laravel/react/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Алиса Игра",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/7cc8e1d4f366c9417fb2cc9661dad97a709f3491b4d65eec1de39dab408ec8ca.jpg",
+      "url": "https://twitter.com/Alisa_Igra"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1375044521818460164#favorited-by-3351833321",
+    "published": null,
+    "wm-received": "2021-03-26T09:10:40Z",
+    "wm-id": 1093454,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1375044521818460164/3351833321",
+    "wm-target": "https://sebastiandedeyne.com/vite-with-laravel/react/",
+    "like-of": "https://sebastiandedeyne.com/vite-with-laravel/react/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
