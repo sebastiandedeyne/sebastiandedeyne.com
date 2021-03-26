@@ -92,5 +92,153 @@
     "like-of": "https://sebastiandedeyne.com/vite-with-laravel/react/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Salman Zafar",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/1af7ec8238261d3e51abdb2d6dca4dbacd7f52e961cedac25089b359be10040b.jpg",
+      "url": "https://twitter.com/salmanzafar949"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1375044521818460164#favorited-by-1106029585",
+    "published": null,
+    "wm-received": "2021-03-26T00:56:25Z",
+    "wm-id": 1092893,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1375044521818460164/1106029585",
+    "wm-target": "https://sebastiandedeyne.com/vite-with-laravel/react/",
+    "like-of": "https://sebastiandedeyne.com/vite-with-laravel/react/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Flávio - Aqui é Bolsonaro 🅙 🇧🇷",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/f6281c1c72fe7c1f07d2906f7b43ba1401b2482c94a888ee29c4cfb878bcc671.jpg",
+      "url": "https://twitter.com/ferreira_f_h"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1375044521818460164#favorited-by-18818881",
+    "published": null,
+    "wm-received": "2021-03-26T00:57:35Z",
+    "wm-id": 1092900,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1375044521818460164/18818881",
+    "wm-target": "https://sebastiandedeyne.com/vite-with-laravel/react/",
+    "like-of": "https://sebastiandedeyne.com/vite-with-laravel/react/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Nigel James",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/0d4ebdc8f4cc8992876c7446ac4f7193e1e05e47381b4c6d19d3e4392f7bf1f3.jpg",
+      "url": "https://twitter.com/njames"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1375044521818460164#favorited-by-60063",
+    "published": null,
+    "wm-received": "2021-03-26T00:57:36Z",
+    "wm-id": 1092901,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1375044521818460164/60063",
+    "wm-target": "https://sebastiandedeyne.com/vite-with-laravel/react/",
+    "like-of": "https://sebastiandedeyne.com/vite-with-laravel/react/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Ricardo Vargas",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/8b47e113f956a639278fdcb9b3f856b3ac21d9c54049269ccab50a32be27fb8a.jpg",
+      "url": "https://twitter.com/ricardov03"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1375044521818460164#favorited-by-156530158",
+    "published": null,
+    "wm-received": "2021-03-26T00:57:37Z",
+    "wm-id": 1092902,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1375044521818460164/156530158",
+    "wm-target": "https://sebastiandedeyne.com/vite-with-laravel/react/",
+    "like-of": "https://sebastiandedeyne.com/vite-with-laravel/react/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Nandor Sperl",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/849bae028175615bc37c9d98eaad0beb243298eddacb4a5d85c44a0d92fdf6ba.jpg",
+      "url": "https://twitter.com/nandorsperl"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1375044521818460164#favorited-by-339583926",
+    "published": null,
+    "wm-received": "2021-03-26T00:57:38Z",
+    "wm-id": 1092903,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1375044521818460164/339583926",
+    "wm-target": "https://sebastiandedeyne.com/vite-with-laravel/react/",
+    "like-of": "https://sebastiandedeyne.com/vite-with-laravel/react/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Flávio - Aqui é Bolsonaro 🅙 🇧🇷",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/f6281c1c72fe7c1f07d2906f7b43ba1401b2482c94a888ee29c4cfb878bcc671.jpg",
+      "url": "https://twitter.com/ferreira_f_h"
+    },
+    "url": "https://twitter.com/ferreira_f_h/status/1375203154027896832",
+    "published": "2021-03-25T21:49:16+00:00",
+    "wm-received": "2021-03-26T00:57:39Z",
+    "wm-id": 1092904,
+    "wm-source": "https://brid.gy/repost/twitter/sebdedeyne/1375044521818460164/1375203154027896832",
+    "wm-target": "https://sebastiandedeyne.com/vite-with-laravel/react/",
+    "content": {
+      "html": "Updated my @vite_js + @laravelphp posts with React &amp; TypeScript instructions sebastiandedeyne.com/vite-with-lara…\n\nNext week the last and most fun one: I",
+      "text": "Updated my @vite_js + @laravelphp posts with React & TypeScript instructions sebastiandedeyne.com/vite-with-lara…\n\nNext week the last and most fun one: I"
+    },
+    "repost-of": "https://sebastiandedeyne.com/vite-with-laravel/react/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Hugh Haworth",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/ea57659623c5fb7a34a146dff52329dbec5ca2a3b01535124489042d370c8ddb.jpg",
+      "url": "https://twitter.com/elliotclydenz"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1375044521818460164#favorited-by-1315039343686287360",
+    "published": null,
+    "wm-received": "2021-03-26T04:11:08Z",
+    "wm-id": 1093143,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1375044521818460164/1315039343686287360",
+    "wm-target": "https://sebastiandedeyne.com/vite-with-laravel/react/",
+    "like-of": "https://sebastiandedeyne.com/vite-with-laravel/react/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Mazedul Islam Khan",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/c151555f03e3e7ac6b4bcc3c68282f43e9de326d550322bc38575257890b98b3.jpg",
+      "url": "https://twitter.com/iamazik"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1375044521818460164#favorited-by-2953205123",
+    "published": null,
+    "wm-received": "2021-03-26T05:38:37Z",
+    "wm-id": 1093309,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1375044521818460164/2953205123",
+    "wm-target": "https://sebastiandedeyne.com/vite-with-laravel/react/",
+    "like-of": "https://sebastiandedeyne.com/vite-with-laravel/react/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
