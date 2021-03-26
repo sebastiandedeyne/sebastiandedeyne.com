@@ -1,0 +1,96 @@
+[
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "René Sinnbeck",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/b0e9c457fe430dd79e28ea14ef4941a802dee4b119083ea2e86d64de15a78b12.jpg",
+      "url": "https://twitter.com/rsinnbeck"
+    },
+    "url": "https://twitter.com/rsinnbeck/status/1375151154842177545",
+    "published": "2021-03-25T18:22:39+00:00",
+    "wm-received": "2021-03-25T19:43:02Z",
+    "wm-id": 1092688,
+    "wm-source": "https://brid.gy/repost/twitter/sebdedeyne/1375044521818460164/1375151154842177545",
+    "wm-target": "https://sebastiandedeyne.com/vite-with-laravel/react/",
+    "content": {
+      "html": "Updated my @vite_js + @laravelphp posts with React &amp; TypeScript instructions sebastiandedeyne.com/vite-with-lara…\n\nNext week the last and most fun one: I",
+      "text": "Updated my @vite_js + @laravelphp posts with React & TypeScript instructions sebastiandedeyne.com/vite-with-lara…\n\nNext week the last and most fun one: I"
+    },
+    "repost-of": "https://sebastiandedeyne.com/vite-with-laravel/react/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Spencer Long",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/186083a81b4d26fb7dc34914cd6796a653e1232e871cbfcd53ba07be47175a52.jpg",
+      "url": "https://twitter.com/spencerrlongg"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1375044521818460164#favorited-by-432595668",
+    "published": null,
+    "wm-received": "2021-03-25T19:50:59Z",
+    "wm-id": 1092723,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1375044521818460164/432595668",
+    "wm-target": "https://sebastiandedeyne.com/vite-with-laravel/react/",
+    "like-of": "https://sebastiandedeyne.com/vite-with-laravel/react/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Yazan Kaakeh",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/4aaf5dbc93e03fec8dfd795e320619acba5a75c8b65c01dd5c94132180121b6f.jpg",
+      "url": "https://twitter.com/KaakehYazan"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1375044521818460164#favorited-by-1044505060267495424",
+    "published": null,
+    "wm-received": "2021-03-25T19:51:07Z",
+    "wm-id": 1092724,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1375044521818460164/1044505060267495424",
+    "wm-target": "https://sebastiandedeyne.com/vite-with-laravel/react/",
+    "like-of": "https://sebastiandedeyne.com/vite-with-laravel/react/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "René Sinnbeck",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/b0e9c457fe430dd79e28ea14ef4941a802dee4b119083ea2e86d64de15a78b12.jpg",
+      "url": "https://twitter.com/rsinnbeck"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1375044521818460164#favorited-by-282584132",
+    "published": null,
+    "wm-received": "2021-03-25T19:56:50Z",
+    "wm-id": 1092728,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1375044521818460164/282584132",
+    "wm-target": "https://sebastiandedeyne.com/vite-with-laravel/react/",
+    "like-of": "https://sebastiandedeyne.com/vite-with-laravel/react/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Bojan",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/ff58b0688c9ea83f38a02eb098843b02b8057071ebc82787256984b8b8ab80c8.jpg",
+      "url": "https://twitter.com/bojanperic87"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1375044521818460164#favorited-by-284586837",
+    "published": null,
+    "wm-received": "2021-03-25T19:57:00Z",
+    "wm-id": 1092729,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1375044521818460164/284586837",
+    "wm-target": "https://sebastiandedeyne.com/vite-with-laravel/react/",
+    "like-of": "https://sebastiandedeyne.com/vite-with-laravel/react/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+]
