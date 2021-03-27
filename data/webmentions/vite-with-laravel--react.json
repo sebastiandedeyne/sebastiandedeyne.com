@@ -294,5 +294,59 @@
     "like-of": "https://sebastiandedeyne.com/vite-with-laravel/react/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "YASH PATEL",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/8cd3aad16be2f022f5025d737fa7f0c3f2505c28732678547dcee021bde797ec.jpg",
+      "url": "https://twitter.com/YASHMPATEL3"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1375044521818460164#favorited-by-3257388614",
+    "published": null,
+    "wm-received": "2021-03-27T15:41:23Z",
+    "wm-id": 1095050,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1375044521818460164/3257388614",
+    "wm-target": "https://sebastiandedeyne.com/vite-with-laravel/react/",
+    "like-of": "https://sebastiandedeyne.com/vite-with-laravel/react/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Daniel",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/ece1042e9242019cf9f90d834fff5c451612ed4b5135f08343a7428d313e703f.jpg",
+      "url": "https://twitter.com/bashgeek"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1375044521818460164#favorited-by-48294665",
+    "published": null,
+    "wm-received": "2021-03-27T15:41:23Z",
+    "wm-id": 1095051,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1375044521818460164/48294665",
+    "wm-target": "https://sebastiandedeyne.com/vite-with-laravel/react/",
+    "like-of": "https://sebastiandedeyne.com/vite-with-laravel/react/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Eyal Gantz 🐘",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/c8a2367c99cabb8167fe19a8adeb6bb9caf3ae1fde62706206368f3f4d29169e.jpg",
+      "url": "https://twitter.com/egantzjs"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1375044521818460164#favorited-by-37974219",
+    "published": null,
+    "wm-received": "2021-03-27T17:18:45Z",
+    "wm-id": 1095160,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1375044521818460164/37974219",
+    "wm-target": "https://sebastiandedeyne.com/vite-with-laravel/react/",
+    "like-of": "https://sebastiandedeyne.com/vite-with-laravel/react/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
