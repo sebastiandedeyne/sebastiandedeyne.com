@@ -4499,5 +4499,45 @@
     "mention-of": "https://sebastiandedeyne.com/vite-with-laravel/",
     "wm-property": "mention-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Vaggelis Yfantis",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/f7782b48b86b6f5f15a799c0391ef2a4df8a79522e8119d6805671a57185889c.jpg",
+      "url": "https://twitter.com/itsoctoper"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1373889803046035457#favorited-by-1719499016",
+    "published": null,
+    "wm-received": "2021-03-27T01:04:27Z",
+    "wm-id": 1094401,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1373889803046035457/1719499016",
+    "wm-target": "https://sebastiandedeyne.com/vite-with-laravel/",
+    "like-of": "https://sebastiandedeyne.com/vite-with-laravel/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Joe Sweeney",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/d87e2cebd6566f80b39fd37f3187579599bccf330c997f380b30b13ab1f73526.jpg",
+      "url": "https://twitter.com/jcs224"
+    },
+    "url": "https://twitter.com/jcs224/status/1375636580426076161",
+    "published": "2021-03-27T02:31:33+00:00",
+    "wm-received": "2021-03-27T03:30:11Z",
+    "wm-id": 1094492,
+    "wm-source": "https://brid.gy/comment/twitter/sebdedeyne/1373889803046035457/1375636580426076161",
+    "wm-target": "https://sebastiandedeyne.com/vite-with-laravel/",
+    "content": {
+      "html": "Nice article, this totally got me going using Vite with Inertia! Thanks!\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/sebdedeyne\"></a>",
+      "text": "Nice article, this totally got me going using Vite with Inertia! Thanks!"
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/vite-with-laravel/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
   }
 ]
