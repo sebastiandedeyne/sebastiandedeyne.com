@@ -410,5 +410,23 @@
     "like-of": "https://sebastiandedeyne.com/vite-with-laravel/react/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Will Parker",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/aed966c303a4ed0c7d33dbe8c749357aaf7d6e29cb373b3ad34f52faf6873d7a.jpg",
+      "url": "https://twitter.com/wprk14"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1375044521818460164#favorited-by-88683256",
+    "published": null,
+    "wm-received": "2021-03-28T00:38:18Z",
+    "wm-id": 1095490,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1375044521818460164/88683256",
+    "wm-target": "https://sebastiandedeyne.com/vite-with-laravel/react/",
+    "like-of": "https://sebastiandedeyne.com/vite-with-laravel/react/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]

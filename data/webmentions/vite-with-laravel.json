@@ -4579,5 +4579,23 @@
     "like-of": "https://sebastiandedeyne.com/vite-with-laravel/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "taka1156",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/9294381fbbd83f051291d4f96cd48ec677da96b7d5f6d2aca508fa6bef1699b6.jpg",
+      "url": "https://twitter.com/taka_1156"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1373889803046035457#favorited-by-1173124396652720128",
+    "published": null,
+    "wm-received": "2021-03-28T01:51:54Z",
+    "wm-id": 1095632,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1373889803046035457/1173124396652720128",
+    "wm-target": "https://sebastiandedeyne.com/vite-with-laravel/",
+    "like-of": "https://sebastiandedeyne.com/vite-with-laravel/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
