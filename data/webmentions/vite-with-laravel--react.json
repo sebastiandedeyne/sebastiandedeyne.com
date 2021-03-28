@@ -348,5 +348,67 @@
     "like-of": "https://sebastiandedeyne.com/vite-with-laravel/react/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Shabandinho 🐘",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/b8f706e5eb0e0cf2526f63b5bc70315da785fc9739f5aa01dfb3aee46d8601d9.jpg",
+      "url": "https://twitter.com/Shabandinho"
+    },
+    "url": "https://twitter.com/Shabandinho/status/1375878703381688323",
+    "published": "2021-03-27T18:33:40+00:00",
+    "wm-received": "2021-03-27T18:47:58Z",
+    "wm-id": 1095206,
+    "wm-source": "https://brid.gy/repost/twitter/sebdedeyne/1375044521818460164/1375878703381688323",
+    "wm-target": "https://sebastiandedeyne.com/vite-with-laravel/react/",
+    "content": {
+      "html": "Updated my @vite_js + @laravelphp posts with React &amp; TypeScript instructions sebastiandedeyne.com/vite-with-lara…\n\nNext week the last and most fun one: I",
+      "text": "Updated my @vite_js + @laravelphp posts with React & TypeScript instructions sebastiandedeyne.com/vite-with-lara…\n\nNext week the last and most fun one: I"
+    },
+    "repost-of": "https://sebastiandedeyne.com/vite-with-laravel/react/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "powerupcoding",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/a7e10bf08ecc9563c392c8621de476a0e425b132057497e91aec98f8202ba884.png",
+      "url": "https://twitter.com/powerupcoding1"
+    },
+    "url": "https://twitter.com/powerupcoding1/status/1375878757832097802",
+    "published": "2021-03-27T18:33:53+00:00",
+    "wm-received": "2021-03-27T18:48:32Z",
+    "wm-id": 1095207,
+    "wm-source": "https://brid.gy/repost/twitter/sebdedeyne/1375044521818460164/1375878757832097802",
+    "wm-target": "https://sebastiandedeyne.com/vite-with-laravel/react/",
+    "content": {
+      "html": "Updated my @vite_js + @laravelphp posts with React &amp; TypeScript instructions sebastiandedeyne.com/vite-with-lara…\n\nNext week the last and most fun one: I",
+      "text": "Updated my @vite_js + @laravelphp posts with React & TypeScript instructions sebastiandedeyne.com/vite-with-lara…\n\nNext week the last and most fun one: I"
+    },
+    "repost-of": "https://sebastiandedeyne.com/vite-with-laravel/react/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "🦉 Tobias Scharikow",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/4de4a2cb92f9abebd622ac2e78202d83c73309050ccdeefd2afe04e4fe0708c2.jpg",
+      "url": "https://twitter.com/refuse2choose"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1375044521818460164#favorited-by-777587968454393857",
+    "published": null,
+    "wm-received": "2021-03-27T19:32:34Z",
+    "wm-id": 1095221,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1375044521818460164/777587968454393857",
+    "wm-target": "https://sebastiandedeyne.com/vite-with-laravel/react/",
+    "like-of": "https://sebastiandedeyne.com/vite-with-laravel/react/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]

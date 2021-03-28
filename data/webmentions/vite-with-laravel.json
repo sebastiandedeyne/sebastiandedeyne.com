@@ -4561,5 +4561,23 @@
     "mention-of": "https://sebastiandedeyne.com/vite-with-laravel/",
     "wm-property": "mention-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Stefan Hertrich",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/39bb3ad666a937b59723ce1dc2259275c8b585d8a11f98f2c4feab606e9bbf4e.jpg",
+      "url": "https://twitter.com/entwklr"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1373889803046035457#favorited-by-1073682193",
+    "published": null,
+    "wm-received": "2021-03-27T21:32:18Z",
+    "wm-id": 1095242,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1373889803046035457/1073682193",
+    "wm-target": "https://sebastiandedeyne.com/vite-with-laravel/",
+    "like-of": "https://sebastiandedeyne.com/vite-with-laravel/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
