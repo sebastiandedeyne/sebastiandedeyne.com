@@ -4597,5 +4597,27 @@
     "like-of": "https://sebastiandedeyne.com/vite-with-laravel/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "MATSUO Masaru",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/6cd74ae5c81fa3c048ef50a8b5a28f6277dda4d5a6cf3872c2c73a6824e9130a.jpg",
+      "url": "https://twitter.com/localdisk"
+    },
+    "url": "https://twitter.com/localdisk/status/1376132635630571524",
+    "published": "2021-03-28T11:22:42+00:00",
+    "wm-received": "2021-03-28T11:59:43Z",
+    "wm-id": 1096185,
+    "wm-source": "https://brid.gy/post/twitter/sebdedeyne/1376132635630571524",
+    "wm-target": "https://sebastiandedeyne.com/vite-with-laravel/",
+    "content": {
+      "html": "ViteをLaravelに適用 / Vite with Laravel — Sebastian De Deyne <a href=\"https://sebastiandedeyne.com/vite-with-laravel/\">sebastiandedeyne.com/vite-with-lara…</a>",
+      "text": "ViteをLaravelに適用 / Vite with Laravel — Sebastian De Deyne sebastiandedeyne.com/vite-with-lara…"
+    },
+    "mention-of": "https://sebastiandedeyne.com/vite-with-laravel/",
+    "wm-property": "mention-of",
+    "wm-private": false
   }
 ]

@@ -428,5 +428,23 @@
     "like-of": "https://sebastiandedeyne.com/vite-with-laravel/react/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Björn Hasse",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/7a640d40274375068b3a589992cd5d7ccf635d050516dbc03a0dd53fdb89282d.jpg",
+      "url": "https://twitter.com/balu_ger"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1375044521818460164#favorited-by-2402042089",
+    "published": null,
+    "wm-received": "2021-03-28T11:59:48Z",
+    "wm-id": 1096186,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1375044521818460164/2402042089",
+    "wm-target": "https://sebastiandedeyne.com/vite-with-laravel/react/",
+    "like-of": "https://sebastiandedeyne.com/vite-with-laravel/react/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
