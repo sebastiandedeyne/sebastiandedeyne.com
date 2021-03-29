@@ -259,7 +259,6 @@ First, let's extract the code we had written in our Blade template to a helper f
 ```php
 <?php
 
-use Exception;
 use Illuminate\Support\Facades\Http;
 use Illuminate\Support\HtmlString;
 
