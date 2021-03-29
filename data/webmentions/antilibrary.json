@@ -78,5 +78,59 @@
     "mention-of": "https://sebastiandedeyne.com/antilibrary/",
     "wm-property": "mention-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "James",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/eb89e72bc665836f710fd289586e6b40b5e713549bf9bf91b74e42c5a136e765.jpg",
+      "url": "https://twitter.com/sesticles"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1376466852914728962#favorited-by-1062926515",
+    "published": null,
+    "wm-received": "2021-03-29T13:57:25Z",
+    "wm-id": 1097637,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1376466852914728962/1062926515",
+    "wm-target": "https://sebastiandedeyne.com/antilibrary/",
+    "like-of": "https://sebastiandedeyne.com/antilibrary/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Ruslan",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/732bf6e483279809ace753630d1a569de069117861766e999cd589b42ecab32f.jpg",
+      "url": "https://twitter.com/SuddenlyRust"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1376466852914728962#favorited-by-935107835045842944",
+    "published": null,
+    "wm-received": "2021-03-29T15:48:42Z",
+    "wm-id": 1097694,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1376466852914728962/935107835045842944",
+    "wm-target": "https://sebastiandedeyne.com/antilibrary/",
+    "like-of": "https://sebastiandedeyne.com/antilibrary/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "José Daniel Espinal",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/769527652318233530d006f9c0bf53079e52d4f5a57abf71a692887ab2d56543.jpg",
+      "url": "https://twitter.com/josespinal"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1376466852914728962#favorited-by-12581032",
+    "published": null,
+    "wm-received": "2021-03-29T15:48:42Z",
+    "wm-id": 1097695,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1376466852914728962/12581032",
+    "wm-target": "https://sebastiandedeyne.com/antilibrary/",
+    "like-of": "https://sebastiandedeyne.com/antilibrary/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
