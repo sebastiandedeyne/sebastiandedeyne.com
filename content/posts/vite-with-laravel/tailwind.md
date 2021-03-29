@@ -15,7 +15,30 @@ summary: |
   How to set up Tailwind CSS in Vite with Laravel.
 ---
 
-Vite includes PostCSS by default, so all you need to do is have a `tailwind.config.js` file, and reference the Tailwind plugin in `postcss.config.js`.
+Vite includes PostCSS support, so adding Tailwind doesn't require too much configuration. 
+
+First, install Tailwind and its peer dependencies `postcss` and `autoprefixer`.
+
+```diff
+  {
+      "private": true,
+      "scripts": {
+          "dev": "vite",
+          "production": "vite build"
+      },
+      "devDependencies": {
++         "autoprefixer": "^10.0.2",
+          "axios": "^0.21",
+          "lodash": "^4.17.19",
++         "postcss": "^8.1.10",
++         "tailwindcss": "^2.0.1",
+          "vite": "^2.1.0",
+          "vue": "^3.0.7"
+      }
+  }
+```
+
+Next, all you need is are `tailwind.config.js` and `postcss.config.js` files.
 
 ```js
 // postcss.config.js

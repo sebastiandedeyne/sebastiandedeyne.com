@@ -17,23 +17,24 @@ summary: |
 
 *At the time of writing, Vite isn't compatible with Vue 2. This guide is written for Vue 3.*
 
-To transpile Vue single-file components, install `@vitejs/plugin-vue`.
+To transpile Vue single-file components, install `@vitejs/plugin-vue` and its peer dependency `@vue/compiler-sfc`.
 
-```json {hl_lines=["8", "12"]}
-{
-    "private": true,
-    "scripts": {
-        "dev": "vite",
-        "production": "vite build"
-    },
-    "devDependencies": {
-        "@vitejs/plugin-vue": "^1.1.5",
-        "axios": "^0.21",
-        "lodash": "^4.17.19",
-        "vite": "^2.1.0",
-        "vue": "^3.0.7"
-    }
-}
+```diff
+  {
+      "private": true,
+      "scripts": {
+          "dev": "vite",
+          "production": "vite build"
+      },
+      "devDependencies": {
++         "@vue/compiler-sfc": "^3.0.6"
++         "@vitejs/plugin-vue": "^1.1.5",
+          "axios": "^0.21",
+          "lodash": "^4.17.19",
+          "vite": "^2.1.0",
+          "vue": "^3.0.7"
+      }
+  }
 ```
 
 Next, we'll register the plugin in our Vite config.

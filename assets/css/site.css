@@ -486,9 +486,10 @@ input[type="submit"] {
     line-height: 1.5;
     padding-left: 0.875rem;
     position: absolute;
-    right: -15rem;
+    right: calc(-15rem + 1px);
     width: calc(15rem - 3.5rem);
     margin-top: 0.35rem;
+    z-index: -1;
   }
 
   .markup aside:after {

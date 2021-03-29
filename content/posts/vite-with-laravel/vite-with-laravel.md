@@ -64,6 +64,10 @@ npm i vite --dev
 
 Back in `package.json`, add the necessary scripts.
 
+{{< aside >}}
+Use `vite --https` instead of `vite` in the `dev` script if you're serving your local app over HTTPS.
+{{< /aside >}}
+
 ```diff
   {
       "private": true,
@@ -177,6 +181,10 @@ First the dev server. When we run `npm run dev`, Vite spins up a dev server with
 
 To load our app, load Vite's runtime, then create a `module` `script` tag that points to our entry filename on `localhost:3000`.
 
+{{< aside >}}
+If you used the `--https` option in the previous steps, these scripts will be served from `https://localhost:3000/` instead.
+{{< /aside >}}
+
 ```html
 <script type="module" src="http://localhost:3000/@vite/client"></script>
 <script type="module" src="http://localhost:3000/resources/js/app.js"></script>
@@ -236,7 +244,7 @@ To ensure the right assets are loaded in every environment, combine the previous
 
 ## Better DX for non-frontend developers
 
-The above setup forces ys to run `npm run hot` on local. However, often backend developers working on the application don't need to watch the assets for changes.
+The above setup forces you to run `npm run dev` and watch on local. However, often backend developers working on the application don't need to watch the assets for changes.
 
 Devs can run `npm run production` to generate assets once, but the application will still try to load assets from `locahost:3000`. The `production` check we have in place isn't enough.
 
