@@ -248,7 +248,7 @@ The above setup forces you to run `npm run dev` and watch on local. However, oft
 
 Devs can run `npm run production` to generate assets once, but the application will still try to load assets from `locahost:3000`. The `production` check we have in place isn't enough.
 
-To work around this, we can ping `localhost:3000`. It it connects, we know the dev server is running and we can render the hot scripts.
+To work around this, we can ping `localhost:3000`. If it connects, we know the dev server is running and we can render the hot scripts.
 
 {{< aside >}}
 This could go in a `helpers.php` file, learn how to set one up [here](https://laravel-news.com/creating-helpers).

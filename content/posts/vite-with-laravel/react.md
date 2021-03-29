@@ -15,7 +15,7 @@ summary: |
   How to set up React in Vite with Laravel.
 ---
 
-Vite supports JSX out of the box, so there are no additional steps to get started with React. However, you'll probably want to enable React Refresh for a better development experience.
+Vite supports JSX out of the box (you might have to rename `.js` files to `.jsx`), so there are no additional steps to get started with React. However, you'll probably want to enable React Refresh for a better development experience.
 
 React Refresh lets you edit components without losing the current state of your running application. For example, if you're working on modal that appears after clicking a button, you'd need to reopen that modal every time the page refreshes. With React Refresh, the modal will stay open after the code reloaded, because it's able to remember the previous state.
 
@@ -65,8 +65,8 @@ Finally, you'll need to add an extra script in your development snippet.
 <script type="module">
     import RefreshRuntime from "http://localhost:3000/@react-refresh"
     RefreshRuntime.injectIntoGlobalHook(window)
-    window.\$RefreshReg$ = () => {}
-    window.\$RefreshSig$ = () => (type) => type
+    window.$RefreshReg$ = () => {}
+    window.$RefreshSig$ = () => (type) => type
     window.__vite_plugin_react_preamble_installed__ = true
 </script>
 <script type="module" src="http://localhost:3000/@vite/client"></script>
