@@ -15,9 +15,7 @@ summary: |
   How to set up Vue.js in Vite with Laravel.
 ---
 
-*At the time of writing, Vite isn't compatible with Vue 2. This guide is written for Vue 3.*
-
-To transpile Vue single-file components, install `@vitejs/plugin-vue`.
+To transpile Vue single-file components, install [`@vitejs/plugin-vue`](https://github.com/vitejs/vite/tree/main/packages/plugin-vue). If you are using Vue 2, install [`vite-plugin-vue2`](https://github.com/underfin/vite-plugin-vue2) instead.
 
 ```json {hl_lines=["8", "12"]}
 {
