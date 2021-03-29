@@ -321,14 +321,14 @@ input[type="submit"] {
 }
 
 .markup a,
-.markup-links a {
+.markup-link {
   color: var(--blue-700);
   text-decoration: underline;
 }
 
 @media (prefers-color-scheme: dark) {
   .markup a,
-  .markup-links a {
+  .markup-link {
     color: var(--blue-500);
   }
 }
@@ -415,15 +415,13 @@ input[type="submit"] {
 }
 
 .markup blockquote {
-  padding: 1.75rem;
-  background-color: var(--gray-100);
-  border-left: 1px solid var(--gray-300);
+  padding-left: 1.25rem;
+  border-left: 1px solid var(--gray-200);
 }
 
 @media (prefers-color-scheme: dark) {
   .markup blockquote {
-    background-color: var(--gray-800);
-    border-left: 1px solid var(--g ray-600);
+    border-left: 1px solid var(--bg-gray-600);
   }
 }
 

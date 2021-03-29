@@ -21,10 +21,10 @@
         </time>
         {{ if (in $post.Params.categories "articles") }}
           {{ $readingtime := div ($post.Content | countwords) 200 }}
-          | {{ cond (lt $readingtime 1) 1 $readingtime }} min read
+          ∙ {{ cond (lt $readingtime 1) 1 $readingtime }} min. read
         {{ end }}
         {{ with $post.Params.link }}
-          | on <a href="{{ . }}">{{ (urls.Parse .).Host }}</a>
+          ∙ <a href="{{ . }}" class="markup-link">{{ (urls.Parse .).Host }}</a>
         {{ end }}
       </a>
   </p>
