@@ -421,7 +421,7 @@ input[type="submit"] {
 
 @media (prefers-color-scheme: dark) {
   .markup blockquote {
-    border-left: 1px solid var(--bg-gray-600);
+    border-left: 1px solid var(--bg-gray-800);
   }
 }
 
