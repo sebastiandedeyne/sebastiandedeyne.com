@@ -1657,5 +1657,98 @@
     "like-of": "https://sebastiandedeyne.com/vite-with-laravel/inertia/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Laravel Digest",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/1ea5f88b229174048a45c1b21d2ebb4f0822632be95700bac3303a211a9a7463.png",
+      "url": "https://twitter.com/LaravelDigest"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1376410793068134407#favorited-by-2601820946",
+    "published": null,
+    "wm-received": "2021-03-30T01:48:47Z",
+    "wm-id": 1098722,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1376410793068134407/2601820946",
+    "wm-target": "https://sebastiandedeyne.com/vite-with-laravel/inertia/",
+    "like-of": "https://sebastiandedeyne.com/vite-with-laravel/inertia/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Laravel Digest",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/1ea5f88b229174048a45c1b21d2ebb4f0822632be95700bac3303a211a9a7463.png",
+      "url": "https://twitter.com/LaravelDigest"
+    },
+    "url": "https://twitter.com/LaravelDigest/status/1376702366842552321",
+    "published": "2021-03-30T01:06:36+00:00",
+    "wm-received": "2021-03-30T01:48:47Z",
+    "wm-id": 1098723,
+    "wm-source": "https://brid.gy/repost/twitter/sebdedeyne/1376410793068134407/1376702366842552321",
+    "wm-target": "https://sebastiandedeyne.com/vite-with-laravel/inertia/",
+    "content": {
+      "text": "The last (for now) post about @vite_js with @laravelphp is ready: how to set up @inertiajs!\n\nsebastiandedeyne.com/vite-with-lara…"
+    },
+    "repost-of": "https://sebastiandedeyne.com/vite-with-laravel/inertia/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Bhavya Daiya",
+      "photo": "https://webmention.io/avatar/abs.twimg.com/0e6b2cd70aa5b35dec24ca4e1e63f8963f0118736d9ec3bba77e3a8c99a27bc2.png",
+      "url": "https://twitter.com/BhavyaDaiya"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1376410793068134407#favorited-by-8399732",
+    "published": null,
+    "wm-received": "2021-03-30T02:48:26Z",
+    "wm-id": 1098854,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1376410793068134407/8399732",
+    "wm-target": "https://sebastiandedeyne.com/vite-with-laravel/inertia/",
+    "like-of": "https://sebastiandedeyne.com/vite-with-laravel/inertia/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "کنستانتین",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/a9a6c1f48c7983265a35b356c612b6c3a2fdede8ee2819dfd5087e0c5823eda3.jpg",
+      "url": "https://twitter.com/mohamadalinzm"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1376410793068134407#favorited-by-2764688439",
+    "published": null,
+    "wm-received": "2021-03-30T02:48:27Z",
+    "wm-id": 1098855,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1376410793068134407/2764688439",
+    "wm-target": "https://sebastiandedeyne.com/vite-with-laravel/inertia/",
+    "like-of": "https://sebastiandedeyne.com/vite-with-laravel/inertia/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Mariano Moreyra",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/6ddcb5e7ec8878f9d691ca30c2236b2451c8790afc5dc52abf411c84f9f0dfbc.jpg",
+      "url": "https://twitter.com/MGMoreyra"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1376410793068134407#favorited-by-238013267",
+    "published": null,
+    "wm-received": "2021-03-30T06:08:26Z",
+    "wm-id": 1099355,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1376410793068134407/238013267",
+    "wm-target": "https://sebastiandedeyne.com/vite-with-laravel/inertia/",
+    "like-of": "https://sebastiandedeyne.com/vite-with-laravel/inertia/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]

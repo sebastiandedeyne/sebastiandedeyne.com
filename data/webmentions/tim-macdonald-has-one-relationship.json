@@ -1,0 +1,156 @@
+[
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "ArielMejiaDev",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/7b2de1723663a2403fa83caad47d31a9bc362948a84a13604c91ee1c363d208f.jpg",
+      "url": "https://twitter.com/ArielMejiaDev"
+    },
+    "url": "https://twitter.com/ArielMejiaDev/status/1376763068105912320",
+    "published": "2021-03-30T05:07:49+00:00",
+    "wm-received": "2021-03-30T05:11:45Z",
+    "wm-id": 1099299,
+    "wm-source": "https://brid.gy/repost/twitter/sebdedeyne/1376762862908084227/1376763068105912320",
+    "wm-target": "https://sebastiandedeyne.com/tim-macdonald-has-one-relationship/",
+    "content": {
+      "text": "I learned about HasOne relationships in Laravel from @timacdonald87 sebastiandedeyne.com/tim-macdonald-…"
+    },
+    "repost-of": "https://sebastiandedeyne.com/tim-macdonald-has-one-relationship/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "ArielMejiaDev",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/7b2de1723663a2403fa83caad47d31a9bc362948a84a13604c91ee1c363d208f.jpg",
+      "url": "https://twitter.com/ArielMejiaDev"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1376762862908084227#favorited-by-1089643802300727309",
+    "published": null,
+    "wm-received": "2021-03-30T05:11:46Z",
+    "wm-id": 1099300,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1376762862908084227/1089643802300727309",
+    "wm-target": "https://sebastiandedeyne.com/tim-macdonald-has-one-relationship/",
+    "like-of": "https://sebastiandedeyne.com/tim-macdonald-has-one-relationship/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Tim MacDonald",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/f5fa6a631d399cbe31390ed6c8e854f455c80e64083ef9ce539a4063b85784bc.jpg",
+      "url": "https://twitter.com/timacdonald87"
+    },
+    "url": "https://twitter.com/timacdonald87/status/1376766408185405443",
+    "published": "2021-03-30T05:21:05+00:00",
+    "wm-received": "2021-03-30T06:08:16Z",
+    "wm-id": 1099349,
+    "wm-source": "https://brid.gy/comment/twitter/sebdedeyne/1376762862908084227/1376766408185405443",
+    "wm-target": "https://sebastiandedeyne.com/tim-macdonald-has-one-relationship/",
+    "content": {
+      "html": "Just made my arvo ☺️\n\nI’ve learnt heaps from your blog, so glad I’ve been able to repay the favour 🙌\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/sebdedeyne\"></a>",
+      "text": "Just made my arvo ☺️\n\nI’ve learnt heaps from your blog, so glad I’ve been able to repay the favour 🙌"
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/tim-macdonald-has-one-relationship/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Rocco Howard",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/2151bca37054f0f69407d5e2d059ff4fd1bbea3a65306615e001eb310f3d0442.jpg",
+      "url": "https://twitter.com/roccohoward"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1376762862908084227#favorited-by-104325289",
+    "published": null,
+    "wm-received": "2021-03-30T06:08:16Z",
+    "wm-id": 1099350,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1376762862908084227/104325289",
+    "wm-target": "https://sebastiandedeyne.com/tim-macdonald-has-one-relationship/",
+    "like-of": "https://sebastiandedeyne.com/tim-macdonald-has-one-relationship/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Davide Bellini",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/27716ab4f7fe3008a69e9f9e9e86faad2800c36a18d9838cadf25d063760e0c5.jpg",
+      "url": "https://twitter.com/billmn"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1376762862908084227#favorited-by-30085621",
+    "published": null,
+    "wm-received": "2021-03-30T06:08:18Z",
+    "wm-id": 1099351,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1376762862908084227/30085621",
+    "wm-target": "https://sebastiandedeyne.com/tim-macdonald-has-one-relationship/",
+    "like-of": "https://sebastiandedeyne.com/tim-macdonald-has-one-relationship/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "David On",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/aea935c0231354e6085bca9b5c797c2ce44b298876c224c821b71300f31a0b3e.jpg",
+      "url": "https://twitter.com/liruxme"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1376762862908084227#favorited-by-90649021",
+    "published": null,
+    "wm-received": "2021-03-30T06:08:18Z",
+    "wm-id": 1099352,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1376762862908084227/90649021",
+    "wm-target": "https://sebastiandedeyne.com/tim-macdonald-has-one-relationship/",
+    "like-of": "https://sebastiandedeyne.com/tim-macdonald-has-one-relationship/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "elemental-gamma",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/1119bf952dda3ea54881d8ff6c4c3f664b7d7edae7451dd3ac39f78300ea0f7a.jpg",
+      "url": "https://twitter.com/elemental001co1"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1376762862908084227#favorited-by-1225929782115913731",
+    "published": null,
+    "wm-received": "2021-03-30T06:08:24Z",
+    "wm-id": 1099353,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1376762862908084227/1225929782115913731",
+    "wm-target": "https://sebastiandedeyne.com/tim-macdonald-has-one-relationship/",
+    "like-of": "https://sebastiandedeyne.com/tim-macdonald-has-one-relationship/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Tim MacDonald",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/f5fa6a631d399cbe31390ed6c8e854f455c80e64083ef9ce539a4063b85784bc.jpg",
+      "url": "https://twitter.com/timacdonald87"
+    },
+    "url": "https://twitter.com/timacdonald87/status/1376766469418098694",
+    "published": "2021-03-30T05:21:20+00:00",
+    "wm-received": "2021-03-30T06:08:24Z",
+    "wm-id": 1099354,
+    "wm-source": "https://brid.gy/repost/twitter/sebdedeyne/1376762862908084227/1376766469418098694",
+    "wm-target": "https://sebastiandedeyne.com/tim-macdonald-has-one-relationship/",
+    "content": {
+      "text": "I learned about HasOne relationships in Laravel from @timacdonald87 sebastiandedeyne.com/tim-macdonald-…"
+    },
+    "repost-of": "https://sebastiandedeyne.com/tim-macdonald-has-one-relationship/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  }
+]
