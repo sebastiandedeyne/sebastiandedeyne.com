@@ -1750,5 +1750,116 @@
     "like-of": "https://sebastiandedeyne.com/vite-with-laravel/inertia/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "amado jesus",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/f4cb5eb3ab0566c05909a20f84ecf86d84f0fadc2ff6a8980c351f445df0287c.jpg",
+      "url": "https://twitter.com/_amado06"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1376410793068134407#favorited-by-484424303",
+    "published": null,
+    "wm-received": "2021-03-30T06:53:56Z",
+    "wm-id": 1099394,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1376410793068134407/484424303",
+    "wm-target": "https://sebastiandedeyne.com/vite-with-laravel/inertia/",
+    "like-of": "https://sebastiandedeyne.com/vite-with-laravel/inertia/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "amado jesus",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/f4cb5eb3ab0566c05909a20f84ecf86d84f0fadc2ff6a8980c351f445df0287c.jpg",
+      "url": "https://twitter.com/_amado06"
+    },
+    "url": "https://twitter.com/_amado06/status/1376786660889870339",
+    "published": "2021-03-30T06:41:34+00:00",
+    "wm-received": "2021-03-30T06:54:05Z",
+    "wm-id": 1099395,
+    "wm-source": "https://brid.gy/repost/twitter/sebdedeyne/1376410793068134407/1376786660889870339",
+    "wm-target": "https://sebastiandedeyne.com/vite-with-laravel/inertia/",
+    "content": {
+      "text": "The last (for now) post about @vite_js with @laravelphp is ready: how to set up @inertiajs!\n\nsebastiandedeyne.com/vite-with-lara…"
+    },
+    "repost-of": "https://sebastiandedeyne.com/vite-with-laravel/inertia/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Reza ⚡",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/54a3b57bd6ee5cb98f030a015b6fc521d3f476e21f2420b8b105c9b1b98194bc.jpg",
+      "url": "https://twitter.com/reshadman"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1376410793068134407#favorited-by-236880505",
+    "published": null,
+    "wm-received": "2021-03-30T06:54:30Z",
+    "wm-id": 1099397,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1376410793068134407/236880505",
+    "wm-target": "https://sebastiandedeyne.com/vite-with-laravel/inertia/",
+    "like-of": "https://sebastiandedeyne.com/vite-with-laravel/inertia/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Emovon Uwadia",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/5f3347457149d7709f8dc1fab25de3b576b4f44b0c2d3e7a0f66d3380bcca304.jpg",
+      "url": "https://twitter.com/uwascan"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1376410793068134407#favorited-by-3220329158",
+    "published": null,
+    "wm-received": "2021-03-30T07:38:33Z",
+    "wm-id": 1099416,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1376410793068134407/3220329158",
+    "wm-target": "https://sebastiandedeyne.com/vite-with-laravel/inertia/",
+    "like-of": "https://sebastiandedeyne.com/vite-with-laravel/inertia/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Andrew Kolpakov",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/2e5d8b239d09d820f530134f5d22a4786f531b45b8630996cc5f8928635b6be2.jpg",
+      "url": "https://twitter.com/kolpakov_tri"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1376410793068134407#favorited-by-1340214736210767874",
+    "published": null,
+    "wm-received": "2021-03-30T09:13:27Z",
+    "wm-id": 1099533,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1376410793068134407/1340214736210767874",
+    "wm-target": "https://sebastiandedeyne.com/vite-with-laravel/inertia/",
+    "like-of": "https://sebastiandedeyne.com/vite-with-laravel/inertia/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "René Sinnbeck",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/b0e9c457fe430dd79e28ea14ef4941a802dee4b119083ea2e86d64de15a78b12.jpg",
+      "url": "https://twitter.com/rsinnbeck"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1376410793068134407#favorited-by-282584132",
+    "published": null,
+    "wm-received": "2021-03-30T12:09:04Z",
+    "wm-id": 1099706,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1376410793068134407/282584132",
+    "wm-target": "https://sebastiandedeyne.com/vite-with-laravel/inertia/",
+    "like-of": "https://sebastiandedeyne.com/vite-with-laravel/inertia/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
