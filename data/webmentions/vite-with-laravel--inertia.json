@@ -1861,5 +1861,41 @@
     "like-of": "https://sebastiandedeyne.com/vite-with-laravel/inertia/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "ᕕ( ᐛ )ᕗ",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/f4b55e706720a1cd13c4aa033a221ac4d487a9d28f137b6925a83a721d9ce3f7.jpg",
+      "url": "https://twitter.com/phokr"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1376410793068134407#favorited-by-25390249",
+    "published": null,
+    "wm-received": "2021-03-30T15:03:49Z",
+    "wm-id": 1099874,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1376410793068134407/25390249",
+    "wm-target": "https://sebastiandedeyne.com/vite-with-laravel/inertia/",
+    "like-of": "https://sebastiandedeyne.com/vite-with-laravel/inertia/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Matthias",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/1c7dbcaafced9a9a6870627ae587f9aa983bc33d7b52728deb71238fa7df8ee2.jpg",
+      "url": "https://twitter.com/mttlck"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1376410793068134407#favorited-by-2718588433",
+    "published": null,
+    "wm-received": "2021-03-30T16:06:14Z",
+    "wm-id": 1099921,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1376410793068134407/2718588433",
+    "wm-target": "https://sebastiandedeyne.com/vite-with-laravel/inertia/",
+    "like-of": "https://sebastiandedeyne.com/vite-with-laravel/inertia/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]

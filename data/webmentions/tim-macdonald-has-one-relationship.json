@@ -242,5 +242,95 @@
     "like-of": "https://sebastiandedeyne.com/tim-macdonald-has-one-relationship/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Neil Carlo Faisan Sucuangco",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/737d4faf10025e9f86a8d0f54866e65be28593c696996b8668a5badbbb3e391f.jpg",
+      "url": "https://twitter.com/faisuc"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1376762862908084227#favorited-by-337041104",
+    "published": null,
+    "wm-received": "2021-03-30T13:32:55Z",
+    "wm-id": 1099767,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1376762862908084227/337041104",
+    "wm-target": "https://sebastiandedeyne.com/tim-macdonald-has-one-relationship/",
+    "like-of": "https://sebastiandedeyne.com/tim-macdonald-has-one-relationship/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "José Cage",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/8de62c528d88bef4bccb55da030112ae95d99c62fd1e883f6c4dc320c0d599e6.jpg",
+      "url": "https://twitter.com/cagejose"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1376762862908084227#favorited-by-944899327",
+    "published": null,
+    "wm-received": "2021-03-30T13:33:22Z",
+    "wm-id": 1099769,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1376762862908084227/944899327",
+    "wm-target": "https://sebastiandedeyne.com/tim-macdonald-has-one-relationship/",
+    "like-of": "https://sebastiandedeyne.com/tim-macdonald-has-one-relationship/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Giorgi Nizharadze",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/cc49c57c063eacc62a20dcde5d23b609bd1e3aba3aa1d65aeee901c8ecce760b.jpg",
+      "url": "https://twitter.com/kalia_gia"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1376762862908084227#favorited-by-571155939",
+    "published": null,
+    "wm-received": "2021-03-30T16:06:12Z",
+    "wm-id": 1099920,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1376762862908084227/571155939",
+    "wm-target": "https://sebastiandedeyne.com/tim-macdonald-has-one-relationship/",
+    "like-of": "https://sebastiandedeyne.com/tim-macdonald-has-one-relationship/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Ravi Teja",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/c57260ab29fe86b87eb297731b4182b3d01cb0072d250e86cdbeeb00263c5eea.jpg",
+      "url": "https://twitter.com/_insidert"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1376762862908084227#favorited-by-570198196",
+    "published": null,
+    "wm-received": "2021-03-30T16:06:41Z",
+    "wm-id": 1099922,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1376762862908084227/570198196",
+    "wm-target": "https://sebastiandedeyne.com/tim-macdonald-has-one-relationship/",
+    "like-of": "https://sebastiandedeyne.com/tim-macdonald-has-one-relationship/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Marvin",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/4de7c935c1c2968518f3a9be508e9c14561e1b95a1d96096555a9fc9799dbe82.jpg",
+      "url": "https://twitter.com/breadlesscode"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1376762862908084227#favorited-by-2615217763",
+    "published": null,
+    "wm-received": "2021-03-30T17:01:45Z",
+    "wm-id": 1099992,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1376762862908084227/2615217763",
+    "wm-target": "https://sebastiandedeyne.com/tim-macdonald-has-one-relationship/",
+    "like-of": "https://sebastiandedeyne.com/tim-macdonald-has-one-relationship/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
