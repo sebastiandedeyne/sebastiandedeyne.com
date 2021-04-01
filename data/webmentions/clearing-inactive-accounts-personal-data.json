@@ -112,5 +112,23 @@
     "like-of": "https://sebastiandedeyne.com/clearing-inactive-accounts-personal-data/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Afaz Khatri",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/df112be015626244ec4a26fecf92b2b230fe78ecf4c7edd930f8686d7748ff69.jpg",
+      "url": "https://twitter.com/khatriafaz"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1377557348319907843#favorited-by-195303291",
+    "published": null,
+    "wm-received": "2021-04-01T17:41:08Z",
+    "wm-id": 1103649,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1377557348319907843/195303291",
+    "wm-target": "https://sebastiandedeyne.com/clearing-inactive-accounts-personal-data/",
+    "like-of": "https://sebastiandedeyne.com/clearing-inactive-accounts-personal-data/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
