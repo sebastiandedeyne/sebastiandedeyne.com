@@ -1,0 +1,116 @@
+[
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Abood",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/dde4b317e173561effd5c95c8e68219628f7925406051d93a6a328c8b9dde1ab.jpg",
+      "url": "https://twitter.com/aem5299_"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1377557348319907843#favorited-by-1124142763358900224",
+    "published": null,
+    "wm-received": "2021-04-01T10:22:07Z",
+    "wm-id": 1102995,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1377557348319907843/1124142763358900224",
+    "wm-target": "https://sebastiandedeyne.com/clearing-inactive-accounts-personal-data/",
+    "like-of": "https://sebastiandedeyne.com/clearing-inactive-accounts-personal-data/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "ArielMejiaDev",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/7b2de1723663a2403fa83caad47d31a9bc362948a84a13604c91ee1c363d208f.jpg",
+      "url": "https://twitter.com/ArielMejiaDev"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1377557348319907843#favorited-by-1089643802300727309",
+    "published": null,
+    "wm-received": "2021-04-01T10:22:08Z",
+    "wm-id": 1102996,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1377557348319907843/1089643802300727309",
+    "wm-target": "https://sebastiandedeyne.com/clearing-inactive-accounts-personal-data/",
+    "like-of": "https://sebastiandedeyne.com/clearing-inactive-accounts-personal-data/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "ArielMejiaDev",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/7b2de1723663a2403fa83caad47d31a9bc362948a84a13604c91ee1c363d208f.jpg",
+      "url": "https://twitter.com/ArielMejiaDev"
+    },
+    "url": "https://twitter.com/ArielMejiaDev/status/1377560840170262529",
+    "published": "2021-04-01T09:57:52+00:00",
+    "wm-received": "2021-04-01T10:22:09Z",
+    "wm-id": 1102997,
+    "wm-source": "https://brid.gy/repost/twitter/sebdedeyne/1377557348319907843/1377560840170262529",
+    "wm-target": "https://sebastiandedeyne.com/clearing-inactive-accounts-personal-data/",
+    "content": {
+      "text": ".@freekmurze on clearing personal data from inactive accounts sebastiandedeyne.com/clearing-inact…"
+    },
+    "repost-of": "https://sebastiandedeyne.com/clearing-inactive-accounts-personal-data/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Freek Van der Herten 🎆",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/df0b08af8527090085ffdf1f7f8dc6daf99a52521222454d2c0149e61ee142f8.jpg",
+      "url": "https://twitter.com/freekmurze"
+    },
+    "url": "https://twitter.com/freekmurze/status/1377559259400011777",
+    "published": "2021-04-01T09:51:35+00:00",
+    "wm-received": "2021-04-01T10:22:09Z",
+    "wm-id": 1102998,
+    "wm-source": "https://brid.gy/repost/twitter/sebdedeyne/1377557348319907843/1377559259400011777",
+    "wm-target": "https://sebastiandedeyne.com/clearing-inactive-accounts-personal-data/",
+    "content": {
+      "text": ".@freekmurze on clearing personal data from inactive accounts sebastiandedeyne.com/clearing-inact…"
+    },
+    "repost-of": "https://sebastiandedeyne.com/clearing-inactive-accounts-personal-data/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Bas de Groot",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/7e1b047d0b3fe64e0f755def8811da4f429ee7416877d6eb169b84198c859e52.png",
+      "url": "https://twitter.com/basdegr"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1377557348319907843#favorited-by-14442869",
+    "published": null,
+    "wm-received": "2021-04-01T10:22:36Z",
+    "wm-id": 1102999,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1377557348319907843/14442869",
+    "wm-target": "https://sebastiandedeyne.com/clearing-inactive-accounts-personal-data/",
+    "like-of": "https://sebastiandedeyne.com/clearing-inactive-accounts-personal-data/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "José Cage",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/8de62c528d88bef4bccb55da030112ae95d99c62fd1e883f6c4dc320c0d599e6.jpg",
+      "url": "https://twitter.com/cagejose"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1377557348319907843#favorited-by-944899327",
+    "published": null,
+    "wm-received": "2021-04-01T10:22:36Z",
+    "wm-id": 1103000,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1377557348319907843/944899327",
+    "wm-target": "https://sebastiandedeyne.com/clearing-inactive-accounts-personal-data/",
+    "like-of": "https://sebastiandedeyne.com/clearing-inactive-accounts-personal-data/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+]
