@@ -357,5 +357,23 @@
     "like-of": "https://sebastiandedeyne.com/typescript-record-type/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Fabio Ivona",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/a0ecf01163184dddf0e06be5bd196e0bf8b981e9bd4642cbf297f6134b7f9820.jpg",
+      "url": "https://twitter.com/FabioIvona"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1377237742241767433#favorited-by-219003990",
+    "published": null,
+    "wm-received": "2021-03-31T21:11:12Z",
+    "wm-id": 1102093,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1377237742241767433/219003990",
+    "wm-target": "https://sebastiandedeyne.com/typescript-record-type/",
+    "like-of": "https://sebastiandedeyne.com/typescript-record-type/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]

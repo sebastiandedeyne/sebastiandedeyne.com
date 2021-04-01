@@ -446,5 +446,23 @@
     "like-of": "https://sebastiandedeyne.com/vite-with-laravel/react/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "-...",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/786fcb411dd09be582ccab5bc3ac02a339ec55845796a7dc9fad0562adab01a4.jpg",
+      "url": "https://twitter.com/rvclqmiz"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1375044521818460164#favorited-by-1107110177856065536",
+    "published": null,
+    "wm-received": "2021-03-31T23:03:53Z",
+    "wm-id": 1102201,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1375044521818460164/1107110177856065536",
+    "wm-target": "https://sebastiandedeyne.com/vite-with-laravel/react/",
+    "like-of": "https://sebastiandedeyne.com/vite-with-laravel/react/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
