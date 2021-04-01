@@ -221,8 +221,8 @@ This requires a few more steps:
 @php
     $manifest = json_decode(file_get_contents(public_path('build/manifest.json')), true);
 @endphp
-<script type="module" src="/build/{{ $manifest['resources/js/app.js']['file'] }}"></script>
-<link rel="stylesheet" href="/build/{{ $manifest['resources/js/app.js']['css'][0] }}">
+<script type="module" src="/build/{$manifest['resources/js/app.js']['file']}"></script>
+<link rel="stylesheet" href="/build/{$manifest['resources/js/app.js']['css'][0]}">
 ```
 
 Don't forget to prefix the path with the base path!
@@ -234,8 +234,8 @@ To ensure the right assets are loaded in every environment, combine the previous
     @php
         $manifest = json_decode(file_get_contents(public_path('build/manifest.json')), true);
     @endphp
-    <script type="module" src="/build/{{ $manifest['resources/js/app.js']['file'] }}"></script>
-    <link rel="stylesheet" href="/build/{{ $manifest['resources/js/app.js']['css'][0] }}">
+    <script type="module" src="/build/{$manifest['resources/js/app.js']['file']}"></script>
+    <link rel="stylesheet" href="/build/{$manifest['resources/js/app.js']['css'][0]}">
 @else
     <script type="module" src="http://localhost:3000/@vite/client"></script>
     <script type="module" src="http://localhost:3000/resources/js/app.js"></script>
@@ -287,8 +287,8 @@ function vite_assets(): HtmlString
     ), true);
     
     return new HtmlString(<<<HTML
-        <script type="module" src="/build/{{ $manifest['resources/js/app.js']['file'] }}"></script>
-        <link rel="stylesheet" href="/build/{{ $manifest['resources/js/app.js']['css'][0] }}">
+        <script type="module" src="/build/{$manifest['resources/js/app.js']['file']}"></script>
+        <link rel="stylesheet" href="/build/{$manifest['resources/js/app.js']['css'][0]}">
     HTML);
 }
 ```
