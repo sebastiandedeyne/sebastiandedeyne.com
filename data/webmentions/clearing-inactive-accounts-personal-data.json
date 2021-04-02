@@ -130,5 +130,44 @@
     "like-of": "https://sebastiandedeyne.com/clearing-inactive-accounts-personal-data/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Khai Rahman",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/910472003647e33ad28d686808f714d4f23ec430680133d05da69372968bea63.jpg",
+      "url": "https://twitter.com/m_khairahman"
+    },
+    "url": "https://twitter.com/m_khairahman/status/1377781433469530114",
+    "published": "2021-04-02T00:34:26+00:00",
+    "wm-received": "2021-04-02T01:27:06Z",
+    "wm-id": 1104019,
+    "wm-source": "https://brid.gy/repost/twitter/sebdedeyne/1377557348319907843/1377781433469530114",
+    "wm-target": "https://sebastiandedeyne.com/clearing-inactive-accounts-personal-data/",
+    "content": {
+      "text": ".@freekmurze on clearing personal data from inactive accounts sebastiandedeyne.com/clearing-inact…"
+    },
+    "repost-of": "https://sebastiandedeyne.com/clearing-inactive-accounts-personal-data/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Khai Rahman",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/910472003647e33ad28d686808f714d4f23ec430680133d05da69372968bea63.jpg",
+      "url": "https://twitter.com/m_khairahman"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1377557348319907843#favorited-by-910440206074970113",
+    "published": null,
+    "wm-received": "2021-04-02T01:27:38Z",
+    "wm-id": 1104022,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1377557348319907843/910440206074970113",
+    "wm-target": "https://sebastiandedeyne.com/clearing-inactive-accounts-personal-data/",
+    "like-of": "https://sebastiandedeyne.com/clearing-inactive-accounts-personal-data/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
