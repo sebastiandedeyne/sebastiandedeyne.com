@@ -169,5 +169,41 @@
     "like-of": "https://sebastiandedeyne.com/clearing-inactive-accounts-personal-data/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Tauseef shah",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/433f5461b05765e077dc67230d8e18ac4290917e9e8d59a7e57dc2d54de1e8f5.jpg",
+      "url": "https://twitter.com/tauseeeeeef"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1377557348319907843#favorited-by-2476541736",
+    "published": null,
+    "wm-received": "2021-04-02T07:57:37Z",
+    "wm-id": 1104321,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1377557348319907843/2476541736",
+    "wm-target": "https://sebastiandedeyne.com/clearing-inactive-accounts-personal-data/",
+    "like-of": "https://sebastiandedeyne.com/clearing-inactive-accounts-personal-data/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Peter Brinck 🤘",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/92d1ddcbfe917452564dff25c7ce7f7be55673a8d011d5ce38d8cbc0bbc6be6d.jpg",
+      "url": "https://twitter.com/peterbrinck"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1377557348319907843#favorited-by-637338781",
+    "published": null,
+    "wm-received": "2021-04-02T09:45:35Z",
+    "wm-id": 1104382,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1377557348319907843/637338781",
+    "wm-target": "https://sebastiandedeyne.com/clearing-inactive-accounts-personal-data/",
+    "like-of": "https://sebastiandedeyne.com/clearing-inactive-accounts-personal-data/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
