@@ -4643,5 +4643,27 @@
     "repost-of": "https://sebastiandedeyne.com/vite-with-laravel/",
     "wm-property": "repost-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Mirgen Përvathi",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/04614bc0ac007e7362b3412c04b5610d96104fa37fba65e917b95a4b75fbd1d1.jpg",
+      "url": "https://twitter.com/mirgenpervathi"
+    },
+    "url": "https://twitter.com/mirgenpervathi/status/1379112604937900034",
+    "published": "2021-04-05T16:44:02+00:00",
+    "wm-received": "2021-04-05T16:59:13Z",
+    "wm-id": 1107628,
+    "wm-source": "https://brid.gy/post/twitter/sebdedeyne/1379112604937900034",
+    "wm-target": "https://sebastiandedeyne.com/vite-with-laravel/",
+    "content": {
+      "html": "Vite with Laravel — Sebastian De Deyne\n\n<a href=\"https://twitter.com/search?q=%23Laravel\">#Laravel</a>  <a href=\"https://sebastiandedeyne.com/vite-with-laravel/\">sebastiandedeyne.com/vite-with-lara…</a>",
+      "text": "Vite with Laravel — Sebastian De Deyne\n\n#Laravel  sebastiandedeyne.com/vite-with-lara…"
+    },
+    "mention-of": "https://sebastiandedeyne.com/vite-with-laravel/",
+    "wm-property": "mention-of",
+    "wm-private": false
   }
 ]
