@@ -1,0 +1,266 @@
+[
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "𝗠𝘆𝗿𝗼𝘀𝗹𝗮𝘃 2.0 🇺🇦",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/e86cd6b586934719e46ca6097ef0cdaa492cdca7193fac37adba8acf10b1e41f.jpg",
+      "url": "https://twitter.com/myroslavco"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1378949018173255681#favorited-by-252151360",
+    "published": null,
+    "wm-received": "2021-04-05T06:23:42Z",
+    "wm-id": 1106735,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1378949018173255681/252151360",
+    "wm-target": "https://sebastiandedeyne.com/matchmedia/",
+    "like-of": "https://sebastiandedeyne.com/matchmedia/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "elemental-gamma",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/1119bf952dda3ea54881d8ff6c4c3f664b7d7edae7451dd3ac39f78300ea0f7a.jpg",
+      "url": "https://twitter.com/elemental001co1"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1378949018173255681#favorited-by-1225929782115913731",
+    "published": null,
+    "wm-received": "2021-04-05T06:24:16Z",
+    "wm-id": 1106736,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1378949018173255681/1225929782115913731",
+    "wm-target": "https://sebastiandedeyne.com/matchmedia/",
+    "like-of": "https://sebastiandedeyne.com/matchmedia/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Lambert Traccard",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/42aaa796902b3418339eb7c546b07b3da121516a92c6c64fee492578152c0337.png",
+      "url": "https://twitter.com/lamberttraccard"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1378949018173255681#favorited-by-236706279",
+    "published": null,
+    "wm-received": "2021-04-05T07:00:35Z",
+    "wm-id": 1106751,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1378949018173255681/236706279",
+    "wm-target": "https://sebastiandedeyne.com/matchmedia/",
+    "like-of": "https://sebastiandedeyne.com/matchmedia/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Hidde",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/aec18d4e6514f5b156c5e7ef838f9bd1f81e3bfc4ac847a88be97a480eef77be.jpg",
+      "url": "https://twitter.com/hdv"
+    },
+    "url": "https://twitter.com/hdv/status/1378973537227132931",
+    "published": "2021-04-05T07:31:26+00:00",
+    "wm-received": "2021-04-05T07:35:30Z",
+    "wm-id": 1106764,
+    "wm-source": "https://brid.gy/post/twitter/sebdedeyne/1378973537227132931",
+    "wm-target": "https://sebastiandedeyne.com/matchmedia/",
+    "photo": [
+      "https://pbs.twimg.com/media/EyMZGy7XAAAhfSx.jpg"
+    ],
+    "content": {
+      "html": "TIL that we can listen to whether a media query resolves to true or false (via <a href=\"https://twitter.com/sebdedeyne\">@sebdedeyne</a>)  <a href=\"https://sebastiandedeyne.com/matchmedia/\">sebastiandedeyne.com/matchmedia/</a>",
+      "text": "TIL that we can listen to whether a media query resolves to true or false (via @sebdedeyne)  sebastiandedeyne.com/matchmedia/"
+    },
+    "mention-of": "https://sebastiandedeyne.com/matchmedia/",
+    "wm-property": "mention-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Rik Schennink",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/18eeeb8dc0cd3a2b18d340925e9882e687be7899100f606daf19de2291268d59.jpg",
+      "url": "https://twitter.com/rikschennink"
+    },
+    "url": "https://twitter.com/rikschennink/status/1378974249982033922",
+    "published": "2021-04-05T07:34:15+00:00",
+    "wm-received": "2021-04-05T08:14:12Z",
+    "wm-id": 1106800,
+    "wm-source": "https://brid.gy/comment/twitter/hdv/1378973537227132931/1378974249982033922",
+    "wm-target": "https://sebastiandedeyne.com/matchmedia/",
+    "content": {
+      "html": "😱\n<a class=\"u-mention\" href=\"https://hiddedevries.nl/en/\"></a>\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/matchmedia/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/hdv\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/sebdedeyne\"></a>",
+      "text": "😱"
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/matchmedia/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Kilian Valkhof",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/b4d57a4cab6dcaa1a4c976f6de25a16ad043c8295a29212899a682c7449f8e7f.jpg",
+      "url": "https://twitter.com/kilianvalkhof"
+    },
+    "url": "https://twitter.com/kilianvalkhof/status/1378974091890266117",
+    "published": "2021-04-05T07:33:38+00:00",
+    "wm-received": "2021-04-05T08:14:12Z",
+    "wm-id": 1106801,
+    "wm-source": "https://brid.gy/comment/twitter/hdv/1378973537227132931/1378974091890266117",
+    "wm-target": "https://sebastiandedeyne.com/matchmedia/",
+    "content": {
+      "html": "You should read my articles more often ;)\n\n<a href=\"https://polypane.app/blog/the-complete-guide-to-css-media-queries/#using-media-queries-in-javascript\">polypane.app/blog/the-compl…</a>\n\n<a class=\"u-mention\" href=\"https://hiddedevries.nl/en/\"></a>\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/matchmedia/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/hdv\"></a>",
+      "text": "You should read my articles more often ;)\n\npolypane.app/blog/the-compl…"
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/matchmedia/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "James",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/eb89e72bc665836f710fd289586e6b40b5e713549bf9bf91b74e42c5a136e765.jpg",
+      "url": "https://twitter.com/sesticles"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1378949018173255681#favorited-by-1062926515",
+    "published": null,
+    "wm-received": "2021-04-05T08:27:15Z",
+    "wm-id": 1106809,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1378949018173255681/1062926515",
+    "wm-target": "https://sebastiandedeyne.com/matchmedia/",
+    "like-of": "https://sebastiandedeyne.com/matchmedia/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Dieter Wyns",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/22c7fa83c0fa0e0d5befd5ee411fd6c2733e1bbbd1dababec0b421a3d826c641.jpg",
+      "url": "https://twitter.com/diewy_be"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1378949018173255681#favorited-by-229870714",
+    "published": null,
+    "wm-received": "2021-04-05T08:27:17Z",
+    "wm-id": 1106810,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1378949018173255681/229870714",
+    "wm-target": "https://sebastiandedeyne.com/matchmedia/",
+    "like-of": "https://sebastiandedeyne.com/matchmedia/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Vincent Robert",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/f65f29e6a5db9e3f3d5c10be3f7f0d13c052adec7028b410e4313d870aea2ebd.png",
+      "url": "https://twitter.com/genezys"
+    },
+    "url": "https://twitter.com/genezys/status/1378995973481975809",
+    "published": "2021-04-05T09:00:35+00:00",
+    "wm-received": "2021-04-05T09:07:12Z",
+    "wm-id": 1106854,
+    "wm-source": "https://brid.gy/comment/twitter/hdv/1378973537227132931/1378995973481975809",
+    "wm-target": "https://sebastiandedeyne.com/matchmedia/",
+    "photo": [
+      "https://pbs.twimg.com/media/EyMthw7WEAIfiwA.jpg"
+    ],
+    "content": {
+      "html": "And actually usable on the web\n<a class=\"u-mention\" href=\"https://hiddedevries.nl/en/\"></a>\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/matchmedia/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/hdv\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/sebdedeyne\"></a>",
+      "text": "And actually usable on the web"
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/matchmedia/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "n1k0",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/693e84305a2813426db592672ae3dd07ad07c5cf44c1398f5e0d894b49693a42.jpg",
+      "url": "https://twitter.com/n1k0"
+    },
+    "url": "https://twitter.com/n1k0/status/1378999608534315009",
+    "published": "2021-04-05T09:15:01+00:00",
+    "wm-received": "2021-04-05T09:53:05Z",
+    "wm-id": 1106880,
+    "wm-source": "https://brid.gy/comment/twitter/hdv/1378973537227132931/1378999608534315009",
+    "wm-target": "https://sebastiandedeyne.com/matchmedia/",
+    "content": {
+      "html": "mind. blown.\n<a class=\"u-mention\" href=\"https://hiddedevries.nl/en/\"></a>\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/matchmedia/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/hdv\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/jwajsberg\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/sebdedeyne\"></a>",
+      "text": "mind. blown."
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/matchmedia/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Ruslan",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/732bf6e483279809ace753630d1a569de069117861766e999cd589b42ecab32f.jpg",
+      "url": "https://twitter.com/SuddenlyRust"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1378949018173255681#favorited-by-935107835045842944",
+    "published": null,
+    "wm-received": "2021-04-05T11:37:44Z",
+    "wm-id": 1106950,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1378949018173255681/935107835045842944",
+    "wm-target": "https://sebastiandedeyne.com/matchmedia/",
+    "like-of": "https://sebastiandedeyne.com/matchmedia/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Robin Malfait",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/d8a4534858f7a43018c4d66bc57accd4888c56a86b45f2ffb8832419859fa55e.jpg",
+      "url": "https://twitter.com/malfaitrobin"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1378949018173255681#favorited-by-220481722",
+    "published": null,
+    "wm-received": "2021-04-05T11:37:49Z",
+    "wm-id": 1106951,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1378949018173255681/220481722",
+    "wm-target": "https://sebastiandedeyne.com/matchmedia/",
+    "like-of": "https://sebastiandedeyne.com/matchmedia/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Baldur Bjarnason",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/8b4860c1e17e03b0e225e1d12c623f991c801297243686b3eeffff32dd038c7b.jpg",
+      "url": "https://twitter.com/fakebaldur"
+    },
+    "url": "https://twitter.com/fakebaldur/status/1379034058668322821",
+    "published": "2021-04-05T11:31:55+00:00",
+    "wm-received": "2021-04-05T11:38:16Z",
+    "wm-id": 1106952,
+    "wm-source": "https://brid.gy/post/twitter/sebdedeyne/1379034058668322821",
+    "wm-target": "https://sebastiandedeyne.com/matchmedia/",
+    "content": {
+      "html": "“The window.matchMedia API — Sebastian De Deyne”\n\nTIL <a href=\"https://sebastiandedeyne.com/matchmedia/\">sebastiandedeyne.com/matchmedia/</a>",
+      "text": "“The window.matchMedia API — Sebastian De Deyne”\n\nTIL sebastiandedeyne.com/matchmedia/"
+    },
+    "mention-of": "https://sebastiandedeyne.com/matchmedia/",
+    "wm-property": "mention-of",
+    "wm-private": false
+  }
+]
