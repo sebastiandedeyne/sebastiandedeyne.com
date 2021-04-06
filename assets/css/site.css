@@ -165,6 +165,7 @@ input[type="submit"] {
 @media (min-width: 640px) {
   .sidebar {
     display: block;
+    border-bottom: none;
   }
 }
 
