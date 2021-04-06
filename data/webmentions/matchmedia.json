@@ -457,5 +457,41 @@
     "like-of": "https://sebastiandedeyne.com/matchmedia/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "ali ali",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/1b89f2572c2b5b0f71040e09b7e794c7153a87569bf6eea6f252f4c413d61f2b.jpg",
+      "url": "https://twitter.com/ali_syrian_dev"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1378949018173255681#favorited-by-1694405545",
+    "published": null,
+    "wm-received": "2021-04-06T06:55:46Z",
+    "wm-id": 1109060,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1378949018173255681/1694405545",
+    "wm-target": "https://sebastiandedeyne.com/matchmedia/",
+    "like-of": "https://sebastiandedeyne.com/matchmedia/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "barthelemy.ehui",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/ea7d887520e9bb2d685be061b5b8acde4962559c4f6d0edce67a594aaa854402.jpg",
+      "url": "https://twitter.com/ehui_barthelemy"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1378949018173255681#favorited-by-3294986356",
+    "published": null,
+    "wm-received": "2021-04-06T10:55:40Z",
+    "wm-id": 1109305,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1378949018173255681/3294986356",
+    "wm-target": "https://sebastiandedeyne.com/matchmedia/",
+    "like-of": "https://sebastiandedeyne.com/matchmedia/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
