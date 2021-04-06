@@ -363,5 +363,23 @@
     "in-reply-to": "https://sebastiandedeyne.com/matchmedia/",
     "wm-property": "in-reply-to",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "$MIGUEL Piedrafita 🥬",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/82ed867d605f1130877590cceb29ccb51445db010ee6680958a0c72c2524f5d6.jpg",
+      "url": "https://twitter.com/m1guelpf"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1378949018173255681#favorited-by-713094195955830785",
+    "published": null,
+    "wm-received": "2021-04-05T23:26:32Z",
+    "wm-id": 1108345,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1378949018173255681/713094195955830785",
+    "wm-target": "https://sebastiandedeyne.com/matchmedia/",
+    "like-of": "https://sebastiandedeyne.com/matchmedia/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
