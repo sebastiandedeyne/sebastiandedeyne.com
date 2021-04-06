@@ -23,18 +23,19 @@ window.addEventListener('resize', (event) => {
 });
 ```
 
-The `resize` event is triggered whenever the viewport size changes. If the browser window is 1200px wide, and the user resizes, the callback will be called `n` times until they.
+The `resize` event is triggered whenever the viewport size changes. If the browser window is 1200px wide, and the user resizes, the callback will be called `n` times until they stop.
 
 Performance issues can be solved with a [debounce](https://davidwalsh.name/javascript-debounce-function) function to reduce the number of calls. Or, we can use the declarative `matchMedia` listener that will only execute when the match result changes.
 
 ```js
-window.matchMedia('(min-width: 960px)').addListener((query) => {
-  if(query.matches) {
-    // …
-  } else {
-    // …
-  }
-});
+window.matchMedia('(min-width: 960px)')
+  .addEventListener((query) => {
+    if(query.matches) {
+      // …
+    } else {
+      // …
+    }
+  });
 ```
 
 The callback will be invoked whenever `query.matches` changes `true` or `false`.
