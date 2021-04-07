@@ -8,7 +8,11 @@
   <meta property="og:type" content="article" />
   <meta property="og:locale" content="en_US" />
   <meta property="og:url" content="{{ .Permalink }}" />
-  <meta property="og:image" content="https://sebastiandedeyne.com/media/me.jpg" />
+  {{ with .Params.image }}
+    <meta property="og:image" content="{{ . }}" />
+  {{ else }}
+    <meta property="og:image" content="https://sebastiandedeyne.com/media/me.jpg" />
+  {{ end }}
   {{ with .Params.description }}
     <meta name="description" content="{{ . }}" />
   {{ else }}
