@@ -26,7 +26,7 @@ Because `import` is a standard, it's supported our of the box. One little catch 
 
 ```js
 resolveComponent: async (name) => {
-    return (await import(`@/Pages/${name}.vue`)).default;
+    return (await import(`./Pages/${name}.vue`)).default;
 },
 ```
 
@@ -38,9 +38,9 @@ If you'd rather bundle your pages in a single file (similar to using `require` w
 
 ```js
 resolveComponent: (name) => {
-    const pages = import.meta.globEager('@/Pages/${name}.vue');
+    const pages = import.meta.globEager(`./Pages/${name}.vue`);
     
-    return pages[`@/Pages/${name}.vue`].default;
+    return pages[`./Pages/${name}.vue`].default;
 },
 ```
 
@@ -81,3 +81,6 @@ resolveComponent: async (name) => {
 ```
 
 That concludes the Vite with Laravel series! If you have questions or requests for more posts, talk to me on [Twitter](https://twitter.com/sebdedeyne).
+
+## Path aliases
+
