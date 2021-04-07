@@ -178,5 +178,23 @@
     "like-of": "https://sebastiandedeyne.com/reusable-alpine-components-by-ryan-chandler/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Owen A.",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/92ebc3734978f56b4d4c8cb827a34fdb3b961918ebccc3e124511db0a04667a1.jpg",
+      "url": "https://twitter.com/Caughtspire"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1379676562409275393#favorited-by-216469968",
+    "published": null,
+    "wm-received": "2021-04-07T12:17:57Z",
+    "wm-id": 1110576,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1379676562409275393/216469968",
+    "wm-target": "https://sebastiandedeyne.com/reusable-alpine-components-by-ryan-chandler/",
+    "like-of": "https://sebastiandedeyne.com/reusable-alpine-components-by-ryan-chandler/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
