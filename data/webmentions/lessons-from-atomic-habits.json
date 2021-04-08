@@ -1,0 +1,113 @@
+[
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Spatie",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/3efb487e7f3a0bc3690580277105f93eda590d65e4d9eb01135a184a9df60b18.jpg",
+      "url": "https://twitter.com/spatie_be"
+    },
+    "url": "https://twitter.com/spatie_be/status/1380127112376487937",
+    "published": "2021-04-08T11:55:19+00:00",
+    "wm-received": "2021-04-08T12:16:18Z",
+    "wm-id": 1112033,
+    "wm-source": "https://brid.gy/repost/twitter/sebdedeyne/1380121997556936704/1380127112376487937",
+    "wm-target": "https://sebastiandedeyne.com/lessons-from-atomic-habits/",
+    "content": {
+      "text": "About a year ago, I read @JamesClear's Atomic Habits. \n\nThese are the lessons I learned that still have an impact on me today:\nhttps://t.co/"
+    },
+    "repost-of": "https://sebastiandedeyne.com/lessons-from-atomic-habits/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Marzie",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/17497eb4d81fa1f0e41570faa5baee46a0e9121fc1872e409f53f3287c41e822.jpg",
+      "url": "https://twitter.com/marziemansoori"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1380121997556936704#favorited-by-1032641704183164929",
+    "published": null,
+    "wm-received": "2021-04-08T12:16:43Z",
+    "wm-id": 1112034,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1380121997556936704/1032641704183164929",
+    "wm-target": "https://sebastiandedeyne.com/lessons-from-atomic-habits/",
+    "like-of": "https://sebastiandedeyne.com/lessons-from-atomic-habits/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "𝗠𝘆𝗿𝗼𝘀𝗹𝗮𝘃 2.0 🇺🇦",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/e86cd6b586934719e46ca6097ef0cdaa492cdca7193fac37adba8acf10b1e41f.jpg",
+      "url": "https://twitter.com/myroslavco"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1380121997556936704#favorited-by-252151360",
+    "published": null,
+    "wm-received": "2021-04-08T12:16:44Z",
+    "wm-id": 1112035,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1380121997556936704/252151360",
+    "wm-target": "https://sebastiandedeyne.com/lessons-from-atomic-habits/",
+    "like-of": "https://sebastiandedeyne.com/lessons-from-atomic-habits/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "101soundboards.com",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/ac71c03201551afb58280140ec42b9769425d4c9cdbc34f07012f3bf1f2b2b0e.jpg",
+      "url": "https://twitter.com/101soundboards"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1380121997556936704#favorited-by-1149696083750203394",
+    "published": null,
+    "wm-received": "2021-04-08T12:51:46Z",
+    "wm-id": 1112063,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1380121997556936704/1149696083750203394",
+    "wm-target": "https://sebastiandedeyne.com/lessons-from-atomic-habits/",
+    "like-of": "https://sebastiandedeyne.com/lessons-from-atomic-habits/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Yevgeniy Dymov",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/338466e99d7d311f7000b5f86a2b7864037b954e423c5b76ed7bd758260147e0.jpg",
+      "url": "https://twitter.com/luxorka"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1380121997556936704#favorited-by-95610547",
+    "published": null,
+    "wm-received": "2021-04-08T12:51:48Z",
+    "wm-id": 1112064,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1380121997556936704/95610547",
+    "wm-target": "https://sebastiandedeyne.com/lessons-from-atomic-habits/",
+    "like-of": "https://sebastiandedeyne.com/lessons-from-atomic-habits/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Ruslan",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/732bf6e483279809ace753630d1a569de069117861766e999cd589b42ecab32f.jpg",
+      "url": "https://twitter.com/SuddenlyRust"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1380121997556936704#favorited-by-935107835045842944",
+    "published": null,
+    "wm-received": "2021-04-08T14:25:38Z",
+    "wm-id": 1112249,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1380121997556936704/935107835045842944",
+    "wm-target": "https://sebastiandedeyne.com/lessons-from-atomic-habits/",
+    "like-of": "https://sebastiandedeyne.com/lessons-from-atomic-habits/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+]

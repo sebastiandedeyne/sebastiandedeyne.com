@@ -493,5 +493,27 @@
     "like-of": "https://sebastiandedeyne.com/matchmedia/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Simpledev",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/712a1900b9b1ff1903325aef266eab33b5835150a5e50b5aa478b2a3fd501223.jpg",
+      "url": "https://twitter.com/simpledevMe"
+    },
+    "url": "https://twitter.com/simpledevMe/status/1380197820041461765",
+    "published": "2021-04-08T16:36:17+00:00",
+    "wm-received": "2021-04-08T16:59:50Z",
+    "wm-id": 1112486,
+    "wm-source": "https://brid.gy/post/twitter/sebdedeyne/1380197820041461765",
+    "wm-target": "https://sebastiandedeyne.com/matchmedia/",
+    "content": {
+      "html": "The window.matchMedia API — Sebastian De Deyne <a href=\"https://sebastiandedeyne.com/matchmedia/\">sebastiandedeyne.com/matchmedia/</a>",
+      "text": "The window.matchMedia API — Sebastian De Deyne sebastiandedeyne.com/matchmedia/"
+    },
+    "mention-of": "https://sebastiandedeyne.com/matchmedia/",
+    "wm-property": "mention-of",
+    "wm-private": false
   }
 ]
