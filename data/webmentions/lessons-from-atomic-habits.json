@@ -109,5 +109,59 @@
     "like-of": "https://sebastiandedeyne.com/lessons-from-atomic-habits/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Tauseef shah",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/433f5461b05765e077dc67230d8e18ac4290917e9e8d59a7e57dc2d54de1e8f5.jpg",
+      "url": "https://twitter.com/tauseeeeeef"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1380121997556936704#favorited-by-2476541736",
+    "published": null,
+    "wm-received": "2021-04-08T20:38:24Z",
+    "wm-id": 1112723,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1380121997556936704/2476541736",
+    "wm-target": "https://sebastiandedeyne.com/lessons-from-atomic-habits/",
+    "like-of": "https://sebastiandedeyne.com/lessons-from-atomic-habits/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Niko Halink",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/480255906f71b0fbaf71373ec45fbf9dbaa6fdaa59c28b3795ff0097d52e0d11.jpg",
+      "url": "https://twitter.com/nikohalink"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1380121997556936704#favorited-by-28577342",
+    "published": null,
+    "wm-received": "2021-04-08T21:35:18Z",
+    "wm-id": 1112759,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1380121997556936704/28577342",
+    "wm-target": "https://sebastiandedeyne.com/lessons-from-atomic-habits/",
+    "like-of": "https://sebastiandedeyne.com/lessons-from-atomic-habits/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Anthony Clark",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/b6b3c54cee0a5752d0a052147bb01d9a3ec2613646e1a047cd48cc542adcf884.jpg",
+      "url": "https://twitter.com/driftingly"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1380121997556936704#favorited-by-14124275",
+    "published": null,
+    "wm-received": "2021-04-08T23:29:15Z",
+    "wm-id": 1112817,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1380121997556936704/14124275",
+    "wm-target": "https://sebastiandedeyne.com/lessons-from-atomic-habits/",
+    "like-of": "https://sebastiandedeyne.com/lessons-from-atomic-habits/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
