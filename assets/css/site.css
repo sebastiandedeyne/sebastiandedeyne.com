@@ -54,9 +54,8 @@ hr {
 
 @media (min-width: 640px) {
   hr {
-    margin-top: calc(4.375rem - 1px);
-    margin-bottom: 4.375rem;
-    max-width: 20%;
+    margin-top: calc(4.5rem - 1px);
+    margin-bottom: 4.5rem;
   }
 }
 
@@ -106,117 +105,61 @@ input[type="submit"] {
  * Layout                                                                     *
 \******************************************************************************/
 
-.layout {
-  margin: 0 auto;
-  max-width: 74rem;
-  width: 100%;
-  padding: 1.75rem;
+.header {
+  background-color: var(--gray-50);
+  border-bottom: 1px solid var(--gray-100);
+  padding: 1.75rem 0;
 }
 
-@media (min-width: 640px) {
-  .layout {
-    display: grid;
-    grid-template-columns: 12rem 1fr;
-    padding: 3.5rem;
-  }
-}
-
-@media (min-width: 768px) {
-  .layout {
-    grid-template-columns: 15rem 1fr;
-  }
-}
-
-@media (min-width: 1044px) {
-  .layout {
-    grid-template-columns: 15rem 1fr 15rem;
-  }
-}
-
-@media (min-width: 1200px) {
-  .layout {
-    padding: 5.25rem;
-  }
-}
-
-.layout-sidebar {
-  margin-bottom: 1.75rem;
-}
-
-@media (min-width: 640px) {
-  .layout-sidebar {
-    padding-right: 3.5rem;
-    margin-bottom: 3.5rem;
-  }
-}
-
-.layout-main {
-  min-width: 0;
-}
-
-.sidebar {
-  display: grid;
-  grid-gap: 0.875rem;
-  grid-template-columns: 8rem auto;
-  padding-bottom: 1.75rem;
-  border-bottom: 1px solid var(--gray-200);
-}
-
-@media (min-width: 640px) {
-  .sidebar {
-    display: block;
-    border-bottom: none;
-  }
-}
-
-@media (prefers-color-scheme: dark) {
-  .sidebar {
-    border-color: var(--gray-700);
-  }
-}
-
-.sidebar header {
+.header strong {
   font-weight: 600;
-  grid-column: 1 / 3;
 }
 
-.sidebar header,
-.sidebar ul {
-  white-space: nowrap;
-}
-
-@media (min-width: 640px) {
-  .sidebar ul {
-    margin-bottom: 1.75rem;
-  }
-}
-
-.sidebar li {
+.header li {
   color: var(--gray-500);
 }
 
-.sidebar li.active {
+.header li.active {
   color: var(--gray-900);
 }
 
-.sidebar li.active:before {
+.header li.active:before {
   content: '→ ';
 }
 
 @media (prefers-color-scheme: dark) {
-  .sidebar li.active {
+  .header li.active {
     color: var(--gray-300);
   }
 }
 
-.sidebar kbd {
+.header kbd {
   display: none;
 }
 
 @media (min-width: 640px) {
-  .sidebar kbd {
+  .header kbd {
     display: inline;
   }
+}
+
+.grid {
+  margin: 0 auto;
+  max-width: 74rem;
+  width: 100%;
+}
+
+@media (min-width: 640px) {
+  .grid {
+    display: grid;
+    grid-template-columns: 1.5fr repeat(4, 1fr) 1.5fr;
+  }
+}
+
+.content {
+  grid-column: 2 / 6;
+  min-width: 0;
+  padding: 3.5rem 0 5.25rem;
 }
 
 /******************************************************************************\
@@ -278,34 +221,6 @@ input[type="submit"] {
   .newsletter-cta .newsletter-form input[type="email"] {
     color: var(--indigo-900);
   }
-}
-
-/******************************************************************************\
- * Carbon                                                                     *
-\******************************************************************************/
-
-#carbonads {
-  display: none;
-  margin-top: 5.25rem;
-  font-size: 0.75rem;
-  color: var(--gray-500);
-  line-height: 1.5;
-}
-
-@media (min-width: 640px) {
-  #carbonads {
-    display: block;
-  }
-}
-
-#carbonads .carbon-text {
-  display: block;
-  margin-top: 0.5rem;
-}
-
-#carbonads .carbon-poweredby {
-  display: block;
-  margin-top: 0.25rem;
 }
 
 /******************************************************************************\
@@ -488,10 +403,6 @@ input[type="submit"] {
   background-color: var(--blue-500);
 }
 
-.markup.large-code-blocks .chroma .hl:before {
-  left: -3.5rem;
-}
-
 .markup code {
   font-family: "Fira Code", monospace;
   font-size: 0.95em;
@@ -553,14 +464,6 @@ input[type="submit"] {
   ;
   background-color: var(--gray-900);
   color: var(--gray-100);
-}
-
-@media (min-width: 1044px) {
-  .markup.large-code-blocks .highlight pre {
-    padding: 1.75rem 3.5rem;
-    margin-left: -3.5rem;
-    margin-right: -3.5rem
-  }
 }
 
 @media (prefers-color-scheme: dark) {
@@ -631,9 +534,11 @@ input[type="submit"] {
 .toc {
   background-color: var(--green-50);
   color: var(--green-950);
-  margin-top: 1.75rem;
   margin-bottom: 1.75rem;
   padding: 1.75rem;
+  display: inline-grid;
+  grid-template-columns: repeat(2, auto);
+  grid-column-gap: 1.75rem;
 }
 
 @media (prefers-color-scheme: dark) {
