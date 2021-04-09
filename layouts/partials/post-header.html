@@ -38,6 +38,12 @@
         {{ with $post.Params.link }}
           ∙ <a href="{{ . }}" class="markup-link">{{ (urls.Parse .).Host }}</a>
         {{ end }}
+        {{ with $post.Keywords }}
+          ∙ 
+          {{ range . }}
+            #{{ . | lower }}
+          {{ end }}
+        {{ end }}
       </a>
   </p>
 </header>

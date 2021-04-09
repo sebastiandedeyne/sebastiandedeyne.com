@@ -30,7 +30,8 @@
 }
 
 html {
-  font-family: "Inter", system-ui, sans-serif;
+  font-family: "PT Serif", system-ui, sans-serif;
+  font-size: 18px;
   line-height: 1.75rem;
 }
 
@@ -47,7 +48,8 @@ body {
 }
 
 hr {
-  border-color: var(--gray-200);
+  border-color: var(--gray-100);
+  border-top-width: 2px;
   margin-top: 2rem;
   margin-bottom: 2rem;
 }
@@ -109,6 +111,8 @@ input[type="submit"] {
   background-color: var(--gray-50);
   border-bottom: 1px solid var(--gray-100);
   padding: 1.75rem 0;
+  font-family: "Recursive", system-ui, sans-serif;
+  font-size: 0.85rem;
 }
 
 .header strong {
@@ -125,6 +129,7 @@ input[type="submit"] {
 
 .header li.active:before {
   content: '→ ';
+  font-family: system-ui, sans-serif;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -145,8 +150,9 @@ input[type="submit"] {
 
 .grid {
   margin: 0 auto;
-  max-width: 74rem;
+  max-width: 72rem;
   width: 100%;
+  padding: 0 3.5rem;
 }
 
 @media (min-width: 640px) {
@@ -168,12 +174,23 @@ input[type="submit"] {
 
 .post header h1,
 .post header h2 {
-  font-size: 1.2rem;
+  font-size: 1.4rem;
   font-weight: 600;
+}
+
+.post header h1 a,
+.post header h2 a {
+  display: inline-block;
+  padding-bottom: 0.4rem;
 }
 
 .post header p {
   color: var(--gray-500);
+  font-size:  0.8rem;
+  font-family: Recursive;
+}
+
+.post header {
   margin-bottom: 1.75rem;
 }
 
@@ -241,7 +258,7 @@ input[type="submit"] {
 }
 
 .markup h1 {
-  font-size: 1.2rem;
+  font-size: 1.5rem;
   font-weight: 600;
   margin-bottom: 3.5rem;
 }
@@ -295,12 +312,12 @@ input[type="submit"] {
 
 .markup ul {
   list-style-type: disc;
-  padding-left: 1.1em;
+  padding-left: 1.33em;
 }
 
 .markup ol {
   list-style-type: decimal;
-  padding-left: 1.1em;
+  padding-left: 1.33em;
 }
 
 .markup dt {
@@ -309,19 +326,13 @@ input[type="submit"] {
 
 .markup dt a {
   color: var(--gray-900);
+  text-decoration: none;
 }
 
 @media (prefers-color-scheme: dark) {
   .markup dt a {
     color: var(--gray-300);
   }
-}
-
-.markup dl:not(.arrowless) dt a:after {
-  content: "→";
-  display: inline-block;
-  padding-left: 0.33em;
-  text-decoration: none !important;
 }
 
 .markup dd,
@@ -363,8 +374,9 @@ input[type="submit"] {
 }
 
 .markup blockquote {
-  padding-left: 1.25rem;
+  padding: 1.75rem;
   border-left: 1px solid var(--gray-200);
+  background-color: var(--gray-50);
 }
 
 @media (prefers-color-scheme: dark) {
@@ -409,9 +421,12 @@ input[type="submit"] {
 }
 
 .markup :not(pre) > code {
-  background-color: var(--gray-100);
   color: inherit;
-  padding: 0.25em;
+}
+
+.markup :not(pre) > code:before,
+.markup :not(pre) > code:after {
+  content: '`';
 }
 
 @media (prefers-color-scheme: dark) {
@@ -649,12 +664,13 @@ input[type="submit"] {
 
 .search-result-title {
   display: block;
-  font-weight: 500;
+  font-weight: 600;
 }
 
 .search-result-meta {
-  color: var(--gray-600);
-  font-size: 0.875rem;
+  color: var(--gray-500);
+  font-size: 0.8rem;
+  font-family: "Recursive", system-ui, sans-serif;
 }
 
 .search-result-keyword {
