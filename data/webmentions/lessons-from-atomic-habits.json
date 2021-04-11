@@ -163,5 +163,23 @@
     "like-of": "https://sebastiandedeyne.com/lessons-from-atomic-habits/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Rize Reviews",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/c3eebc7d8e75a5ce8c12e78ed02fd438ab80966195d6457c72fddce92e06f812.jpg",
+      "url": "https://twitter.com/rizereviews"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1380121997556936704#favorited-by-1006364087998205953",
+    "published": null,
+    "wm-received": "2021-04-11T07:14:54Z",
+    "wm-id": 1115523,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1380121997556936704/1006364087998205953",
+    "wm-target": "https://sebastiandedeyne.com/lessons-from-atomic-habits/",
+    "like-of": "https://sebastiandedeyne.com/lessons-from-atomic-habits/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
