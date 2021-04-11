@@ -23,8 +23,9 @@
     <link rel="webmention" href="https://webmention.io/sebastiandedeyne.com/webmention" />
     <link rel="pingback" href="https://webmention.io/sebastiandedeyne.com/xmlrpc" />
 
-    <link rel="preconnect" href="https://fonts.gstatic.com"> 
-    <link href="https://fonts.googleapis.com/css2?family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&family=Recursive:wght@400;500&display=swap" rel="stylesheet">
+    {{ with resources.Get "css/fonts.css" | minify }}
+      <style>{{ .Content | safeCSS }}</style>
+    {{ end }}
     {{ with resources.Get "css/reset.css" | minify }}
       <style>{{ .Content | safeCSS }}</style>
     {{ end }}
@@ -44,7 +45,7 @@
   </head>
   <body>
     <header class="header">
-      <div class="grid">
+      <div class="header-grid wrap">
         <strong>
           <a href="/">Sebastian De Deyne</a>
         </strong>
@@ -75,10 +76,8 @@
       </div>
     </header>
 
-    <main class="grid">
-      <section class="content">
-        {{ block "main" . }}{{ end }}
-      </section>
+    <main class="content wrap">
+      {{ block "main" . }}{{ end }}
     </main>
 
     {{ with resources.Get "css/chroma.css" | minify }}

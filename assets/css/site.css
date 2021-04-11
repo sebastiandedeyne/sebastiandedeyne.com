@@ -1,13 +1,9 @@
-@font-face {
-  font-family: "Fira Code";
-  font-style: normal;
-  font-weight: 400;
-  font-display: swap;
-  src: local("Fira Code"), url("/fonts/fira-code-regular.woff2") format("woff2"),
-    url("/fonts/fira-code-regular.woff") format("woff");
-}
-
 :root {
+  --font-pt-serif:  "PT Serif", system-ui, sans-serif;
+  --font-recursive:  "Recursive", system-ui, sans-serif;
+  --font-inconsolata:  "Inconsolata", monospace;
+  --font-system: system-ui, sans-serif;
+
   --gray-50: #f9fafb;
   --gray-100: #f3f4f6;
   --gray-200: #e5e7eb;
@@ -30,9 +26,15 @@
 }
 
 html {
-  font-family: "PT Serif", system-ui, sans-serif;
-  font-size: 18px;
-  line-height: 1.75rem;
+  font-family: var(--font-pt-serif);
+  font-size: 16px;
+  line-height: 1.85rem;
+}
+
+@media (min-width: 640px) {
+  html {
+    font-size: 18px;
+  }
 }
 
 body {
@@ -107,16 +109,43 @@ input[type="submit"] {
  * Layout                                                                     *
 \******************************************************************************/
 
+.wrap {
+  margin: 0 auto;
+  max-width: 45rem;
+  width: 100%;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+@media (min-width: 640px) {
+  .wrap {
+    padding-left: 3.5rem;
+    padding-right: 3.5rem;
+  }
+}
+
 .header {
   background-color: var(--gray-50);
   border-bottom: 1px solid var(--gray-100);
   padding: 1.75rem 0;
-  font-family: "Recursive", system-ui, sans-serif;
+  font-family: var(--font-recursive);
   font-size: 0.85rem;
+}
+
+.header-grid {
+  display: grid;
+  grid-template-columns: 2fr 1fr 1fr;
 }
 
 .header strong {
   font-weight: 600;
+  grid-column: 1 / -1;
+}
+
+@media (min-width: 640px) {
+  .header strong {
+    grid-column: 1 / 2;
+  }
 }
 
 .header li {
@@ -129,7 +158,7 @@ input[type="submit"] {
 
 .header li.active:before {
   content: '→ ';
-  font-family: system-ui, sans-serif;
+  font-family: var(--font-system);
 }
 
 @media (prefers-color-scheme: dark) {
@@ -148,24 +177,18 @@ input[type="submit"] {
   }
 }
 
-.grid {
-  margin: 0 auto;
-  max-width: 72rem;
-  width: 100%;
-  padding: 0 3.5rem;
+.content {
+  min-width: 0;
+  padding-top: 1.75rem;
+  padding-bottom: 3.5rem;
 }
 
 @media (min-width: 640px) {
-  .grid {
-    display: grid;
-    grid-template-columns: 1.5fr repeat(4, 1fr) 1.5fr;
+  .content {
+    min-width: 0;
+    padding-top: 3.5rem;
+    padding-bottom: 5.25rem;
   }
-}
-
-.content {
-  grid-column: 2 / 6;
-  min-width: 0;
-  padding: 3.5rem 0 5.25rem;
 }
 
 /******************************************************************************\
@@ -187,7 +210,7 @@ input[type="submit"] {
 .post header p {
   color: var(--gray-500);
   font-size:  0.8rem;
-  font-family: Recursive;
+  font-family: var(--font-recursive);
 }
 
 .post header {
@@ -222,11 +245,15 @@ input[type="submit"] {
 
 .newsletter-cta .newsletter-form input[type="email"] {
   background-color: white;
+  font-family: var(--font-recursive);
+  font-size: 0.9em;
 }
 
 .newsletter-cta .newsletter-form input[type="submit"] {
   background-color: var(--indigo-900);
   color: var(--indigo-50);
+  font-family: var(--font-recursive);
+  font-size: 0.9em;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -326,7 +353,6 @@ input[type="submit"] {
 
 .markup dt a {
   color: var(--gray-900);
-  text-decoration: none;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -416,12 +442,12 @@ input[type="submit"] {
 }
 
 .markup code {
-  font-family: "Fira Code", monospace;
-  font-size: 0.95em;
+  font-family: var(--font-inconsolata);
 }
 
 .markup :not(pre) > code {
   color: inherit;
+  font-weight: 500;
 }
 
 .markup :not(pre) > code:before,
@@ -635,6 +661,7 @@ input[type="submit"] {
   font-size: 1.2rem;
   padding: 1rem 0.5rem;
   background-color: var(--gray-100);
+  font-family: var(--font-recursive);
 }
 
 .search-input:focus {
@@ -644,7 +671,7 @@ input[type="submit"] {
 .search-results {
   max-height: 20rem;
   overflow: auto;
-  line-height: 1.5;
+  line-height: 1.4;
 }
 
 @media (max-height: 445px) {
@@ -670,7 +697,7 @@ input[type="submit"] {
 .search-result-meta {
   color: var(--gray-500);
   font-size: 0.8rem;
-  font-family: "Recursive", system-ui, sans-serif;
+  font-family: var(--font-recursive);
 }
 
 .search-result-keyword {

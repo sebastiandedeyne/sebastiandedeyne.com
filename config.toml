@@ -16,6 +16,9 @@ enableGitInfo = true
 [author]
   name = "Sebastian De Deyne"
 
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
 [markup]
   [markup.highlight]
     noClasses = false
