@@ -47,7 +47,7 @@ Your package, `my/package:1.0.0`, required `php:^7.2`, which got bumped to `php:
 
 When you run `composer update` from a `php:^7.2` environment, it won't pull in packages that require `php:^7.4`. Composer will keep requiring `my/package:1.0.0` until `my/package:1.0.1` is compatible with your project. Nothing's broken, you just won't be receiving any new updates.
 
-<aside>If your local PHP version differs from the version you're running in production, don't forget to <a href="https://andy-carter.com/blog/composer-php-platform" target="_blank" rel="nofollow">configure the <code>platform</code> setting</a>.</aside>
+<aside>If your local PHP version differs from the version you're running in production, don't forget to <a href="https://andy-carter.com/blog/composer-php-platform" target="_blank" rel="nofollow noreferrer">configure the <code>platform</code> setting</a>.</aside>
 
 ## Package version etiquette
 

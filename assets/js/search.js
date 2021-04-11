@@ -1,11 +1,58 @@
 const triggers = Array.from(document.querySelectorAll("[data-search-trigger]"));
 const backdrop = document.querySelector("[data-search-backdrop]");
 const input = document.querySelector("[data-search-input]");
-const results = Array.from(document.querySelectorAll("[data-search-result]"));
+let results;
 
+let searchStatus = 'idle';
 let selectedIndex = 0;
 
-function showSearch() {
+async function loadSearch() {
+  if (searchStatus !== 'idle') {
+    return;
+  }
+
+  searchStatus = 'loading';
+
+  const items = await fetch('/index.json')
+    .then((response) => response.json());
+
+  const template = document.getElementById('search-template');
+  const resultsList = document.getElementById('search-results');
+
+  items.forEach((item) => {
+    const result = template.content.cloneNode(true);
+
+    result.querySelector('[data-search-result]').dataset.searchResult =
+      (item.keywords || [])
+        .concat([item.title])
+        .map((keyword) => keyword.replace(/[^\w]/g, "").toLowerCase())
+        .join('');
+
+    result.querySelector('[data-title]').textContent = item.title;
+    result.querySelector('[data-href]').href = item.permalink;
+    result.querySelector('[data-date]').dateTime = item.date;
+    result.querySelector('[data-date]').textContent = item.formatted_date;
+
+    resultsList.appendChild(result);
+  });
+
+  results = Array.from(document.querySelectorAll("[data-search-result]"));
+
+  searchStatus = 'loaded';
+
+  results.forEach((result, index) => {
+    result.addEventListener("mouseenter", (event) => {
+      updateSelected(index, false);
+    });
+  });
+
+}
+
+async function showSearch() {
+  if (searchStatus !== 'loaded') {
+    await loadSearch();
+  }
+
   if (backdrop.style.display === "block") {
     return;
   }
@@ -132,10 +179,4 @@ input.addEventListener("keydown", (event) => {
 
 input.addEventListener("input", (event) => {
   updateResults(event.target.value);
-});
-
-results.forEach((result, index) => {
-  result.addEventListener("mouseenter", (event) => {
-    updateSelected(index, false);
-  });
 });

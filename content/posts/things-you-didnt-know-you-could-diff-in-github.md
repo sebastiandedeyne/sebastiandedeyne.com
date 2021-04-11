@@ -24,7 +24,7 @@ They're not lying. You can compare a _lot_ in there, but most of it isn't availa
 https://github.com/spatie/laravel-medialibrary/compare/<hash>...master
 ```
 
-<p><a href="https://github.com/spatie/laravel-medialibrary/compare/091a1c3...master" target="_blank" rel="noreferer nofollow">Live example</a></p>
+<p><a href="https://github.com/spatie/laravel-medialibrary/compare/091a1c3...master" target="_blank" rel="noreferrer nofollow">Live example</a></p>
 
 If you compare the current version of `master` with a previous commit, use the commit hash separated by three dots.
 
@@ -34,7 +34,7 @@ If you compare the current version of `master` with a previous commit, use the c
 https://github.com/spatie/laravel-medialibrary/compare/<hash>..<hash>
 ```
 
-<p><a href="https://github.com/spatie/laravel-medialibrary/compare/091a1c3..8447399" target="_blank" rel="noreferer nofollow">Live example</a></p>
+<p><a href="https://github.com/spatie/laravel-medialibrary/compare/091a1c3..8447399" target="_blank" rel="noreferrer nofollow">Live example</a></p>
 
 If you want to compare two arbitrary commits, use the commit hashes separated by _two_ dots.
 
@@ -44,6 +44,6 @@ If you want to compare two arbitrary commits, use the commit hashes separated by
 https://github.com/spatie/laravel-medialibrary/compare/master@{<date>}...master
 ```
 
-<p><a href="https://github.com/spatie/laravel-medialibrary/compare/master@%7B2020-08-01%7D...master" target="_blank" rel="noreferer nofollow">Live example</a></p>
+<p><a href="https://github.com/spatie/laravel-medialibrary/compare/master@%7B2020-08-01%7D...master" target="_blank" rel="noreferrer nofollow">Live example</a></p>
 
 You can also compare a branch to a specific point in time. The date can either be absolute (`master@{2020-08-01}...master`) or relative (`master@{10day}...master`).

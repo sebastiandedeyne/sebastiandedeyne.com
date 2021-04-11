@@ -4,7 +4,6 @@ title: Vite with Laravel
 slug: vite-with-laravel
 categories: ["articles"]
 series: vite-with-laravel
-large_code_blocks: true
 keywords:
   - Laravel
   - Vite

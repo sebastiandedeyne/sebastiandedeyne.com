@@ -4,7 +4,6 @@ title: "Vite with Laravel: Using TypeScript"
 slug: vite-with-laravel/typescript
 categories: ["articles"]
 series: vite-with-laravel
-large_code_blocks: true
 keywords:
   - Laravel
   - Vite

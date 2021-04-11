@@ -1,31 +1,21 @@
+<template id="search-template">
+  <li data-search-result>
+    <a data-href>
+      <span class="search-result-title" data-title>{title}</span>
+      <span class="search-result-meta">
+        <time data-date>
+          {formatted_date}
+        </time>
+      </span>
+    </a>
+  </li>
+</template>
 <div class="search-backdrop" data-search-backdrop>
   <nav class="search-pane">
     <input type="search" class="search-input" data-search-input autofocus>
-    <ul class="search-results">
-      {{ range (where site.RegularPages "Section" "posts") }}
-        <li data-search-result="
-          {{ .Title | replaceRE "[^\\w]" "" | lower }}
-          {{ range .Keywords }}
-            {{ . | replaceRE "[^\\w]" "" | lower }}
-          {{ end }}
-        ">
-          <a href="{{ .RelPermalink }}">
-            <span class="search-result-title">{{ .Title }}</span>
-            <span class="search-result-meta">
-              <time datetime="{{ .Date.Format "2006-01-02" }}">
-                {{ .Date.Format "January 2, 2006" }}
-              </time>
-              {{ range .Keywords }}
-                <span class="search-result-keyword">#{{ . }}</span>
-              {{ end }}
-            </span>
-          </a>
-        </li>
-      {{ end }}
-    </ul>
+    <ul id="search-results" class="search-results"></ul>
   </nav>
 </div>
-
 {{ with resources.Get "js/search.js" | minify }}
   <script>{{ .Content | safeJS }}</script>
 {{ end }}
