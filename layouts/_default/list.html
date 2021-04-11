@@ -8,7 +8,7 @@
         {{ if .Truncated }}
           {{ .Summary }}
           <p>
-            <a href="{{ .RelPermalink }}">
+            <a href="{{ .RelPermalink }}" title="{{ .Title }}">
               Read more
             </a>
           </p>
@@ -19,7 +19,7 @@
             <p>{{ .Params.summary }}</p>
           {{ end }}
           <p>
-            <a href="{{ .RelPermalink }}">
+            <a href="{{ .RelPermalink }}" title="{{ .Title }}">
               Read more
             </a>
           </p>

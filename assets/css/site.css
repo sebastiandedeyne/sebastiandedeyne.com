@@ -70,11 +70,12 @@ hr {
 }
 
 kbd {
-  font-size: 0.875rem;
-  color: var(--gray-400);
+  font-size: 0.8rem;
+  color: var(--gray-500);
   border: 1px solid var(--gray-300);
   border-radius: 2px;
   padding: 0 0.33em;
+  font-family: var(--font-recursive);
 }
 
 @media (prefers-color-scheme: dark) {
