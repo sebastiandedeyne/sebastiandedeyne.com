@@ -39,17 +39,15 @@
         <div class="markup">
           {{ .Summary }}
         </div>
-        {{ if .Params.toc }}
-          <aside class="toc">
-            <h2>In this post</h2>
-            {{ .TableOfContents }}
-          </aside>
-        {{ end }}
-        <div class="markup {{ if .Params.large_code_blocks }} large-code-blocks {{ end }}">
+        <nav class="toc">
+          <h2>In this post</h2>
+          {{ .TableOfContents }}
+        </nav>
+        <div class="markup">
           {{ safeHTML (replace .Content .Summary "") }}
         </div>
       {{ else }}
-        <div class="markup {{ if .Params.large_code_blocks }} large-code-blocks {{ end }}">
+        <div class="markup">
           {{ .Content }}
         </div>
       {{ end }}

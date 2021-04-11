@@ -4,7 +4,6 @@ title: "Vite with Laravel: Using Inertia.js"
 slug: vite-with-laravel/inertia
 categories: ["articles"]
 series: vite-with-laravel
-large_code_blocks: true
 keywords:
   - Laravel
   - Vite
