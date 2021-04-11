@@ -39,10 +39,12 @@
         <div class="markup">
           {{ .Summary }}
         </div>
-        <nav class="toc">
-          <h2>In this post</h2>
-          {{ .TableOfContents }}
-        </nav>
+        {{ if .Params.toc }}
+          <nav class="toc">
+            <h2>In this post</h2>
+            {{ .TableOfContents }}
+          </nav>
+        {{ end }}
         <div class="markup">
           {{ safeHTML (replace .Content .Summary "") }}
         </div>
