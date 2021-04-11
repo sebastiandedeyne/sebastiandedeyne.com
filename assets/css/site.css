@@ -167,6 +167,10 @@ input[type="submit"] {
   }
 }
 
+.header li a {
+  display: inline-block;
+}
+
 .header kbd {
   display: none;
 }
