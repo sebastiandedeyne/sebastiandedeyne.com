@@ -1,4 +1,4 @@
-{{ if ne (getenv "HUGO_ENV") "production" }}
+{{ if eq (getenv "HUGO_ENV") "production" }}
   {{ with resources.Get "css/carbon.css" | minify }}
     <style>{{ .Content | safeCSS }}</style>
   {{ end }}
