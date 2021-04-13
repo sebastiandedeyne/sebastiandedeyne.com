@@ -39,6 +39,7 @@ html {
 
 body {
   margin: 0;
+  background-color: var(--gray-50);
   color: var(--gray-900);
 }
 
@@ -180,6 +181,11 @@ input[type="submit"] {
   .header kbd {
     display: inline;
   }
+}
+
+.content-wrapper {
+  background-color: white;
+  min-height: 100vh;
 }
 
 .content {

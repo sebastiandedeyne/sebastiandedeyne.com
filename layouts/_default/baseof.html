@@ -76,8 +76,10 @@
       </div>
     </header>
 
-    <main class="content wrap">
-      {{ block "main" . }}{{ end }}
+    <main class="content-wrapper">
+      <div class="content wrap">
+        {{ block "main" . }}{{ end }}
+      </div>
     </main>
 
     {{ with resources.Get "css/chroma.css" | minify }}
