@@ -46,6 +46,7 @@
           </nav>
         {{ end }}
         <div class="markup">
+          {{ partial "ad" }}
           {{ safeHTML (replace .Content .Summary "") }}
         </div>
       {{ else }}

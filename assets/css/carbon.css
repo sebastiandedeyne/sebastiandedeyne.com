@@ -1,0 +1,39 @@
+#carbonads {
+  max-width: 22rem;
+  margin: 1.75rem auto;
+  font-size: .8em;
+  color: var(--gray-500);
+  line-height: 1.4;
+  font-family: var(--font-recursive);
+  background-color: var(--gray-50);
+  padding: 1rem;
+}
+
+#carbonads a {
+  color: inherit;
+  text-decoration: none;
+}
+
+#carbonads > span {
+  display: grid;
+  grid-gap: 1rem;
+  grid-template-areas:
+    "img text"
+    "img poweredby";
+}
+
+.carbon-img {
+  grid-area: img;
+}
+
+.carbon-text {
+  grid-area: text;
+}
+
+.carbon-poweredby {
+  grid-area: poweredby;
+}
+
+.carbon-wrap {
+  display: contents;
+}
