@@ -20,6 +20,7 @@
   grid-template-areas:
     "img text"
     "img poweredby";
+  grid-template-columns: 130px auto;
 }
 
 .carbon-img {
