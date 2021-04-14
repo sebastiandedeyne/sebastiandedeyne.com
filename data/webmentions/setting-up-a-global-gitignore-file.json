@@ -3713,5 +3713,27 @@
     "mention-of": "https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/",
     "wm-property": "mention-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Jaybirb",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/ea40d650141bd17dc0b56ccf6b8ba6cbf35fe67dd05844c6e4e43e6fc26a6541.jpg",
+      "url": "https://twitter.com/lbjay"
+    },
+    "url": "https://twitter.com/lbjay/status/1382371428142612483",
+    "published": "2021-04-14T16:33:26+00:00",
+    "wm-received": "2021-04-14T16:57:24Z",
+    "wm-id": 1120331,
+    "wm-source": "https://brid.gy/post/twitter/sebdedeyne/1382371428142612483",
+    "wm-target": "https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/",
+    "content": {
+      "html": "A lot of developers still need to hear this: stop polluting your project's .gitignore with personal tool configuration like `.vscode` and `.idea`. \n\nGet on the global `~/.gitignore` level!\n\n<a href=\"https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/\">sebastiandedeyne.com/setting-up-a-g…</a>",
+      "text": "A lot of developers still need to hear this: stop polluting your project's .gitignore with personal tool configuration like `.vscode` and `.idea`. \n\nGet on the global `~/.gitignore` level!\n\nsebastiandedeyne.com/setting-up-a-g…"
+    },
+    "mention-of": "https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/",
+    "wm-property": "mention-of",
+    "wm-private": false
   }
 ]
