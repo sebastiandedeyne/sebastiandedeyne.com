@@ -127,5 +127,27 @@
     "like-of": "https://sebastiandedeyne.com/local-first-software/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Lucas Ballyn",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/0b19a6415c3a925c5a299d2babeb14c66c3e24173f5a1bd933c7450136975bf2.jpg",
+      "url": "https://twitter.com/LucasBallyn"
+    },
+    "url": "https://twitter.com/LucasBallyn/status/1382625684661616641",
+    "published": "2021-04-15T09:23:45+00:00",
+    "wm-received": "2021-04-15T09:55:54Z",
+    "wm-id": 1121815,
+    "wm-source": "https://brid.gy/post/twitter/sebdedeyne/1382625684661616641",
+    "wm-target": "https://sebastiandedeyne.com/local-first-software/",
+    "content": {
+      "html": "<a href=\"https://twitter.com/sebdedeyne\">@sebdedeyne</a>, doesn't <a href=\"https://twitter.com/OhDearApp\">@OhDearApp</a> check your blog for dead links? 🙈 Found one here (link to Roam) <a href=\"https://sebastiandedeyne.com/local-first-software/\">sebastiandedeyne.com/local-first-so…</a>",
+      "text": "@sebdedeyne, doesn't @OhDearApp check your blog for dead links? 🙈 Found one here (link to Roam) sebastiandedeyne.com/local-first-so…"
+    },
+    "mention-of": "https://sebastiandedeyne.com/local-first-software/",
+    "wm-property": "mention-of",
+    "wm-private": false
   }
 ]
