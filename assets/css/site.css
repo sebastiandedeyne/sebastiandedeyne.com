@@ -206,26 +206,27 @@ input[type="submit"] {
  * Posts                                                                      *
 \******************************************************************************/
 
+.post header {
+  margin-bottom: 1.75rem;
+}
+
 .post header h1,
 .post header h2 {
-  font-size: 1.4rem;
-  font-weight: 600;
+  font-size: 1.25rem;
+  font-weight: 700;
+  font-family: var(--font-recursive);
 }
 
 .post header h1 a,
 .post header h2 a {
   display: inline-block;
-  padding-bottom: 0.4rem;
+  padding-bottom: 0.125rem;
 }
 
 .post header p {
   color: var(--gray-500);
   font-size:  0.8rem;
   font-family: var(--font-recursive);
-}
-
-.post header {
-  margin-bottom: 1.75rem;
 }
 
 /******************************************************************************\
@@ -296,19 +297,20 @@ input[type="submit"] {
 }
 
 .markup h1 {
-  font-size: 1.5rem;
-  font-weight: 600;
+  font-size: 1.25rem;
+  font-weight: 700;
+  font-family: var(--font-recursive);
   margin-bottom: 3.5rem;
 }
 
 .markup h2 {
-  font-size: 1.1rem;
+  font-size: 1.125rem;
   font-weight: 600;
-  margin-bottom: 3.5rem;
+  margin-bottom: 1.75rem;
 }
 
 .markup h2 {
-  margin-top: 3.5rem;
+  margin-top: 2.625rem;
 }
 
 .markup h3 {
