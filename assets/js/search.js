@@ -32,6 +32,11 @@ async function loadSearch() {
     result.querySelector('[data-href]').href = item.permalink;
     result.querySelector('[data-date]').dateTime = item.date;
     result.querySelector('[data-date]').textContent = item.formatted_date;
+    result.querySelector('[data-keywords]').textContent = item.keywords
+      ? '∙ ' + item.keywords
+        .map((keyword) => `#${keyword.replace(/\s/g, "").toLowerCase()}`)
+        .join(' ')
+      : '';
 
     resultsList.appendChild(result);
   });

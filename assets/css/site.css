@@ -592,6 +592,9 @@ input[type="submit"] {
   display: inline-grid;
   grid-template-columns: repeat(2, auto);
   grid-column-gap: 1.75rem;
+  font-family: var(--font-recursive);
+  font-size: 0.85rem;
+  line-height: 1.75;
 }
 
 .markup + .toc {
@@ -607,7 +610,6 @@ input[type="submit"] {
 }
 
 .toc h2 {
-  font-size: 1.05rem;
   font-weight: 600;
 }
 
@@ -624,7 +626,7 @@ input[type="submit"] {
   display: inline-block;
   counter-increment: toc;
   content: counter(toc) ".";
-  width: 1.75rem;
+  width: 1.5rem;
 }
 
 .toc li.active:before {
@@ -689,6 +691,7 @@ input[type="submit"] {
   max-height: 20rem;
   overflow: auto;
   line-height: 1.4;
+  font-family: var(--font-recursive);
 }
 
 @media (max-height: 445px) {
@@ -714,7 +717,6 @@ input[type="submit"] {
 .search-result-meta {
   color: var(--gray-500);
   font-size: 0.8rem;
-  font-family: var(--font-recursive);
 }
 
 .search-result-keyword {
