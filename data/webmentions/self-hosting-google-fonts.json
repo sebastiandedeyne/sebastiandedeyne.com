@@ -697,5 +697,156 @@
     "like-of": "https://sebastiandedeyne.com/self-hosting-google-fonts/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Franck Mercado",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/155f4004d9b7a712962048c96209fd0cead8523a2153e33741a3a993c77ed783.png",
+      "url": "https://twitter.com/franckmercado"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1382588272891854848#favorited-by-14915984",
+    "published": null,
+    "wm-received": "2021-04-15T13:03:40Z",
+    "wm-id": 1122074,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1382588272891854848/14915984",
+    "wm-target": "https://sebastiandedeyne.com/self-hosting-google-fonts/",
+    "like-of": "https://sebastiandedeyne.com/self-hosting-google-fonts/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Franck Mercado",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/155f4004d9b7a712962048c96209fd0cead8523a2153e33741a3a993c77ed783.png",
+      "url": "https://twitter.com/franckmercado"
+    },
+    "url": "https://twitter.com/franckmercado/status/1382677775518216199",
+    "published": "2021-04-15T12:50:45+00:00",
+    "wm-received": "2021-04-15T13:04:15Z",
+    "wm-id": 1122075,
+    "wm-source": "https://brid.gy/repost/twitter/sebdedeyne/1382588272891854848/1382677775518216199",
+    "wm-target": "https://sebastiandedeyne.com/self-hosting-google-fonts/",
+    "content": {
+      "text": "I haven't used Google Fonts in production for a while. Instead, I self-host them for privacy and performance 🕵️‍♀️🚀\n\nI wrote more about why"
+    },
+    "repost-of": "https://sebastiandedeyne.com/self-hosting-google-fonts/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Placebo Domingo",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/c64ed43d1bcd2c0fa37e0b1d25f5bc26830922e2c9c08287939d126d62b9c40f.jpg",
+      "url": "https://twitter.com/brbcoding"
+    },
+    "url": "https://twitter.com/brbcoding/status/1382685027310391302",
+    "published": "2021-04-15T13:19:34+00:00",
+    "wm-received": "2021-04-15T13:46:04Z",
+    "wm-id": 1122091,
+    "wm-source": "https://brid.gy/post/twitter/sebdedeyne/1382685027310391302",
+    "wm-target": "https://sebastiandedeyne.com/self-hosting-google-fonts/",
+    "content": {
+      "html": "I should start doing this\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/self-hosting-google-fonts/\"></a>",
+      "text": "I should start doing this"
+    },
+    "mention-of": "https://sebastiandedeyne.com/self-hosting-google-fonts/",
+    "wm-property": "mention-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Mickaël Isaert",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/9598c3443e09f0cd8ef24c892367db18d3bfad493d823e9aeee60cf0ff9d0185.jpg",
+      "url": "https://twitter.com/misaert59"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1382588272891854848#favorited-by-1216373595687006209",
+    "published": null,
+    "wm-received": "2021-04-15T14:38:47Z",
+    "wm-id": 1122153,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1382588272891854848/1216373595687006209",
+    "wm-target": "https://sebastiandedeyne.com/self-hosting-google-fonts/",
+    "like-of": "https://sebastiandedeyne.com/self-hosting-google-fonts/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "zaichaopan",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/a089695a585484bbb840c2a40d4fa947138e7dd8dd5ad23e6f1c24d7f9923a88.jpg",
+      "url": "https://twitter.com/Zaichao_Only"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1382588272891854848#favorited-by-773203760772321280",
+    "published": null,
+    "wm-received": "2021-04-15T15:33:22Z",
+    "wm-id": 1122180,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1382588272891854848/773203760772321280",
+    "wm-target": "https://sebastiandedeyne.com/self-hosting-google-fonts/",
+    "like-of": "https://sebastiandedeyne.com/self-hosting-google-fonts/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Atiq Samtia",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/077a1b9cf4bc2de60aa3c918b6e8bb94de5a37f93fc1d1b6c18b34941ab18d50.jpg",
+      "url": "https://twitter.com/AtiqSamtia"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1382588272891854848#favorited-by-357678133",
+    "published": null,
+    "wm-received": "2021-04-15T15:33:22Z",
+    "wm-id": 1122181,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1382588272891854848/357678133",
+    "wm-target": "https://sebastiandedeyne.com/self-hosting-google-fonts/",
+    "like-of": "https://sebastiandedeyne.com/self-hosting-google-fonts/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Malik Krehic",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/33a4b763d1e019ee447c051b2d10d7b260c0ed74dbfd13952865793b44a93cf4.jpg",
+      "url": "https://twitter.com/krehicm"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1382588272891854848#favorited-by-876165188873060352",
+    "published": null,
+    "wm-received": "2021-04-15T16:07:31Z",
+    "wm-id": 1122204,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1382588272891854848/876165188873060352",
+    "wm-target": "https://sebastiandedeyne.com/self-hosting-google-fonts/",
+    "like-of": "https://sebastiandedeyne.com/self-hosting-google-fonts/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Jeroen Thora",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/e837d3f5190b96332f5b397cb472f5ee97ce52aff0d7245fc6bafde418c271a4.png",
+      "url": "https://twitter.com/jeroenthora"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1382588272891854848#favorited-by-37402313",
+    "published": null,
+    "wm-received": "2021-04-15T17:10:57Z",
+    "wm-id": 1122256,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1382588272891854848/37402313",
+    "wm-target": "https://sebastiandedeyne.com/self-hosting-google-fonts/",
+    "like-of": "https://sebastiandedeyne.com/self-hosting-google-fonts/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
