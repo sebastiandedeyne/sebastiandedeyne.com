@@ -14,6 +14,7 @@
   --gray-700: #374151;
   --gray-800: #1f2937;
   --gray-900: #111827;
+  --gray-950: #0e1521;
   --blue-500: #3b82f6;
   --blue-700: #1d4ed8;
   --green-50: #ecfdf5;
@@ -21,6 +22,7 @@
   --indigo-50: #F5F3FF;
   --indigo-800: #5B21B6;
   --indigo-900: #4C1D95;
+  --indigo-950: #3d1778;
   --red-700: #EF4444;
   --red-800: #DC2626;
 }
@@ -45,7 +47,6 @@ body {
 
 @media (prefers-color-scheme: dark) {
   body {
-    background-color: var(--gray-900);
     color: var(--gray-300);
   }
 }
@@ -95,6 +96,8 @@ input[type="submit"] {
   -webkit-appearance: none;
   border: 1px solid transparent;
   margin: 0;
+  font-family: var(--font-recursive);
+  font-size: 0.9em;
 }
 
 input[type="email"] {
@@ -105,6 +108,12 @@ input[type="submit"] {
   background-color: var(--gray-900);
   color: white;
   font-weight: 600;
+}
+
+@media(prefers-color-scheme: dark) {
+  input[type="submit"] {
+    background-color: var(--gray-700);
+  }
 }
 
 /******************************************************************************\
@@ -132,6 +141,13 @@ input[type="submit"] {
   padding: 1.75rem 0;
   font-family: var(--font-recursive);
   font-size: 0.85rem;
+}
+
+@media (prefers-color-scheme: dark) {
+  .header {
+    background-color: var(--gray-950);
+    border-bottom-color: var(--gray-800);
+  }
 }
 
 .header-grid {
@@ -186,6 +202,13 @@ input[type="submit"] {
 .content-wrapper {
   background-color: white;
   min-height: 100vh;
+}
+
+@media(prefers-color-scheme:  dark) {
+  .content-wrapper {
+    background-color: var(--gray-900);
+    min-height: 100vh;
+  }
 }
 
 .content {
@@ -257,25 +280,25 @@ input[type="submit"] {
 
 .newsletter-cta .newsletter-form input[type="email"] {
   background-color: white;
-  font-family: var(--font-recursive);
-  font-size: 0.9em;
 }
 
 .newsletter-cta .newsletter-form input[type="submit"] {
   background-color: var(--indigo-900);
   color: var(--indigo-50);
-  font-family: var(--font-recursive);
-  font-size: 0.9em;
 }
 
 @media (prefers-color-scheme: dark) {
   .newsletter-cta {
-    background-color: var(--indigo-800);
+    background-color: var(--indigo-900);
     color: var(--indigo-50);
   }
 
   .newsletter-cta .newsletter-form input[type="email"] {
     color: var(--indigo-900);
+  }
+
+  .newsletter-cta .newsletter-form input[type="submit"] {
+    background-color: var(--indigo-950);
   }
 }
 
@@ -382,7 +405,7 @@ input[type="submit"] {
 @media (prefers-color-scheme: dark) {
   .markup dd,
   .markup dd a {
-    color: var(--gray-500);
+    color: var(--gray-400);
   }
 }
 
@@ -673,6 +696,12 @@ input[type="submit"] {
   }
 }
 
+@media(prefers-color-scheme: dark) {
+  .search-pane {
+    background-color: var(--gray-800);
+  }
+}
+
 .search-input {
   display: block;
   width: 100%;
@@ -681,6 +710,12 @@ input[type="submit"] {
   padding: 1rem 0.5rem;
   background-color: var(--gray-100);
   font-family: var(--font-recursive);
+}
+
+@media(prefers-color-scheme: dark) {
+  .search-input {
+    background-color: var(--gray-800);
+  }
 }
 
 .search-input:focus {
