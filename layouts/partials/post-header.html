@@ -41,7 +41,7 @@
         {{ with $post.Keywords }}
           ∙ 
           {{ range . }}
-            #{{ . | lower }}
+            #{{ (replace . " " "") | lower }}
           {{ end }}
         {{ end }}
       </a>
