@@ -8,7 +8,7 @@ keywords:
   - JavaScript
 ---
 
-I've been more Alpine lately. Ryan has written a lot of [good stuff](https://ryangjchandler.co.uk/posts?category=alpinejs) on Alpine, but his reusable components post is what really got me kickstarted.
+I've been using Alpine often lately. Ryan has written a lot of [good stuff](https://ryangjchandler.co.uk/posts?category=alpinejs) on Alpine, but his reusable components post is what really got me kickstarted.
 
 > You should be careful to not abstract too early. If you are finding it difficult to manage your Alpine component from the `x-data` attribute, this one is definitely for you.
 
