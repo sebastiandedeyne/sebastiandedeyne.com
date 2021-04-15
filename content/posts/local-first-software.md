@@ -15,7 +15,7 @@ Coïncidentally, I came across a compelling article about local-first software. 
 
 <!--more-->
 
-Besides the "works without a connection" argument, local-first software completely removes a main performance bottleneck: latency. Zero latency is fast by default. This is noticable in apps built this way like [Roam](https://roamresearch.net). No latency. No loading spinners. All seamless.
+Besides the "works without a connection" argument, local-first software completely removes a main performance bottleneck: latency. Zero latency is fast by default. This is noticable in apps built this way like [Roam](https://roamresearch.com). No latency. No loading spinners. All seamless.
 
 There are also other arguments around privacy and ownership. Local data is yours to keep.
 
