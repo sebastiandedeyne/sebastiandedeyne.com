@@ -29,13 +29,13 @@
 
 html {
   font-family: var(--font-pt-serif);
-  font-size: 16px;
-  line-height: 1.85rem;
+  font-size: 18px;
+  line-height: 1.7rem;
 }
 
 @media (min-width: 640px) {
   html {
-    font-size: 18px;
+    line-height: 1.85rem;
   }
 }
 
@@ -250,6 +250,16 @@ input[type="submit"] {
   color: var(--gray-500);
   font-size:  0.8rem;
   font-family: var(--font-recursive);
+  margin-top: 0.25rem;
+  line-height: 1.5;
+}
+
+
+@media (min-width: 640px) {
+  .post header p {
+    margin-top: 0;
+    line-height: inherit;
+  }
 }
 
 /******************************************************************************\
