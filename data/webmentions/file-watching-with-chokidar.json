@@ -1,0 +1,38 @@
+[
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Saibal Roy",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/98c80ebf254c8d7ded994036035de2ccb1939a369cef8e65b6fcdad8b86847aa.jpg",
+      "url": "https://twitter.com/SaibalRoy_21"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1382929496706285568#favorited-by-2343423780",
+    "published": null,
+    "wm-received": "2021-04-16T05:50:41Z",
+    "wm-id": 1123064,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1382929496706285568/2343423780",
+    "wm-target": "https://sebastiandedeyne.com/file-watching-with-chokidar/",
+    "like-of": "https://sebastiandedeyne.com/file-watching-with-chokidar/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "olivM",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/f9ed5825464d9ab886fefe5748dba5de743c843ae16d030fb632400d4514623e.png",
+      "url": "https://twitter.com/olivM"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1382929496706285568#favorited-by-1501751",
+    "published": null,
+    "wm-received": "2021-04-16T05:50:41Z",
+    "wm-id": 1123065,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1382929496706285568/1501751",
+    "wm-target": "https://sebastiandedeyne.com/file-watching-with-chokidar/",
+    "like-of": "https://sebastiandedeyne.com/file-watching-with-chokidar/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+]
