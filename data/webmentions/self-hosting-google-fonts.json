@@ -848,5 +848,41 @@
     "like-of": "https://sebastiandedeyne.com/self-hosting-google-fonts/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Themosis",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/9fa8577ead91e5378f84a3df8e56c8d1f054081f04d5b588ed19303f2f41b689.jpg",
+      "url": "https://twitter.com/Themosis"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1382588272891854848#favorited-by-1870714969",
+    "published": null,
+    "wm-received": "2021-04-15T18:58:00Z",
+    "wm-id": 1122390,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1382588272891854848/1870714969",
+    "wm-target": "https://sebastiandedeyne.com/self-hosting-google-fonts/",
+    "like-of": "https://sebastiandedeyne.com/self-hosting-google-fonts/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Peter Decuyper",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/442eb058fa733a373ed99e24d589120d785751a61948c59158e8d3bf6ea72326.jpg",
+      "url": "https://twitter.com/sgrame"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1382588272891854848#favorited-by-134929532",
+    "published": null,
+    "wm-received": "2021-04-15T21:14:26Z",
+    "wm-id": 1122490,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1382588272891854848/134929532",
+    "wm-target": "https://sebastiandedeyne.com/self-hosting-google-fonts/",
+    "like-of": "https://sebastiandedeyne.com/self-hosting-google-fonts/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
