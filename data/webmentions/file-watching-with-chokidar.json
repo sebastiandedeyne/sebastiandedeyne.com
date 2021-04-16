@@ -110,5 +110,23 @@
     "like-of": "https://sebastiandedeyne.com/file-watching-with-chokidar/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "René Sinnbeck",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/b0e9c457fe430dd79e28ea14ef4941a802dee4b119083ea2e86d64de15a78b12.jpg",
+      "url": "https://twitter.com/rsinnbeck"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1382929496706285568#favorited-by-282584132",
+    "published": null,
+    "wm-received": "2021-04-16T17:02:53Z",
+    "wm-id": 1123579,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1382929496706285568/282584132",
+    "wm-target": "https://sebastiandedeyne.com/file-watching-with-chokidar/",
+    "like-of": "https://sebastiandedeyne.com/file-watching-with-chokidar/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
