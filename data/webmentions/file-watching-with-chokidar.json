@@ -34,5 +34,81 @@
     "like-of": "https://sebastiandedeyne.com/file-watching-with-chokidar/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Stefan Zweifel 🌿",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/3b772e9239dfd15ce8527f90edd45d0678849d57b28725cc69f929bb4f11cf06.jpg",
+      "url": "https://twitter.com/_stefanzweifel"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1382929496706285568#favorited-by-76577495",
+    "published": null,
+    "wm-received": "2021-04-16T06:45:07Z",
+    "wm-id": 1123090,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1382929496706285568/76577495",
+    "wm-target": "https://sebastiandedeyne.com/file-watching-with-chokidar/",
+    "like-of": "https://sebastiandedeyne.com/file-watching-with-chokidar/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Ruslan",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/732bf6e483279809ace753630d1a569de069117861766e999cd589b42ecab32f.jpg",
+      "url": "https://twitter.com/SuddenlyRust"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1382929496706285568#favorited-by-935107835045842944",
+    "published": null,
+    "wm-received": "2021-04-16T08:49:51Z",
+    "wm-id": 1123251,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1382929496706285568/935107835045842944",
+    "wm-target": "https://sebastiandedeyne.com/file-watching-with-chokidar/",
+    "like-of": "https://sebastiandedeyne.com/file-watching-with-chokidar/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Karel",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/ec7dbb3131dfbd93d689216c13e69c42350363722bed29e6fd12966dc8a4c650.jpg",
+      "url": "https://twitter.com/Shaffe"
+    },
+    "url": "https://twitter.com/Shaffe/status/1382987601183977472",
+    "published": "2021-04-16T09:21:53+00:00",
+    "wm-received": "2021-04-16T09:54:02Z",
+    "wm-id": 1123295,
+    "wm-source": "https://brid.gy/post/twitter/sebdedeyne/1382987601183977472",
+    "wm-target": "https://sebastiandedeyne.com/file-watching-with-chokidar/",
+    "content": {
+      "html": "That's really handy!\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/file-watching-with-chokidar/\"></a>",
+      "text": "That's really handy!"
+    },
+    "mention-of": "https://sebastiandedeyne.com/file-watching-with-chokidar/",
+    "wm-property": "mention-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Karel",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/ec7dbb3131dfbd93d689216c13e69c42350363722bed29e6fd12966dc8a4c650.jpg",
+      "url": "https://twitter.com/Shaffe"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1382929496706285568#favorited-by-6856672",
+    "published": null,
+    "wm-received": "2021-04-16T09:54:28Z",
+    "wm-id": 1123296,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1382929496706285568/6856672",
+    "wm-target": "https://sebastiandedeyne.com/file-watching-with-chokidar/",
+    "like-of": "https://sebastiandedeyne.com/file-watching-with-chokidar/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]

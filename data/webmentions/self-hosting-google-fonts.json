@@ -884,5 +884,26 @@
     "like-of": "https://sebastiandedeyne.com/self-hosting-google-fonts/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Tobias Trozowski",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/d50db4ddd1c8b7a8bc35da3499207fddc41a4a5eb734353b4249562df89b1d5b.jpg",
+      "url": "https://twitter.com/TobiasTrozowski"
+    },
+    "url": "https://twitter.com/TobiasTrozowski/status/1382981101656899585",
+    "published": "2021-04-16T08:56:03+00:00",
+    "wm-received": "2021-04-16T09:53:56Z",
+    "wm-id": 1123294,
+    "wm-source": "https://brid.gy/repost/twitter/sebdedeyne/1382588272891854848/1382981101656899585",
+    "wm-target": "https://sebastiandedeyne.com/self-hosting-google-fonts/",
+    "content": {
+      "text": "I haven't used Google Fonts in production for a while. Instead, I self-host them for privacy and performance 🕵️‍♀️🚀\n\nI wrote more about why"
+    },
+    "repost-of": "https://sebastiandedeyne.com/self-hosting-google-fonts/",
+    "wm-property": "repost-of",
+    "wm-private": false
   }
 ]
