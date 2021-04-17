@@ -3735,5 +3735,27 @@
     "mention-of": "https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/",
     "wm-property": "mention-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Samuel Štancl",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/d6333caa73276118c9297bf330ade2b2bc23225407f9b32d27d4410cdb777031.jpg",
+      "url": "https://twitter.com/samuelstancl"
+    },
+    "url": "https://twitter.com/samuelstancl/status/1383183075916582919",
+    "published": "2021-04-16T22:18:38+00:00",
+    "wm-received": "2021-04-16T23:04:03Z",
+    "wm-id": 1123909,
+    "wm-source": "https://brid.gy/post/twitter/sebdedeyne/1383183075916582919",
+    "wm-target": "https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/",
+    "content": {
+      "html": "Guide by <a href=\"https://twitter.com/sebdedeyne\">@sebdedeyne</a> \n\n<a href=\"https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/\">sebastiandedeyne.com/setting-up-a-g…</a>\n\nDo it now!",
+      "text": "Guide by @sebdedeyne \n\nsebastiandedeyne.com/setting-up-a-g…\n\nDo it now!"
+    },
+    "mention-of": "https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/",
+    "wm-property": "mention-of",
+    "wm-private": false
   }
 ]
