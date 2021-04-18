@@ -128,5 +128,23 @@
     "like-of": "https://sebastiandedeyne.com/file-watching-with-chokidar/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "MAHDI Homeyli",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/68e9bea99b33257d8360f5db310190c4c683aa5edc072112073f0e4741c7e1da.jpg",
+      "url": "https://twitter.com/mahdihomeyli"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1382929496706285568#favorited-by-1267172501257420801",
+    "published": null,
+    "wm-received": "2021-04-18T09:49:19Z",
+    "wm-id": 1124776,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1382929496706285568/1267172501257420801",
+    "wm-target": "https://sebastiandedeyne.com/file-watching-with-chokidar/",
+    "like-of": "https://sebastiandedeyne.com/file-watching-with-chokidar/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
