@@ -1,5 +1,5 @@
 :root {
-  --font-pt-serif:  "PT Serif", system-ui, sans-serif;
+  --font-acumin:  "acumin-pro", system-ui, sans-serif;
   --font-recursive:  "Recursive", system-ui, sans-serif;
   --font-inconsolata:  "Inconsolata", monospace;
   --font-system: system-ui, sans-serif;
@@ -28,21 +28,15 @@
 }
 
 html {
-  font-family: var(--font-pt-serif);
-  font-size: 18px;
-  line-height: 1.7rem;
-}
-
-@media (min-width: 640px) {
-  html {
-    line-height: 1.85rem;
-  }
+  font-family: var(--font-acumin);
+  font-size: 20px;
 }
 
 body {
   margin: 0;
   background-color: var(--gray-50);
   color: var(--gray-900);
+  line-height: 1.65rem;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -122,7 +116,7 @@ input[type="submit"] {
 
 .wrap {
   margin: 0 auto;
-  max-width: 45rem;
+  max-width: 42rem;
   width: 100%;
   padding-left: 1rem;
   padding-right: 1rem;
