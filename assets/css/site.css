@@ -1,5 +1,5 @@
 :root {
-  --font-acumin:  "acumin-pro", system-ui, sans-serif;
+  --font-inter:  "Inter", serif, system-ui, sans-serif;
   --font-recursive:  "Recursive", system-ui, sans-serif;
   --font-inconsolata:  "Inconsolata", monospace;
   --font-system: system-ui, sans-serif;
@@ -28,8 +28,8 @@
 }
 
 html {
-  font-family: var(--font-acumin);
-  font-size: 20px;
+  font-family: var(--font-inter);
+  font-size: 19px;
 }
 
 body {
