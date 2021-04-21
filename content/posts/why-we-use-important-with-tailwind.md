@@ -1,7 +1,7 @@
 ---
-title: "Why We Use `!important` With Tailwind"
+title: "Why we use `!important` with Tailwind"
 slug: why-we-use-important-with-tailwind
-date: 2021-04-20
+date: 2021-04-21
 categories: ["articles"]
 keywords:
   - Tailwind
