@@ -332,19 +332,14 @@ input[type="submit"] {
 
 .markup h2 {
   font-size: 1.125rem;
-  font-weight: 600;
+  font-weight: 700;
+  margin-top: 2.625rem;
   margin-bottom: 1.75rem;
 }
 
-.markup h2 {
-  margin-top: 2.625rem;
-}
-
 .markup h3 {
-  font-size: 0.875rem;
   font-weight: 600;
-  margin-top: 3.5rem;
-  text-transform: uppercase;
+  margin-top: 2.625rem;
 }
 
 .markup h2 + h3 {
@@ -392,6 +387,11 @@ input[type="submit"] {
 
 .markup dt a {
   color: var(--gray-900);
+  text-decoration: none;
+}
+
+.markup dt a:after {
+  content: ' →';
 }
 
 @media (prefers-color-scheme: dark) {
