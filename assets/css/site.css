@@ -277,6 +277,7 @@ input[type="submit"] {
 
 .newsletter-cta {
   background-color: var(--indigo-50);
+  border-radius: 2px;
   color: var(--indigo-900);
   padding: 1.75rem;
   margin-top: 3.5rem;
@@ -442,6 +443,7 @@ input[type="submit"] {
   padding: 1.75rem;
   border-left: 1px solid var(--gray-200);
   background-color: var(--gray-50);
+  border-radius: 0 2px 2px 0;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -486,6 +488,8 @@ input[type="submit"] {
 
 .markup :not(pre) > code {
   color: inherit;
+  background-color:  var(--gray-100);
+  border-radius: 2px;
   font-weight: 500;
 }
 
@@ -541,7 +545,7 @@ input[type="submit"] {
   display: block;
   overflow-x: auto;
   padding: 1.75rem;
-  ;
+  border-radius: 2px;
   background-color: var(--gray-900);
   color: var(--gray-100);
 }
@@ -613,6 +617,7 @@ input[type="submit"] {
 
 .toc {
   background-color: var(--green-50);
+  border-radius: 2px;
   color: var(--green-950);
   margin-bottom: 1.75rem;
   padding: 1.75rem;
