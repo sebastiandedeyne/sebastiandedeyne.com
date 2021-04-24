@@ -566,5 +566,27 @@
     "mention-of": "https://sebastiandedeyne.com/react-for-vue-developers/",
     "wm-property": "mention-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "👨🏾‍💻",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/33e7948480319521ce116cdb81972aa619b6aeb2cb454fc34a61342218ca472c.jpg",
+      "url": "https://twitter.com/olucurious"
+    },
+    "url": "https://twitter.com/olucurious/status/1385912194219585540",
+    "published": "2021-04-24T11:03:10+00:00",
+    "wm-received": "2021-04-24T11:26:41Z",
+    "wm-id": 1132205,
+    "wm-source": "https://brid.gy/post/twitter/sebdedeyne/1385912194219585540",
+    "wm-target": "https://sebastiandedeyne.com/react-for-vue-developers/",
+    "content": {
+      "html": "If you've been doing Vuejs for a while and want to try React, you should go through this <a href=\"https://sebastiandedeyne.com/react-for-vue-developers/\">sebastiandedeyne.com/react-for-vue-…</a>",
+      "text": "If you've been doing Vuejs for a while and want to try React, you should go through this sebastiandedeyne.com/react-for-vue-…"
+    },
+    "mention-of": "https://sebastiandedeyne.com/react-for-vue-developers/",
+    "wm-property": "mention-of",
+    "wm-private": false
   }
 ]
