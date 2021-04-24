@@ -187,5 +187,41 @@
     "like-of": "https://sebastiandedeyne.com/why-we-use-important-with-tailwind/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Saurabh Mahajan",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/7641aa9479f5012bc9fe6bf267809633262fb84d7c41bdb58fdc7f5720a503a4.jpg",
+      "url": "https://twitter.com/100r0bh"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1384763460064583680#favorited-by-111357617",
+    "published": null,
+    "wm-received": "2021-04-24T14:41:41Z",
+    "wm-id": 1132263,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1384763460064583680/111357617",
+    "wm-target": "https://sebastiandedeyne.com/why-we-use-important-with-tailwind/",
+    "like-of": "https://sebastiandedeyne.com/why-we-use-important-with-tailwind/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "🦉 Tobias Scharikow",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/4de4a2cb92f9abebd622ac2e78202d83c73309050ccdeefd2afe04e4fe0708c2.jpg",
+      "url": "https://twitter.com/refuse2choose"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1384763460064583680#favorited-by-777587968454393857",
+    "published": null,
+    "wm-received": "2021-04-24T15:34:48Z",
+    "wm-id": 1132279,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1384763460064583680/777587968454393857",
+    "wm-target": "https://sebastiandedeyne.com/why-we-use-important-with-tailwind/",
+    "like-of": "https://sebastiandedeyne.com/why-we-use-important-with-tailwind/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
