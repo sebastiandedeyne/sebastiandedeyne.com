@@ -223,5 +223,23 @@
     "like-of": "https://sebastiandedeyne.com/why-we-use-important-with-tailwind/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Peter Brinck 🤘",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/92d1ddcbfe917452564dff25c7ce7f7be55673a8d011d5ce38d8cbc0bbc6be6d.jpg",
+      "url": "https://twitter.com/peterbrinck"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1384763460064583680#favorited-by-637338781",
+    "published": null,
+    "wm-received": "2021-04-25T10:31:56Z",
+    "wm-id": 1132665,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1384763460064583680/637338781",
+    "wm-target": "https://sebastiandedeyne.com/why-we-use-important-with-tailwind/",
+    "like-of": "https://sebastiandedeyne.com/why-we-use-important-with-tailwind/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
