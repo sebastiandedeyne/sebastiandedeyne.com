@@ -146,5 +146,23 @@
     "like-of": "https://sebastiandedeyne.com/file-watching-with-chokidar/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "assoftTR",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/756557fbd43880faa30e0060f07c6e17120881b088e355c2f4ba2c48a24e2800.jpg",
+      "url": "https://twitter.com/assoftTR"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1382929496706285568#favorited-by-1651187208",
+    "published": null,
+    "wm-received": "2021-04-29T07:04:52Z",
+    "wm-id": 1136237,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1382929496706285568/1651187208",
+    "wm-target": "https://sebastiandedeyne.com/file-watching-with-chokidar/",
+    "like-of": "https://sebastiandedeyne.com/file-watching-with-chokidar/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
