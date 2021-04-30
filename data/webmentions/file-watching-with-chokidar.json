@@ -164,5 +164,27 @@
     "like-of": "https://sebastiandedeyne.com/file-watching-with-chokidar/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Freek Van der Herten 🎆",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/df0b08af8527090085ffdf1f7f8dc6daf99a52521222454d2c0149e61ee142f8.jpg",
+      "url": "https://twitter.com/freekmurze"
+    },
+    "url": "https://twitter.com/freekmurze/status/1387844158010834948",
+    "published": "2021-04-29T19:00:06+00:00",
+    "wm-received": "2021-04-29T19:15:12Z",
+    "wm-id": 1136742,
+    "wm-source": "https://brid.gy/post/twitter/sebdedeyne/1387844158010834948",
+    "wm-target": "https://sebastiandedeyne.com/file-watching-with-chokidar/",
+    "content": {
+      "html": "🔗 File watching with chokidar\n<a href=\"https://sebastiandedeyne.com/file-watching-with-chokidar/\">sebastiandedeyne.com/file-watching-…</a>\n<a href=\"https://twitter.com/search?q=%23javascript\">#javascript</a> <a href=\"https://twitter.com/search?q=%23watcher\">#watcher</a>",
+      "text": "🔗 File watching with chokidar\nsebastiandedeyne.com/file-watching-…\n#javascript #watcher"
+    },
+    "mention-of": "https://sebastiandedeyne.com/file-watching-with-chokidar/",
+    "wm-property": "mention-of",
+    "wm-private": false
   }
 ]
