@@ -29,7 +29,7 @@ Performance issues can be solved with a [debounce](https://davidwalsh.name/javas
 
 ```js
 window.matchMedia('(min-width: 960px)')
-  .addEventListener((query) => {
+  .addEventListener('change', (query) => {
     if(query.matches) {
       // …
     } else {
