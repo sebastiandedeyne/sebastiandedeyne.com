@@ -588,5 +588,27 @@
     "mention-of": "https://sebastiandedeyne.com/react-for-vue-developers/",
     "wm-property": "mention-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "M2@世界一のカルネジスト/全自動スクショ職人",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/a6dbb77796e1ba5d191a9040d75cc333ce3663af884f786557a30b6bcce22f4a.jpg",
+      "url": "https://twitter.com/M2_m_"
+    },
+    "url": "https://twitter.com/M2_m_/status/1389602890847690758",
+    "published": "2021-05-04T15:28:41+00:00",
+    "wm-received": "2021-05-04T15:52:37Z",
+    "wm-id": 1144293,
+    "wm-source": "https://brid.gy/post/twitter/sebdedeyne/1389602890847690758",
+    "wm-target": "https://sebastiandedeyne.com/react-for-vue-developers/",
+    "content": {
+      "html": "<a href=\"https://sebastiandedeyne.com/react-for-vue-developers/\">sebastiandedeyne.com/react-for-vue-…</a>\nReactになれないから、ひたすらこれ",
+      "text": "sebastiandedeyne.com/react-for-vue-…\nReactになれないから、ひたすらこれ"
+    },
+    "mention-of": "https://sebastiandedeyne.com/react-for-vue-developers/",
+    "wm-property": "mention-of",
+    "wm-private": false
   }
 ]
