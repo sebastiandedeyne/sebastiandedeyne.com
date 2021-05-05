@@ -186,5 +186,30 @@
     "mention-of": "https://sebastiandedeyne.com/file-watching-with-chokidar/",
     "wm-property": "mention-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "João Patrício",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/212a1fde3a095459fe99b560f295cf46f40d302a4a35c56cf816e7cd32dc7c41.jpg",
+      "url": "https://twitter.com/ijpatricio"
+    },
+    "url": "https://twitter.com/ijpatricio/status/1389882465775505409",
+    "published": "2021-05-05T09:59:37+00:00",
+    "wm-received": "2021-05-05T10:21:56Z",
+    "wm-id": 1145238,
+    "wm-source": "https://brid.gy/post/twitter/sebdedeyne/1389882465775505409",
+    "wm-target": "https://sebastiandedeyne.com/file-watching-with-chokidar/",
+    "photo": [
+      "https://pbs.twimg.com/media/E0nZ5OHWUAEhGB-.jpg"
+    ],
+    "content": {
+      "html": "No matter how small the improvement is, it counts! They all add up over time, and everyday tasks improve!\n\nThank you to <a href=\"https://twitter.com/sebdedeyne\">@sebdedeyne</a> for the tip <a href=\"https://sebastiandedeyne.com/file-watching-with-chokidar/\">sebastiandedeyne.com/file-watching-…</a> and <a href=\"https://twitter.com/freekmurze\">@freekmurze</a> for the newsletter.\n\nYou can watch files for changes, and run a  command when it does!",
+      "text": "No matter how small the improvement is, it counts! They all add up over time, and everyday tasks improve!\n\nThank you to @sebdedeyne for the tip sebastiandedeyne.com/file-watching-… and @freekmurze for the newsletter.\n\nYou can watch files for changes, and run a  command when it does!"
+    },
+    "mention-of": "https://sebastiandedeyne.com/file-watching-with-chokidar/",
+    "wm-property": "mention-of",
+    "wm-private": false
   }
 ]
