@@ -632,5 +632,27 @@
     "mention-of": "https://sebastiandedeyne.com/react-for-vue-developers/",
     "wm-property": "mention-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Lucasoft co.uk",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/b88d59f30c88131dfa1633e0180c7234b2f40f86f997b2f6a7181dc75d61c39e.png",
+      "url": "https://twitter.com/lucasoft_co_uk"
+    },
+    "url": "https://twitter.com/lucasoft_co_uk/status/1392167641075302401",
+    "published": "2021-05-11T17:20:05+00:00",
+    "wm-received": "2021-05-11T17:45:21Z",
+    "wm-id": 1152015,
+    "wm-source": "https://brid.gy/post/twitter/sebdedeyne/1392167641075302401",
+    "wm-target": "https://sebastiandedeyne.com/react-for-vue-developers/",
+    "content": {
+      "html": "RT <a href=\"https://twitter.com/1stevengrant\">@1stevengrant</a> Thanks <a href=\"https://twitter.com/sebdedeyne\">@sebdedeyne</a> for his excellent React for Vue developers article <a href=\"https://sebastiandedeyne.com/react-for-vue-developers\">sebastiandedeyne.com/react-for-vue-…</a> very good for context switching between frameworks <a href=\"https://twitter.com/search?q=%23tech\">#tech</a> <a href=\"https://twitter.com/search?q=%23frontend\">#frontend</a> <a href=\"https://twitter.com/search?q=%23appdev\">#appdev</a>\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/react-for-vue-developers/\"></a>",
+      "text": "RT @1stevengrant Thanks @sebdedeyne for his excellent React for Vue developers article sebastiandedeyne.com/react-for-vue-… very good for context switching between frameworks #tech #frontend #appdev"
+    },
+    "mention-of": "https://sebastiandedeyne.com/react-for-vue-developers/",
+    "wm-property": "mention-of",
+    "wm-private": false
   }
 ]
