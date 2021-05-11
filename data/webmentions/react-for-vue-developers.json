@@ -610,5 +610,27 @@
     "mention-of": "https://sebastiandedeyne.com/react-for-vue-developers/",
     "wm-property": "mention-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Steven",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/1da2738c610aca18f5be41af5fcbb193fa571ea363dd06db141d9648353af453.jpg",
+      "url": "https://twitter.com/1stevengrant"
+    },
+    "url": "https://twitter.com/1stevengrant/status/1392028971857031168",
+    "published": "2021-05-11T08:09:04+00:00",
+    "wm-received": "2021-05-11T08:43:22Z",
+    "wm-id": 1151334,
+    "wm-source": "https://brid.gy/post/twitter/sebdedeyne/1392028971857031168",
+    "wm-target": "https://sebastiandedeyne.com/react-for-vue-developers/",
+    "content": {
+      "html": "Thanks <a href=\"https://twitter.com/sebdedeyne\">@sebdedeyne</a> for his excellent React for Vue developers article <a href=\"https://sebastiandedeyne.com/react-for-vue-developers\">sebastiandedeyne.com/react-for-vue-…</a> very good for context switching between frameworks\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/react-for-vue-developers/\"></a>",
+      "text": "Thanks @sebdedeyne for his excellent React for Vue developers article sebastiandedeyne.com/react-for-vue-… very good for context switching between frameworks"
+    },
+    "mention-of": "https://sebastiandedeyne.com/react-for-vue-developers/",
+    "wm-property": "mention-of",
+    "wm-private": false
   }
 ]
