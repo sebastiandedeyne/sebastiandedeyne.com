@@ -3757,5 +3757,27 @@
     "mention-of": "https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/",
     "wm-property": "mention-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Emiliano Ruiz Carletti",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/b5d48dff0bcfa46021083444c442699da06318839399fa9d77804441bdcf2ffe.jpg",
+      "url": "https://twitter.com/eruizc_dev"
+    },
+    "url": "https://twitter.com/eruizc_dev/status/1393366917474304000",
+    "published": "2021-05-15T00:45:35+00:00",
+    "wm-received": "2021-05-15T01:06:34Z",
+    "wm-id": 1157520,
+    "wm-source": "https://brid.gy/post/twitter/sebdedeyne/1393366917474304000",
+    "wm-target": "https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/",
+    "content": {
+      "html": "How did I not know about global gitignores? Please do this if you work with me\n<a href=\"https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/\">sebastiandedeyne.com/setting-up-a-g…</a>",
+      "text": "How did I not know about global gitignores? Please do this if you work with me\nsebastiandedeyne.com/setting-up-a-g…"
+    },
+    "mention-of": "https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/",
+    "wm-property": "mention-of",
+    "wm-private": false
   }
 ]
