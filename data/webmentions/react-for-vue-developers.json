@@ -654,5 +654,27 @@
     "mention-of": "https://sebastiandedeyne.com/react-for-vue-developers/",
     "wm-property": "mention-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "d4te",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/badc65a85e2ff05b4f5c098e8a7bb051f2c8d9abae28a3a6a3d6cb24c98613e0.jpg",
+      "url": "https://twitter.com/b0ntenmaru"
+    },
+    "url": "https://twitter.com/b0ntenmaru/status/1398927359869292547",
+    "published": "2021-05-30T09:00:48+00:00",
+    "wm-received": "2021-05-30T12:14:10Z",
+    "wm-id": 1174352,
+    "wm-source": "https://brid.gy/post/twitter/sebdedeyne/1398927359869292547",
+    "wm-target": "https://sebastiandedeyne.com/react-for-vue-developers/",
+    "content": {
+      "html": "<a href=\"https://sebastiandedeyne.com/react-for-vue-developers/\">sebastiandedeyne.com/react-for-vue-…</a>",
+      "text": "sebastiandedeyne.com/react-for-vue-…"
+    },
+    "mention-of": "https://sebastiandedeyne.com/react-for-vue-developers/",
+    "wm-property": "mention-of",
+    "wm-private": false
   }
 ]
