@@ -1,0 +1,574 @@
+[
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Freek Van der Herten 🔭",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/df0b08af8527090085ffdf1f7f8dc6daf99a52521222454d2c0149e61ee142f8.jpg",
+      "url": "https://twitter.com/freekmurze"
+    },
+    "url": "https://twitter.com/freekmurze/status/1407778251246866432",
+    "published": "2021-06-23T19:11:05+00:00",
+    "wm-received": "2021-06-23T21:28:30Z",
+    "wm-id": 1199564,
+    "wm-source": "https://brid.gy/post/twitter/sebdedeyne/1407778251246866432",
+    "wm-target": "https://sebastiandedeyne.com/introducing-laravel-google-fonts/",
+    "photo": [
+      "https://pbs.twimg.com/media/E4lu2tYX0AcJupk.jpg"
+    ],
+    "content": {
+      "html": "🚀 Our newest package, spatie/laravel-google-fonts, has been released\n<a href=\"https://github.com/spatie/laravel-google-fonts\">github.com/spatie/laravel…</a>\n\nThis one can cache and serve Google Fonts for a <a href=\"https://twitter.com/laravelphp\">@laravelphp</a> app\n\n🙌 Nice work by <a href=\"https://twitter.com/sebdedeyne\">@sebdedeyne</a> \n\nBlogpost: <a href=\"https://sebastiandedeyne.com/introducing-laravel-google-fonts/\">sebastiandedeyne.com/introducing-la…</a>\n\n<a href=\"https://twitter.com/laravelnews\">@laravelnews</a> announcement: <a href=\"https://laravel-news.com/laravel-google-fonts-package\">laravel-news.com/laravel-google…</a>\n<a href=\"https://twitter.com/search?q=%23php\">#php</a>",
+      "text": "🚀 Our newest package, spatie/laravel-google-fonts, has been released\ngithub.com/spatie/laravel…\n\nThis one can cache and serve Google Fonts for a @laravelphp app\n\n🙌 Nice work by @sebdedeyne \n\nBlogpost: sebastiandedeyne.com/introducing-la…\n\n@laravelnews announcement: laravel-news.com/laravel-google…\n#php"
+    },
+    "mention-of": "https://sebastiandedeyne.com/introducing-laravel-google-fonts/",
+    "wm-property": "mention-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "THOMAS",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/562b0d0a9f5bcca3795196b11ddd1b84ec6fb9757e6c52ab010fe6b8213dbd12.jpg",
+      "url": "https://twitter.com/yothomas"
+    },
+    "url": "https://twitter.com/yothomas/status/1407800437898625024",
+    "published": "2021-06-23T20:39:14+00:00",
+    "wm-received": "2021-06-23T21:28:31Z",
+    "wm-id": 1199565,
+    "wm-source": "https://brid.gy/comment/twitter/sebdedeyne/1407728832749129729/1407800437898625024",
+    "wm-target": "https://sebastiandedeyne.com/introducing-laravel-google-fonts/",
+    "content": {
+      "html": "What a great idea!\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/sebdedeyne\"></a>",
+      "text": "What a great idea!"
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/introducing-laravel-google-fonts/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Max Hutschenreiter",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/c3082123477eda903d6d493d719d6ed1908a373ce0754dca1ccc652a51f55c71.png",
+      "url": "https://twitter.com/gwagwagwa"
+    },
+    "url": "https://twitter.com/gwagwagwa/status/1407733730282704897",
+    "published": "2021-06-23T16:14:10+00:00",
+    "wm-received": "2021-06-23T21:28:32Z",
+    "wm-id": 1199566,
+    "wm-source": "https://brid.gy/comment/twitter/sebdedeyne/1407728832749129729/1407733730282704897",
+    "wm-target": "https://sebastiandedeyne.com/introducing-laravel-google-fonts/",
+    "content": {
+      "html": "This is such a cool Package thanks!\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/sebdedeyne\"></a>",
+      "text": "This is such a cool Package thanks!"
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/introducing-laravel-google-fonts/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Ruslan",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/732bf6e483279809ace753630d1a569de069117861766e999cd589b42ecab32f.jpg",
+      "url": "https://twitter.com/SuddenlyRust"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1407728832749129729#favorited-by-935107835045842944",
+    "published": null,
+    "wm-received": "2021-06-23T21:28:32Z",
+    "wm-id": 1199567,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1407728832749129729/935107835045842944",
+    "wm-target": "https://sebastiandedeyne.com/introducing-laravel-google-fonts/",
+    "like-of": "https://sebastiandedeyne.com/introducing-laravel-google-fonts/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Abdur Roquib",
+      "photo": "https://webmention.io/avatar/abs.twimg.com/0e6b2cd70aa5b35dec24ca4e1e63f8963f0118736d9ec3bba77e3a8c99a27bc2.png",
+      "url": "https://twitter.com/roquib01"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1407728832749129729#favorited-by-706952295540346880",
+    "published": null,
+    "wm-received": "2021-06-23T21:28:33Z",
+    "wm-id": 1199568,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1407728832749129729/706952295540346880",
+    "wm-target": "https://sebastiandedeyne.com/introducing-laravel-google-fonts/",
+    "like-of": "https://sebastiandedeyne.com/introducing-laravel-google-fonts/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "i360x64",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/730ebe51120d058f052403ebb5d5feda31d3a54e3bb4b38baea33a9c5ee58c91.jpg",
+      "url": "https://twitter.com/i360x64"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1407728832749129729#favorited-by-1574084028",
+    "published": null,
+    "wm-received": "2021-06-23T21:28:33Z",
+    "wm-id": 1199569,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1407728832749129729/1574084028",
+    "wm-target": "https://sebastiandedeyne.com/introducing-laravel-google-fonts/",
+    "like-of": "https://sebastiandedeyne.com/introducing-laravel-google-fonts/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Mithicher Baro",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/b4ee0c303dd27e391b702d9713c984efbbf051c6948b0dc2164dc17a3747bdd7.png",
+      "url": "https://twitter.com/mithicher"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1407728832749129729#favorited-by-1315799845",
+    "published": null,
+    "wm-received": "2021-06-23T21:28:34Z",
+    "wm-id": 1199570,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1407728832749129729/1315799845",
+    "wm-target": "https://sebastiandedeyne.com/introducing-laravel-google-fonts/",
+    "like-of": "https://sebastiandedeyne.com/introducing-laravel-google-fonts/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Adam Campbell",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/8b203f3ed5f7e07e4a679b516d857184a56860b3f77d0cef8ff73e8230d797c2.jpg",
+      "url": "https://twitter.com/hotmeteor"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1407728832749129729#favorited-by-10475672",
+    "published": null,
+    "wm-received": "2021-06-23T21:28:34Z",
+    "wm-id": 1199571,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1407728832749129729/10475672",
+    "wm-target": "https://sebastiandedeyne.com/introducing-laravel-google-fonts/",
+    "like-of": "https://sebastiandedeyne.com/introducing-laravel-google-fonts/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Richard Radermacher",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/5277a388649f0f63e0236cc171a6fcd7a7b84ea4092ad79c8a6ad52cc8a9b3b8.jpg",
+      "url": "https://twitter.com/radermacher_io"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1407728832749129729#favorited-by-35496266",
+    "published": null,
+    "wm-received": "2021-06-23T21:28:35Z",
+    "wm-id": 1199572,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1407728832749129729/35496266",
+    "wm-target": "https://sebastiandedeyne.com/introducing-laravel-google-fonts/",
+    "like-of": "https://sebastiandedeyne.com/introducing-laravel-google-fonts/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "mahmoud samy",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/67ea8c6ca1e36c5bffcfae0dfc8150dc453ec672999000a3502052d223416c37.jpg",
+      "url": "https://twitter.com/mhmoudsaamy"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1407728832749129729#favorited-by-83535167",
+    "published": null,
+    "wm-received": "2021-06-23T21:28:35Z",
+    "wm-id": 1199573,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1407728832749129729/83535167",
+    "wm-target": "https://sebastiandedeyne.com/introducing-laravel-google-fonts/",
+    "like-of": "https://sebastiandedeyne.com/introducing-laravel-google-fonts/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Sean",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/a36a4928c6e432c0d4dc4d8801799e9c87d1eed1b9ab94a15dca84055aae08f4.jpg",
+      "url": "https://twitter.com/funkymonk91"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1407728832749129729#favorited-by-3302416050",
+    "published": null,
+    "wm-received": "2021-06-23T21:28:36Z",
+    "wm-id": 1199574,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1407728832749129729/3302416050",
+    "wm-target": "https://sebastiandedeyne.com/introducing-laravel-google-fonts/",
+    "like-of": "https://sebastiandedeyne.com/introducing-laravel-google-fonts/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "joca",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/2b9b7bfc6d5dda4c31773c51d3589796fdf2fa5f034b77323d48e47bf2828fbb.jpg",
+      "url": "https://twitter.com/devjoca"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1407728832749129729#favorited-by-1022231294326071296",
+    "published": null,
+    "wm-received": "2021-06-23T21:28:37Z",
+    "wm-id": 1199576,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1407728832749129729/1022231294326071296",
+    "wm-target": "https://sebastiandedeyne.com/introducing-laravel-google-fonts/",
+    "like-of": "https://sebastiandedeyne.com/introducing-laravel-google-fonts/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Abdul Rauf 🇬🇭",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/09a46521b1a2100c119e078d092ac52ed26686d95a5ce1084eeca2c93751899e.jpg",
+      "url": "https://twitter.com/realniendoo"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1407728832749129729#favorited-by-716747754",
+    "published": null,
+    "wm-received": "2021-06-23T21:28:38Z",
+    "wm-id": 1199577,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1407728832749129729/716747754",
+    "wm-target": "https://sebastiandedeyne.com/introducing-laravel-google-fonts/",
+    "like-of": "https://sebastiandedeyne.com/introducing-laravel-google-fonts/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Christoph Rumpel 🤠",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/25dbe42c6ab84f33de92184186007013318196ccd08cd62e37e416221acf8828.jpg",
+      "url": "https://twitter.com/christophrumpel"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1407728832749129729#favorited-by-224375889",
+    "published": null,
+    "wm-received": "2021-06-23T21:28:39Z",
+    "wm-id": 1199578,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1407728832749129729/224375889",
+    "wm-target": "https://sebastiandedeyne.com/introducing-laravel-google-fonts/",
+    "like-of": "https://sebastiandedeyne.com/introducing-laravel-google-fonts/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Sebastian Rasch",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/ac27838b567d045dce10c181acee0995fd14e3d68c447c5c46cff5e55c6ef10c.jpg",
+      "url": "https://twitter.com/raschsebastian"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1407728832749129729#favorited-by-1169891222267162626",
+    "published": null,
+    "wm-received": "2021-06-23T21:28:41Z",
+    "wm-id": 1199579,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1407728832749129729/1169891222267162626",
+    "wm-target": "https://sebastiandedeyne.com/introducing-laravel-google-fonts/",
+    "like-of": "https://sebastiandedeyne.com/introducing-laravel-google-fonts/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Tom Witkowski 🦦🌳🇩🇪",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/4c6a0072545bab629442313c0b6d9a2cd920b338d3f3132c0e23a1f1175e382a.jpg",
+      "url": "https://twitter.com/devgummibeer"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1407728832749129729#favorited-by-2995381594",
+    "published": null,
+    "wm-received": "2021-06-23T21:28:41Z",
+    "wm-id": 1199580,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1407728832749129729/2995381594",
+    "wm-target": "https://sebastiandedeyne.com/introducing-laravel-google-fonts/",
+    "like-of": "https://sebastiandedeyne.com/introducing-laravel-google-fonts/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Jan Keller",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/14da0193b8438d575377e5455e0d67a284446d0c1573cb0bf56783b71300aba7.jpg",
+      "url": "https://twitter.com/jankellerDK"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1407728832749129729#favorited-by-1515699919",
+    "published": null,
+    "wm-received": "2021-06-23T21:28:42Z",
+    "wm-id": 1199581,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1407728832749129729/1515699919",
+    "wm-target": "https://sebastiandedeyne.com/introducing-laravel-google-fonts/",
+    "like-of": "https://sebastiandedeyne.com/introducing-laravel-google-fonts/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Sebastiaan Luca 🤖",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/f16d4bc904e9b9ea56fbbbae03a72fab6aaefd47bb9fc039498c64c273110990.jpg",
+      "url": "https://twitter.com/sebastiaanluca"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1407728832749129729#favorited-by-357390496",
+    "published": null,
+    "wm-received": "2021-06-23T21:28:44Z",
+    "wm-id": 1199582,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1407728832749129729/357390496",
+    "wm-target": "https://sebastiandedeyne.com/introducing-laravel-google-fonts/",
+    "like-of": "https://sebastiandedeyne.com/introducing-laravel-google-fonts/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Max Hutschenreiter",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/c3082123477eda903d6d493d719d6ed1908a373ce0754dca1ccc652a51f55c71.png",
+      "url": "https://twitter.com/gwagwagwa"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1407728832749129729#favorited-by-44716058",
+    "published": null,
+    "wm-received": "2021-06-23T21:28:45Z",
+    "wm-id": 1199583,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1407728832749129729/44716058",
+    "wm-target": "https://sebastiandedeyne.com/introducing-laravel-google-fonts/",
+    "like-of": "https://sebastiandedeyne.com/introducing-laravel-google-fonts/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Jethro May",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/b17cae43d8b8a888d10e722eb1a21f21f05422505da45619d229b93af2e37428.jpg",
+      "url": "https://twitter.com/jethromay91"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1407728832749129729#favorited-by-1661943276",
+    "published": null,
+    "wm-received": "2021-06-23T21:28:45Z",
+    "wm-id": 1199584,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1407728832749129729/1661943276",
+    "wm-target": "https://sebastiandedeyne.com/introducing-laravel-google-fonts/",
+    "like-of": "https://sebastiandedeyne.com/introducing-laravel-google-fonts/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "THOMAS",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/562b0d0a9f5bcca3795196b11ddd1b84ec6fb9757e6c52ab010fe6b8213dbd12.jpg",
+      "url": "https://twitter.com/yothomas"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1407728832749129729#favorited-by-40631184",
+    "published": null,
+    "wm-received": "2021-06-23T21:28:46Z",
+    "wm-id": 1199585,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1407728832749129729/40631184",
+    "wm-target": "https://sebastiandedeyne.com/introducing-laravel-google-fonts/",
+    "like-of": "https://sebastiandedeyne.com/introducing-laravel-google-fonts/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Tony Messias",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/0e0c244f01e80d90f4999b187f412bc448df3976ca238f52c288745b7eeb6c91.jpg",
+      "url": "https://twitter.com/tonysmdev"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1407728832749129729#favorited-by-55294160",
+    "published": null,
+    "wm-received": "2021-06-23T21:28:47Z",
+    "wm-id": 1199586,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1407728832749129729/55294160",
+    "wm-target": "https://sebastiandedeyne.com/introducing-laravel-google-fonts/",
+    "like-of": "https://sebastiandedeyne.com/introducing-laravel-google-fonts/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "David Mohamed - m0hda",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/df62c832263e8c4ffbc86ea9a039b527a885297ae30cfe69d0ba52ce81145a76.jpg",
+      "url": "https://twitter.com/davidmohamedfr"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1407728832749129729#favorited-by-960811351630385152",
+    "published": null,
+    "wm-received": "2021-06-23T21:28:48Z",
+    "wm-id": 1199587,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1407728832749129729/960811351630385152",
+    "wm-target": "https://sebastiandedeyne.com/introducing-laravel-google-fonts/",
+    "like-of": "https://sebastiandedeyne.com/introducing-laravel-google-fonts/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Mithicher Baro",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/b4ee0c303dd27e391b702d9713c984efbbf051c6948b0dc2164dc17a3747bdd7.png",
+      "url": "https://twitter.com/mithicher"
+    },
+    "url": "https://twitter.com/mithicher/status/1407774032326324226",
+    "published": "2021-06-23T18:54:19+00:00",
+    "wm-received": "2021-06-23T21:28:49Z",
+    "wm-id": 1199588,
+    "wm-source": "https://brid.gy/repost/twitter/sebdedeyne/1407728832749129729/1407774032326324226",
+    "wm-target": "https://sebastiandedeyne.com/introducing-laravel-google-fonts/",
+    "content": {
+      "text": "I released my first Laravel package in a loooong time!\n\nThis one makes it easy to self-host Google Fonts in a Laravel app, without having to keep them in sync all the time.\n\nIntroducing Laravel Google Fonts: sebastiandedeyne.com/introducing-la…"
+    },
+    "repost-of": "https://sebastiandedeyne.com/introducing-laravel-google-fonts/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Sebastiaan Luca 🤖",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/f16d4bc904e9b9ea56fbbbae03a72fab6aaefd47bb9fc039498c64c273110990.jpg",
+      "url": "https://twitter.com/sebastiaanluca"
+    },
+    "url": "https://twitter.com/sebastiaanluca/status/1407742191611613197",
+    "published": "2021-06-23T16:47:47+00:00",
+    "wm-received": "2021-06-23T21:28:50Z",
+    "wm-id": 1199589,
+    "wm-source": "https://brid.gy/repost/twitter/sebdedeyne/1407728832749129729/1407742191611613197",
+    "wm-target": "https://sebastiandedeyne.com/introducing-laravel-google-fonts/",
+    "content": {
+      "text": "I released my first Laravel package in a loooong time!\n\nThis one makes it easy to self-host Google Fonts in a Laravel app, without having to keep them in sync all the time.\n\nIntroducing Laravel Google Fonts: sebastiandedeyne.com/introducing-la…"
+    },
+    "repost-of": "https://sebastiandedeyne.com/introducing-laravel-google-fonts/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Max Hutschenreiter",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/c3082123477eda903d6d493d719d6ed1908a373ce0754dca1ccc652a51f55c71.png",
+      "url": "https://twitter.com/gwagwagwa"
+    },
+    "url": "https://twitter.com/gwagwagwa/status/1407733741909426183",
+    "published": "2021-06-23T16:14:13+00:00",
+    "wm-received": "2021-06-23T21:28:51Z",
+    "wm-id": 1199590,
+    "wm-source": "https://brid.gy/repost/twitter/sebdedeyne/1407728832749129729/1407733741909426183",
+    "wm-target": "https://sebastiandedeyne.com/introducing-laravel-google-fonts/",
+    "content": {
+      "text": "I released my first Laravel package in a loooong time!\n\nThis one makes it easy to self-host Google Fonts in a Laravel app, without having to keep them in sync all the time.\n\nIntroducing Laravel Google Fonts: sebastiandedeyne.com/introducing-la…"
+    },
+    "repost-of": "https://sebastiandedeyne.com/introducing-laravel-google-fonts/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Edgar_94_",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/ab89f64b51642b83d72138b215ce28209eff938970eaa0986a8700e746517690.jpg",
+      "url": "https://twitter.com/edgar_94_"
+    },
+    "url": "https://twitter.com/edgar_94_/status/1407802139670351872",
+    "published": "2021-06-23T20:46:00+00:00",
+    "wm-received": "2021-06-23T21:32:59Z",
+    "wm-id": 1199594,
+    "wm-source": "https://brid.gy/comment/twitter/freekmurze/1407778251246866432/1407802139670351872",
+    "wm-target": "https://sebastiandedeyne.com/introducing-laravel-google-fonts/",
+    "content": {
+      "html": "Wtf?? I have been looking for something like this this afternoon... Kinda magic 😂❤️\n<a class=\"u-mention\" href=\"https://freek.dev/\"></a>\n<a class=\"u-mention\" href=\"https://laravel-news.com/laravel-google-fonts-package\"></a>\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/introducing-laravel-google-fonts/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/freekmurze\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/laravelnews\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/laravelphp\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/sebdedeyne\"></a>",
+      "text": "Wtf?? I have been looking for something like this this afternoon... Kinda magic 😂❤️"
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/introducing-laravel-google-fonts/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "hans 👀",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/27e16caf44db04f94ff9760a3526f185b1ab8c54eed2afc886cffa11a4d9d2fa.jpg",
+      "url": "https://twitter.com/hanspagel"
+    },
+    "url": "https://twitter.com/hanspagel/status/1407817358614437896",
+    "published": "2021-06-23T21:46:28+00:00",
+    "wm-received": "2021-06-23T22:33:35Z",
+    "wm-id": 1199606,
+    "wm-source": "https://brid.gy/comment/twitter/freekmurze/1407778251246866432/1407817358614437896",
+    "wm-target": "https://sebastiandedeyne.com/introducing-laravel-google-fonts/",
+    "content": {
+      "html": "How cool is that! @sebdedeyne 🙌\n<a class=\"u-mention\" href=\"https://freek.dev/\"></a>\n<a class=\"u-mention\" href=\"https://laravel-news.com/laravel-google-fonts-package\"></a>\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/introducing-laravel-google-fonts/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/freekmurze\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/laravelnews\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/laravelphp\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/sebdedeyne\"></a>",
+      "text": "How cool is that! @sebdedeyne 🙌"
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/introducing-laravel-google-fonts/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Corben Dallas",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/36ba5dc1b2d0424d8b11f9517bef30e9cf8080fdefc41e268f0c20464629775d.jpg",
+      "url": "https://twitter.com/Corben78"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1407728832749129729#favorited-by-56698692",
+    "published": null,
+    "wm-received": "2021-06-23T22:40:43Z",
+    "wm-id": 1199608,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1407728832749129729/56698692",
+    "wm-target": "https://sebastiandedeyne.com/introducing-laravel-google-fonts/",
+    "like-of": "https://sebastiandedeyne.com/introducing-laravel-google-fonts/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Scott Anderson",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/37d9dcaf3a528cc86c1ed7e22043645bb7ef2b70729b13727beed69d975252a1.jpg",
+      "url": "https://twitter.com/Scott82Anderson"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1407728832749129729#favorited-by-911589258",
+    "published": null,
+    "wm-received": "2021-06-23T22:41:18Z",
+    "wm-id": 1199609,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1407728832749129729/911589258",
+    "wm-target": "https://sebastiandedeyne.com/introducing-laravel-google-fonts/",
+    "like-of": "https://sebastiandedeyne.com/introducing-laravel-google-fonts/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+]
