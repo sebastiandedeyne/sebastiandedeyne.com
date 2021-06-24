@@ -570,5 +570,41 @@
     "like-of": "https://sebastiandedeyne.com/introducing-laravel-google-fonts/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Stephen Shead",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/1d0efc4ff88954b267c8a09d92c2f8098b41bb465b8a6661dfeefba69f7dd235.jpg",
+      "url": "https://twitter.com/StephenLShead"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1407728832749129729#favorited-by-1126072768334667776",
+    "published": null,
+    "wm-received": "2021-06-24T01:36:54Z",
+    "wm-id": 1199709,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1407728832749129729/1126072768334667776",
+    "wm-target": "https://sebastiandedeyne.com/introducing-laravel-google-fonts/",
+    "like-of": "https://sebastiandedeyne.com/introducing-laravel-google-fonts/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Roni Estein",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/5133e77a67641e3fe75ef4fc11e648fb27520e088247e30f0e48eab539f6443f.jpg",
+      "url": "https://twitter.com/roniestein"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1407728832749129729#favorited-by-241363373",
+    "published": null,
+    "wm-received": "2021-06-24T03:26:04Z",
+    "wm-id": 1199750,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1407728832749129729/241363373",
+    "wm-target": "https://sebastiandedeyne.com/introducing-laravel-google-fonts/",
+    "like-of": "https://sebastiandedeyne.com/introducing-laravel-google-fonts/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
