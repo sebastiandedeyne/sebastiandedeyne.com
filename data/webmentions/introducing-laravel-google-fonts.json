@@ -703,5 +703,99 @@
     "like-of": "https://sebastiandedeyne.com/introducing-laravel-google-fonts/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Caleb Porzio",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/03b72d49666215a47c3257a0ae49879d92a4e67d8d87bd2c1ddbdc10e0c81a72.jpg",
+      "url": "https://twitter.com/calebporzio"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1407728832749129729#favorited-by-24035747",
+    "published": null,
+    "wm-received": "2021-06-24T12:50:22Z",
+    "wm-id": 1200222,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1407728832749129729/24035747",
+    "wm-target": "https://sebastiandedeyne.com/introducing-laravel-google-fonts/",
+    "like-of": "https://sebastiandedeyne.com/introducing-laravel-google-fonts/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Amit Merchant",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/c18e556e81e269154e588f658bc78c0fffe461c85606062d53e6e845deca51a1.jpg",
+      "url": "https://twitter.com/amit_merchant"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1407728832749129729#favorited-by-88370761",
+    "published": null,
+    "wm-received": "2021-06-24T12:50:51Z",
+    "wm-id": 1200224,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1407728832749129729/88370761",
+    "wm-target": "https://sebastiandedeyne.com/introducing-laravel-google-fonts/",
+    "like-of": "https://sebastiandedeyne.com/introducing-laravel-google-fonts/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Qisthi Ramadhani",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/8d08baa6e4e1f6d75b3cf0467781fc0b8e4da29bec235fafbb7853eabb8f2f4d.jpg",
+      "url": "https://twitter.com/ramageek"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1407728832749129729#favorited-by-334462201",
+    "published": null,
+    "wm-received": "2021-06-24T13:42:56Z",
+    "wm-id": 1200316,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1407728832749129729/334462201",
+    "wm-target": "https://sebastiandedeyne.com/introducing-laravel-google-fonts/",
+    "like-of": "https://sebastiandedeyne.com/introducing-laravel-google-fonts/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Oliver Stark",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/eefae6f72078adb845a0449a29bae7bfdb89270f03e7ce8a89ea5ef4e1634ee0.jpg",
+      "url": "https://twitter.com/o_stark"
+    },
+    "url": "https://twitter.com/o_stark/status/1408110729107066884",
+    "published": "2021-06-24T17:12:13+00:00",
+    "wm-received": "2021-06-24T17:15:18Z",
+    "wm-id": 1200509,
+    "wm-source": "https://brid.gy/comment/twitter/sebdedeyne/1407728832749129729/1408110729107066884",
+    "wm-target": "https://sebastiandedeyne.com/introducing-laravel-google-fonts/",
+    "content": {
+      "html": "Does this violate against the TOS of Google fonts?\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/sebdedeyne\"></a>",
+      "text": "Does this violate against the TOS of Google fonts?"
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/introducing-laravel-google-fonts/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Oliver Stark",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/eefae6f72078adb845a0449a29bae7bfdb89270f03e7ce8a89ea5ef4e1634ee0.jpg",
+      "url": "https://twitter.com/o_stark"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1407728832749129729#favorited-by-453880247",
+    "published": null,
+    "wm-received": "2021-06-24T17:15:18Z",
+    "wm-id": 1200510,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1407728832749129729/453880247",
+    "wm-target": "https://sebastiandedeyne.com/introducing-laravel-google-fonts/",
+    "like-of": "https://sebastiandedeyne.com/introducing-laravel-google-fonts/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
