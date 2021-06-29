@@ -187,5 +187,30 @@
     "mention-of": "https://sebastiandedeyne.com/captioned-images-with-markdown-render-hooks-in-hugo/",
     "wm-property": "mention-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Jacob Tomlinson",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/04f613191934166eb5b543ea904a28dbb786610c7b0cc90114d226575acee013.jpg",
+      "url": "https://twitter.com/_JacobTomlinson"
+    },
+    "url": "https://twitter.com/_JacobTomlinson/status/1409818172971048962",
+    "published": "2021-06-29T10:17:00+00:00",
+    "wm-received": "2021-06-29T10:48:28Z",
+    "wm-id": 1204617,
+    "wm-source": "https://brid.gy/post/twitter/sebdedeyne/1409818172971048962",
+    "wm-target": "https://sebastiandedeyne.com/captioned-images-with-markdown-render-hooks-in-hugo/",
+    "photo": [
+      "https://pbs.twimg.com/media/E49kvSWWEAI_zkE.png"
+    ],
+    "content": {
+      "html": "This is a great post from <a href=\"https://twitter.com/sebdedeyne\">@sebdedeyne</a> on adding support for figures and figcaptions in <a href=\"https://twitter.com/GoHugoIO\">@GoHugoIO</a>.\n\n<a href=\"https://sebastiandedeyne.com/captioned-images-with-markdown-render-hooks-in-hugo/\">sebastiandedeyne.com/captioned-imag…</a>\n\nI've used it on my blog <a href=\"https://jacobtomlinson.dev\">jacobtomlinson.dev</a>\n\n<a class=\"u-mention\" href=\"https://jacobtomlinson.dev/\"></a>",
+      "text": "This is a great post from @sebdedeyne on adding support for figures and figcaptions in @GoHugoIO.\n\nsebastiandedeyne.com/captioned-imag…\n\nI've used it on my blog jacobtomlinson.dev"
+    },
+    "mention-of": "https://sebastiandedeyne.com/captioned-images-with-markdown-render-hooks-in-hugo/",
+    "wm-property": "mention-of",
+    "wm-private": false
   }
 ]
