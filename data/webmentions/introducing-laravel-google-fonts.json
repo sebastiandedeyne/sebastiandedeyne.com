@@ -797,5 +797,27 @@
     "like-of": "https://sebastiandedeyne.com/introducing-laravel-google-fonts/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Freek Van der Herten 🔭",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/df0b08af8527090085ffdf1f7f8dc6daf99a52521222454d2c0149e61ee142f8.jpg",
+      "url": "https://twitter.com/freekmurze"
+    },
+    "url": "https://twitter.com/freekmurze/status/1412018459215646721",
+    "published": "2021-07-05T12:00:09+00:00",
+    "wm-received": "2021-07-05T12:08:06Z",
+    "wm-id": 1210135,
+    "wm-source": "https://brid.gy/post/twitter/sebdedeyne/1412018459215646721",
+    "wm-target": "https://sebastiandedeyne.com/introducing-laravel-google-fonts/",
+    "content": {
+      "html": "🔗 Introducing Laravel Google Fonts (by <a href=\"https://twitter.com/sebdedeyne\">@sebdedeyne</a>)\n<a href=\"https://sebastiandedeyne.com/introducing-laravel-google-fonts/\">sebastiandedeyne.com/introducing-la…</a>\n<a href=\"https://twitter.com/search?q=%23php\">#php</a> <a href=\"https://twitter.com/search?q=%23laravel\">#laravel</a> <a href=\"https://twitter.com/search?q=%23fonts\">#fonts</a>",
+      "text": "🔗 Introducing Laravel Google Fonts (by @sebdedeyne)\nsebastiandedeyne.com/introducing-la…\n#php #laravel #fonts"
+    },
+    "mention-of": "https://sebastiandedeyne.com/introducing-laravel-google-fonts/",
+    "wm-property": "mention-of",
+    "wm-private": false
   }
 ]
