@@ -819,5 +819,27 @@
     "mention-of": "https://sebastiandedeyne.com/introducing-laravel-google-fonts/",
     "wm-property": "mention-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Marcus Bointon",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/33b9f7974125a2b8942a7cc01e3ad172b2ee81e26184605b1afc4d7b4bfaba8a.jpg",
+      "url": "https://twitter.com/SynchroM"
+    },
+    "url": "https://twitter.com/SynchroM/status/1412075514018336773",
+    "published": "2021-07-05T15:46:52+00:00",
+    "wm-received": "2021-07-05T16:26:37Z",
+    "wm-id": 1210328,
+    "wm-source": "https://brid.gy/comment/twitter/freekmurze/1412018459215646721/1412075514018336773",
+    "wm-target": "https://sebastiandedeyne.com/introducing-laravel-google-fonts/",
+    "content": {
+      "html": "I’d love to see Laravel Nova use this. Having google track activity within an admin interface doesn’t seems like a good idea!\n<a class=\"u-mention\" href=\"https://freek.dev/\"></a>\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/introducing-laravel-google-fonts/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/freekmurze\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/sebdedeyne\"></a>",
+      "text": "I’d love to see Laravel Nova use this. Having google track activity within an admin interface doesn’t seems like a good idea!"
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/introducing-laravel-google-fonts/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
   }
 ]
