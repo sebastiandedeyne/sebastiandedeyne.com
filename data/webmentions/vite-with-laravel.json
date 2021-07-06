@@ -4665,5 +4665,27 @@
     "mention-of": "https://sebastiandedeyne.com/vite-with-laravel/",
     "wm-property": "mention-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Jesse Dobbelaere",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/e4e63111fe6679cac703970c6b91aeba8a11ca7b6dbcf8b2dff0f3c4fb115be6.png",
+      "url": "https://twitter.com/JesseDobbelaere"
+    },
+    "url": "https://twitter.com/JesseDobbelaere/status/1412162379450884098",
+    "published": "2021-07-05T21:32:02+00:00",
+    "wm-received": "2021-07-05T21:41:21Z",
+    "wm-id": 1210431,
+    "wm-source": "https://brid.gy/post/twitter/sebdedeyne/1412162379450884098",
+    "wm-target": "https://sebastiandedeyne.com/vite-with-laravel/",
+    "content": {
+      "html": "Switched my frontend boilerplate from a custom Webpack setup to <a href=\"https://vitejs.dev\">vitejs.dev</a> Am I back on the frontend hype train now? Really like the small config + fast build time though⚡️Check <a href=\"https://twitter.com/sebdedeyne\">@sebdedeyne</a> his posts for more: <a href=\"https://sebastiandedeyne.com/vite-with-laravel/\">sebastiandedeyne.com/vite-with-lara…</a>\n<a class=\"u-mention\" href=\"https://vitejs.dev/\"></a>",
+      "text": "Switched my frontend boilerplate from a custom Webpack setup to vitejs.dev Am I back on the frontend hype train now? Really like the small config + fast build time though⚡️Check @sebdedeyne his posts for more: sebastiandedeyne.com/vite-with-lara…"
+    },
+    "mention-of": "https://sebastiandedeyne.com/vite-with-laravel/",
+    "wm-property": "mention-of",
+    "wm-private": false
   }
 ]
