@@ -315,13 +315,18 @@ input[type="submit"] {
   position: relative;
 }
 
-.markup > *:not(:last-child),
+.markup > *:not(:last-child):not(hr),
 .markup > details > summary {
   margin-bottom: 1.75rem;
 }
 
 .markup + .markup {
   margin-top: 1.75rem;
+}
+
+.markup hr {
+  margin-top: 2.625rem;
+  margin-bottom: 2.625rem;
 }
 
 .markup h1 {
