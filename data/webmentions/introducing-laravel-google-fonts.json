@@ -841,5 +841,27 @@
     "in-reply-to": "https://sebastiandedeyne.com/introducing-laravel-google-fonts/",
     "wm-property": "in-reply-to",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "jfkr_",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/b301e90f7a68af58a667514f90010283ba88b8032f8491c8f5af8f708544b952.png",
+      "url": "https://twitter.com/jfkr_"
+    },
+    "url": "https://twitter.com/jfkr_/status/1413030802300997632",
+    "published": "2021-07-08T07:02:50+00:00",
+    "wm-received": "2021-07-08T07:16:31Z",
+    "wm-id": 1213432,
+    "wm-source": "https://brid.gy/comment/twitter/freekmurze/1412018459215646721/1413030802300997632",
+    "wm-target": "https://sebastiandedeyne.com/introducing-laravel-google-fonts/",
+    "content": {
+      "html": "This is a very nice helper, saving time and config. Thank you!\n<a class=\"u-mention\" href=\"https://freek.dev/\"></a>\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/introducing-laravel-google-fonts/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/freekmurze\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/sebdedeyne\"></a>",
+      "text": "This is a very nice helper, saving time and config. Thank you!"
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/introducing-laravel-google-fonts/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
   }
 ]
