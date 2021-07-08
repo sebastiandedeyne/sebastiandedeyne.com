@@ -863,5 +863,27 @@
     "in-reply-to": "https://sebastiandedeyne.com/introducing-laravel-google-fonts/",
     "wm-property": "in-reply-to",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Kenneth L",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/aa5e2f4b108482081ae3778904d7299c3d14696f2b17729dd40dbb71e9c46845.jpg",
+      "url": "https://twitter.com/kennylau_89"
+    },
+    "url": "https://twitter.com/kennylau_89/status/1413160880393519109",
+    "published": "2021-07-08T15:39:43+00:00",
+    "wm-received": "2021-07-08T16:40:19Z",
+    "wm-id": 1214035,
+    "wm-source": "https://brid.gy/comment/twitter/freekmurze/1412018459215646721/1413160880393519109",
+    "wm-target": "https://sebastiandedeyne.com/introducing-laravel-google-fonts/",
+    "content": {
+      "html": "Thanks for the awesome package\n<a class=\"u-mention\" href=\"https://freek.dev/\"></a>\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/introducing-laravel-google-fonts/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/freekmurze\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/sebdedeyne\"></a>",
+      "text": "Thanks for the awesome package"
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/introducing-laravel-google-fonts/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
   }
 ]
