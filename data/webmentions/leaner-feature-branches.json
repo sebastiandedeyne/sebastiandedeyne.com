@@ -337,5 +337,41 @@
     "like-of": "https://sebastiandedeyne.com/leaner-feature-branches/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Marcus Moore",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/12ef1db071cc97b6f6d6d2d489d5572595d29b6f241d33029571dbc4baf85391.jpg",
+      "url": "https://twitter.com/marcusamoore"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1412751904912908290#favorited-by-116872442",
+    "published": null,
+    "wm-received": "2021-07-08T03:59:23Z",
+    "wm-id": 1213335,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1412751904912908290/116872442",
+    "wm-target": "https://sebastiandedeyne.com/leaner-feature-branches/",
+    "like-of": "https://sebastiandedeyne.com/leaner-feature-branches/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Amit Merchant",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/c18e556e81e269154e588f658bc78c0fffe461c85606062d53e6e845deca51a1.jpg",
+      "url": "https://twitter.com/amit_merchant"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1412751904912908290#favorited-by-88370761",
+    "published": null,
+    "wm-received": "2021-07-08T03:59:49Z",
+    "wm-id": 1213336,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1412751904912908290/88370761",
+    "wm-target": "https://sebastiandedeyne.com/leaner-feature-branches/",
+    "like-of": "https://sebastiandedeyne.com/leaner-feature-branches/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
