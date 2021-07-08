@@ -280,5 +280,62 @@
     "repost-of": "https://sebastiandedeyne.com/leaner-feature-branches/",
     "wm-property": "repost-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Fabio Ivona",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/a0ecf01163184dddf0e06be5bd196e0bf8b981e9bd4642cbf297f6134b7f9820.jpg",
+      "url": "https://twitter.com/FabioIvona"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1412751904912908290#favorited-by-219003990",
+    "published": null,
+    "wm-received": "2021-07-07T21:42:14Z",
+    "wm-id": 1212952,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1412751904912908290/219003990",
+    "wm-target": "https://sebastiandedeyne.com/leaner-feature-branches/",
+    "like-of": "https://sebastiandedeyne.com/leaner-feature-branches/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Fabio Ivona",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/a0ecf01163184dddf0e06be5bd196e0bf8b981e9bd4642cbf297f6134b7f9820.jpg",
+      "url": "https://twitter.com/FabioIvona"
+    },
+    "url": "https://twitter.com/FabioIvona/status/1412883344384303108",
+    "published": "2021-07-07T21:16:54+00:00",
+    "wm-received": "2021-07-07T21:42:14Z",
+    "wm-id": 1212953,
+    "wm-source": "https://brid.gy/repost/twitter/sebdedeyne/1412751904912908290/1412883344384303108",
+    "wm-target": "https://sebastiandedeyne.com/leaner-feature-branches/",
+    "content": {
+      "text": "✒️ Long time no post!\n\nI wrote about the benefits of lean(er) feature branches in git.\n\nsebastiandedeyne.com/leaner-feature…"
+    },
+    "repost-of": "https://sebastiandedeyne.com/leaner-feature-branches/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Zander",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/49e82447feb6272c1475329987cb362b21aee3200cda9abe2b567c277f1d6f5e.jpg",
+      "url": "https://twitter.com/zdrks"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1412751904912908290#favorited-by-1355638474511056896",
+    "published": null,
+    "wm-received": "2021-07-08T00:08:36Z",
+    "wm-id": 1213050,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1412751904912908290/1355638474511056896",
+    "wm-target": "https://sebastiandedeyne.com/leaner-feature-branches/",
+    "like-of": "https://sebastiandedeyne.com/leaner-feature-branches/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
