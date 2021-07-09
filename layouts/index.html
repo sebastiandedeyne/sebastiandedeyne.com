@@ -3,7 +3,7 @@
 
   {{ range $paginator.Pages }}
     <article class="post">
-      {{ partial "post-header.html" (dict "post" . "heading" "h2" "all_series" $.Site.Data.series) }}
+      {{ partial "post-header.html" (dict "post" . "heading" "h2" "site" $.Site) }}
       <section class="markup">
         {{ if .Truncated }}
           {{ .Summary }}

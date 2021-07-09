@@ -38,8 +38,16 @@
         {{ with $post.Params.link }}
           ∙ <a href="{{ . }}" class="markup-link">{{ (urls.Parse .).Host }}</a>
         {{ end }}
+        {{ if $post.Params.series }}
+          {{ with index .site.Data.series $post.Params.series }}
+            ∙
+            <a href="{{ (index .posts 0).slug }}">
+              {{ .title }}
+            </a>
+          {{ end }}
+        {{ end }}
         {{ with $post.Keywords }}
-          ∙ 
+          ∙
           {{ range . }}
             #{{ (replace . " " "") | lower }}
           {{ end }}

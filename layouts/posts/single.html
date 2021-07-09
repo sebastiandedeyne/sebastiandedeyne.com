@@ -28,13 +28,8 @@
 
 {{ define "main" }}
   <article class="post">
-    {{ partial "post-header.html" (dict "post" . "heading" "h1" "all_series" $.Site.Data.series) }}
+    {{ partial "post-header.html" (dict "post" . "heading" "h1" "site" $.Site) }}
     <section>
-      {{ if .Params.series }}
-        {{ with index $.Site.Data.series .Params.series }}
-          {{ partial "series.html" (dict "series" . "currentSlug" $.Page.Slug) }}
-        {{ end }}
-      {{ end }}
       {{ if .Truncated }}
         <div class="markup">
           {{ .Summary }}
