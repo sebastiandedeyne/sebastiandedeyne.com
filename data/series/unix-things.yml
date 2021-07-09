@@ -12,6 +12,5 @@ posts:
     slug: unix-things/zipping
   - title: Rsync
     slug: unix-things/rsync
-  - title: Finding files (by filename)
-  - title: Finding files (by content)
-  - title: Permissions
+  - title: Finding out which ports are in use
+    slug: unix-things/finding-out-which-ports-are-in-use

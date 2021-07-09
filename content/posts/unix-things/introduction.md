@@ -5,7 +5,7 @@ slug: unix-things
 categories: ["articles"]
 series: unix-things
 keywords:
-  - cli
+  - CLI
 summary: |
   A short intro on my second series: Unix things I always forget!
 

@@ -493,8 +493,6 @@ input[type="submit"] {
 
 .markup :not(pre) > code {
   color: inherit;
-  background-color:  var(--gray-100);
-  border-radius: 2px;
   font-weight: 500;
 }
 
@@ -626,7 +624,7 @@ input[type="submit"] {
   color: var(--green-950);
   margin-bottom: 1.75rem;
   padding: 1.75rem;
-  display: inline-grid;
+  display: grid;
   grid-template-columns: repeat(2, auto);
   grid-column-gap: 1.75rem;
   font-family: var(--font-recursive);

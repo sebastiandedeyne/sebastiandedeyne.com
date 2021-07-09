@@ -5,7 +5,7 @@ slug: unix-things/rsync
 series: unix-things
 categories: ["articles"]
 keywords:
-  - cli
+  - CLI
 ---
 
 Rsync is a command line tool to copy files between different hosts.

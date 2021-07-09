@@ -5,7 +5,7 @@ slug: unix-things/zipping
 series: unix-things
 categories: ["articles"]
 keywords:
-  - cli
+  - CLI
 ---
 
 Zipping is easy. Remembering `zip`'s arguments is hard.

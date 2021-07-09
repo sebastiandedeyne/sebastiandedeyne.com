@@ -5,7 +5,7 @@ slug: unix-things/listing-directories
 series: unix-things
 categories: ["articles"]
 keywords:
-  - cli
+  - CLI
 ---
 
 A listing of my favorite `ls` features.
