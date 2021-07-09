@@ -91,5 +91,134 @@
     "like-of": "https://sebastiandedeyne.com/unix-things/finding-out-which-ports-are-in-use/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Xavier Roussel",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/27394bb5261571335ebd0a7beb0c631d6996370f5bbe9373593bb10c0c40cb57.jpg",
+      "url": "https://twitter.com/XavRsl"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1413431026018263042#favorited-by-17775094",
+    "published": null,
+    "wm-received": "2021-07-09T12:28:29Z",
+    "wm-id": 1214869,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1413431026018263042/17775094",
+    "wm-target": "https://sebastiandedeyne.com/unix-things/finding-out-which-ports-are-in-use/",
+    "like-of": "https://sebastiandedeyne.com/unix-things/finding-out-which-ports-are-in-use/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Mark Topper",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/02eabbea6b50b2aa84146d51b1ca8e3bec05efe90d281d37278fd033115023a8.jpg",
+      "url": "https://twitter.com/webmanio"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1413431026018263042#favorited-by-557179005",
+    "published": null,
+    "wm-received": "2021-07-09T12:28:29Z",
+    "wm-id": 1214870,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1413431026018263042/557179005",
+    "wm-target": "https://sebastiandedeyne.com/unix-things/finding-out-which-ports-are-in-use/",
+    "like-of": "https://sebastiandedeyne.com/unix-things/finding-out-which-ports-are-in-use/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "M. Vug",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/fcc72d671c32c72d093c77f1ab83e8be120a03d4062bc984a10150cee632b9e8.jpg",
+      "url": "https://twitter.com/mvug"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1413431026018263042#favorited-by-125585595",
+    "published": null,
+    "wm-received": "2021-07-09T12:28:30Z",
+    "wm-id": 1214871,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1413431026018263042/125585595",
+    "wm-target": "https://sebastiandedeyne.com/unix-things/finding-out-which-ports-are-in-use/",
+    "like-of": "https://sebastiandedeyne.com/unix-things/finding-out-which-ports-are-in-use/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Häz 👨‍💻 ✈ 🇫🇮",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/47fd14a2c1b456ade880c942053ccbd25f57b58ff32d015d0045a44f837de1b8.jpg",
+      "url": "https://twitter.com/hazj95"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1413431026018263042#favorited-by-4251512231",
+    "published": null,
+    "wm-received": "2021-07-09T13:49:47Z",
+    "wm-id": 1214915,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1413431026018263042/4251512231",
+    "wm-target": "https://sebastiandedeyne.com/unix-things/finding-out-which-ports-are-in-use/",
+    "like-of": "https://sebastiandedeyne.com/unix-things/finding-out-which-ports-are-in-use/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "bernard kssy 💻 Busy",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/ef05036f8bfafeb294fe34f49fc530925e2cc726d5b4666c30c87776db920d6d.jpg",
+      "url": "https://twitter.com/OwireduBernard"
+    },
+    "url": "https://twitter.com/OwireduBernard/status/1413481067223216133",
+    "published": "2021-07-09T12:52:02+00:00",
+    "wm-received": "2021-07-09T13:49:47Z",
+    "wm-id": 1214916,
+    "wm-source": "https://brid.gy/repost/twitter/sebdedeyne/1413431026018263042/1413481067223216133",
+    "wm-target": "https://sebastiandedeyne.com/unix-things/finding-out-which-ports-are-in-use/",
+    "content": {
+      "text": "✒️ How to find out what processes are listening to which ports in macOS and other UNIX systems\n\nsebastiandedeyne.com/unix-things/fi…"
+    },
+    "repost-of": "https://sebastiandedeyne.com/unix-things/finding-out-which-ports-are-in-use/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Placebo Domingo",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/c64ed43d1bcd2c0fa37e0b1d25f5bc26830922e2c9c08287939d126d62b9c40f.jpg",
+      "url": "https://twitter.com/brbcoding"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1413431026018263042#favorited-by-1157124170066595840",
+    "published": null,
+    "wm-received": "2021-07-09T16:00:13Z",
+    "wm-id": 1214994,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1413431026018263042/1157124170066595840",
+    "wm-target": "https://sebastiandedeyne.com/unix-things/finding-out-which-ports-are-in-use/",
+    "like-of": "https://sebastiandedeyne.com/unix-things/finding-out-which-ports-are-in-use/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Daeron Stormblessed",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/ed37b59d0bb5c067ac01a4e253b4acffa3699185eaea7aed8c29488e18e2c911.jpg",
+      "url": "https://twitter.com/RPAmoura"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1413431026018263042#favorited-by-335402299",
+    "published": null,
+    "wm-received": "2021-07-09T17:10:29Z",
+    "wm-id": 1215048,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1413431026018263042/335402299",
+    "wm-target": "https://sebastiandedeyne.com/unix-things/finding-out-which-ports-are-in-use/",
+    "like-of": "https://sebastiandedeyne.com/unix-things/finding-out-which-ports-are-in-use/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
