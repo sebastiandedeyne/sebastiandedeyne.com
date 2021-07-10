@@ -427,5 +427,23 @@
     "like-of": "https://sebastiandedeyne.com/leaner-feature-branches/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Matthew Poulter",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/617aa055cbdeefbb99860fe70db9bc247085ce32f600ea972585bf0b92237964.jpg",
+      "url": "https://twitter.com/mdpoulter"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1412751904912908290#favorited-by-152526668",
+    "published": null,
+    "wm-received": "2021-07-10T17:37:56Z",
+    "wm-id": 1215670,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1412751904912908290/152526668",
+    "wm-target": "https://sebastiandedeyne.com/leaner-feature-branches/",
+    "like-of": "https://sebastiandedeyne.com/leaner-feature-branches/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
