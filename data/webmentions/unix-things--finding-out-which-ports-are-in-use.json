@@ -292,5 +292,23 @@
     "like-of": "https://sebastiandedeyne.com/unix-things/finding-out-which-ports-are-in-use/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Mithun Dutta",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/00b9ab38c1f222946e31c2926c1b1e92b35c1b82ede1e17f9e15ceef7851fb40.jpg",
+      "url": "https://twitter.com/mindmithun"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1413431026018263042#favorited-by-101627844",
+    "published": null,
+    "wm-received": "2021-07-10T09:42:42Z",
+    "wm-id": 1215511,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1413431026018263042/101627844",
+    "wm-target": "https://sebastiandedeyne.com/unix-things/finding-out-which-ports-are-in-use/",
+    "like-of": "https://sebastiandedeyne.com/unix-things/finding-out-which-ports-are-in-use/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
