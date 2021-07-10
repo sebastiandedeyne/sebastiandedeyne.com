@@ -220,5 +220,77 @@
     "like-of": "https://sebastiandedeyne.com/unix-things/finding-out-which-ports-are-in-use/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Tauseef Shah",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/433f5461b05765e077dc67230d8e18ac4290917e9e8d59a7e57dc2d54de1e8f5.jpg",
+      "url": "https://twitter.com/tauseeeeeef"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1413431026018263042#favorited-by-2476541736",
+    "published": null,
+    "wm-received": "2021-07-09T18:18:35Z",
+    "wm-id": 1215077,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1413431026018263042/2476541736",
+    "wm-target": "https://sebastiandedeyne.com/unix-things/finding-out-which-ports-are-in-use/",
+    "like-of": "https://sebastiandedeyne.com/unix-things/finding-out-which-ports-are-in-use/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Ciro Lo Sapio",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/0232594cde799aafb1f2f9a6221585ded3192212a78d31f64e70f872526fbf93.jpg",
+      "url": "https://twitter.com/lheartbeatl_c"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1413431026018263042#favorited-by-928548493655969792",
+    "published": null,
+    "wm-received": "2021-07-09T20:23:48Z",
+    "wm-id": 1215152,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1413431026018263042/928548493655969792",
+    "wm-target": "https://sebastiandedeyne.com/unix-things/finding-out-which-ports-are-in-use/",
+    "like-of": "https://sebastiandedeyne.com/unix-things/finding-out-which-ports-are-in-use/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Andrea Marco Sartori",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/0dc3388ebe4c4b0581c9930b44b689563074ce0f82a4046e0f584e4bcd6e8b83.jpg",
+      "url": "https://twitter.com/cerbero90"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1413431026018263042#favorited-by-89428782",
+    "published": null,
+    "wm-received": "2021-07-09T22:06:45Z",
+    "wm-id": 1215188,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1413431026018263042/89428782",
+    "wm-target": "https://sebastiandedeyne.com/unix-things/finding-out-which-ports-are-in-use/",
+    "like-of": "https://sebastiandedeyne.com/unix-things/finding-out-which-ports-are-in-use/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Alex",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/42beee2d2d4b05305530bd2de2c4b47d707a667fc53fecb7f8b1b2b578ae2913.jpg",
+      "url": "https://twitter.com/alex_"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1413431026018263042#favorited-by-50056622",
+    "published": null,
+    "wm-received": "2021-07-09T22:06:45Z",
+    "wm-id": 1215189,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1413431026018263042/50056622",
+    "wm-target": "https://sebastiandedeyne.com/unix-things/finding-out-which-ports-are-in-use/",
+    "like-of": "https://sebastiandedeyne.com/unix-things/finding-out-which-ports-are-in-use/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
