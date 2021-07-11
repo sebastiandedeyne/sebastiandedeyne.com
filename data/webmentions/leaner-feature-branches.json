@@ -445,5 +445,23 @@
     "like-of": "https://sebastiandedeyne.com/leaner-feature-branches/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Milan Chheda 👨‍💻",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/38f72eee13b5fe620addcc3e596f6420700c59d3c4ec1ec8a71782a428289e14.jpg",
+      "url": "https://twitter.com/milanchheda"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1412751904912908290#favorited-by-65356853",
+    "published": null,
+    "wm-received": "2021-07-10T18:30:18Z",
+    "wm-id": 1215683,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1412751904912908290/65356853",
+    "wm-target": "https://sebastiandedeyne.com/leaner-feature-branches/",
+    "like-of": "https://sebastiandedeyne.com/leaner-feature-branches/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
