@@ -463,5 +463,23 @@
     "like-of": "https://sebastiandedeyne.com/leaner-feature-branches/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "kamil zawada",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/ff29be591227ef9592a22347500767c43a8ea73f3438781bbfce8e8d6e271e4a.jpg",
+      "url": "https://twitter.com/kzawada1"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1412751904912908290#favorited-by-926972918399229952",
+    "published": null,
+    "wm-received": "2021-07-11T13:58:17Z",
+    "wm-id": 1216092,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1412751904912908290/926972918399229952",
+    "wm-target": "https://sebastiandedeyne.com/leaner-feature-branches/",
+    "like-of": "https://sebastiandedeyne.com/leaner-feature-branches/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
