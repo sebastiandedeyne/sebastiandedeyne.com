@@ -310,5 +310,44 @@
     "like-of": "https://sebastiandedeyne.com/unix-things/finding-out-which-ports-are-in-use/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Nathan Rzepecki",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/4ca9acbb4e852e4e4f4e708c95c2ecf5091fcfbaec199317d4f0ba1b4787a2e6.jpg",
+      "url": "https://twitter.com/Lionslair50"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1413431026018263042#favorited-by-89959465",
+    "published": null,
+    "wm-received": "2021-07-12T09:48:01Z",
+    "wm-id": 1216665,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1413431026018263042/89959465",
+    "wm-target": "https://sebastiandedeyne.com/unix-things/finding-out-which-ports-are-in-use/",
+    "like-of": "https://sebastiandedeyne.com/unix-things/finding-out-which-ports-are-in-use/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Spatie",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/3efb487e7f3a0bc3690580277105f93eda590d65e4d9eb01135a184a9df60b18.jpg",
+      "url": "https://twitter.com/spatie_be"
+    },
+    "url": "https://twitter.com/spatie_be/status/1414506789001965573",
+    "published": "2021-07-12T08:47:53+00:00",
+    "wm-received": "2021-07-12T09:48:02Z",
+    "wm-id": 1216666,
+    "wm-source": "https://brid.gy/repost/twitter/sebdedeyne/1413431026018263042/1414506789001965573",
+    "wm-target": "https://sebastiandedeyne.com/unix-things/finding-out-which-ports-are-in-use/",
+    "content": {
+      "text": "✒️ How to find out what processes are listening to which ports in macOS and other UNIX systems\n\nsebastiandedeyne.com/unix-things/fi…"
+    },
+    "repost-of": "https://sebastiandedeyne.com/unix-things/finding-out-which-ports-are-in-use/",
+    "wm-property": "repost-of",
+    "wm-private": false
   }
 ]
