@@ -568,5 +568,80 @@
     "like-of": "https://sebastiandedeyne.com/newsletter/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Mikkel Lindblom",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/a1d00c1652d5b3a45640100b5e2183b4bdfd32456dd09ac54bc39c4a064e942a.jpg",
+      "url": "https://twitter.com/LindblomMikkel"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1414908166572281861#favorited-by-1361712193977393152",
+    "published": null,
+    "wm-received": "2021-07-13T12:44:56Z",
+    "wm-id": 1217584,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1414908166572281861/1361712193977393152",
+    "wm-target": "https://sebastiandedeyne.com/newsletter/",
+    "like-of": "https://sebastiandedeyne.com/newsletter/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Spatie",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/3efb487e7f3a0bc3690580277105f93eda590d65e4d9eb01135a184a9df60b18.jpg",
+      "url": "https://twitter.com/spatie_be"
+    },
+    "url": "https://twitter.com/spatie_be/status/1414912112942534667",
+    "published": "2021-07-13T11:38:30+00:00",
+    "wm-received": "2021-07-13T12:44:56Z",
+    "wm-id": 1217585,
+    "wm-source": "https://brid.gy/repost/twitter/sebdedeyne/1414908166572281861/1414912112942534667",
+    "wm-target": "https://sebastiandedeyne.com/newsletter/",
+    "content": {
+      "text": "Sent out my first newsletter with @getmailcoach this morning 🥳\n\nWebview: mailcoach.sebastiandedeyne.com/mailcoach/webv…\nSubscribe: sebastiandedeyne.com/newsletter/"
+    },
+    "repost-of": "https://sebastiandedeyne.com/newsletter/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Ruslan",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/732bf6e483279809ace753630d1a569de069117861766e999cd589b42ecab32f.jpg",
+      "url": "https://twitter.com/SuddenlyRust"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1414908166572281861#favorited-by-935107835045842944",
+    "published": null,
+    "wm-received": "2021-07-13T14:53:27Z",
+    "wm-id": 1217716,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1414908166572281861/935107835045842944",
+    "wm-target": "https://sebastiandedeyne.com/newsletter/",
+    "like-of": "https://sebastiandedeyne.com/newsletter/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Ray Bonander",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/0e44ced0f11345229a784563708369d30519ec89c9f71e9569dc6e648f47057c.jpg",
+      "url": "https://twitter.com/BonanderRay"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1414908166572281861#favorited-by-1197392210758496257",
+    "published": null,
+    "wm-received": "2021-07-13T16:10:39Z",
+    "wm-id": 1217827,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1414908166572281861/1197392210758496257",
+    "wm-target": "https://sebastiandedeyne.com/newsletter/",
+    "like-of": "https://sebastiandedeyne.com/newsletter/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
