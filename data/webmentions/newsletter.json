@@ -508,5 +508,65 @@
     "mention-of": "https://sebastiandedeyne.com/newsletter/",
     "wm-property": "mention-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Freek Van der Herten 🔭",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/df0b08af8527090085ffdf1f7f8dc6daf99a52521222454d2c0149e61ee142f8.jpg",
+      "url": "https://twitter.com/freekmurze"
+    },
+    "url": "https://twitter.com/freekmurze/status/1414908782623215616",
+    "published": "2021-07-13T11:25:16+00:00",
+    "wm-received": "2021-07-13T11:35:46Z",
+    "wm-id": 1217527,
+    "wm-source": "https://brid.gy/repost/twitter/sebdedeyne/1414908166572281861/1414908782623215616",
+    "wm-target": "https://sebastiandedeyne.com/newsletter/",
+    "content": {
+      "text": "Sent out my first newsletter with @getmailcoach this morning 🥳\n\nWebview: mailcoach.sebastiandedeyne.com/mailcoach/webv…\nSubscribe: sebastiandedeyne.com/newsletter/"
+    },
+    "repost-of": "https://sebastiandedeyne.com/newsletter/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "getmailcoach",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/3d57592702d7e099a2233e8339995da376f3c13ac6bc1c2e8375e37f0568bee6.jpg",
+      "url": "https://twitter.com/getmailcoach"
+    },
+    "url": "https://twitter.com/getmailcoach/status/1414908759042838542",
+    "published": "2021-07-13T11:25:10+00:00",
+    "wm-received": "2021-07-13T11:35:46Z",
+    "wm-id": 1217528,
+    "wm-source": "https://brid.gy/repost/twitter/sebdedeyne/1414908166572281861/1414908759042838542",
+    "wm-target": "https://sebastiandedeyne.com/newsletter/",
+    "content": {
+      "text": "Sent out my first newsletter with @getmailcoach this morning 🥳\n\nWebview: mailcoach.sebastiandedeyne.com/mailcoach/webv…\nSubscribe: sebastiandedeyne.com/newsletter/"
+    },
+    "repost-of": "https://sebastiandedeyne.com/newsletter/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Willem Van Bockstal",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/49e28364203253ecf8df79a1fa4b1263c5177625fad9fffe15662498e271d00e.jpg",
+      "url": "https://twitter.com/willemvbockstal"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1414908166572281861#favorited-by-106138767",
+    "published": null,
+    "wm-received": "2021-07-13T11:36:19Z",
+    "wm-id": 1217529,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1414908166572281861/106138767",
+    "wm-target": "https://sebastiandedeyne.com/newsletter/",
+    "like-of": "https://sebastiandedeyne.com/newsletter/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
