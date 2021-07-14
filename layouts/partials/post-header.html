@@ -31,27 +31,27 @@
         <time datetime="{{ $post.Date.Format "2006-01-02" }}">
           {{ $post.Date.Format "January 2, 2006" }}
         </time>
-        {{ if (in $post.Params.categories "articles") }}
-          {{ $readingtime := div ($post.Content | countwords) 200 }}
-          ∙ {{ cond (lt $readingtime 1) 1 $readingtime }} min. read
-        {{ end }}
-        {{ with $post.Params.link }}
-          ∙ <a href="{{ . }}" class="markup-link">{{ (urls.Parse .).Host }}</a>
-        {{ end }}
-        {{ if $post.Params.series }}
-          {{ with index .site.Data.series $post.Params.series }}
-            ∙
-            <a href="{{ (index .posts 0).slug }}">
-              {{ .title }}
-            </a>
-          {{ end }}
-        {{ end }}
-        {{ with $post.Keywords }}
-          ∙
-          {{ range . }}
-            #{{ (replace . " " "") | lower }}
-          {{ end }}
-        {{ end }}
       </a>
+      {{ if (in $post.Params.categories "articles") }}
+        {{ $readingtime := div ($post.Content | countwords) 200 }}
+        ∙ {{ cond (lt $readingtime 1) 1 $readingtime }} min. read
+      {{ end }}
+      {{ with $post.Params.link }}
+        ∙ <a href="{{ . }}" class="markup-link">{{ (urls.Parse .).Host }}</a>
+      {{ end }}
+      {{ if $post.Params.series }}
+        {{ with index .site.Data.series $post.Params.series }}
+          ∙
+          <a href="/{{ (index .posts 0).slug }}">
+            {{ .title }}
+          </a>
+        {{ end }}
+      {{ end }}
+      {{ with $post.Keywords }}
+        ∙
+        {{ range . }}
+          #{{ (replace . " " "") | lower }}
+        {{ end }}
+      {{ end }}
   </p>
 </header>
