@@ -1915,5 +1915,27 @@
     "like-of": "https://sebastiandedeyne.com/vite-with-laravel/inertia/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "個人未開発さん",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/ae7643cb6339f14af19095f8180dc9b43165e8545cd70e8e8d38d0410b6f3b4e.jpg",
+      "url": "https://twitter.com/kimihito_"
+    },
+    "url": "https://twitter.com/kimihito_/status/1415816402376609795",
+    "published": "2021-07-15T23:31:49+00:00",
+    "wm-received": "2021-07-15T23:56:26Z",
+    "wm-id": 1220542,
+    "wm-source": "https://brid.gy/post/twitter/sebdedeyne/1415816402376609795",
+    "wm-target": "https://sebastiandedeyne.com/vite-with-laravel/inertia/",
+    "content": {
+      "html": "<a href=\"https://sebastiandedeyne.com/vite-with-laravel/inertia/\">sebastiandedeyne.com/vite-with-lara…</a>",
+      "text": "sebastiandedeyne.com/vite-with-lara…"
+    },
+    "mention-of": "https://sebastiandedeyne.com/vite-with-laravel/inertia/",
+    "wm-property": "mention-of",
+    "wm-private": false
   }
 ]
