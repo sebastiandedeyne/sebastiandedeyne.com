@@ -10,7 +10,7 @@ keywords:
 
 Backlinks, or bi-directional liks, are becoming table-stakes for productivity apps since they've been popularized by [Roam](https://roamresearch.com). It's a simple concept: when you create a link from page A to page B, page B will also reference page A. With traditional hyperlinks, page B wouldn't know about page A unless you explicitly link it back.
 
-Backlinks allow a graph of knowledge to grow organically. When you create a doc for Orders, and mention Products, a Products page will be created or updated with a backlink. Even when not actively documenting Products, readers can get a high level idea of what they entail because of the linked references.
+Backlinks allow a graph of knowledge to grow organically. When you create a doc for Orders, and mention Products, a Products page will be created or updated with a backlink. Even when not actively documenting Products, readers can get an idea of what they entail because of the linked references.
 
 <!--more-->
 
