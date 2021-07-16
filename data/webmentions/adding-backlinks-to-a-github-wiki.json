@@ -113,5 +113,23 @@
     "like-of": "https://sebastiandedeyne.com/adding-backlinks-to-a-github-wiki/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Mark Topper",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/02eabbea6b50b2aa84146d51b1ca8e3bec05efe90d281d37278fd033115023a8.jpg",
+      "url": "https://twitter.com/webmanio"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1415927534882074626#favorited-by-557179005",
+    "published": null,
+    "wm-received": "2021-07-16T16:54:24Z",
+    "wm-id": 1221356,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1415927534882074626/557179005",
+    "wm-target": "https://sebastiandedeyne.com/adding-backlinks-to-a-github-wiki/",
+    "like-of": "https://sebastiandedeyne.com/adding-backlinks-to-a-github-wiki/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
