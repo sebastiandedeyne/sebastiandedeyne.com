@@ -15,7 +15,7 @@ I quickly discovered that Hugo was what I was looking for. Hugo is a very fast a
 
 Hugo is written in Go. This was a main selling point for me because there's no need to install a whole set of `node_modules` or similar dependencies to run it. It's a single binary.
 
-Hugo packs everything I need for a blog and website: post types, markdown support, custom pages and RSS are all available out of the box. It also has a large community backing and is very, _very_, fast — although that alone wouldn't be enough to win me over me it's definitely nice to have.
+Hugo packs everything I need for a blog and website: post types, markdown support, custom pages and RSS are all available out of the box. It also has a large community backing and is very, _very_, fast — although that alone wouldn't be enough to win me over it's definitely nice to have.
 
 On the downside, templates can be very hard to reason about, and the documentation isn't always as clear as it should be. Although the project is still under active development so I'm sure there will be improvements in the future.
 

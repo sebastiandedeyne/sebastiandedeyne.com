@@ -105,7 +105,7 @@ export default ({ command }) => ({
 
 `build.manifest` generates a `manifest.json` file our Laravel app will read to discover the asset file names.
 
-`build.outDir` determines where the final build will en up. In a Laravel app, this must be in the `public` directory. I recommend a subdirectory like `public/build` to make it easier to `.gitignore`.
+`build.outDir` determines where the final build will end up. In a Laravel app, this must be in the `public` directory. I recommend a subdirectory like `public/build` to make it easier to `.gitignore`.
 
 Because we modified the `outDir`, we need to configure `base`. This ensures all of the path references in the files Vite generates will also point to `/build/`. On the development server (`command === 'serve'`), assets are served from `http://localhost:3000`. Because `outDir` isn't used on the development server, we shouldn't override `base`.
 
@@ -226,7 +226,7 @@ This requires a few more steps:
 
 Don't forget to prefix the path with the base path!
 
-To ensure the right assets are loaded in every environment, combine the previous snippets with an `@production` directive.
+To ensure the right assets are loaded in every environment, combine the previous snippets with a `@production` directive.
 
 ```html
 @production
