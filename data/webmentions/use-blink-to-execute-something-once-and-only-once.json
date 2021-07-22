@@ -52,5 +52,101 @@
     "like-of": "https://sebastiandedeyne.com/use-blink-to-execute-something-once-and-only-once/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Bezhan Salleh 🚀",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/26c66f95110af0c6c52cf1ca2a160d9c65db403b6504bb34b32ca01074d97e4c.jpg",
+      "url": "https://twitter.com/BezhanSalleh"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1418098754662670337#favorited-by-151009486",
+    "published": null,
+    "wm-received": "2021-07-22T12:35:42Z",
+    "wm-id": 1227284,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1418098754662670337/151009486",
+    "wm-target": "https://sebastiandedeyne.com/use-blink-to-execute-something-once-and-only-once/",
+    "like-of": "https://sebastiandedeyne.com/use-blink-to-execute-something-once-and-only-once/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Bezhan Salleh 🚀",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/26c66f95110af0c6c52cf1ca2a160d9c65db403b6504bb34b32ca01074d97e4c.jpg",
+      "url": "https://twitter.com/BezhanSalleh"
+    },
+    "url": "https://twitter.com/BezhanSalleh/status/1418178537287266307",
+    "published": "2021-07-22T11:58:06+00:00",
+    "wm-received": "2021-07-22T12:35:42Z",
+    "wm-id": 1227285,
+    "wm-source": "https://brid.gy/repost/twitter/sebdedeyne/1418098754662670337/1418178537287266307",
+    "wm-target": "https://sebastiandedeyne.com/use-blink-to-execute-something-once-and-only-once/",
+    "content": {
+      "text": "✒️ Quick tip on how you can use spatie/laravel-blink to execute something *only once*. For example, if you want to ensure a specific job isn't dispatched more than once in a single request.\n\nsebastiandedeyne.com/use-blink-to-e…"
+    },
+    "repost-of": "https://sebastiandedeyne.com/use-blink-to-execute-something-once-and-only-once/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Spatie",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/3efb487e7f3a0bc3690580277105f93eda590d65e4d9eb01135a184a9df60b18.jpg",
+      "url": "https://twitter.com/spatie_be"
+    },
+    "url": "https://twitter.com/spatie_be/status/1418173935049392133",
+    "published": "2021-07-22T11:39:49+00:00",
+    "wm-received": "2021-07-22T12:35:43Z",
+    "wm-id": 1227286,
+    "wm-source": "https://brid.gy/repost/twitter/sebdedeyne/1418098754662670337/1418173935049392133",
+    "wm-target": "https://sebastiandedeyne.com/use-blink-to-execute-something-once-and-only-once/",
+    "content": {
+      "text": "✒️ Quick tip on how you can use spatie/laravel-blink to execute something *only once*. For example, if you want to ensure a specific job isn't dispatched more than once in a single request.\n\nsebastiandedeyne.com/use-blink-to-e…"
+    },
+    "repost-of": "https://sebastiandedeyne.com/use-blink-to-execute-something-once-and-only-once/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "bigboi69420",
+      "photo": "https://webmention.io/avatar/abs.twimg.com/0e6b2cd70aa5b35dec24ca4e1e63f8963f0118736d9ec3bba77e3a8c99a27bc2.png",
+      "url": "https://twitter.com/bigboi694204"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1418098754662670337#favorited-by-1354862617261649924",
+    "published": null,
+    "wm-received": "2021-07-22T12:36:10Z",
+    "wm-id": 1227290,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1418098754662670337/1354862617261649924",
+    "wm-target": "https://sebastiandedeyne.com/use-blink-to-execute-something-once-and-only-once/",
+    "like-of": "https://sebastiandedeyne.com/use-blink-to-execute-something-once-and-only-once/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Goran Galinec",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/95a3527ddf477b896daccb45d82bda768b9ccc139941296372b7f87407351a47.jpg",
+      "url": "https://twitter.com/Creacro"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1418098754662670337#favorited-by-53513988",
+    "published": null,
+    "wm-received": "2021-07-22T13:48:49Z",
+    "wm-id": 1227336,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1418098754662670337/53513988",
+    "wm-target": "https://sebastiandedeyne.com/use-blink-to-execute-something-once-and-only-once/",
+    "like-of": "https://sebastiandedeyne.com/use-blink-to-execute-something-once-and-only-once/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]

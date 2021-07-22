@@ -131,5 +131,83 @@
     "like-of": "https://sebastiandedeyne.com/adding-backlinks-to-a-github-wiki/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Bezhan Salleh 🚀",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/26c66f95110af0c6c52cf1ca2a160d9c65db403b6504bb34b32ca01074d97e4c.jpg",
+      "url": "https://twitter.com/BezhanSalleh"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1415927534882074626#favorited-by-151009486",
+    "published": null,
+    "wm-received": "2021-07-22T12:35:44Z",
+    "wm-id": 1227287,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1415927534882074626/151009486",
+    "wm-target": "https://sebastiandedeyne.com/adding-backlinks-to-a-github-wiki/",
+    "like-of": "https://sebastiandedeyne.com/adding-backlinks-to-a-github-wiki/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Bezhan Salleh 🚀",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/26c66f95110af0c6c52cf1ca2a160d9c65db403b6504bb34b32ca01074d97e4c.jpg",
+      "url": "https://twitter.com/BezhanSalleh"
+    },
+    "url": "https://twitter.com/BezhanSalleh/status/1418178416592007171",
+    "published": "2021-07-22T11:57:37+00:00",
+    "wm-received": "2021-07-22T12:35:44Z",
+    "wm-id": 1227288,
+    "wm-source": "https://brid.gy/repost/twitter/sebdedeyne/1415927534882074626/1418178416592007171",
+    "wm-target": "https://sebastiandedeyne.com/adding-backlinks-to-a-github-wiki/",
+    "content": {
+      "text": "✒️ How to add backlinks to a GitHub wiki\n\nBacklinks are a great way for documentation to grow organically, without explicitly documenting every concept in the system.\n\nLearn all about what they are, and how to automate them with GitHub Actions ↓ sebastiandedeyne.com/adding-backlin…"
+    },
+    "repost-of": "https://sebastiandedeyne.com/adding-backlinks-to-a-github-wiki/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Spatie",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/3efb487e7f3a0bc3690580277105f93eda590d65e4d9eb01135a184a9df60b18.jpg",
+      "url": "https://twitter.com/spatie_be"
+    },
+    "url": "https://twitter.com/spatie_be/status/1418173856427216900",
+    "published": "2021-07-22T11:39:30+00:00",
+    "wm-received": "2021-07-22T12:35:45Z",
+    "wm-id": 1227289,
+    "wm-source": "https://brid.gy/repost/twitter/sebdedeyne/1415927534882074626/1418173856427216900",
+    "wm-target": "https://sebastiandedeyne.com/adding-backlinks-to-a-github-wiki/",
+    "content": {
+      "text": "✒️ How to add backlinks to a GitHub wiki\n\nBacklinks are a great way for documentation to grow organically, without explicitly documenting every concept in the system.\n\nLearn all about what they are, and how to automate them with GitHub Actions ↓ sebastiandedeyne.com/adding-backlin…"
+    },
+    "repost-of": "https://sebastiandedeyne.com/adding-backlinks-to-a-github-wiki/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "C Wilkinson",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/db469052c3ce83734429da953602562892360585ccfd151241739e5938215878.jpg",
+      "url": "https://twitter.com/techwilk"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1415927534882074626#favorited-by-801190051",
+    "published": null,
+    "wm-received": "2021-07-22T13:48:49Z",
+    "wm-id": 1227335,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1415927534882074626/801190051",
+    "wm-target": "https://sebastiandedeyne.com/adding-backlinks-to-a-github-wiki/",
+    "like-of": "https://sebastiandedeyne.com/adding-backlinks-to-a-github-wiki/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
