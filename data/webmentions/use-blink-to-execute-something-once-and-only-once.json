@@ -1,0 +1,56 @@
+[
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Christoph Rumpel 🤠",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/25dbe42c6ab84f33de92184186007013318196ccd08cd62e37e416221acf8828.jpg",
+      "url": "https://twitter.com/christophrumpel"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1418098754662670337#favorited-by-224375889",
+    "published": null,
+    "wm-received": "2021-07-22T07:15:01Z",
+    "wm-id": 1227142,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1418098754662670337/224375889",
+    "wm-target": "https://sebastiandedeyne.com/use-blink-to-execute-something-once-and-only-once/",
+    "like-of": "https://sebastiandedeyne.com/use-blink-to-execute-something-once-and-only-once/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "$MIGUEL Piedrafita 🦇🔊",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/a1b75cdff901a4111b50e86ca9f16b5ac603e42d4696367699a2a9d6c97e9b6e.jpg",
+      "url": "https://twitter.com/m1guelpf"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1418098754662670337#favorited-by-713094195955830785",
+    "published": null,
+    "wm-received": "2021-07-22T11:23:13Z",
+    "wm-id": 1227230,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1418098754662670337/713094195955830785",
+    "wm-target": "https://sebastiandedeyne.com/use-blink-to-execute-something-once-and-only-once/",
+    "like-of": "https://sebastiandedeyne.com/use-blink-to-execute-something-once-and-only-once/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Ruslan",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/732bf6e483279809ace753630d1a569de069117861766e999cd589b42ecab32f.jpg",
+      "url": "https://twitter.com/SuddenlyRust"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1418098754662670337#favorited-by-935107835045842944",
+    "published": null,
+    "wm-received": "2021-07-22T11:23:48Z",
+    "wm-id": 1227231,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1418098754662670337/935107835045842944",
+    "wm-target": "https://sebastiandedeyne.com/use-blink-to-execute-something-once-and-only-once/",
+    "like-of": "https://sebastiandedeyne.com/use-blink-to-execute-something-once-and-only-once/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+]
