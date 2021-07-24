@@ -148,5 +148,49 @@
     "like-of": "https://sebastiandedeyne.com/use-blink-to-execute-something-once-and-only-once/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Michael Bladowski",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/48698edfb5c0ead1a1943d638c7e14a041bf3abf6348037a05a024da02b5b560.jpg",
+      "url": "https://twitter.com/michabbb"
+    },
+    "url": "https://twitter.com/michabbb/status/1418642149038514183",
+    "published": "2021-07-23T18:40:20+00:00",
+    "wm-received": "2021-07-23T18:54:17Z",
+    "wm-id": 1228497,
+    "wm-source": "https://brid.gy/post/twitter/sebdedeyne/1418642149038514183",
+    "wm-target": "https://sebastiandedeyne.com/use-blink-to-execute-something-once-and-only-once/",
+    "content": {
+      "html": "Use <a href=\"https://twitter.com/search?q=%23Blink\">#Blink</a> to execute something once and only once — Sebastian De Deyne - <a href=\"https://sebastiandedeyne.com/use-blink-to-execute-something-once-and-only-once/\">sebastiandedeyne.com/use-blink-to-e…</a> \n\n<a href=\"https://twitter.com/search?q=%23php\">#php</a> <a href=\"https://twitter.com/search?q=%23cache\">#cache</a>",
+      "text": "Use #Blink to execute something once and only once — Sebastian De Deyne - sebastiandedeyne.com/use-blink-to-e… \n\n#php #cache"
+    },
+    "mention-of": "https://sebastiandedeyne.com/use-blink-to-execute-something-once-and-only-once/",
+    "wm-property": "mention-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Freek Van der Herten 🔭",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/df0b08af8527090085ffdf1f7f8dc6daf99a52521222454d2c0149e61ee142f8.jpg",
+      "url": "https://twitter.com/freekmurze"
+    },
+    "url": "https://twitter.com/freekmurze/status/1418639800861609986",
+    "published": "2021-07-23T18:31:00+00:00",
+    "wm-received": "2021-07-23T18:54:17Z",
+    "wm-id": 1228498,
+    "wm-source": "https://brid.gy/post/twitter/sebdedeyne/1418639800861609986",
+    "wm-target": "https://sebastiandedeyne.com/use-blink-to-execute-something-once-and-only-once/",
+    "content": {
+      "html": "🔗 Use Blink to execute something once and only once (by <a href=\"https://twitter.com/sebdedeyne\">@sebdedeyne</a>)\n<a href=\"https://sebastiandedeyne.com/use-blink-to-execute-something-once-and-only-once/\">sebastiandedeyne.com/use-blink-to-e…</a>\n<a href=\"https://twitter.com/search?q=%23php\">#php</a> <a href=\"https://twitter.com/search?q=%23caching\">#caching</a>",
+      "text": "🔗 Use Blink to execute something once and only once (by @sebdedeyne)\nsebastiandedeyne.com/use-blink-to-e…\n#php #caching"
+    },
+    "mention-of": "https://sebastiandedeyne.com/use-blink-to-execute-something-once-and-only-once/",
+    "wm-property": "mention-of",
+    "wm-private": false
   }
 ]
