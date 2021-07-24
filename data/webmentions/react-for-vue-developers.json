@@ -676,5 +676,27 @@
     "mention-of": "https://sebastiandedeyne.com/react-for-vue-developers/",
     "wm-property": "mention-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "ダイキチ",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/2fca66b475467f903fbc07b936acda31c54e5ca6a2eef88d2ab5a324c08f2086.jpg",
+      "url": "https://twitter.com/Daikichi_0223"
+    },
+    "url": "https://twitter.com/Daikichi_0223/status/1418920994178170880",
+    "published": "2021-07-24T13:08:21+00:00",
+    "wm-received": "2021-07-24T13:39:22Z",
+    "wm-id": 1228990,
+    "wm-source": "https://brid.gy/post/twitter/sebdedeyne/1418920994178170880",
+    "wm-target": "https://sebastiandedeyne.com/react-for-vue-developers/",
+    "content": {
+      "html": "これ非常に助かる\n<a href=\"https://sebastiandedeyne.com/react-for-vue-developers/\">sebastiandedeyne.com/react-for-vue-…</a>",
+      "text": "これ非常に助かる\nsebastiandedeyne.com/react-for-vue-…"
+    },
+    "mention-of": "https://sebastiandedeyne.com/react-for-vue-developers/",
+    "wm-property": "mention-of",
+    "wm-private": false
   }
 ]
