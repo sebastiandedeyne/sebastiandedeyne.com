@@ -396,10 +396,6 @@ input[type="submit"] {
   text-decoration: none;
 }
 
-.markup dt a:after {
-  content: ' →';
-}
-
 @media (prefers-color-scheme: dark) {
   .markup dt a {
     color: var(--gray-300);
