@@ -1,6 +1,5 @@
 :root {
   --font-inter:  "Inter", serif, system-ui, sans-serif;
-  --font-recursive:  "Recursive", system-ui, sans-serif;
   --font-inconsolata:  "Inconsolata", monospace;
   --font-system: system-ui, sans-serif;
 
@@ -47,7 +46,7 @@ body {
 
 hr {
   border-color: var(--gray-100);
-  border-top-width: 2px;
+  border-top-width: 1px;
   margin-top: 2rem;
   margin-bottom: 2rem;
 }
@@ -66,12 +65,11 @@ hr {
 }
 
 kbd {
-  font-size: 0.8rem;
+  font-size: 0.75rem;
   color: var(--gray-500);
   border: 1px solid var(--gray-300);
   border-radius: 2px;
   padding: 0 0.33em;
-  font-family: var(--font-recursive);
 }
 
 @media (prefers-color-scheme: dark) {
@@ -90,7 +88,6 @@ input[type="submit"] {
   -webkit-appearance: none;
   border: 1px solid transparent;
   margin: 0;
-  font-family: var(--font-recursive);
   font-size: 0.9em;
 }
 
@@ -133,7 +130,6 @@ input[type="submit"] {
   background-color: var(--gray-50);
   border-bottom: 1px solid var(--gray-100);
   padding: 1.75rem 0;
-  font-family: var(--font-recursive);
   font-size: 0.85rem;
 }
 
@@ -150,8 +146,8 @@ input[type="submit"] {
 }
 
 .header strong {
-  font-weight: 600;
   grid-column: 1 / -1;
+  font-weight: 600;
 }
 
 @media (min-width: 640px) {
@@ -166,6 +162,7 @@ input[type="submit"] {
 
 .header li.active {
   color: var(--gray-900);
+  font-weight: 600;
 }
 
 .header li.active:before {
@@ -231,7 +228,6 @@ input[type="submit"] {
 .post header h2 {
   font-size: 1.25rem;
   font-weight: 700;
-  font-family: var(--font-recursive);
 }
 
 .post header h1 a,
@@ -243,7 +239,6 @@ input[type="submit"] {
 .post header p {
   color: var(--gray-500);
   font-size:  0.8rem;
-  font-family: var(--font-recursive);
   margin-top: 0.25rem;
   line-height: 1.5;
 }
@@ -332,7 +327,6 @@ input[type="submit"] {
 .markup h1 {
   font-size: 1.25rem;
   font-weight: 700;
-  font-family: var(--font-recursive);
   margin-bottom: 3.5rem;
 }
 
@@ -624,7 +618,6 @@ input[type="submit"] {
   display: grid;
   grid-template-columns: repeat(2, auto);
   grid-column-gap: 1.75rem;
-  font-family: var(--font-recursive);
   font-size: 0.85rem;
   line-height: 1.75;
 }
@@ -718,7 +711,6 @@ input[type="submit"] {
   font-size: 1.2rem;
   padding: 1rem 0.5rem;
   background-color: var(--gray-100);
-  font-family: var(--font-recursive);
 }
 
 @media(prefers-color-scheme: dark) {
@@ -735,7 +727,6 @@ input[type="submit"] {
   max-height: 20rem;
   overflow: auto;
   line-height: 1.4;
-  font-family: var(--font-recursive);
 }
 
 @media (max-height: 445px) {

@@ -14,16 +14,5 @@
     You can also subscribe via <a href="/newsletter/index.xml">RSS</a>. The feed
     generally gets updated within a week of sending the newsletter.
   </p>
-  <h2>Previous editions</h2>
-  {{ range (where $.Site.RegularPages "Section" "newsletter") }}
-    <dl>
-      <dt>
-        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-      </dt>
-      <dd>
-        {{ .Date.Format "January 2, 2006" }}
-      </dd>
-    </dl>
-  {{ end }}
 </section>
 {{ end }}

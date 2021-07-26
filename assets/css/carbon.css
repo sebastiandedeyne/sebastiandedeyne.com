@@ -4,7 +4,6 @@
   font-size: .8em;
   color: var(--gray-500);
   line-height: 1.4;
-  font-family: var(--font-recursive);
   background-color: var(--gray-50);
   padding: 1rem;
 }
