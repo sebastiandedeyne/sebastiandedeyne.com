@@ -643,5 +643,23 @@
     "like-of": "https://sebastiandedeyne.com/newsletter/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Mike Fallows",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/522cfa985854c2934640b1c8219c5fe5dddd7e39e792e3de31ff441e1a6b5608.jpg",
+      "url": "https://twitter.com/MrMikeFallows"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1419912283833225233#favorited-by-138378745",
+    "published": null,
+    "wm-received": "2021-07-28T03:39:12Z",
+    "wm-id": 1231915,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1419912283833225233/138378745",
+    "wm-target": "https://sebastiandedeyne.com/newsletter/",
+    "like-of": "https://sebastiandedeyne.com/newsletter/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
