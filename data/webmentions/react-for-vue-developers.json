@@ -698,5 +698,27 @@
     "mention-of": "https://sebastiandedeyne.com/react-for-vue-developers/",
     "wm-property": "mention-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Vero 🏳️‍🌈",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/6337ee145e63c9a948941ae5618734232e5cdb1d107e1bb734358283f735d855.jpg",
+      "url": "https://twitter.com/glebapps"
+    },
+    "url": "https://twitter.com/glebapps/status/1422517756382023684",
+    "published": "2021-08-03T11:20:36+00:00",
+    "wm-received": "2021-08-03T11:29:47Z",
+    "wm-id": 1236103,
+    "wm-source": "https://brid.gy/post/twitter/sebdedeyne/1422517756382023684",
+    "wm-target": "https://sebastiandedeyne.com/react-for-vue-developers/",
+    "content": {
+      "html": "After a whole year with Vue, I find myself always looking for the React version of something I do the Vue-way.\n\nToday I've found this super useful guide that it's helping with the transition a lot! 🤩\n\nSharing it in case it's helpful for someone else. ☺️\n\n<a href=\"https://sebastiandedeyne.com/react-for-vue-developers/\">sebastiandedeyne.com/react-for-vue-…</a>",
+      "text": "After a whole year with Vue, I find myself always looking for the React version of something I do the Vue-way.\n\nToday I've found this super useful guide that it's helping with the transition a lot! 🤩\n\nSharing it in case it's helpful for someone else. ☺️\n\nsebastiandedeyne.com/react-for-vue-…"
+    },
+    "mention-of": "https://sebastiandedeyne.com/react-for-vue-developers/",
+    "wm-property": "mention-of",
+    "wm-private": false
   }
 ]
