@@ -1,0 +1,74 @@
+[
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Tom Witkowski 🦦🌳🇩🇪",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/4c6a0072545bab629442313c0b6d9a2cd920b338d3f3132c0e23a1f1175e382a.jpg",
+      "url": "https://twitter.com/devgummibeer"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1424670957269045255#favorited-by-2995381594",
+    "published": null,
+    "wm-received": "2021-08-09T10:15:43Z",
+    "wm-id": 1241592,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1424670957269045255/2995381594",
+    "wm-target": "https://sebastiandedeyne.com/ebb-and-flow/",
+    "like-of": "https://sebastiandedeyne.com/ebb-and-flow/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Sebastiaan Luca 🤖",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/f16d4bc904e9b9ea56fbbbae03a72fab6aaefd47bb9fc039498c64c273110990.jpg",
+      "url": "https://twitter.com/sebastiaanluca"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1424670957269045255#favorited-by-357390496",
+    "published": null,
+    "wm-received": "2021-08-09T11:34:19Z",
+    "wm-id": 1241649,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1424670957269045255/357390496",
+    "wm-target": "https://sebastiandedeyne.com/ebb-and-flow/",
+    "like-of": "https://sebastiandedeyne.com/ebb-and-flow/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Cristian N",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/e679aa4b348d6415aa984e168be574ba4288cface4b4ff47f27b53a9ee360dd3.jpg",
+      "url": "https://twitter.com/cristian_nebunu"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1424670957269045255#favorited-by-160496176",
+    "published": null,
+    "wm-received": "2021-08-09T11:34:26Z",
+    "wm-id": 1241650,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1424670957269045255/160496176",
+    "wm-target": "https://sebastiandedeyne.com/ebb-and-flow/",
+    "like-of": "https://sebastiandedeyne.com/ebb-and-flow/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Kai Sassnowski 📝",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/aa30f1e41fdc8850e23ea6a92a4f2d675b455b691e288eceb8e3b24bdadfc0ad.jpg",
+      "url": "https://twitter.com/warsh33p"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1424670957269045255#favorited-by-300015837",
+    "published": null,
+    "wm-received": "2021-08-09T11:34:51Z",
+    "wm-id": 1241651,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1424670957269045255/300015837",
+    "wm-target": "https://sebastiandedeyne.com/ebb-and-flow/",
+    "like-of": "https://sebastiandedeyne.com/ebb-and-flow/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+]

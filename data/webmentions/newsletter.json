@@ -661,5 +661,63 @@
     "like-of": "https://sebastiandedeyne.com/newsletter/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Tom Witkowski 🦦🌳🇩🇪",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/4c6a0072545bab629442313c0b6d9a2cd920b338d3f3132c0e23a1f1175e382a.jpg",
+      "url": "https://twitter.com/devgummibeer"
+    },
+    "url": "https://twitter.com/devgummibeer/status/1424667798027087872",
+    "published": "2021-08-09T09:44:06+00:00",
+    "wm-received": "2021-08-09T10:15:43Z",
+    "wm-id": 1241591,
+    "wm-source": "https://brid.gy/comment/twitter/sebdedeyne/1424664074592342018/1424667798027087872",
+    "wm-target": "https://sebastiandedeyne.com/newsletter/",
+    "content": {
+      "html": "From what I see so far I totally agree! 🙏\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/sebdedeyne\"></a>",
+      "text": "From what I see so far I totally agree! 🙏"
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/newsletter/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Toon Verwerft",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/fff5899bae5facd62c7f9264c64cfe871ab80b4119647384cdc351023e1f0ffd.jpg",
+      "url": "https://twitter.com/toonverwerft"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1424664074592342018#favorited-by-213032723",
+    "published": null,
+    "wm-received": "2021-08-09T10:15:44Z",
+    "wm-id": 1241593,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1424664074592342018/213032723",
+    "wm-target": "https://sebastiandedeyne.com/newsletter/",
+    "like-of": "https://sebastiandedeyne.com/newsletter/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Tom Witkowski 🦦🌳🇩🇪",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/4c6a0072545bab629442313c0b6d9a2cd920b338d3f3132c0e23a1f1175e382a.jpg",
+      "url": "https://twitter.com/devgummibeer"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1424664074592342018#favorited-by-2995381594",
+    "published": null,
+    "wm-received": "2021-08-09T10:15:45Z",
+    "wm-id": 1241594,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1424664074592342018/2995381594",
+    "wm-target": "https://sebastiandedeyne.com/newsletter/",
+    "like-of": "https://sebastiandedeyne.com/newsletter/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
