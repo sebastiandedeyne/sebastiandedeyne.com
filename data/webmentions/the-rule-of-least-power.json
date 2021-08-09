@@ -59,5 +59,27 @@
     "like-of": "https://sebastiandedeyne.com/the-rule-of-least-power/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Alireza Ahmadi",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/9c828b84a58589c4395a4118403e7f616032370a80bad90ab39a43b226ed5bc5.jpg",
+      "url": "https://twitter.com/alireza94"
+    },
+    "url": "https://twitter.com/alireza94/status/1424592225468616704",
+    "published": "2021-08-09T04:43:48+00:00",
+    "wm-received": "2021-08-09T04:59:51Z",
+    "wm-id": 1241343,
+    "wm-source": "https://brid.gy/post/twitter/sebdedeyne/1424592225468616704",
+    "wm-target": "https://sebastiandedeyne.com/the-rule-of-least-power/",
+    "content": {
+      "html": "The rule of least power [Quick Read]\n<a href=\"https://sebastiandedeyne.com/the-rule-of-least-power/\">sebastiandedeyne.com/the-rule-of-le…</a>",
+      "text": "The rule of least power [Quick Read]\nsebastiandedeyne.com/the-rule-of-le…"
+    },
+    "mention-of": "https://sebastiandedeyne.com/the-rule-of-least-power/",
+    "wm-property": "mention-of",
+    "wm-private": false
   }
 ]
