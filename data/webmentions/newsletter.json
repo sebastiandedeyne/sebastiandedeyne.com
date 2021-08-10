@@ -737,5 +737,23 @@
     "like-of": "https://sebastiandedeyne.com/newsletter/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Jethro May",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/b17cae43d8b8a888d10e722eb1a21f21f05422505da45619d229b93af2e37428.jpg",
+      "url": "https://twitter.com/jethromayuk"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1424664074592342018#favorited-by-1661943276",
+    "published": null,
+    "wm-received": "2021-08-10T08:42:45Z",
+    "wm-id": 1243177,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1424664074592342018/1661943276",
+    "wm-target": "https://sebastiandedeyne.com/newsletter/",
+    "like-of": "https://sebastiandedeyne.com/newsletter/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
