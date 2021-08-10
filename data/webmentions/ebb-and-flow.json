@@ -70,5 +70,111 @@
     "like-of": "https://sebastiandedeyne.com/ebb-and-flow/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Alex",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/42beee2d2d4b05305530bd2de2c4b47d707a667fc53fecb7f8b1b2b578ae2913.jpg",
+      "url": "https://twitter.com/alex_"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1424670957269045255#favorited-by-50056622",
+    "published": null,
+    "wm-received": "2021-08-09T18:12:45Z",
+    "wm-id": 1242426,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1424670957269045255/50056622",
+    "wm-target": "https://sebastiandedeyne.com/ebb-and-flow/",
+    "like-of": "https://sebastiandedeyne.com/ebb-and-flow/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Alex",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/42beee2d2d4b05305530bd2de2c4b47d707a667fc53fecb7f8b1b2b578ae2913.jpg",
+      "url": "https://twitter.com/alex_"
+    },
+    "url": "https://twitter.com/alex_/status/1424776971217686532",
+    "published": "2021-08-09T16:57:55+00:00",
+    "wm-received": "2021-08-09T18:12:45Z",
+    "wm-id": 1242427,
+    "wm-source": "https://brid.gy/repost/twitter/sebdedeyne/1424670957269045255/1424776971217686532",
+    "wm-target": "https://sebastiandedeyne.com/ebb-and-flow/",
+    "photo": [
+      "https://pbs.twimg.com/media/E8VyrqrXEAUTlgu.jpg"
+    ],
+    "content": {
+      "text": "🌊 Ebb and flow–a short thought on work-life balance\n\nsebastiandedeyne.com/ebb-and-flow/"
+    },
+    "repost-of": "https://sebastiandedeyne.com/ebb-and-flow/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Tess",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/2f16ca0438429cf5d077325454655a12fc0f6e25823615d8b93d3bc1c08be403.jpg",
+      "url": "https://twitter.com/TessVDE"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1424670957269045255#favorited-by-145212366",
+    "published": null,
+    "wm-received": "2021-08-09T21:15:23Z",
+    "wm-id": 1242595,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1424670957269045255/145212366",
+    "wm-target": "https://sebastiandedeyne.com/ebb-and-flow/",
+    "like-of": "https://sebastiandedeyne.com/ebb-and-flow/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Bramus!",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/05867d2965ead9c19f56436d55d4f94c52262b3b51dae292b9b9f45fa2a96995.jpg",
+      "url": "https://twitter.com/bramus"
+    },
+    "url": "https://twitter.com/bramus/status/1424839307152478213",
+    "published": "2021-08-09T21:05:37+00:00",
+    "wm-received": "2021-08-09T21:15:32Z",
+    "wm-id": 1242596,
+    "wm-source": "https://brid.gy/repost/twitter/sebdedeyne/1424670957269045255/1424839307152478213",
+    "wm-target": "https://sebastiandedeyne.com/ebb-and-flow/",
+    "photo": [
+      "https://pbs.twimg.com/media/E8VyrqrXEAUTlgu.jpg"
+    ],
+    "content": {
+      "text": "🌊 Ebb and flow–a short thought on work-life balance\n\nsebastiandedeyne.com/ebb-and-flow/"
+    },
+    "repost-of": "https://sebastiandedeyne.com/ebb-and-flow/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Johan Ronsse",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/b2a4d9299e4786af3b9a9f52b233a9e055239819dcf1e611b08048fc73d07194.jpg",
+      "url": "https://twitter.com/wolfr_2"
+    },
+    "url": "https://twitter.com/wolfr_2/status/1424840278234566660",
+    "published": "2021-08-09T21:09:29+00:00",
+    "wm-received": "2021-08-09T21:15:56Z",
+    "wm-id": 1242597,
+    "wm-source": "https://brid.gy/comment/twitter/sebdedeyne/1424670957269045255/1424840278234566660",
+    "wm-target": "https://sebastiandedeyne.com/ebb-and-flow/",
+    "content": {
+      "html": "I liked this\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/bramus\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/sebdedeyne\"></a>",
+      "text": "I liked this"
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/ebb-and-flow/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
   }
 ]
