@@ -385,5 +385,189 @@
     "repost-of": "https://sebastiandedeyne.com/the-monetization-trap/",
     "wm-property": "repost-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Placebo Domingo",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/c64ed43d1bcd2c0fa37e0b1d25f5bc26830922e2c9c08287939d126d62b9c40f.jpg",
+      "url": "https://twitter.com/brbcoding"
+    },
+    "url": "https://twitter.com/brbcoding/status/1425064046475288579",
+    "published": "2021-08-10T11:58:39+00:00",
+    "wm-received": "2021-08-10T12:55:44Z",
+    "wm-id": 1243363,
+    "wm-source": "https://brid.gy/comment/twitter/sebdedeyne/1425033681802956803/1425064046475288579",
+    "wm-target": "https://sebastiandedeyne.com/the-monetization-trap/",
+    "content": {
+      "html": "The eternal struggle. I kinda suffer from the reverse of that. I have a lot of small side projects I built to solve my own problems, but I started thinking if and how I should monetize some of them.\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/sebdedeyne\"></a>",
+      "text": "The eternal struggle. I kinda suffer from the reverse of that. I have a lot of small side projects I built to solve my own problems, but I started thinking if and how I should monetize some of them."
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/the-monetization-trap/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Abderrahim Ajamaa",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/7d913d93ba782c3e4f07a93a900cae2781348b383e43e6ae2e6605a3135c166d.jpg",
+      "url": "https://twitter.com/ajamaa_abdo"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1425033681802956803#favorited-by-1219194518827872257",
+    "published": null,
+    "wm-received": "2021-08-10T12:55:44Z",
+    "wm-id": 1243364,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1425033681802956803/1219194518827872257",
+    "wm-target": "https://sebastiandedeyne.com/the-monetization-trap/",
+    "like-of": "https://sebastiandedeyne.com/the-monetization-trap/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Placebo Domingo",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/c64ed43d1bcd2c0fa37e0b1d25f5bc26830922e2c9c08287939d126d62b9c40f.jpg",
+      "url": "https://twitter.com/brbcoding"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1425033681802956803#favorited-by-1157124170066595840",
+    "published": null,
+    "wm-received": "2021-08-10T12:55:47Z",
+    "wm-id": 1243365,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1425033681802956803/1157124170066595840",
+    "wm-target": "https://sebastiandedeyne.com/the-monetization-trap/",
+    "like-of": "https://sebastiandedeyne.com/the-monetization-trap/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Sergio Ródenas",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/b0cc67544231d7e139ba83763f91406e0b19b20407a94b4ea28f673b19108f7b.jpg",
+      "url": "https://twitter.com/s3rg1orodenas"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1425033681802956803#favorited-by-732428383",
+    "published": null,
+    "wm-received": "2021-08-10T12:55:47Z",
+    "wm-id": 1243366,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1425033681802956803/732428383",
+    "wm-target": "https://sebastiandedeyne.com/the-monetization-trap/",
+    "like-of": "https://sebastiandedeyne.com/the-monetization-trap/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Peculiar Pottink",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/5aa8dbe4a475bc86f1b7fefec8fdf91533828f3698936e1a0c8cbb2daf35591b.jpg",
+      "url": "https://twitter.com/jellednw"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1425033681802956803#favorited-by-57032178",
+    "published": null,
+    "wm-received": "2021-08-10T12:55:49Z",
+    "wm-id": 1243367,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1425033681802956803/57032178",
+    "wm-target": "https://sebastiandedeyne.com/the-monetization-trap/",
+    "like-of": "https://sebastiandedeyne.com/the-monetization-trap/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Austen Cameron",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/95062d3d1da52fa516a9b47e5f86482af791c261cb0399d61a18db7edea26e24.jpg",
+      "url": "https://twitter.com/austencam"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1425033681802956803#favorited-by-474617811",
+    "published": null,
+    "wm-received": "2021-08-10T14:14:27Z",
+    "wm-id": 1243424,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1425033681802956803/474617811",
+    "wm-target": "https://sebastiandedeyne.com/the-monetization-trap/",
+    "like-of": "https://sebastiandedeyne.com/the-monetization-trap/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Runar Jørgensen",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/623fa58c8f8ed45da50890786435c3525423aea0e164dbdebdfd58af00eda527.jpg",
+      "url": "https://twitter.com/runarjoergensen"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1425033681802956803#favorited-by-101605120",
+    "published": null,
+    "wm-received": "2021-08-10T14:14:31Z",
+    "wm-id": 1243425,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1425033681802956803/101605120",
+    "wm-target": "https://sebastiandedeyne.com/the-monetization-trap/",
+    "like-of": "https://sebastiandedeyne.com/the-monetization-trap/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Dainius",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/a09ab1468454af07db447b0d083cd85dcd482c233659d25e6ddbed1f2e7e3f12.jpg",
+      "url": "https://twitter.com/dsazup"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1425033681802956803#favorited-by-996473424531910657",
+    "published": null,
+    "wm-received": "2021-08-10T14:14:32Z",
+    "wm-id": 1243426,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1425033681802956803/996473424531910657",
+    "wm-target": "https://sebastiandedeyne.com/the-monetization-trap/",
+    "like-of": "https://sebastiandedeyne.com/the-monetization-trap/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Paul Redmond 🇺🇸",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/268ef2d8db48537326b50858bf546e09c7463518acd63d8d88994818476be0bc.jpg",
+      "url": "https://twitter.com/paulredmond"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1425033681802956803#favorited-by-14081470",
+    "published": null,
+    "wm-received": "2021-08-10T16:34:54Z",
+    "wm-id": 1243535,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1425033681802956803/14081470",
+    "wm-target": "https://sebastiandedeyne.com/the-monetization-trap/",
+    "like-of": "https://sebastiandedeyne.com/the-monetization-trap/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "James",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/eb89e72bc665836f710fd289586e6b40b5e713549bf9bf91b74e42c5a136e765.jpg",
+      "url": "https://twitter.com/sesticles"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1425033681802956803#favorited-by-1062926515",
+    "published": null,
+    "wm-received": "2021-08-10T17:27:23Z",
+    "wm-id": 1243563,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1425033681802956803/1062926515",
+    "wm-target": "https://sebastiandedeyne.com/the-monetization-trap/",
+    "like-of": "https://sebastiandedeyne.com/the-monetization-trap/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
