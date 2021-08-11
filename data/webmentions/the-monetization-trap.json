@@ -659,5 +659,65 @@
     "like-of": "https://sebastiandedeyne.com/the-monetization-trap/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Michael",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/31d6073bad56023daeafdfadba78e52511fdb2192d4cc4fc6d81d177e5b85b8f.jpg",
+      "url": "https://twitter.com/msbuildsio"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1425033681802956803#favorited-by-1043489431477526529",
+    "published": null,
+    "wm-received": "2021-08-11T00:44:06Z",
+    "wm-id": 1243732,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1425033681802956803/1043489431477526529",
+    "wm-target": "https://sebastiandedeyne.com/the-monetization-trap/",
+    "like-of": "https://sebastiandedeyne.com/the-monetization-trap/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Koussay 🐘",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/5c54964943d10ddb78464137af9ee07e8149928acd2bfde4cf94f5bc18259ce5.jpg",
+      "url": "https://twitter.com/Koossaayy"
+    },
+    "url": "https://twitter.com/Koossaayy/status/1425258826824097792",
+    "published": "2021-08-11T00:52:39+00:00",
+    "wm-received": "2021-08-11T01:50:27Z",
+    "wm-id": 1243749,
+    "wm-source": "https://brid.gy/repost/twitter/sebdedeyne/1425033681802956803/1425258826824097792",
+    "wm-target": "https://sebastiandedeyne.com/the-monetization-trap/",
+    "photo": [
+      "https://pbs.twimg.com/media/E8agCdgWYA4w8M6.jpg"
+    ],
+    "content": {
+      "text": "💸 The monetization trap – It's hard not to feel left out when it looks like everyone and their dog has a SaaS or membership program that generates passive income.\n\nThis is a gentle reminder that it's perfectly fine to do things for *fun*\n\nsebastiandedeyne.com/the-monetizati…"
+    },
+    "repost-of": "https://sebastiandedeyne.com/the-monetization-trap/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "swapnilsarwe (@codeat3)",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/42885abe7b32d5a034c9c4ddcb1988391ab30b69829916422c66a712bf70d759.jpg",
+      "url": "https://twitter.com/swapnilsarwe"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1425033681802956803#favorited-by-14063297",
+    "published": null,
+    "wm-received": "2021-08-11T05:26:08Z",
+    "wm-id": 1243851,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1425033681802956803/14063297",
+    "wm-target": "https://sebastiandedeyne.com/the-monetization-trap/",
+    "like-of": "https://sebastiandedeyne.com/the-monetization-trap/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
