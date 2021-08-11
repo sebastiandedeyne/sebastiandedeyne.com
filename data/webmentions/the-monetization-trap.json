@@ -737,5 +737,23 @@
     "like-of": "https://sebastiandedeyne.com/the-monetization-trap/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Jarrod Tomholt",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/44ed239d12762f00d59823b82ef50e06f954e81a8134ed934dcd866c8884e910.jpg",
+      "url": "https://twitter.com/jarrodtomholt"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1425033681802956803#favorited-by-613874098",
+    "published": null,
+    "wm-received": "2021-08-11T13:36:52Z",
+    "wm-id": 1244006,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1425033681802956803/613874098",
+    "wm-target": "https://sebastiandedeyne.com/the-monetization-trap/",
+    "like-of": "https://sebastiandedeyne.com/the-monetization-trap/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
