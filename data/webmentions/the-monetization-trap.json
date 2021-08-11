@@ -569,5 +569,95 @@
     "like-of": "https://sebastiandedeyne.com/the-monetization-trap/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Mr. Alderson",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/58756d19af8cc0c77e8becbe9c596dc2e0ad3dfee609003dc4295b48595c20c9.jpg",
+      "url": "https://twitter.com/mister_alderson"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1425033681802956803#favorited-by-1297916006271197185",
+    "published": null,
+    "wm-received": "2021-08-10T18:24:13Z",
+    "wm-id": 1243589,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1425033681802956803/1297916006271197185",
+    "wm-target": "https://sebastiandedeyne.com/the-monetization-trap/",
+    "like-of": "https://sebastiandedeyne.com/the-monetization-trap/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Simon Kollross",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/a8d22317feb0b3a3acf2595eab7fb9b586add9155c5c59735524342735d25e39.jpg",
+      "url": "https://twitter.com/skollro"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1425033681802956803#favorited-by-3315859774",
+    "published": null,
+    "wm-received": "2021-08-10T18:24:53Z",
+    "wm-id": 1243591,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1425033681802956803/3315859774",
+    "wm-target": "https://sebastiandedeyne.com/the-monetization-trap/",
+    "like-of": "https://sebastiandedeyne.com/the-monetization-trap/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Lotte",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/acb5526a12d86ac523dfe1355c9df994067194c3f8ab59ba915ea11249f6d82a.jpg",
+      "url": "https://twitter.com/BijlsmaLotte"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1425033681802956803#favorited-by-3694574715",
+    "published": null,
+    "wm-received": "2021-08-10T19:21:49Z",
+    "wm-id": 1243633,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1425033681802956803/3694574715",
+    "wm-target": "https://sebastiandedeyne.com/the-monetization-trap/",
+    "like-of": "https://sebastiandedeyne.com/the-monetization-trap/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Salman Zafar",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/1af7ec8238261d3e51abdb2d6dca4dbacd7f52e961cedac25089b359be10040b.jpg",
+      "url": "https://twitter.com/salmanzafar949"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1425033681802956803#favorited-by-1106029585",
+    "published": null,
+    "wm-received": "2021-08-10T21:20:14Z",
+    "wm-id": 1243675,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1425033681802956803/1106029585",
+    "wm-target": "https://sebastiandedeyne.com/the-monetization-trap/",
+    "like-of": "https://sebastiandedeyne.com/the-monetization-trap/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Martin Keck",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/7eb4aad0c311d50163d0a2ca1de6563fe4b277eca1dc31fb8e543c3181621d6a.jpg",
+      "url": "https://twitter.com/sisyphos2dot0"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1425033681802956803#favorited-by-108109905",
+    "published": null,
+    "wm-received": "2021-08-10T22:18:34Z",
+    "wm-id": 1243695,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1425033681802956803/108109905",
+    "wm-target": "https://sebastiandedeyne.com/the-monetization-trap/",
+    "like-of": "https://sebastiandedeyne.com/the-monetization-trap/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
