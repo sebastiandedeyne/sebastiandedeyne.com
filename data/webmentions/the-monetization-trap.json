@@ -755,5 +755,27 @@
     "like-of": "https://sebastiandedeyne.com/the-monetization-trap/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Steve McDougall",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/36bd504321da9f140b065e9b62408a09895e194a27857541ecc803e41160e1e9.png",
+      "url": "https://twitter.com/JustSteveKing"
+    },
+    "url": "https://twitter.com/JustSteveKing/status/1425736916943708161",
+    "published": "2021-08-12T08:32:24+00:00",
+    "wm-received": "2021-08-12T09:10:14Z",
+    "wm-id": 1245060,
+    "wm-source": "https://brid.gy/post/twitter/sebdedeyne/1425736916943708161",
+    "wm-target": "https://sebastiandedeyne.com/the-monetization-trap/",
+    "content": {
+      "html": "A fantastic article and fantastic point by <a href=\"https://twitter.com/sebdedeyne\">@sebdedeyne</a> \n\nYou see a lot of people in the tech industry working on their \"hussle\", don't feel pressured into feeling you have to have a side project to! I write blogs and create content because I enjoy it!\n\n<a href=\"https://sebastiandedeyne.com/the-monetization-trap/\">sebastiandedeyne.com/the-monetizati…</a>",
+      "text": "A fantastic article and fantastic point by @sebdedeyne \n\nYou see a lot of people in the tech industry working on their \"hussle\", don't feel pressured into feeling you have to have a side project to! I write blogs and create content because I enjoy it!\n\nsebastiandedeyne.com/the-monetizati…"
+    },
+    "mention-of": "https://sebastiandedeyne.com/the-monetization-trap/",
+    "wm-property": "mention-of",
+    "wm-private": false
   }
 ]
