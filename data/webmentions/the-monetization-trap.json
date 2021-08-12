@@ -777,5 +777,27 @@
     "mention-of": "https://sebastiandedeyne.com/the-monetization-trap/",
     "wm-property": "mention-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Travis Northcutt",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/84e8b8cea53c9ec692f28ba51dc18bd9d65d442ab09295191e840baba67186ae.jpg",
+      "url": "https://twitter.com/tnorthcutt"
+    },
+    "url": "https://twitter.com/tnorthcutt/status/1425827729203625989",
+    "published": "2021-08-12T14:33:15+00:00",
+    "wm-received": "2021-08-12T15:19:06Z",
+    "wm-id": 1245344,
+    "wm-source": "https://brid.gy/post/twitter/sebdedeyne/1425827729203625989",
+    "wm-target": "https://sebastiandedeyne.com/the-monetization-trap/",
+    "content": {
+      "html": "\"...I had a hard time writing a post [...] without considering if it could be part of some grand monetization scheme. Everyone and their dog seemed to have a project that generates passive income; I want a slice too!\"\n\nGood post by <a href=\"https://twitter.com/sebdedeyne\">@sebdedeyne</a> \n\n<a href=\"https://sebastiandedeyne.com/the-monetization-trap/\">sebastiandedeyne.com/the-monetizati…</a>",
+      "text": "\"...I had a hard time writing a post [...] without considering if it could be part of some grand monetization scheme. Everyone and their dog seemed to have a project that generates passive income; I want a slice too!\"\n\nGood post by @sebdedeyne \n\nsebastiandedeyne.com/the-monetizati…"
+    },
+    "mention-of": "https://sebastiandedeyne.com/the-monetization-trap/",
+    "wm-property": "mention-of",
+    "wm-private": false
   }
 ]
