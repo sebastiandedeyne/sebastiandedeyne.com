@@ -799,5 +799,45 @@
     "mention-of": "https://sebastiandedeyne.com/the-monetization-trap/",
     "wm-property": "mention-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Stefan Zweifel 🌿",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/3b772e9239dfd15ce8527f90edd45d0678849d57b28725cc69f929bb4f11cf06.jpg",
+      "url": "https://twitter.com/_stefanzweifel"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1425033681802956803#favorited-by-76577495",
+    "published": null,
+    "wm-received": "2021-08-13T07:19:36Z",
+    "wm-id": 1246011,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1425033681802956803/76577495",
+    "wm-target": "https://sebastiandedeyne.com/the-monetization-trap/",
+    "like-of": "https://sebastiandedeyne.com/the-monetization-trap/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Stephen S. Musoke - Homo sapiens #aedifex #Xennial",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/0926e03642b55d9fef65e8d16f3d3ca9c811b35391a24bd256adc875da30c30e.jpg",
+      "url": "https://twitter.com/ssmusoke"
+    },
+    "url": "https://twitter.com/ssmusoke/status/1426075996990623745",
+    "published": "2021-08-13T06:59:47+00:00",
+    "wm-received": "2021-08-13T07:19:36Z",
+    "wm-id": 1246012,
+    "wm-source": "https://brid.gy/post/twitter/sebdedeyne/1426075996990623745",
+    "wm-target": "https://sebastiandedeyne.com/the-monetization-trap/",
+    "content": {
+      "html": "I was feeling this pressure for an idea that I had, now I am going to release a limited free edition as I figure out the demand and value that users will pay for.. \n\n<a href=\"https://twitter.com/search?q=%23Monetization\">#Monetization</a> <a href=\"https://twitter.com/search?q=%23SAAS\">#SAAS</a>\n\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/the-monetization-trap/\"></a>",
+      "text": "I was feeling this pressure for an idea that I had, now I am going to release a limited free edition as I figure out the demand and value that users will pay for.. \n\n#Monetization #SAAS"
+    },
+    "mention-of": "https://sebastiandedeyne.com/the-monetization-trap/",
+    "wm-property": "mention-of",
+    "wm-private": false
   }
 ]
