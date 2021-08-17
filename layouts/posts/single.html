@@ -58,34 +58,4 @@
       {{ end }}
     </section>
   </article>
-
-  {{ partial "newsletter.html" }}
-
-  {{ $related := .Site.RegularPages.Related . | first 3 }}
-  {{ $keywords := .Keywords }}
-  {{ with $related }}
-    <hr>
-    <section class="markup">
-      <h2>
-        More {{ delimit $keywords ", " " & " }}
-      </h2>
-      <dl>
-        {{ range . }}
-          <dt>
-            <a href="{{ .RelPermalink }}">
-              {{ .Title }}
-            </a>
-          </dt>
-          <dd>
-              <a href="{{ .RelPermalink }}">
-                <time datetime="{{ .Date.Format "2006-01-02" }}">
-                  {{ .Date.Format "January 2, 2006" }}
-                </time>
-              </a>
-            </p>
-          </dd>
-        {{ end }}
-      </ul>
-    </section>
-  {{ end }}
 {{ end }}
