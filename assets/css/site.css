@@ -1,50 +1,39 @@
 :root {
-  --font-inter:  "Inter", serif, system-ui, sans-serif;
-  --font-inconsolata:  "Inconsolata", monospace;
-  --font-system: system-ui, sans-serif;
+  --body: white;
+  --shade: #f9fafb;
+  --border: #f3f4f6;
+  --text: #111827;
+  --text-light: #9ca3af; /* or #6b7280 or #4b5563 ? */
+  --text-inverted: #f3f4f6;
+  --highlight: #3b82f6;
+  --link: #1d4ed8;
+}
 
-  --gray-50: #f9fafb;
-  --gray-100: #f3f4f6;
-  --gray-200: #e5e7eb;
-  --gray-300: #d1d5db;
-  --gray-400: #9ca3af;
-  --gray-500: #6b7280;
-  --gray-600: #4b5563;
-  --gray-700: #374151;
-  --gray-800: #1f2937;
-  --gray-900: #111827;
-  --gray-950: #0e1521;
-  --blue-500: #3b82f6;
-  --blue-700: #1d4ed8;
-  --green-50: #ecfdf5;
-  --green-950: #053026;
-  --indigo-50: #F5F3FF;
-  --indigo-800: #5B21B6;
-  --indigo-900: #4C1D95;
-  --indigo-950: #3d1778;
-  --red-700: #EF4444;
-  --red-800: #DC2626;
+@media (prefers-color-scheme: dark) {
+  :root {
+    --body: #111827;
+    --shade: #1f2937;
+    --border: #374151;
+    --text: #d1d5db;
+    --highlight: #1d4ed8;
+    --link: #3b82f6;
+  }
 }
 
 html {
-  font-size: 26px;
+  font-size: 24px;
 }
 
 body {
   margin: 0;
-  color: var(--gray-900);
+  color: var(--text);
+  background-color: var(--body);
   line-height: 1.6;
   font-family: franklin-gothic-urw;
 }
 
-@media (prefers-color-scheme: dark) {
-  body {
-    color: var(--gray-300);
-  }
-}
-
 hr {
-  border-color: var(--gray-100);
+  border-color: var(--border);
   border-top-width: 1px;
   margin-top: 2rem;
   margin-bottom: 2rem;
@@ -54,27 +43,6 @@ hr {
   hr {
     margin-top: calc(4.5rem - 1px);
     margin-bottom: 4.5rem;
-  }
-}
-
-@media (prefers-color-scheme: dark) {
-  hr {
-    border-color: var(--gray-700);
-  }
-}
-
-kbd {
-  font-size: 0.75em;
-  color: var(--gray-300);
-  border: 1px solid var(--gray-200);
-  border-radius: 2px;
-  padding: 0 0.33em;
-}
-
-@media (prefers-color-scheme: dark) {
-  kbd {
-    color: var(--gray-500);
-    border-color: var(--gray-500);
   }
 }
 
@@ -91,19 +59,13 @@ input[type="submit"] {
 }
 
 input[type="email"] {
-  background-color: var(--gray-100);
+  background-color: var(--shade);
 }
 
 input[type="submit"] {
-  background-color: var(--gray-900);
+  background-color: var(--text);
   color: white;
   font-weight: 600;
-}
-
-@media(prefers-color-scheme: dark) {
-  input[type="submit"] {
-    background-color: var(--gray-700);
-  }
 }
 
 /******************************************************************************\
@@ -112,7 +74,7 @@ input[type="submit"] {
 
 .wrap {
   margin: 0 auto;
-  max-width: 38rem;
+  max-width: 36rem;
   width: 100%;
   padding-left: 1rem;
   padding-right: 1rem;
@@ -127,17 +89,10 @@ input[type="submit"] {
 
 .header {
   font-size: 0.65rem;
-  color: var(--gray-400);
+  color: var(--text-light);
   padding: 1rem 0;
-  margin-bottom: 3rem;
+  margin-bottom: 4.5rem;
   line-height: 1.5;
-}
-
-@media (prefers-color-scheme: dark) {
-  .header {
-    background-color: var(--gray-950);
-    border-bottom-color: var(--gray-800);
-  }
 }
 
 .header-grid {
@@ -148,12 +103,12 @@ input[type="submit"] {
 .header strong {
   grid-column: 1 / -1;
   font-weight: 500;
-  color: var(--gray-900);
+  color: var(--text);
 }
 
 .header strong span {
   font-weight: 400;
-  color: var(--gray-400);
+  color: var(--text-light);
 }
 
 @media (min-width: 640px) {
@@ -163,19 +118,13 @@ input[type="submit"] {
 }
 
 .header li.active {
-  color: var(--blue-700);
+  color: var(--link);
 }
 
 .header li.active:before {
   content: '→ ';
   font-family: system-ui;
   font-weight: 300;
-}
-
-@media (prefers-color-scheme: dark) {
-  .header li.active {
-    color: var(--gray-300);
-  }
 }
 
 .header li a {
@@ -194,37 +143,47 @@ input[type="submit"] {
 
 .content-wrapper {
   min-height: 100vh;
-  padding-bottom: 3rem;
-}
-
-@media(prefers-color-scheme:  dark) {
-  .content-wrapper {
-    background-color: var(--gray-900);
-    min-height: 100vh;
-  }
-}
-
-.content {
-  min-width: 0;
+  padding-bottom: 4.5rem;
 }
 
 /******************************************************************************\
- * Posts                                                                      *
+ * Post                                                                       *
 \******************************************************************************/
 
 .post header {
-  margin-bottom: 2rem;
+  margin-bottom: 3.75rem;
+  text-align: center;
 }
 
 .post header h1,
 .post header h2 {
-  font-size: 1.5rem;
+  font-size: 1.85rem;
   font-weight: 700;
+  line-height: 1.15;
+  max-width: 80%;
+  margin: 0 auto;
 }
 
 .post header p {
-  color: var(--gray-500);
-  font-size:  0.65rem;
+  color: var(--text-light);
+  font-size:  0.75rem;
+  margin-top: 0.5rem;
+}
+
+/******************************************************************************\
+ * CTA                                                                        *
+\******************************************************************************/
+
+.cta {
+  margin-top: 3rem;
+  color: var(--text-light);
+  font-size: 0.75rem;
+}
+
+.cta a {
+  position: relative;
+  color: var(--link);
+  text-decoration: underline;
 }
 
 /******************************************************************************\
@@ -244,38 +203,6 @@ input[type="submit"] {
 .newsletter-form p a {
   color: currentColor;
   text-decoration: none;
-}
-
-.newsletter-cta {
-  background-color: var(--indigo-50);
-  border-radius: 2px;
-  color: var(--indigo-900);
-  padding: 1.75rem;
-  margin-top: 3.5rem;
-}
-
-.newsletter-cta .newsletter-form input[type="email"] {
-  background-color: white;
-}
-
-.newsletter-cta .newsletter-form input[type="submit"] {
-  background-color: var(--indigo-900);
-  color: var(--indigo-50);
-}
-
-@media (prefers-color-scheme: dark) {
-  .newsletter-cta {
-    background-color: var(--indigo-900);
-    color: var(--indigo-50);
-  }
-
-  .newsletter-cta .newsletter-form input[type="email"] {
-    color: var(--indigo-900);
-  }
-
-  .newsletter-cta .newsletter-form input[type="submit"] {
-    background-color: var(--indigo-950);
-  }
 }
 
 /******************************************************************************\
@@ -314,7 +241,10 @@ input[type="submit"] {
 }
 
 .markup h3 {
-  font-weight: 600;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 0.85em;
+  letter-spacing: 0.05em;
   margin-top: 2.625rem;
 }
 
@@ -324,15 +254,8 @@ input[type="submit"] {
 
 .markup a,
 .markup-link {
-  color: var(--blue-700);
+  color: var(--link);
   text-decoration: underline;
-}
-
-@media (prefers-color-scheme: dark) {
-  .markup a,
-  .markup-link {
-    color: var(--blue-500);
-  }
 }
 
 .markup em {
@@ -347,7 +270,7 @@ input[type="submit"] {
   font-weight: 600;
 }
 
-.markup ul {
+.markup ul:not(.link-list) {
   list-style-type: disc;
   padding-left: 1.33em;
 }
@@ -357,36 +280,28 @@ input[type="submit"] {
   padding-left: 1.33em;
 }
 
-.markup dt {
-  font-weight: 600;
+.markup .link-list {
+  display: grid;
+  grid-gap: 0.75em;
 }
 
-.markup dt a {
-  color: var(--gray-900);
+.markup .link-list a {
+  display: block;
   text-decoration: none;
+  padding: 0.75em 1.15em;
+  color: var(--text-light);
+  background-color: var(--shade);
+  border-radius: 0.3em;
+  font-size: 0.9em;
+  line-height: 1.4;
 }
 
-@media (prefers-color-scheme: dark) {
-  .markup dt a {
-    color: var(--gray-300);
-  }
-}
-
-.markup dd,
-.markup dd a {
-  color: var(--gray-600);
-  text-decoration: none;
-}
-
-@media (prefers-color-scheme: dark) {
-  .markup dd,
-  .markup dd a {
-    color: var(--gray-400);
-  }
-}
-
-.markup dd + dt {
-  margin-top: 1.75rem;
+.markup .link-list strong {
+  display: block;
+  font-size: 1.1em;
+  font-weight: 500;
+  color: var(--text);
+  margin-bottom: 0.1em;
 }
 
 .markup img {
@@ -403,8 +318,8 @@ input[type="submit"] {
 .markup img + em,
 .markup pre + em {
   display: block;
-  font-size: 0.875rem;
-  color: var(--gray-600);
+  font-size: 0.85rem;
+  color: var(--text-light);
   text-align: center;
   margin-top: 0.5rem;
   margin-bottom: 2.5rem;
@@ -412,16 +327,9 @@ input[type="submit"] {
 
 .markup blockquote {
   padding: 1.75rem;
-  border-left: 1px solid var(--gray-200);
-  background-color: var(--gray-50);
+  border-left: 1px solid var(--border);
+  background-color: var(--shade);
   border-radius: 0 2px 2px 0;
-}
-
-@media (prefers-color-scheme: dark) {
-  .markup blockquote {
-    border-left: 1px solid var(--bg-gray-800);
-    background-color: var(--gray-700);
-  }
 }
 
 .markup blockquote cite {
@@ -429,7 +337,7 @@ input[type="submit"] {
   margin-top: 1rem;
   margin-bottom: -1rem;
   font-size: 0.875rem;
-  color: var(--gray-600);
+  color: var(--text-light);
 }
 
 .markup blockquote cite a {
@@ -451,80 +359,30 @@ input[type="submit"] {
   position: absolute;
   left: -1.75rem;
   width: 0.66rem;
-  background-color: var(--blue-500);
+  background-color: var(--highlight);
 }
 
 .markup code {
-  font-family: var(--font-inconsolata);
+  font-family: "Inconsolata", monospace;
+}
+
+.markup pre {
+  background-color: var(--text);
+  border-radius: 2px;
+  color: var(--text-inverted);
+  display: block;
+  font-size: 0.9em;
+  margin: 0 -0.25rem;
+  overflow-x: auto;
+  padding: 1.5rem;
 }
 
 .markup :not(pre) > code {
   color: inherit;
-  font-weight: 500;
-}
-
-.markup :not(pre) > code:before,
-.markup :not(pre) > code:after {
-  content: '`';
-}
-
-@media (prefers-color-scheme: dark) {
-  .markup :not(pre) > code {
-    background-color: var(--gray-800);
-  }
-}
-
-.markup aside {
-  color: var(--gray-600);
-  font-size: 0.875rem;
-}
-
-@media (min-width: 1200px) {
-  .markup aside {
-    line-height: 1.5;
-    padding-left: 0.875rem;
-    position: absolute;
-    right: calc(-15rem + 1px);
-    width: calc(15rem - 3.5rem);
-    margin-top: 0.35rem;
-    z-index: -1;
-  }
-
-  .markup aside:after {
-    content: '';
-    position: absolute;
-    left: 0;
-    top: 0.275rem;
-    width: 1px;
-    height: 1.75rem;
-    background-color: var(--gray-200);
-  }
-}
-
-@media(prefers-color-scheme: dark) {
-  .markup aside {
-    color: var(--gray-400);
-  }
-
-  .markup aside:after {
-    background-color: var(--gray-700);
-  }
-}
-
-.markup .highlight pre {
-  display: block;
-  overflow-x: auto;
-  padding: 1.75rem;
-  border-radius: 2px;
-  background-color: var(--gray-900);
-  color: var(--gray-100);
-  font-size: 0.95em;
-}
-
-@media (prefers-color-scheme: dark) {
-  .markup .highlight pre {
-    background-color: var(--gray-800);
-  }
+  padding: 0.1em 0.25em;
+  background-color: var(--shade);
+  border: 1px solid var(--border);
+  border-radius: 0.2em;
 }
 
 .markup iframe {
@@ -540,22 +398,15 @@ input[type="submit"] {
   font-size: 0.875rem;
   padding-bottom: 0.25rem;
   font-weight: normal;
-  color: var(--gray-600);
-  border-bottom: 2px solid var(--gray-300);
+  color: var(--text-light);
+  border-bottom: 2px solid var(--text);
 }
 
 .markup td {
   font-size: 0.875rem;
   padding-top: 0.5rem;
   padding-bottom: 0.5rem;
-  border-bottom: 1px solid var(--gray-300);
-}
-
-@media (prefers-color-scheme: dark) {
-  .markup th,
-  .markup td {
-    border-color: var(--gray-600);
-  }
+  border-bottom: 1px solid var(--text);
 }
 
 /******************************************************************************\
@@ -578,7 +429,7 @@ input[type="submit"] {
 }
 
 .pagination li.disabled {
-  color: var(--gray-600);
+  color: var(--text-light);
   pointer-events: none;
 }
 
@@ -587,10 +438,10 @@ input[type="submit"] {
 \******************************************************************************/
 
 .toc {
-  background-color: var(--green-50);
   border-radius: 2px;
-  color: var(--green-950);
   margin-bottom: 1.75rem;
+  background-color: var(--shade);
+  border-radius: 0.3em;
   padding: 1.75rem;
   display: grid;
   grid-template-columns: repeat(2, auto);
@@ -602,13 +453,6 @@ input[type="submit"] {
 .markup + .toc {
   margin-top:  2.625rem;
   margin-bottom: 0;
-}
-
-@media (prefers-color-scheme: dark) {
-  .toc {
-    background-color: var(--gray-800);
-    color: var(--gray-300);
-  }
 }
 
 .toc h2 {
@@ -633,6 +477,8 @@ input[type="submit"] {
 
 .toc li.active:before {
   content: "→";
+  font-family: system-ui;
+  font-weight: 300;
 }
 
 .toc a {
@@ -675,25 +521,13 @@ input[type="submit"] {
   }
 }
 
-@media(prefers-color-scheme: dark) {
-  .search-pane {
-    background-color: var(--gray-800);
-  }
-}
-
 .search-input {
   display: block;
   width: 100%;
   font: inherit;
   font-size: 1.2rem;
   padding: 1rem 0.5rem;
-  background-color: var(--gray-100);
-}
-
-@media(prefers-color-scheme: dark) {
-  .search-input {
-    background-color: var(--gray-800);
-  }
+  background-color: var(--shade);
 }
 
 .search-input:focus {
@@ -718,7 +552,7 @@ input[type="submit"] {
 }
 
 .search-results li.selected a {
-  background-color: var(--blue-500);
+  background-color: var(--highlight);
 }
 
 .search-result-title {
@@ -727,30 +561,18 @@ input[type="submit"] {
 }
 
 .search-result-meta {
-  color: var(--gray-500);
+  color: var(--text-light);
   font-size: 0.8rem;
 }
 
 .search-result-keyword {
   display: inline-block;
   text-transform: lowercase;
-  color: var(--gray-500);
+  color: var(--text-light);
 }
 
 .search-results li.selected .search-result-title,
 .search-results li.selected .search-result-meta,
 .search-results li.selected .search-result-keyword {
   color: white;
-}
-
-.cta {
-  margin-top: 3rem;
-  color: var(--gray-500);
-  font-size: 0.75rem;
-}
-
-.cta a {
-  position: relative;
-  color: var(--blue-700);
-  text-decoration: underline;
 }
