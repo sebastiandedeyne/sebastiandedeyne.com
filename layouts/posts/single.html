@@ -34,6 +34,9 @@
         <time datetime="{{ .Date.Format "2006-01-02" }}">
           {{ .Date.Format "January 2, 2006" }}
         </time>
+        {{ with .Params.link }}
+          ∙ <a href="{{ . }}" class="markup-link">{{ (urls.Parse .).Host }}</a>
+        {{ end }}
       </p>
     </header>
     <section>
@@ -57,10 +60,25 @@
       {{ end }}
       {{ if .Params.series }}
         {{ with index $.Site.Data.series .Params.series }}
-          {{ partial "series.html" (dict "series" . "currentSlug" $.Page.Slug) }}
+          <aside class="toc">
+            <h2>{{ .title }}</h2>
+            <ol>
+              {{ range .posts }}
+                  {{ if .slug }}
+                    {{ if eq .slug $.Page.Slug }}
+                      <li class="active">{{ .title }}</li>
+                    {{ else }}
+                      <li><a href="{{ .slug | relURL }}">{{ .title }}</a></li>
+                    {{ end }}
+                  {{ else }}
+                    <li><span>{{ .title }}</span></li>
+                  {{ end }}
+              {{ end }}
+            </ol>
+          </aside>
         {{ end }}
       {{ end }}
     </section>
   </article>
-  <p class="cta">If you enjoyed this post, you might be interested in my <a href="#">newsletter</a>. I occasionally send a dispatch with personal stories, things I’ve been working on in the past month, and other interesting tidbits I come across online.</p>
+  <p class="cta">If you enjoyed this post, you might be interested in my <a href="/newsletter">newsletter</a>. I occasionally send a dispatch with personal stories, things I’ve been working on in the past month, and other interesting tidbits I come across online.</p>
 {{ end }}

@@ -1,35 +1,14 @@
 {{ define "main" }}
-  {{ $paginator := .Paginate (where $.Site.RegularPages "Section" "posts") }}
-
-  {{ range $paginator.Pages }}
-    <article class="post">
-      {{ partial "post-header.html" (dict "post" . "heading" "h2" "site" $.Site) }}
-      <section class="markup">
-        {{ if .Truncated }}
-          {{ .Summary }}
-          <p>
-            <a href="{{ .RelPermalink }}" title="{{ .Title }}">
-              Read more
-            </a>
-          </p>
-        {{ else if .Params.summary }}
-          {{ if in .Params.summary "\n\n" }}
-            {{ .Params.summary | markdownify }}
-          {{ else }}
-            <p>{{ .Params.summary }}</p>
-          {{ end }}
-          <p>
-            <a href="{{ .RelPermalink }}" title="{{ .Title }}">
-              Read more
-            </a>
-          </p>
-        {{ else }}
-          {{ .Content }}
+  <ul class="archive">
+    {{ range ((where $.Site.RegularPages "Section" "posts").GroupByDate "January, 2006") }}
+      <li>
+        <p>{{ .Key }}</p>
+        {{ range .Pages }}
+          <ul>
+            <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+          </ul>
         {{ end }}
-      </section>
-    </article>
-    <hr>
-  {{ end }}
-
-  {{ template "_internal/pagination.html" . }}
+      </li>
+    {{ end }}
+  </ul>
 {{ end }}

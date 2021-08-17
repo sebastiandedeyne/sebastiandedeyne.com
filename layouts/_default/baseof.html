@@ -71,7 +71,7 @@
       </div>
     </header>
 
-    <main class="content-wrapper">
+    <main class="content">
       <div class="wrap">
         {{ block "main" . }}{{ end }}
       </div>
@@ -80,7 +80,5 @@
     {{ with resources.Get "css/chroma.css" | minify }}
       <style>{{ .Content | safeCSS }}</style>
     {{ end }}
-
-    {{ partial "search.html" }}
   </body>
 </html>

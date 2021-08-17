@@ -17,7 +17,7 @@ enableGitInfo = true
   name = "Sebastian De Deyne"
 
 [outputs]
-  home = ["HTML", "RSS", "JSON"]
+  home = ["HTML", "RSS"]
 
 [markup]
   [markup.highlight]
