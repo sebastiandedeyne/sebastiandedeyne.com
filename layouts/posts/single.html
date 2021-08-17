@@ -28,7 +28,14 @@
 
 {{ define "main" }}
   <article class="post">
-    {{ partial "post-header.html" (dict "post" . "heading" "h1" "site" $.Site) }}
+    <header>
+      <h1>{{ .Title }}</h1>
+      <p>
+        <time datetime="{{ .Date.Format "2006-01-02" }}">
+          {{ .Date.Format "January 2, 2006" }}
+        </time>
+      </p>
+    </header>
     <section>
       {{ if .Truncated }}
         <div class="markup">
@@ -41,9 +48,6 @@
           </nav>
         {{ end }}
         <div class="markup">
-          {{ if ne .Params.ad false }}
-            {{ partial "ad" }}
-          {{ end }}
           {{ safeHTML (replace .Content .Summary "") }}
         </div>
       {{ else }}
@@ -58,4 +62,5 @@
       {{ end }}
     </section>
   </article>
+  <p class="cta">If you enjoyed this post, you might be interested in my <a href="#">newsletter</a>. I occasionally send a dispatch with personal stories, things I’ve been working on in the past month, and other interesting tidbits I come across online.</p>
 {{ end }}

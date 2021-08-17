@@ -1,35 +1,46 @@
 {{ define "main" }}
-  {{ $paginator := .Paginate (where $.Site.RegularPages "Section" "posts") }}
-
-  {{ range $paginator.Pages }}
-    <article class="post">
-      {{ partial "post-header.html" (dict "post" . "heading" "h2" "site" $.Site) }}
-      <section class="markup">
-        {{ if .Truncated }}
-          {{ .Summary }}
-          <p>
-            <a href="{{ .RelPermalink }}" title="{{ .Title }}">
-              Read more
-            </a>
-          </p>
-        {{ else if .Params.summary }}
-          {{ if in .Params.summary "\n\n" }}
-            {{ .Params.summary | markdownify }}
-          {{ else }}
-            <p>{{ .Params.summary }}</p>
-          {{ end }}
-          <p>
-            <a href="{{ .RelPermalink }}" title="{{ .Title }}">
-              Read more
-            </a>
-          </p>
-        {{ else }}
-          {{ .Content }}
-        {{ end }}
-      </section>
-    </article>
-    <hr>
-  {{ end }}
-
-  {{ template "_internal/pagination.html" . }}
+  <div class="markup">
+    <p>I'm a designer and full-stack developer from Ghent, Belgium.</p>
+    <p>Besides programming, I like to be part of the design process of a website or product. Next to UI design I've been more and more invested in UX and project management lately.</p>
+    <p>I write and share links about programming, JavaScript, Inertia.js, Laravel, and more. Here's a selection of my favorite posts over the years:</p>
+    <ul class="link-list">
+      <li>
+        <a href="/effective-task-management-with-things">
+          <strong>Effective task management with Things</strong>
+          How I use Things on daily basis, and how I think about task management in general.
+        </a>
+      </li>
+      <li>
+        <a href="/javascript-framework-diet">
+          <strong>JavaScript Framework Diet</strong>
+          A series on building common functionality with vanilla JS.
+        </a>
+      </li>
+      <li>
+        <a href="/strawberry-jelly">
+          <strong>Strawberry jelly</strong>
+          Tradeoffs we make with external dependencies.
+        </a>
+      </li>
+      <li>
+        <a href="/shop-built-jigs">
+          <strong>Shop built jigs</strong>
+          Don't be afraid to build and maintain something yourself.
+        </a>
+      </li>
+      <li>
+        <a href="/react-for-vue-developers">
+          <strong>React for Vue developers</strong>
+          How to React when you're coming from Vue.
+        </a>
+      </li>
+      <li>
+        <a href="/forget-about-component-lifecycles-and-start-thinking-in-effects">
+          <strong>Forget about component lifecycles and start thinking in effects</strong>
+          All about React's useEffect.
+        </a>
+      </li>
+    </ul>
+    <p>If you want to get in touch to chat about programming, design, or anything else meaningful or meaningless, you can send me an <a href="mailto:sebastiandedeyne@gmail.com">email</a> or send me a DM on <a href="https://twitter.com/sebdedeyne">Twitter</a>.</p>
+  </div>
 {{ end }}

@@ -23,11 +23,6 @@
     <link rel="webmention" href="https://webmention.io/sebastiandedeyne.com/webmention" />
     <link rel="pingback" href="https://webmention.io/sebastiandedeyne.com/xmlrpc" />
 
-    <link rel="preload" href="/fonts/Inter-Regular.woff2" crossorigin="anonymous" as="font" type="font/woff2">
-    <link rel="preload" href="/fonts/Inter-Italic.woff2" crossorigin="anonymous" as="font" type="font/woff2">
-    <link rel="preload" href="/fonts/Inter-SemiBold.woff2" crossorigin="anonymous" as="font" type="font/woff2">
-    <link rel="preload" href="/fonts/Inter-Bold.woff2" crossorigin="anonymous" as="font" type="font/woff2">
-
     <link rel="stylesheet" href="https://use.typekit.net/auk1oty.css">
     <link rel="stylesheet" type="text/css" href="/fonts/fonts.css">
     {{ with resources.Get "css/reset.css" | minify }}
@@ -58,23 +53,16 @@
           <nav>
             <ul>
               {{ $section := index (split .RelPermalink "/") 1 }}
-              {{ $isBlog := or (eq (in "speaking open-source newsletter about now" $section) false) (eq .RelPermalink "/") }}
-              <li class="{{ cond $isBlog "active" "" }}">
+              <li class="{{ cond (eq "posts" $section) "active" "" }}">
                 <a href="/posts">Blog</a>
               </li>
               <li class="{{ cond (eq $section "newsletter") "active" "" }}">
                 <a href="/newsletter">Newsletter</a>
               </li>
-              <li class="{{ cond (eq $section "about") "active" "" }}">
-                <a href="/about">About</a>
-              </li>
             </ul>
           </nav>
           <nav>
             <ul>
-              <li>
-                <a href="#" data-search-trigger>Search</button>
-              </li>
               <li><a href="https://twitter.com/sebdedeyne" rel="me">Twitter</a></li>
               <li><a href="/index.xml">RSS</a></li>
             </ul>
@@ -84,10 +72,8 @@
     </header>
 
     <main class="content-wrapper">
-      <div class="content wrap">
+      <div class="wrap">
         {{ block "main" . }}{{ end }}
-
-        <p class="cta">If you enjoyed this post, you might be interested in my <a href="#">newsletter</a>. I occasionally send a dispatch with personal stories, things I’ve been working on in the past month, and other interesting tidbits I come across online.</p>
       </div>
     </main>
 
