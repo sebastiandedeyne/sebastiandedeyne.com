@@ -167,7 +167,7 @@ input[type="submit"] {
 }
 
 .header li.active:before {
-  content: '→';
+  content: '→ ';
   font-family: system-ui;
   font-weight: 300;
 }
