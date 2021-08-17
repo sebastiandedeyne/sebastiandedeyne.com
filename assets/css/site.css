@@ -7,6 +7,7 @@
   --text-inverted: #f3f4f6;
   --highlight: #3b82f6;
   --link: #1d4ed8;
+  --border-radius: 0.3em;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -41,31 +42,32 @@ hr {
 
 @media (min-width: 640px) {
   hr {
-    margin-top: calc(4.5rem - 1px);
-    margin-bottom: 4.5rem;
+    margin: 4.5rem 0;
   }
 }
 
 input[type="email"],
 input[type="submit"] {
   display: inline-block;
-  padding: 0.25rem 0.5rem;
   font: inherit;
   border-radius: 0;
   -webkit-appearance: none;
   border: 1px solid transparent;
+  border-radius: var(--border-radius);
   margin: 0;
   font-size: 0.9em;
 }
 
 input[type="email"] {
   background-color: var(--shade);
+  padding: 0.25rem 0.5rem;
 }
 
 input[type="submit"] {
   background-color: var(--text);
   color: white;
-  font-weight: 600;
+  font-weight: 500;
+  padding: 0.25rem 0.75rem;
 }
 
 /******************************************************************************\
@@ -82,8 +84,8 @@ input[type="submit"] {
 
 @media (min-width: 640px) {
   .wrap {
-    padding-left: 3.5rem;
-    padding-right: 3.5rem;
+    padding-left: 3rem;
+    padding-right: 3rem;
   }
 }
 
@@ -91,7 +93,6 @@ input[type="submit"] {
   font-size: 0.65rem;
   color: var(--text-light);
   padding: 1rem 0;
-  margin-bottom: 4.5rem;
   line-height: 1.5;
 }
 
@@ -121,29 +122,13 @@ input[type="submit"] {
   color: var(--link);
 }
 
-.header li.active:before {
-  content: '→ ';
-  font-family: system-ui;
-  font-weight: 300;
-}
-
 .header li a {
   display: inline-block;
 }
 
-.header kbd {
-  display: none;
-}
-
-@media (min-width: 640px) {
-  .header kbd {
-    display: inline;
-  }
-}
-
-.content-wrapper {
+.content {
   min-height: 100vh;
-  padding-bottom: 4.5rem;
+  padding: 4.5rem 0;
 }
 
 /******************************************************************************\
@@ -160,7 +145,7 @@ input[type="submit"] {
   font-size: 1.85rem;
   font-weight: 700;
   line-height: 1.15;
-  max-width: 80%;
+  padding:  0 1.5rem;
   margin: 0 auto;
 }
 
@@ -187,16 +172,31 @@ input[type="submit"] {
 }
 
 /******************************************************************************\
+ * Archive                                                                    *
+\******************************************************************************/
+
+.archive {
+  display: grid;
+  gap: 1.5rem;
+}
+
+.archive > li > p {
+  font-size: 0.65em;
+  color: var(--text-light);
+}
+
+/******************************************************************************\
  * Newsletter                                                                 *
 \******************************************************************************/
 
 .newsletter-form-input-wrapper {
   display: flex;
+  gap: 0.5rem;
 }
 
 .newsletter-form p {
-  font-size: 0.75rem;
-  line-height: 1.5;
+  font-size: 0.65em;
+  color: var(--text-light);
   margin-top: 0.5rem;
 }
 
@@ -215,11 +215,11 @@ input[type="submit"] {
 
 .markup > *:not(:last-child):not(hr),
 .markup > details > summary {
-  margin-bottom: 1.75rem;
+  margin-bottom: 1.5rem;
 }
 
 .markup + .markup {
-  margin-top: 1.75rem;
+  margin-top: 1.5rem;
 }
 
 .markup hr {
@@ -230,14 +230,14 @@ input[type="submit"] {
 .markup h1 {
   font-size: 1.25rem;
   font-weight: 700;
-  margin-bottom: 3.5rem;
+  margin-bottom: 3rem;
 }
 
 .markup h2 {
   font-size: 1.125rem;
   font-weight: 700;
   margin-top: 2.625rem;
-  margin-bottom: 1.75rem;
+  margin-bottom: 1.5rem;
 }
 
 .markup h3 {
@@ -249,7 +249,7 @@ input[type="submit"] {
 }
 
 .markup h2 + h3 {
-  margin-top: 1.75rem;
+  margin-top: 1.5rem;
 }
 
 .markup a,
@@ -283,6 +283,7 @@ input[type="submit"] {
 .markup .link-list {
   display: grid;
   grid-gap: 0.75em;
+  margin: 0 -0.25rem;
 }
 
 .markup .link-list a {
@@ -291,7 +292,7 @@ input[type="submit"] {
   padding: 0.75em 1.15em;
   color: var(--text-light);
   background-color: var(--shade);
-  border-radius: 0.3em;
+  border-radius: var(--border-radius);
   font-size: 0.9em;
   line-height: 1.4;
 }
@@ -307,6 +308,8 @@ input[type="submit"] {
 .markup img {
   display: block;
   max-width: 100%;
+  margin: 0 -0.25rem;
+  border-radius: var(--border-radius);
 }
 
 .markup img.centered {
@@ -326,10 +329,10 @@ input[type="submit"] {
 }
 
 .markup blockquote {
-  padding: 1.75rem;
-  border-left: 1px solid var(--border);
+  padding: 1.5rem;
+  margin: 0 -0.25rem;
   background-color: var(--shade);
-  border-radius: 0 2px 2px 0;
+  border-radius: var(--border-radius);
 }
 
 .markup blockquote cite {
@@ -357,7 +360,7 @@ input[type="submit"] {
   content: "";
   height: 2em;
   position: absolute;
-  left: -1.75rem;
+  left: -1.5rem;
   width: 0.66rem;
   background-color: var(--highlight);
 }
@@ -368,7 +371,7 @@ input[type="submit"] {
 
 .markup pre {
   background-color: var(--text);
-  border-radius: 2px;
+  border-radius: var(--border-radius);
   color: var(--text-inverted);
   display: block;
   font-size: 0.9em;
@@ -410,44 +413,20 @@ input[type="submit"] {
 }
 
 /******************************************************************************\
- * Pagination                                                                 *
-\******************************************************************************/
-
-.pagination {
-  display: flex;
-  justify-content: center;
-}
-
-.pagination li {
-  font-size: 0.875rem;
-  margin-left: 0.5rem;
-  margin-right: 0.5rem;
-}
-
-.pagination li:not(.active):not(.disabled) a:not([rel]) {
-  text-decoration: underline;
-}
-
-.pagination li.disabled {
-  color: var(--text-light);
-  pointer-events: none;
-}
-
-/******************************************************************************\
  * Table of contents                                                          *
 \******************************************************************************/
 
 .toc {
   border-radius: 2px;
-  margin-bottom: 1.75rem;
+  margin-bottom: 1.5rem;
   background-color: var(--shade);
-  border-radius: 0.3em;
-  padding: 1.75rem;
+  border-radius: var(--border-radius);
+  padding: 1.5rem;
   display: grid;
   grid-template-columns: repeat(2, auto);
-  grid-column-gap: 1.75rem;
+  grid-column-gap: 1.5rem;
   font-size: 0.85rem;
-  line-height: 1.75;
+  line-height: 1.5;
 }
 
 .markup + .toc {
@@ -465,7 +444,7 @@ input[type="submit"] {
 }
 
 .toc ol ol {
-  margin-left: 1.75rem;
+  margin-left: 1.5rem;
 }
 
 .toc li:before {
@@ -483,96 +462,4 @@ input[type="submit"] {
 
 .toc a {
   text-decoration: underline;
-}
-
-/******************************************************************************\
- * Search                                                                     *
-\******************************************************************************/
-
-.search-backdrop {
-  display: none;
-  bottom: 0;
-  left: 0;
-  position: fixed;
-  right: 0;
-  top: 0;
-  background-color: #0005;
-}
-
-.search-pane {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%);
-  width: calc(100% - 3.5rem);
-  max-width: 24rem;
-  margin-top: -12rem;
-  background-color: white;
-  overflow: hidden;
-  border-radius: 2px;
-  box-shadow: 0 0 25px #0005, 0 0 7px #0002;
-}
-
-@media (max-height: 445px) {
-  .search-pane {
-    margin-top: 2rem;
-    top: 0;
-    transform: translateX(-50%);
-  }
-}
-
-.search-input {
-  display: block;
-  width: 100%;
-  font: inherit;
-  font-size: 1.2rem;
-  padding: 1rem 0.5rem;
-  background-color: var(--shade);
-}
-
-.search-input:focus {
-  outline: none;
-}
-
-.search-results {
-  max-height: 20rem;
-  overflow: auto;
-  line-height: 1.4;
-}
-
-@media (max-height: 445px) {
-  .search-results {
-    max-height: calc(100vh - 8rem);
-  }
-}
-
-.search-results a {
-  display: block;
-  padding: 0.75rem 1rem;
-}
-
-.search-results li.selected a {
-  background-color: var(--highlight);
-}
-
-.search-result-title {
-  display: block;
-  font-weight: 600;
-}
-
-.search-result-meta {
-  color: var(--text-light);
-  font-size: 0.8rem;
-}
-
-.search-result-keyword {
-  display: inline-block;
-  text-transform: lowercase;
-  color: var(--text-light);
-}
-
-.search-results li.selected .search-result-title,
-.search-results li.selected .search-result-meta,
-.search-results li.selected .search-result-keyword {
-  color: white;
 }
