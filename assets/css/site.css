@@ -69,6 +69,7 @@ hr:after {
   text-align: center;
   color: var(--text-light);
   font-size: var(--font-large);
+  margin: 1.5rem 0;
 }
 
 @media (min-width: 640px) {
