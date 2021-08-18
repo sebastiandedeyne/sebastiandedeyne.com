@@ -21,6 +21,6 @@ There's no fixed frequency, but generally don't expect more than one or two mail
     <input type="submit" value="Subscribe" />
   </div>
   <p>
-    Pinky swear that I won't use your data for any other purposes than occasional updates.
+    Only for occasional updates.
   </p>
 </form>

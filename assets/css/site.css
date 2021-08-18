@@ -3,11 +3,27 @@
   --shade: #f9fafb;
   --border: #f3f4f6;
   --text: #111827;
-  --text-light: #9ca3af; /* or #6b7280 or #4b5563 ? */
+  --text-light: #9ca3af;
   --text-inverted: #f3f4f6;
   --highlight: #3b82f6;
   --link: #1d4ed8;
+  --button: var(--text);
+
+  --font-small:  0.85rem;
+  --font-medium:  0.85rem;
+  --font-large: 1.2rem;
+  --font-extra-large: 1.5rem;
+
   --border-radius: 0.3em;
+}
+
+@media (min-width: 640px) {
+  :root {
+    --font-small:  0.65rem;
+    --font-medium:  0.75rem;
+    --font-large: 1.25rem;
+    --font-extra-large: 1.85rem;
+  }
 }
 
 @media (prefers-color-scheme: dark) {
@@ -18,11 +34,18 @@
     --text: #d1d5db;
     --highlight: #1d4ed8;
     --link: #3b82f6;
+    --button: var(--border);
   }
 }
 
 html {
-  font-size: 24px;
+  font-size: 20px;
+}
+
+@media (min-width: 640px) {
+  html {
+    font-size: 24px;
+  }
 }
 
 body {
@@ -34,10 +57,18 @@ body {
 }
 
 hr {
-  border-color: var(--border);
-  border-top-width: 1px;
-  margin-top: 2rem;
-  margin-bottom: 2rem;
+  border: none;
+  margin-top: 0.75rem;
+  margin-bottom: 0.75rem;
+}
+
+hr:after {
+  content:  '***';
+  display: block;
+  width: 100%;
+  text-align: center;
+  color: var(--text-light);
+  font-size: var(--font-large);
 }
 
 @media (min-width: 640px) {
@@ -55,7 +86,6 @@ input[type="submit"] {
   border: 1px solid transparent;
   border-radius: var(--border-radius);
   margin: 0;
-  font-size: 0.9em;
 }
 
 input[type="email"] {
@@ -64,7 +94,7 @@ input[type="email"] {
 }
 
 input[type="submit"] {
-  background-color: var(--text);
+  background-color: var(--button);
   color: white;
   font-weight: 500;
   padding: 0.25rem 0.75rem;
@@ -78,8 +108,8 @@ input[type="submit"] {
   margin: 0 auto;
   max-width: 36rem;
   width: 100%;
-  padding-left: 1rem;
-  padding-right: 1rem;
+  padding-left: 0.75rem;
+  padding-right: 0.75rem;
 }
 
 @media (min-width: 640px) {
@@ -90,7 +120,7 @@ input[type="submit"] {
 }
 
 .header {
-  font-size: 0.65rem;
+  font-size: var(--font-small);
   color: var(--text-light);
   padding: 1rem 0;
   line-height: 1.5;
@@ -99,6 +129,7 @@ input[type="submit"] {
 .header-grid {
   display: grid;
   grid-template-columns: 2fr 1fr 1fr;
+  gap: 0.75rem;
 }
 
 .header strong {
@@ -128,7 +159,13 @@ input[type="submit"] {
 
 .content {
   min-height: 100vh;
-  padding: 4.5rem 0;
+  padding: 0.75rem 0;
+}
+
+@media (min-width: 640px) {
+  .content {
+    padding: 4.5rem 0;
+  }
 }
 
 /******************************************************************************\
@@ -136,13 +173,18 @@ input[type="submit"] {
 \******************************************************************************/
 
 .post header {
-  margin-bottom: 3.75rem;
+  margin-bottom: 1.5rem;
   text-align: center;
 }
 
-.post header h1,
-.post header h2 {
-  font-size: 1.85rem;
+@media (min-width: 640px) {
+  .post header {
+    margin-bottom: 3.75rem;
+  }
+}
+
+.post header h1 {
+  font-size: var(--font-extra-large);
   font-weight: 700;
   line-height: 1.15;
   padding:  0 1.5rem;
@@ -151,8 +193,14 @@ input[type="submit"] {
 
 .post header p {
   color: var(--text-light);
-  font-size:  0.75rem;
-  margin-top: 0.5rem;
+  font-size:  var(--font-medium);
+  margin-top: 0.25rem;
+}
+
+@media (min-width: 640px) {
+  .post header p {
+    margin-top: 0.5rem;
+  }
 }
 
 /******************************************************************************\
@@ -160,9 +208,15 @@ input[type="submit"] {
 \******************************************************************************/
 
 .cta {
-  margin-top: 3rem;
+  margin-top: 1.5rem;
   color: var(--text-light);
-  font-size: 0.75rem;
+  font-size: var(--font-medium);
+}
+
+@media (min-width: 640px) {
+  .cta {
+    margin-top: 3rem;
+  }
 }
 
 .cta a {
@@ -178,11 +232,16 @@ input[type="submit"] {
 .archive {
   display: grid;
   gap: 1.5rem;
+  line-height: 1.25;
 }
 
 .archive > li > p {
-  font-size: 0.65em;
+  font-size: var(--font-small);
   color: var(--text-light);
+}
+
+.archive > li li {
+  margin-top: 0.35rem;
 }
 
 /******************************************************************************\
@@ -195,7 +254,8 @@ input[type="submit"] {
 }
 
 .newsletter-form p {
-  font-size: 0.65em;
+  font-size: var(--font-small);
+  line-height: 1.25;
   color: var(--text-light);
   margin-top: 0.5rem;
 }
@@ -228,13 +288,13 @@ input[type="submit"] {
 }
 
 .markup h1 {
-  font-size: 1.25rem;
+  font-size: var(--font-extra-large);
   font-weight: 700;
   margin-bottom: 3rem;
 }
 
 .markup h2 {
-  font-size: 1.125rem;
+  font-size: var(--font-large);
   font-weight: 700;
   margin-top: 2.625rem;
   margin-bottom: 1.5rem;
@@ -243,16 +303,16 @@ input[type="submit"] {
 .markup h3 {
   font-weight: 700;
   text-transform: uppercase;
-  font-size: 0.85em;
+  font-size: var(--font-medium);
   letter-spacing: 0.05em;
-  margin-top: 2.625rem;
+  margin-top: 2.25rem;
 }
 
 .markup h2 + h3 {
   margin-top: 1.5rem;
 }
 
-.markup a,
+.markup a:not(.link-subtle),
 .markup-link {
   color: var(--link);
   text-decoration: underline;
@@ -321,7 +381,7 @@ input[type="submit"] {
 .markup img + em,
 .markup pre + em {
   display: block;
-  font-size: 0.85rem;
+  font-size: var(--font-medium);
   color: var(--text-light);
   text-align: center;
   margin-top: 0.5rem;
@@ -329,17 +389,24 @@ input[type="submit"] {
 }
 
 .markup blockquote {
-  padding: 1.5rem;
-  margin: 0 -0.25rem;
+  padding: 0.75rem;
+  margin: 0 -0.75rem;
   background-color: var(--shade);
-  border-radius: var(--border-radius);
+}
+
+@media (min-width: 640px) {
+  .markup blockquote {
+    padding: 1.5rem;
+    margin: 0 -0.25rem;
+    border-radius: var(--border-radius);
+  }
 }
 
 .markup blockquote cite {
   display: block;
   margin-top: 1rem;
   margin-bottom: -1rem;
-  font-size: 0.875rem;
+  font-size: var(--font-medium);
   color: var(--text-light);
 }
 
@@ -370,14 +437,21 @@ input[type="submit"] {
 }
 
 .markup pre {
-  background-color: var(--text);
-  border-radius: var(--border-radius);
+  background-color: var(--button);
   color: var(--text-inverted);
   display: block;
   font-size: 0.9em;
-  margin: 0 -0.25rem;
+  margin: 0 -0.75rem;
   overflow-x: auto;
-  padding: 1.5rem;
+  padding: 0.75rem;
+}
+
+@media (min-width: 640px) {
+  .markup pre {
+    padding: 1.5rem;
+    margin: 0 -0.25rem;
+    border-radius: var(--border-radius);
+  }
 }
 
 .markup :not(pre) > code {
@@ -398,7 +472,7 @@ input[type="submit"] {
 }
 
 .markup th {
-  font-size: 0.875rem;
+  font-size: var(--font-medium);
   padding-bottom: 0.25rem;
   font-weight: normal;
   color: var(--text-light);
@@ -406,7 +480,7 @@ input[type="submit"] {
 }
 
 .markup td {
-  font-size: 0.875rem;
+  font-size: var(--font-medium);
   padding-top: 0.5rem;
   padding-bottom: 0.5rem;
   border-bottom: 1px solid var(--text);
@@ -422,11 +496,16 @@ input[type="submit"] {
   background-color: var(--shade);
   border-radius: var(--border-radius);
   padding: 1.5rem;
-  display: grid;
-  grid-template-columns: repeat(2, auto);
-  grid-column-gap: 1.5rem;
-  font-size: 0.85rem;
+  font-size: var(--font-medium);
   line-height: 1.5;
+}
+
+@media (min-width: 640px) {
+  .toc {
+    display: grid;
+    grid-template-columns: repeat(2, auto);
+    grid-column-gap: 1.5rem;
+  }
 }
 
 .markup + .toc {
@@ -436,6 +515,7 @@ input[type="submit"] {
 
 .toc h2 {
   font-weight: 600;
+  margin-bottom: 0.75rem;
 }
 
 .toc ol {
