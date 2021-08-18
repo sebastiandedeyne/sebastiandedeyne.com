@@ -170,8 +170,6 @@ All configured!
 
 If we run `npm run dev`, the dev server should start at `http://localhost:3000`. If we run `npm run production` a bundle should generate in `public/build`.
 
-{{< newsletter >}}
-
 ## Laravel configuration
 
 With the build pipeline up and running, it's time to load the assets in the application. 

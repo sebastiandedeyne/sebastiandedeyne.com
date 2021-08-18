@@ -1,8 +1,30 @@
 {{ define "main" }}
   <div class="markup">
-    <p>I'm a designer and full-stack developer from Ghent, Belgium.</p>
-    <p>Besides programming, I like to be part of the design process of a website or product. Next to UI design I've been more and more invested in UX and project management lately.</p>
-    <p>I write and share links about programming, JavaScript, Inertia.js, Laravel, and more. Here's a selection of my favorite posts over the years:</p>
+    <p>I'm a designer and full-stack developer from Ghent, Belgium. I work at a small but mighty web agency in Antwerp called <a href="https://spatie.be" class="link-subtle">Spatie</a>. We specialize in Laravel development, and have released a lot of open source packages.</p>
+    <p>Over the years, I've dabbled in backend development, frontend development, design, and more recently product and project management.</p>
+    <hr>
+    <p>I send an occasional newsletter with personal stories, things I’m working on, and other interesting tidbits I come across online.</p>
+    <form
+      method="post"
+      action="https://mailcoach.sebastiandedeyne.com/mailcoach/subscribe/dea7aea5-9eac-4736-aa3e-55adcdc07eb6"
+      class="newsletter-form"
+    >
+      <div class="newsletter-form-input-wrapper">
+        <input
+          type="email"
+          value=""
+          name="email"
+          style="max-width: 22ch"
+          placeholder="Email"
+        >
+        <input type="submit" value="Subscribe" />
+      </div>
+      <p>
+        Only for occasional updates.
+      </p>
+    </form>
+    <hr>
+    <p>This blog has been going strong since 2015. I write and share links about programming, JavaScript, PHP, personal thoughts, and more. Here's a selection of my favorite posts over the years:</p>
     <ul class="link-list">
       <li>
         <a href="/effective-task-management-with-things">
@@ -41,6 +63,7 @@
         </a>
       </li>
     </ul>
+    <hr>
     <p>If you want to get in touch to chat about programming, design, or anything else meaningful or meaningless, you can send me an <a href="mailto:sebastiandedeyne@gmail.com">email</a> or send me a DM on <a href="https://twitter.com/sebdedeyne">Twitter</a>.</p>
   </div>
 {{ end }}
