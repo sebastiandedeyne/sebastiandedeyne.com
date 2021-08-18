@@ -283,11 +283,6 @@ input[type="submit"] {
   margin-top: 1.5rem;
 }
 
-.markup hr {
-  margin-top: 2.625rem;
-  margin-bottom: 2.625rem;
-}
-
 .markup h1 {
   font-size: var(--font-extra-large);
   font-weight: 700;
