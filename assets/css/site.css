@@ -26,12 +26,19 @@
   }
 }
 
+@media (prefers-contrast: more) {
+  :root {
+    --text-light: #525666;
+  }
+}
+
 @media (prefers-color-scheme: dark) {
   :root {
     --body: #111827;
     --shade: #1f2937;
     --border: #374151;
     --text: #d1d5db;
+    --text-light: #a2a8b4;
     --highlight: #1d4ed8;
     --link: #3b82f6;
     --button: var(--border);
@@ -251,14 +258,22 @@ input[type="submit"] {
 
 .newsletter-form-input-wrapper {
   display: flex;
-  gap: 0.5rem;
+  gap: 0;
+}
+
+.newsletter-form-input-wrapper input[type="email"] {
+  border-radius: var(--border-radius) 0 0 var(--border-radius);
+}
+
+.newsletter-form-input-wrapper input[type="submit"] {
+  border-radius: 0 var(--border-radius) var(--border-radius) 0;
 }
 
 .newsletter-form p {
   font-size: var(--font-small);
   line-height: 1.25;
   color: var(--text-light);
-  margin-top: 0.5rem;
+  margin-top: 0.25rem;
 }
 
 .newsletter-form p a {
