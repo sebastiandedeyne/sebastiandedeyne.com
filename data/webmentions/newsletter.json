@@ -755,5 +755,47 @@
     "like-of": "https://sebastiandedeyne.com/newsletter/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "bruno_alfred",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/e4a1e3ab186c53d32061a07349d5c9125f9694db3db643430edfb60854690272.jpg",
+      "url": "https://twitter.com/alfredy_bruno"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1445667050421030917#favorited-by-1036229654976389122",
+    "published": null,
+    "wm-received": "2021-10-06T16:31:12Z",
+    "wm-id": 1283234,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1445667050421030917/1036229654976389122",
+    "wm-target": "https://sebastiandedeyne.com/newsletter/",
+    "like-of": "https://sebastiandedeyne.com/newsletter/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Spatie",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/3efb487e7f3a0bc3690580277105f93eda590d65e4d9eb01135a184a9df60b18.jpg",
+      "url": "https://twitter.com/spatie_be"
+    },
+    "url": "https://twitter.com/spatie_be/status/1445740807005212685",
+    "published": "2021-10-06T13:20:43+00:00",
+    "wm-received": "2021-10-06T16:31:42Z",
+    "wm-id": 1283235,
+    "wm-source": "https://brid.gy/repost/twitter/sebdedeyne/1445667050421030917/1445740807005212685",
+    "wm-target": "https://sebastiandedeyne.com/newsletter/",
+    "photo": [
+      "https://pbs.twimg.com/media/FBAKhAGUcAM3N0_.jpg"
+    ],
+    "content": {
+      "text": "✉️ Newsletter going out this afternoon, with some thoughts on Pest sebastiandedeyne.com/newsletter/"
+    },
+    "repost-of": "https://sebastiandedeyne.com/newsletter/",
+    "wm-property": "repost-of",
+    "wm-private": false
   }
 ]
