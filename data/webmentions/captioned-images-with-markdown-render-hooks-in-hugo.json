@@ -212,5 +212,26 @@
     "mention-of": "https://sebastiandedeyne.com/captioned-images-with-markdown-render-hooks-in-hugo/",
     "wm-property": "mention-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "",
+      "photo": "",
+      "url": ""
+    },
+    "url": "https://pawelgrzybek.com/webp-and-avif-images-on-a-hugo-website/",
+    "published": null,
+    "wm-received": "2021-10-22T21:06:49Z",
+    "wm-id": 1295104,
+    "wm-source": "https://pawelgrzybek.com/webp-and-avif-images-on-a-hugo-website/",
+    "wm-target": "https://sebastiandedeyne.com/captioned-images-with-markdown-render-hooks-in-hugo/",
+    "mention-of": "https://sebastiandedeyne.com/captioned-images-with-markdown-render-hooks-in-hugo/",
+    "wm-property": "mention-of",
+    "wm-private": false,
+    "rels": {
+      "canonical": "https://pawelgrzybek.com/webp-and-avif-images-on-a-hugo-website/"
+    }
   }
 ]
