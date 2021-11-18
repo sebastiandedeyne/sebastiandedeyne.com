@@ -797,5 +797,23 @@
     "repost-of": "https://sebastiandedeyne.com/newsletter/",
     "wm-property": "repost-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "José Cage",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/8de62c528d88bef4bccb55da030112ae95d99c62fd1e883f6c4dc320c0d599e6.jpg",
+      "url": "https://twitter.com/cagejose"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1445667050421030917#favorited-by-944899327",
+    "published": null,
+    "wm-received": "2021-11-17T21:36:30Z",
+    "wm-id": 1306285,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1445667050421030917/944899327",
+    "wm-target": "https://sebastiandedeyne.com/newsletter/",
+    "like-of": "https://sebastiandedeyne.com/newsletter/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
