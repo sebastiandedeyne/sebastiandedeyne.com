@@ -720,5 +720,27 @@
     "mention-of": "https://sebastiandedeyne.com/react-for-vue-developers/",
     "wm-property": "mention-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "悠汰",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/a769f2e93b476cbc414f31b7bdc351d109ed2f41f389a344177ef6319cdc6061.jpg",
+      "url": "https://twitter.com/mtsmtyuta"
+    },
+    "url": "https://twitter.com/mtsmtyuta/status/1463434994278301700",
+    "published": "2021-11-24T09:11:06+00:00",
+    "wm-received": "2021-11-24T12:07:26Z",
+    "wm-id": 1309234,
+    "wm-source": "https://brid.gy/post/twitter/sebdedeyne/1463434994278301700",
+    "wm-target": "https://sebastiandedeyne.com/react-for-vue-developers/",
+    "content": {
+      "html": "<a href=\"https://sebastiandedeyne.com/react-for-vue-developers/\">sebastiandedeyne.com/react-for-vue-…</a>\nReactそこまで使ってないけどVueの方が気持ち楽な感じするんよな〜手数も減る気がするし。そろそろ逃げられないが。",
+      "text": "sebastiandedeyne.com/react-for-vue-…\nReactそこまで使ってないけどVueの方が気持ち楽な感じするんよな〜手数も減る気がするし。そろそろ逃げられないが。"
+    },
+    "mention-of": "https://sebastiandedeyne.com/react-for-vue-developers/",
+    "wm-property": "mention-of",
+    "wm-private": false
   }
 ]
