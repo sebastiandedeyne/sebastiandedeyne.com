@@ -3779,5 +3779,30 @@
     "mention-of": "https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/",
     "wm-property": "mention-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Dmitriy Zyuzin",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/41d72473f26d2c4d5e7a52efc36d6fab1ced3055ea1de4a15990af0c17ae9d49.jpg",
+      "url": "https://twitter.com/dmitriy_zyuzin"
+    },
+    "url": "https://twitter.com/dmitriy_zyuzin/status/1467781976757313540",
+    "published": "2021-12-06T09:04:27+00:00",
+    "wm-received": "2021-12-06T10:47:46Z",
+    "wm-id": 1313281,
+    "wm-source": "https://brid.gy/post/twitter/sebdedeyne/1467781976757313540",
+    "wm-target": "https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/",
+    "photo": [
+      "https://pbs.twimg.com/media/FF6bTsIXoAEYcec.png"
+    ],
+    "content": {
+      "html": "Почему я не знал раньше, что можно создать глобальный .gitignore и не пихать одинаковые строчки во все проекты?\n<a href=\"https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/\">sebastiandedeyne.com/setting-up-a-g…</a>",
+      "text": "Почему я не знал раньше, что можно создать глобальный .gitignore и не пихать одинаковые строчки во все проекты?\nsebastiandedeyne.com/setting-up-a-g…"
+    },
+    "mention-of": "https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/",
+    "wm-property": "mention-of",
+    "wm-private": false
   }
 ]
