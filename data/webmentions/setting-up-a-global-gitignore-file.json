@@ -3804,5 +3804,27 @@
     "mention-of": "https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/",
     "wm-property": "mention-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Tamsin Slinn",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/27d96c2511e72a5922781985e2d8bea73e169408b76d69f29d354fdac0989dc7.jpg",
+      "url": "https://twitter.com/anorakgirl"
+    },
+    "url": "https://twitter.com/anorakgirl/status/1468330558539571200",
+    "published": "2021-12-07T21:24:20+00:00",
+    "wm-received": "2021-12-07T22:30:42Z",
+    "wm-id": 1313981,
+    "wm-source": "https://brid.gy/post/twitter/sebdedeyne/1468330558539571200",
+    "wm-target": "https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/",
+    "content": {
+      "html": "Tip of the day - you can set up a global .gitignore file\n<a href=\"https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/\">sebastiandedeyne.com/setting-up-a-g…</a>",
+      "text": "Tip of the day - you can set up a global .gitignore file\nsebastiandedeyne.com/setting-up-a-g…"
+    },
+    "mention-of": "https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/",
+    "wm-property": "mention-of",
+    "wm-private": false
   }
 ]
