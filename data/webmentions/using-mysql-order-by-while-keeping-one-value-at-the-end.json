@@ -1,0 +1,24 @@
+[
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "La semana PHP",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/bfd0c987004c612438e013bf5427e37b27ff4f46c2e70acd8cc8ef5d28b3f362.jpg",
+      "url": "https://twitter.com/lasemanaphp"
+    },
+    "url": "https://twitter.com/lasemanaphp/status/1482049897851408384",
+    "published": "2022-01-14T18:00:05+00:00",
+    "wm-received": "2022-01-14T18:30:08Z",
+    "wm-id": 1331674,
+    "wm-source": "https://brid.gy/post/twitter/sebdedeyne/1482049897851408384",
+    "wm-target": "https://sebastiandedeyne.com/using-mysql-order-by-while-keeping-one-value-at-the-end/",
+    "content": {
+      "html": "Usando `order by` en  MySQL manteniendo un valor al final <a href=\"https://sebastiandedeyne.com/using-mysql-order-by-while-keeping-one-value-at-the-end/\">sebastiandedeyne.com/using-mysql-or…</a> vía <a href=\"https://twitter.com/sebdedeyne\">@sebdedeyne</a>",
+      "text": "Usando `order by` en  MySQL manteniendo un valor al final sebastiandedeyne.com/using-mysql-or… vía @sebdedeyne"
+    },
+    "mention-of": "https://sebastiandedeyne.com/using-mysql-order-by-while-keeping-one-value-at-the-end/",
+    "wm-property": "mention-of",
+    "wm-private": false
+  }
+]
