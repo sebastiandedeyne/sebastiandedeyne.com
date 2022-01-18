@@ -233,5 +233,27 @@
     "rels": {
       "canonical": "https://pawelgrzybek.com/webp-and-avif-images-on-a-hugo-website/"
     }
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "mohammad faani",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/757574b6e82e99b7c9988dec21ccc19f7334a892d261212eb92fa25a49947ad8.jpg",
+      "url": "https://twitter.com/mfaani"
+    },
+    "url": "https://twitter.com/mfaani/status/1483468053937627143",
+    "published": "2022-01-18T15:55:20+00:00",
+    "wm-received": "2022-01-18T16:37:49Z",
+    "wm-id": 1334434,
+    "wm-source": "https://brid.gy/post/twitter/sebdedeyne/1483468053937627143",
+    "wm-target": "https://sebastiandedeyne.com/captioned-images-with-markdown-render-hooks-in-hugo/",
+    "content": {
+      "html": "<a href=\"https://twitter.com/sebdedeyne\">@sebdedeyne</a> Thank you for your great article on Hugo image captioning <a href=\"https://sebastiandedeyne.com/captioned-images-with-markdown-render-hooks-in-hugo/\">sebastiandedeyne.com/captioned-imag…</a> \n\nI just had to make some tweaks to get figcaption and its text centered",
+      "text": "@sebdedeyne Thank you for your great article on Hugo image captioning sebastiandedeyne.com/captioned-imag… \n\nI just had to make some tweaks to get figcaption and its text centered"
+    },
+    "mention-of": "https://sebastiandedeyne.com/captioned-images-with-markdown-render-hooks-in-hugo/",
+    "wm-property": "mention-of",
+    "wm-private": false
   }
 ]
