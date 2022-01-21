@@ -20,5 +20,27 @@
     "mention-of": "https://sebastiandedeyne.com/laravel-blade-view-models/",
     "wm-property": "mention-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "La semana PHP",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/bfd0c987004c612438e013bf5427e37b27ff4f46c2e70acd8cc8ef5d28b3f362.jpg",
+      "url": "https://twitter.com/lasemanaphp"
+    },
+    "url": "https://twitter.com/lasemanaphp/status/1484511115073802245",
+    "published": "2022-01-21T13:00:05+00:00",
+    "wm-received": "2022-01-21T14:27:18Z",
+    "wm-id": 1335846,
+    "wm-source": "https://brid.gy/post/twitter/sebdedeyne/1484511115073802245",
+    "wm-target": "https://sebastiandedeyne.com/laravel-blade-view-models/",
+    "content": {
+      "html": "Laravel Blade y View Models <a href=\"https://sebastiandedeyne.com/laravel-blade-view-models/\">sebastiandedeyne.com/laravel-blade-…</a> vía <a href=\"https://twitter.com/sebdedeyne\">@sebdedeyne</a>",
+      "text": "Laravel Blade y View Models sebastiandedeyne.com/laravel-blade-… vía @sebdedeyne"
+    },
+    "mention-of": "https://sebastiandedeyne.com/laravel-blade-view-models/",
+    "wm-property": "mention-of",
+    "wm-private": false
   }
 ]
