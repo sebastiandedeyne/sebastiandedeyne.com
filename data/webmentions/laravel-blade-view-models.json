@@ -42,5 +42,27 @@
     "mention-of": "https://sebastiandedeyne.com/laravel-blade-view-models/",
     "wm-property": "mention-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Prince John Santillan",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/957b966cd2fca771e2019523428ac61fec4fd61df99c4392de484fd4bb5e58bd.jpg",
+      "url": "https://twitter.com/pjsantillan"
+    },
+    "url": "https://twitter.com/pjsantillan/status/1486869235062095872",
+    "published": "2022-01-28T01:10:24+00:00",
+    "wm-received": "2022-01-28T01:52:33Z",
+    "wm-id": 1340204,
+    "wm-source": "https://brid.gy/post/twitter/sebdedeyne/1486869235062095872",
+    "wm-target": "https://sebastiandedeyne.com/laravel-blade-view-models/",
+    "content": {
+      "html": "I found a must-read.\n<a href=\"https://sebastiandedeyne.com/laravel-blade-view-models/\">sebastiandedeyne.com/laravel-blade-…</a>\nThanks <a href=\"https://twitter.com/sebdedeyne\">@sebdedeyne</a>",
+      "text": "I found a must-read.\nsebastiandedeyne.com/laravel-blade-…\nThanks @sebdedeyne"
+    },
+    "mention-of": "https://sebastiandedeyne.com/laravel-blade-view-models/",
+    "wm-property": "mention-of",
+    "wm-private": false
   }
 ]
