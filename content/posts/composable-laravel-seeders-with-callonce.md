@@ -9,7 +9,7 @@ keywords:
 
 Laravel 9 is fresh out the door, and it contains a small [contribution](https://github.com/laravel/framework/pull/39812) of mine: a new `callOnce` method for database seeders.
 
-It solves a problem with seeders I've had for a long time, and thanks to [@brendt_gd](http://twitter.com/brendt_gd/status/1465210141192634370) and [@rubenvanassche](https://twitter.com/rubenvanassche)'s input I was able to propose a lightweight solution. Here's a quick overview of the problems it solves, and how it's used.
+It solves a problem with seeders I've had for a long time, and thanks to [@brendt_gd](http://twitter.com/brendt_gd) and [@rubenvanassche](https://twitter.com/rubenvanassche)'s input I was able to propose a lightweight solution. Here's a quick overview of the problems it solves, and how it's used.
 
 Say you're working on a CMS-like project. There are users (than can log in and publish posts), posts, pages, and categories.
 
