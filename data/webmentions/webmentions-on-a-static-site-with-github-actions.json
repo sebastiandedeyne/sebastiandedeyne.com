@@ -403,5 +403,23 @@
     "rels": {
       "canonical": "https://rowanmanning.com/weeknotes/33/"
     }
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "",
+      "photo": "",
+      "url": ""
+    },
+    "url": "https://11d.im/yo/20220225150728/",
+    "published": null,
+    "wm-received": "2022-02-25T15:08:34Z",
+    "wm-id": 1355807,
+    "wm-source": "https://11d.im/yo/20220225150728/",
+    "wm-target": "https://sebastiandedeyne.com/webmentions-on-a-static-site-with-github-actions/",
+    "mention-of": "https://sebastiandedeyne.com/webmentions-on-a-static-site-with-github-actions/",
+    "wm-property": "mention-of",
+    "wm-private": false
   }
 ]

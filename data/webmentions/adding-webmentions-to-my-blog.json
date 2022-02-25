@@ -684,5 +684,23 @@
     "mention-of": "https://sebastiandedeyne.com/adding-webmentions-to-my-blog/",
     "wm-property": "mention-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "",
+      "photo": "",
+      "url": ""
+    },
+    "url": "https://11d.im/yo/20220225150728/",
+    "published": null,
+    "wm-received": "2022-02-25T15:08:34Z",
+    "wm-id": 1355806,
+    "wm-source": "https://11d.im/yo/20220225150728/",
+    "wm-target": "https://sebastiandedeyne.com/adding-webmentions-to-my-blog/",
+    "mention-of": "https://sebastiandedeyne.com/adding-webmentions-to-my-blog/",
+    "wm-property": "mention-of",
+    "wm-private": false
   }
 ]
