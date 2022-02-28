@@ -3826,5 +3826,27 @@
     "mention-of": "https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/",
     "wm-property": "mention-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Benjamin Read",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/d12585fc4f8a5e539ec44e546610491c9847503ce5c3463c5289c708ae7da4c1.jpg",
+      "url": "https://twitter.com/muzzlehatch_"
+    },
+    "url": "https://twitter.com/muzzlehatch_/status/1498037656004874241",
+    "published": "2022-02-27T20:49:44+00:00",
+    "wm-received": "2022-02-28T04:58:15Z",
+    "wm-id": 1356654,
+    "wm-source": "https://brid.gy/post/twitter/sebdedeyne/1498037656004874241",
+    "wm-target": "https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/",
+    "content": {
+      "html": "Thanks <a href=\"https://twitter.com/sebdedeyne\">@sebdedeyne</a> for this really straightforward tutorial on how to set up a global .gitignore file (windows &amp; Mac too!) <a href=\"https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/\">sebastiandedeyne.com/setting-up-a-g…</a>",
+      "text": "Thanks @sebdedeyne for this really straightforward tutorial on how to set up a global .gitignore file (windows & Mac too!) sebastiandedeyne.com/setting-up-a-g…"
+    },
+    "mention-of": "https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/",
+    "wm-property": "mention-of",
+    "wm-private": false
   }
 ]
