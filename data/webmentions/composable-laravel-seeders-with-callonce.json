@@ -20,5 +20,27 @@
     "mention-of": "https://sebastiandedeyne.com/composable-laravel-seeders-with-callonce/",
     "wm-property": "mention-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Laravel Daily",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/7c0d19fa456ded2abd78330dcb0f9d953c40cc168b23d20b6a18dd5850b08ab8.jpg",
+      "url": "https://twitter.com/DailyLaravel"
+    },
+    "url": "https://twitter.com/DailyLaravel/status/1498953825775984640",
+    "published": "2022-03-02T09:30:15+00:00",
+    "wm-received": "2022-03-02T10:19:28Z",
+    "wm-id": 1357340,
+    "wm-source": "https://brid.gy/post/twitter/sebdedeyne/1498953825775984640",
+    "wm-target": "https://sebastiandedeyne.com/composable-laravel-seeders-with-callonce/",
+    "content": {
+      "html": "Composable seeders in Laravel with callOnce <a href=\"https://sebastiandedeyne.com/composable-laravel-seeders-with-callonce/\">sebastiandedeyne.com/composable-lar…</a>",
+      "text": "Composable seeders in Laravel with callOnce sebastiandedeyne.com/composable-lar…"
+    },
+    "mention-of": "https://sebastiandedeyne.com/composable-laravel-seeders-with-callonce/",
+    "wm-property": "mention-of",
+    "wm-private": false
   }
 ]
