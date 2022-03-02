@@ -1,0 +1,24 @@
+[
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Simpledev",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/712a1900b9b1ff1903325aef266eab33b5835150a5e50b5aa478b2a3fd501223.jpg",
+      "url": "https://twitter.com/simpledevMe"
+    },
+    "url": "https://twitter.com/simpledevMe/status/1498674187015180293",
+    "published": "2022-03-01T14:59:04+00:00",
+    "wm-received": "2022-03-01T19:10:27Z",
+    "wm-id": 1357114,
+    "wm-source": "https://brid.gy/post/twitter/sebdedeyne/1498674187015180293",
+    "wm-target": "https://sebastiandedeyne.com/composable-laravel-seeders-with-callonce/",
+    "content": {
+      "html": "Composable seeders in Laravel with callOnce — Sebastian De Deyne <a href=\"https://sebastiandedeyne.com/composable-laravel-seeders-with-callonce/\">sebastiandedeyne.com/composable-lar…</a>",
+      "text": "Composable seeders in Laravel with callOnce — Sebastian De Deyne sebastiandedeyne.com/composable-lar…"
+    },
+    "mention-of": "https://sebastiandedeyne.com/composable-laravel-seeders-with-callonce/",
+    "wm-property": "mention-of",
+    "wm-private": false
+  }
+]
