@@ -42,5 +42,30 @@
     "mention-of": "https://sebastiandedeyne.com/composable-laravel-seeders-with-callonce/",
     "wm-property": "mention-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Thomas Venturini | tjventurini.eth ⛵",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/1b1843055f560a3f88925a8373ff55e6ba4aeb08bb1bd7ab49541dafebb64746.jpg",
+      "url": "https://twitter.com/tjventurini"
+    },
+    "url": "https://twitter.com/tjventurini/status/1500889290183692291",
+    "published": "2022-03-07T17:41:06+00:00",
+    "wm-received": "2022-03-07T21:52:15Z",
+    "wm-id": 1360209,
+    "wm-source": "https://brid.gy/post/twitter/sebdedeyne/1500889290183692291",
+    "wm-target": "https://sebastiandedeyne.com/composable-laravel-seeders-with-callonce/",
+    "photo": [
+      "https://pbs.twimg.com/media/FNQ62IQXsAEY5AS.png"
+    ],
+    "content": {
+      "html": "That's neat!\n\n<a href=\"https://sebastiandedeyne.com/composable-laravel-seeders-with-callonce\">sebastiandedeyne.com/composable-lar…</a>\n\n<a href=\"https://twitter.com/search?q=%23Laravel\">#Laravel</a> <a href=\"https://twitter.com/search?q=%23PHP\">#PHP</a>\n\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/composable-laravel-seeders-with-callonce/\"></a>",
+      "text": "That's neat!\n\nsebastiandedeyne.com/composable-lar…\n\n#Laravel #PHP"
+    },
+    "mention-of": "https://sebastiandedeyne.com/composable-laravel-seeders-with-callonce/",
+    "wm-property": "mention-of",
+    "wm-private": false
   }
 ]
