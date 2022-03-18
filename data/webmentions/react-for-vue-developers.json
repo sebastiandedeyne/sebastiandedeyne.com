@@ -742,5 +742,27 @@
     "mention-of": "https://sebastiandedeyne.com/react-for-vue-developers/",
     "wm-property": "mention-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Antonio 👨🏻‍💻🚀",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/0b395a5b11ad558929afd5c1825e416bd94bc4f5ac300ae58d4f046367faeb73.jpg",
+      "url": "https://twitter.com/uF4No"
+    },
+    "url": "https://twitter.com/uF4No/status/1504800032008118297",
+    "published": "2022-03-18T12:41:00+00:00",
+    "wm-received": "2022-03-18T13:04:25Z",
+    "wm-id": 1365358,
+    "wm-source": "https://brid.gy/post/twitter/sebdedeyne/1504800032008118297",
+    "wm-target": "https://sebastiandedeyne.com/react-for-vue-developers/",
+    "content": {
+      "html": "Not sure if this article by <a href=\"https://twitter.com/sebdedeyne\">@sebdedeyne</a> is updated, but it's being a lifesaver for me today\n\n<a href=\"https://sebastiandedeyne.com/react-for-vue-developers/\">sebastiandedeyne.com/react-for-vue-…</a>",
+      "text": "Not sure if this article by @sebdedeyne is updated, but it's being a lifesaver for me today\n\nsebastiandedeyne.com/react-for-vue-…"
+    },
+    "mention-of": "https://sebastiandedeyne.com/react-for-vue-developers/",
+    "wm-property": "mention-of",
+    "wm-private": false
   }
 ]
