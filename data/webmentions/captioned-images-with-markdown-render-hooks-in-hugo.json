@@ -255,5 +255,27 @@
     "mention-of": "https://sebastiandedeyne.com/captioned-images-with-markdown-render-hooks-in-hugo/",
     "wm-property": "mention-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Cyrille MdC",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/a308e21a9a3dd26461369900ef5b9abd78ccbbe159d9f61fa43572b7223036c8.jpg",
+      "url": "https://twitter.com/serialc"
+    },
+    "url": "https://twitter.com/serialc/status/1504810587972378668",
+    "published": "2022-03-18T13:22:56+00:00",
+    "wm-received": "2022-03-18T18:57:30Z",
+    "wm-id": 1365529,
+    "wm-source": "https://brid.gy/post/twitter/sebdedeyne/1504810587972378668",
+    "wm-target": "https://sebastiandedeyne.com/captioned-images-with-markdown-render-hooks-in-hugo/",
+    "content": {
+      "html": "<a href=\"https://twitter.com/sebdedeyne\">@sebdedeyne</a> Thanks for this!\n<a href=\"https://sebastiandedeyne.com/captioned-images-with-markdown-render-hooks-in-hugo/\">sebastiandedeyne.com/captioned-imag…</a>",
+      "text": "@sebdedeyne Thanks for this!\nsebastiandedeyne.com/captioned-imag…"
+    },
+    "mention-of": "https://sebastiandedeyne.com/captioned-images-with-markdown-render-hooks-in-hugo/",
+    "wm-property": "mention-of",
+    "wm-private": false
   }
 ]
