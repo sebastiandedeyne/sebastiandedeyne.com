@@ -3848,5 +3848,27 @@
     "mention-of": "https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/",
     "wm-property": "mention-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Richard Mountford-Webster 🎮",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/7a409e7c5c1fb01d56be630d349492cbfcfeac8383ad1bb31479f5b46a2285e5.jpg",
+      "url": "https://twitter.com/RichMountWeb"
+    },
+    "url": "https://twitter.com/RichMountWeb/status/1511231792224907264",
+    "published": "2022-04-05T06:38:31+00:00",
+    "wm-received": "2022-04-05T14:51:24Z",
+    "wm-id": 1375525,
+    "wm-source": "https://brid.gy/post/twitter/sebdedeyne/1511231792224907264",
+    "wm-target": "https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/",
+    "content": {
+      "html": "I was today years old when I learned you can set up a global .gitignore file. <a href=\"https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/\">sebastiandedeyne.com/setting-up-a-g…</a>",
+      "text": "I was today years old when I learned you can set up a global .gitignore file. sebastiandedeyne.com/setting-up-a-g…"
+    },
+    "mention-of": "https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/",
+    "wm-property": "mention-of",
+    "wm-private": false
   }
 ]
