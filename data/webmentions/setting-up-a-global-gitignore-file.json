@@ -3870,5 +3870,27 @@
     "mention-of": "https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/",
     "wm-property": "mention-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Dav.id 🇺🇦",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/ec534411154c29a5c266121ef598e30e87aeab7bed009bfc718e70fbce073abc.jpg",
+      "url": "https://twitter.com/dvdgld"
+    },
+    "url": "https://twitter.com/dvdgld/status/1514935352645062656",
+    "published": "2022-04-15T11:55:08+00:00",
+    "wm-received": "2022-04-15T15:50:01Z",
+    "wm-id": 1381758,
+    "wm-source": "https://brid.gy/post/twitter/sebdedeyne/1514935352645062656",
+    "wm-target": "https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/",
+    "content": {
+      "html": "A global .gitignore that's neat!\n\n<a href=\"https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/\">sebastiandedeyne.com/setting-up-a-g…</a>",
+      "text": "A global .gitignore that's neat!\n\nsebastiandedeyne.com/setting-up-a-g…"
+    },
+    "mention-of": "https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/",
+    "wm-property": "mention-of",
+    "wm-private": false
   }
 ]
