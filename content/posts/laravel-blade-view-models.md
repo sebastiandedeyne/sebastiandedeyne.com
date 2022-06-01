@@ -6,6 +6,7 @@ categories: ["articles"]
 keywords:
   - Laravel
   - Blade
+summary: An overview on view models in Laravel
 ---
 
 A view model represents data for a specific view or page. In its simplest form, a view model is a plain PHP object with a bunch of (typed) properties.

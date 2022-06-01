@@ -2,6 +2,7 @@
 title: "Self-deprecating comments"
 slug: self-deprecating-comments
 date: 2021-03-10
+link: https://thepugautomatic.com/2021/02/write-self-deprecating-comments/
 keywords:
     - Programming
 ---

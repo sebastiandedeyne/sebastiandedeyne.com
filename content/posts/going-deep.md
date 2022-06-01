@@ -24,6 +24,8 @@ The author talks about "high" and "wide" hardware changes, but this can apply to
 
 No need to look far, Electron is built on this principle. We're adding heavy runtimes to support multiple platforms instead of staying close to the metal, and we pay the price in performance.
 
+<!--more-->
+
 In general, it's easier to add than subtract.
 
 Which leads me to Derek Siver's thoughts on [subtraction](https://sive.rs/subtract).

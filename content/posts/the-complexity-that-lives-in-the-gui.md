@@ -2,6 +2,7 @@
 title: "The complexity that lives in the GUI"
 slug: the-complexity-that-lives-in-the-gui
 date: 2021-02-22
+link: https://blog.royalsloth.eu/posts/the-complexity-that-lives-in-the-gui/
 keywords:
   - programming
   - frontend
