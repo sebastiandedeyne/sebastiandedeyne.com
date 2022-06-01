@@ -277,5 +277,27 @@
     "mention-of": "https://sebastiandedeyne.com/captioned-images-with-markdown-render-hooks-in-hugo/",
     "wm-property": "mention-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Zack Hoherchak",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/458dc7be431e22e47690fc1d11f0a006bf5caba9f0885de12a2c1b1d4bfe9303.jpg",
+      "url": "https://twitter.com/ChekTek"
+    },
+    "url": "https://twitter.com/ChekTek/status/1531401061537353729",
+    "published": "2022-05-30T22:23:59+00:00",
+    "wm-received": "2022-05-31T23:26:18Z",
+    "wm-id": 1407764,
+    "wm-source": "https://brid.gy/post/twitter/sebdedeyne/1531401061537353729",
+    "wm-target": "https://sebastiandedeyne.com/captioned-images-with-markdown-render-hooks-in-hugo/",
+    "content": {
+      "html": "Exactly what I was looking for. Thanks .<a href=\"https://twitter.com/sebdedeyne\">@sebdedeyne</a>!\n\nRendering images with captions using <a href=\"https://twitter.com/GoHugoIO\">@GoHugoIO</a> \n<a href=\"https://sebastiandedeyne.com/captioned-images-with-markdown-render-hooks-in-hugo/\">sebastiandedeyne.com/captioned-imag…</a>",
+      "text": "Exactly what I was looking for. Thanks .@sebdedeyne!\n\nRendering images with captions using @GoHugoIO \nsebastiandedeyne.com/captioned-imag…"
+    },
+    "mention-of": "https://sebastiandedeyne.com/captioned-images-with-markdown-render-hooks-in-hugo/",
+    "wm-property": "mention-of",
+    "wm-private": false
   }
 ]
