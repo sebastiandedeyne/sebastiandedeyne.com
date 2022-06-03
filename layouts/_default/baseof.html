@@ -41,6 +41,10 @@
       <meta property="og:image" content="{{ "media/me.jpg" | absURL }}" />
       <meta property="og:description" content="I'm a web developer and designer. I build websites & interfaces with JavaScript, CSS and PHP." />
     {{ end }}
+
+    {{ if hugo.IsProduction }}
+      <script src="https://cdn.usefathom.com/script.js" data-site="ZJKABUUJ" defer></script>
+    {{ end }}
   </head>
   <body>
     <header class="header">
