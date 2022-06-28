@@ -42,7 +42,11 @@
       {{ else }}
         <meta property="og:image" content="{{ "media/me.jpg" | absURL }}" />
       {{ end }}
-      <meta property="og:description" content="I'm a web developer and designer. I build websites & interfaces with JavaScript, CSS and PHP." />
+      {{ with .Params.description }}
+        <meta property="og:description" content="{{ . }}" />
+      {{ else }}
+        <meta property="og:description" content="I'm a web developer and designer. I build websites & interfaces with JavaScript, CSS and PHP." />
+      {{ end }}
     {{ end }}
 
     {{ if hugo.IsProduction }}
