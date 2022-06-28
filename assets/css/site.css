@@ -54,24 +54,24 @@ body {
   color: var(--text);
   background-color: var(--body);
   line-height: 1.5;
-  font-family: system-ui;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";;
 }
 
 hr {
   border: none;
-  margin: 5rem 0;
+  margin: 6rem 0 0;
   position: relative;
 }
 
 hr:after {
-  content:  '';
+  content: '';
   display: block;
   background-color: var(--border);
   width: 100%;
   max-width: 10rem;
   position: absolute;
   left: 50%;
-  top: -2.5rem;
+  top: -3rem;
   transform: translateX(-50%);
   height: 1px;
 }
@@ -297,16 +297,17 @@ input[type="submit"] {
 
 .markup h2 {
   font-size: var(--font-large);
-  font-weight: 600;
-  margin-top: 3rem;
-  margin-bottom: 1.5rem;
+  font-weight: 700;
+  margin-top: 4.5rem;
+  text-align: center;
+}
+
+.markup h2 + * {
+  margin-top: 2rem;
 }
 
 .markup h3 {
   font-weight: 700;
-  text-transform: uppercase;
-  font-size: var(--font-medium);
-  letter-spacing: 0.05em;
   margin-top: 2.25rem;
 }
 
@@ -333,8 +334,19 @@ input[type="submit"] {
 }
 
 .markup ul:not(.link-list) {
-  list-style-type: disc;
-  padding-left: 1.33em;
+  list-style-type: none;
+}
+
+.markup ul:not(.link-list) > li {
+  padding-left: 1.5em;
+  position: relative;
+}
+
+.markup ul:not(.link-list) > li:before {
+  content: '–';
+  font-weight: 300;
+  position: absolute;
+  left: 0;
 }
 
 .markup ol {
@@ -535,7 +547,6 @@ input[type="submit"] {
 
 .toc li.active:before {
   content: "→";
-  font-family: system-ui;
   font-weight: 300;
 }
 
