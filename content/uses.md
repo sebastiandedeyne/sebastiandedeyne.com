@@ -1,5 +1,6 @@
 ---
 title: Uses
+image: /media/desk-2022.jpeg
 ---
 
 Welcome to my `/uses` page! This isn't meant to be a complete list of everything I touch on a daily basis, but a spotlight of the tools I enjoy using most.
