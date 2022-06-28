@@ -11,17 +11,17 @@
 
   --font-small:  0.85rem;
   --font-medium:  0.85rem;
-  --font-large: 1.2rem;
+  --font-large: 1.1rem;
   --font-extra-large: 1.5rem;
 
-  --border-radius: 0.3em;
+  --border-radius: 2px;
 }
 
 @media (min-width: 640px) {
   :root {
     --font-small:  0.65rem;
     --font-medium:  0.75rem;
-    --font-large: 1.25rem;
+    --font-large: 1.1rem;
     --font-extra-large: 1.85rem;
   }
 }
@@ -46,43 +46,34 @@
 }
 
 html {
-  font-size: 20px;
-}
-
-@media (min-width: 640px) {
-  html {
-    font-size: 24px;
-  }
+  font-size: 18px;
 }
 
 body {
   margin: 0;
   color: var(--text);
   background-color: var(--body);
-  line-height: 1.6;
-  font-family: franklin-gothic-urw;
+  line-height: 1.5;
+  font-family: system-ui;
 }
 
 hr {
   border: none;
-  margin-top: 0.75rem;
-  margin-bottom: 0.75rem;
+  margin: 5rem 0;
+  position: relative;
 }
 
 hr:after {
-  content:  '***';
+  content:  '';
   display: block;
+  background-color: var(--border);
   width: 100%;
-  text-align: center;
-  color: var(--text-light);
-  font-size: var(--font-large);
-  margin: 1.5rem 0;
-}
-
-@media (min-width: 640px) {
-  hr {
-    margin: 2.25rem 0;
-  }
+  max-width: 10rem;
+  position: absolute;
+  left: 50%;
+  top: -2.5rem;
+  transform: translateX(-50%);
+  height: 1px;
 }
 
 input[type="email"],
@@ -128,7 +119,7 @@ input[type="submit"] {
 }
 
 .header {
-  font-size: var(--font-small);
+  font-size: var(--font-medium);
   color: var(--text-light);
   padding: 1rem 0;
   line-height: 1.5;
@@ -136,8 +127,8 @@ input[type="submit"] {
 
 .header-grid {
   display: grid;
-  grid-template-columns: 2fr 1fr 1fr;
-  gap: 0.75rem;
+  grid-template-columns: 2fr repeat(3, auto);
+  gap: 2rem;
 }
 
 .header strong {
@@ -306,8 +297,8 @@ input[type="submit"] {
 
 .markup h2 {
   font-size: var(--font-large);
-  font-weight: 700;
-  margin-top: 2.625rem;
+  font-weight: 600;
+  margin-top: 3rem;
   margin-bottom: 1.5rem;
 }
 
@@ -392,7 +383,7 @@ input[type="submit"] {
 .markup img + em,
 .markup pre + em {
   display: block;
-  font-size: var(--font-medium);
+  font-size: var(--font-small);
   color: var(--text-light);
   text-align: center;
   margin-top: 0.5rem;
@@ -483,18 +474,15 @@ input[type="submit"] {
 }
 
 .markup th {
-  font-size: var(--font-medium);
-  padding-bottom: 0.25rem;
   font-weight: normal;
-  color: var(--text-light);
-  border-bottom: 2px solid var(--text);
 }
 
+.markup th,
 .markup td {
   font-size: var(--font-medium);
-  padding-top: 0.5rem;
-  padding-bottom: 0.5rem;
-  border-bottom: 1px solid var(--text);
+  padding-top: 0.25rem;
+  padding-bottom: 0.25rem;
+  border-bottom: 1px solid var(--border);
 }
 
 /******************************************************************************\
