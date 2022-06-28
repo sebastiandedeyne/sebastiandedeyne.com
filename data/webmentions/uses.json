@@ -284,5 +284,103 @@
     "like-of": "https://sebastiandedeyne.com/uses/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Luke Harris 🌵",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/0ae338ad561e9efdef4060d56180cf37a9fd42392c76d3bd625bba3ae37e1b3d.jpg",
+      "url": "https://twitter.com/lkhrs"
+    },
+    "url": "https://twitter.com/lkhrs/status/1541759540106067968",
+    "published": "2022-06-28T12:24:53+00:00",
+    "wm-received": "2022-06-28T12:28:51Z",
+    "wm-id": 1423649,
+    "wm-source": "https://brid.gy/comment/twitter/sebdedeyne/1541706612292964353/1541759540106067968",
+    "wm-target": "https://sebastiandedeyne.com/uses/",
+    "content": {
+      "html": "love Sublime Text!\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/sebdedeyne\"></a>",
+      "text": "love Sublime Text!"
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/uses/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Daniel Ferguson",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/a1e4fbcc13b7c8325363914dcf042e1bfb76284a322df1436a8d2871aae23e40.jpg",
+      "url": "https://twitter.com/thedannyferg"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1541706612292964353#favorited-by-790038466922881024",
+    "published": null,
+    "wm-received": "2022-06-28T12:28:51Z",
+    "wm-id": 1423650,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1541706612292964353/790038466922881024",
+    "wm-target": "https://sebastiandedeyne.com/uses/",
+    "like-of": "https://sebastiandedeyne.com/uses/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Stefan Zweifel 🦦",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/3b772e9239dfd15ce8527f90edd45d0678849d57b28725cc69f929bb4f11cf06.jpg",
+      "url": "https://twitter.com/_stefanzweifel"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1541706612292964353#favorited-by-76577495",
+    "published": null,
+    "wm-received": "2022-06-28T15:30:56Z",
+    "wm-id": 1423715,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1541706612292964353/76577495",
+    "wm-target": "https://sebastiandedeyne.com/uses/",
+    "like-of": "https://sebastiandedeyne.com/uses/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Stefan Zweifel 🦦",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/3b772e9239dfd15ce8527f90edd45d0678849d57b28725cc69f929bb4f11cf06.jpg",
+      "url": "https://twitter.com/_stefanzweifel"
+    },
+    "url": "https://twitter.com/_stefanzweifel/status/1541800094458171392",
+    "published": "2022-06-28T15:06:02+00:00",
+    "wm-received": "2022-06-28T15:31:25Z",
+    "wm-id": 1423716,
+    "wm-source": "https://brid.gy/comment/twitter/sebdedeyne/1541706612292964353/1541800094458171392",
+    "wm-target": "https://sebastiandedeyne.com/uses/",
+    "content": {
+      "html": "btw: Love the slight redesigns whenever I visit your site.\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/sebdedeyne\"></a>",
+      "text": "btw: Love the slight redesigns whenever I visit your site."
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/uses/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Stefan Bauer",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/78b2190e94eb28cab02d6d26cde10e1c5bc6dd7fd544876afda443572069f642.jpg",
+      "url": "https://twitter.com/stefanbauerme"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1541706612292964353#favorited-by-270319969",
+    "published": null,
+    "wm-received": "2022-06-28T17:03:40Z",
+    "wm-id": 1423773,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1541706612292964353/270319969",
+    "wm-target": "https://sebastiandedeyne.com/uses/",
+    "like-of": "https://sebastiandedeyne.com/uses/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
