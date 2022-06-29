@@ -382,5 +382,23 @@
     "like-of": "https://sebastiandedeyne.com/uses/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Bruno Alfred",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/afa9367a972538e1153f62d0c5e93d591c7bb7d76c14c3cdb0c297cc6aa1fbca.jpg",
+      "url": "https://twitter.com/bruno__alfred"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1541706612292964353#favorited-by-1036229654976389122",
+    "published": null,
+    "wm-received": "2022-06-28T18:56:12Z",
+    "wm-id": 1423812,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1541706612292964353/1036229654976389122",
+    "wm-target": "https://sebastiandedeyne.com/uses/",
+    "like-of": "https://sebastiandedeyne.com/uses/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
