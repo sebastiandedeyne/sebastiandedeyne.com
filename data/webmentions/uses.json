@@ -400,5 +400,23 @@
     "like-of": "https://sebastiandedeyne.com/uses/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Axel Pardemann",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/53dcdac8c2c6f14e94d65249ace1fc25470fb95121c596c6317a185e1d4a2f0b.jpg",
+      "url": "https://twitter.com/axelpardemann"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1541706612292964353#favorited-by-1005671322876334080",
+    "published": null,
+    "wm-received": "2022-06-29T02:03:10Z",
+    "wm-id": 1424018,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1541706612292964353/1005671322876334080",
+    "wm-target": "https://sebastiandedeyne.com/uses/",
+    "like-of": "https://sebastiandedeyne.com/uses/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
