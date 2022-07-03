@@ -23,5 +23,31 @@
     "mention-of": "https://sebastiandedeyne.com/a-package-for-snapshot-testing-in-phpunit/",
     "wm-property": "mention-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Povilas Korop | Laravel Youtuber & Content Creator",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/ff4e0e8b71fdd6b52abc2cdbecf1d9f137285c802cab5926cf56065e8ef86b52.jpg",
+      "url": "https://twitter.com/PovilasKorop"
+    },
+    "url": "https://twitter.com/PovilasKorop/status/1543531260328509445",
+    "published": "2022-07-03T09:45:04+00:00",
+    "wm-received": "2022-07-03T10:29:24Z",
+    "wm-id": 1426667,
+    "wm-source": "https://brid.gy/post/twitter/sebdedeyne/1543531260328509445",
+    "wm-target": "https://sebastiandedeyne.com/a-package-for-snapshot-testing-in-phpunit/",
+    "photo": [
+      "https://pbs.twimg.com/media/FWu5gA0WIAA55f3.jpg",
+      "https://pbs.twimg.com/media/FWu5gAzXoAAYYmr.jpg"
+    ],
+    "content": {
+      "html": "Interesting concept of \"snapshot testing\" in PHPUnit/Pest, with a few packages by <a href=\"https://twitter.com/spatie_be\">@spatie_be</a> (who else).\n\nIt tests whether the expected result hasn't changed with time.\n\nExample test &amp; snapshot attached.\n\nPackage: <a href=\"https://github.com/spatie/phpunit-snapshot-assertions\">github.com/spatie/phpunit…</a>\nRead the origin: <a href=\"https://sebastiandedeyne.com/a-package-for-snapshot-testing-in-phpunit/\">sebastiandedeyne.com/a-package-for-…</a>",
+      "text": "Interesting concept of \"snapshot testing\" in PHPUnit/Pest, with a few packages by @spatie_be (who else).\n\nIt tests whether the expected result hasn't changed with time.\n\nExample test & snapshot attached.\n\nPackage: github.com/spatie/phpunit…\nRead the origin: sebastiandedeyne.com/a-package-for-…"
+    },
+    "mention-of": "https://sebastiandedeyne.com/a-package-for-snapshot-testing-in-phpunit/",
+    "wm-property": "mention-of",
+    "wm-private": false
   }
 ]
