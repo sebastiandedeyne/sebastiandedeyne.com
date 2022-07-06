@@ -3892,5 +3892,27 @@
     "mention-of": "https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/",
     "wm-property": "mention-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Carlos Ballena",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/d2f3f3828f94ffdfa81dab3e05f87d1b52dad2548d5c9b5545e48f732ac204bc.jpg",
+      "url": "https://twitter.com/CBallenar"
+    },
+    "url": "https://twitter.com/CBallenar/status/1544396979211538435",
+    "published": "2022-07-05T19:05:08+00:00",
+    "wm-received": "2022-07-05T19:36:18Z",
+    "wm-id": 1427825,
+    "wm-source": "https://brid.gy/post/twitter/sebdedeyne/1544396979211538435",
+    "wm-target": "https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/",
+    "content": {
+      "html": "Tip: ignore files globally from repositories. Great for those pesky .vscode files...\n\n<a href=\"https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/\">sebastiandedeyne.com/setting-up-a-g…</a>\n\n<a href=\"https://twitter.com/search?q=%23dev\">#dev</a> <a href=\"https://twitter.com/search?q=%23programming\">#programming</a> <a href=\"https://twitter.com/search?q=%23git\">#git</a>",
+      "text": "Tip: ignore files globally from repositories. Great for those pesky .vscode files...\n\nsebastiandedeyne.com/setting-up-a-g…\n\n#dev #programming #git"
+    },
+    "mention-of": "https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/",
+    "wm-property": "mention-of",
+    "wm-private": false
   }
 ]
