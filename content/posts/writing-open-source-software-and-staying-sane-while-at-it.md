@@ -7,11 +7,13 @@ keywords:
   - OSS
 ---
 
-In the 4.5 years I've been a developer at [Spatie](https://spatie.be), over 200 packages have been built and released by our team. I've done quite some authoring and maintenance over the years, and I'd like to share 8 actionable tips on writing and maintaining open source software without going insane.
-### 1. Duplication is fine
+*This was originally a lightning talk at Full Stack Europe 2019. You can watch the video on their [YouTube channel](https://www.youtube.com/watch?v=Zz5Ct6Fdfl8&list=PLeWf1pVncHmZMNIxp1XLWTYPMs2B25jEx&index=14).*
 
+In the 4.5 years I've been a developer at [Spatie](https://spatie.be), over 200 packages have been built and released by our team. I've done quite some authoring and maintenance over the years, and I'd like to share 8 actionable tips on writing and maintaining open source software without going insane.
 
 <!--more-->
+
+### 1. Duplication is fine
 
 <img src="/media/open-source-sanity/duplication-is-fine.jpg" alt="Two cute twin dogs wearing the same ribbon" class="centered">
 
