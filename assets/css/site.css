@@ -127,8 +127,8 @@ input[type="submit"] {
 
 .header-grid {
   display: grid;
-  grid-template-columns: 2fr repeat(3, auto);
-  gap: 2rem;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1rem 2rem;
 }
 
 .header strong {
@@ -143,8 +143,12 @@ input[type="submit"] {
 }
 
 @media (min-width: 640px) {
+  .header-grid {
+    grid-template-columns: 2fr repeat(3, auto);
+  }
+
   .header strong {
-    grid-column: 1 / 2;
+    grid-column: auto;
   }
 }
 
