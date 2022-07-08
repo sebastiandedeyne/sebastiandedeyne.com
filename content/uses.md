@@ -18,12 +18,12 @@ Welcome to my `/uses` page! This isn't meant to be a complete list of everything
 | **Stand** | Rain Design mStand |
 | **Speakers** | Bose Companion 2 Series II speakers |
 | **Monitor** | LG 27MU67 |
-| **Keyboard** | Keychron Q1 |
+| **Keyboard** | Keychron Q1 w/ Phantom Red switches |
 | **Mouse** | Logitech MX Master |
 | **Mic** | Shure MV7 |
 | **Studio arm** | Rode PSA1 |
 | **Headphones** | AIAIAI TMA-2 |
-| **Desk** | Fully Jarvis with a custom wood top |
+| **Desk** | Fully Jarvis w/ custom rubberwood top |
 | **Chair** | Herman Miller Aeron |
 | **Light** | Mr. Wattson |
 
