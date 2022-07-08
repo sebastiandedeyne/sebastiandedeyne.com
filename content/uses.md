@@ -8,7 +8,7 @@ Welcome to my `/uses` page! This isn't meant to be a complete list of everything
 
 ---
 
-![My desk in 2022](/media/desk-2022.jpeg)
+<img src="/media/desk-2022.jpeg" alt="My desk in 2022" class="breakout">
 
 ## Workspace
 

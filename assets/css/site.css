@@ -501,6 +501,18 @@ input[type="submit"] {
   border-bottom: 1px solid var(--border);
 }
 
+.markup .breakout {
+  --breakout-width: 54rem;
+
+  position: relative;
+  right: 50%;
+  left: 50%;
+  margin-left: calc(var(--breakout-width) / 2 * -1);
+  margin-right: calc(var(--breakout-width) / 2 * -1);
+  max-width: var(--breakout-width);
+  width: var(--breakout-width);
+}
+
 /******************************************************************************\
  * Table of contents                                                          *
 \******************************************************************************/
