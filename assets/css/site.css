@@ -46,7 +46,7 @@
 }
 
 html {
-  font-size: 18px;
+  font-size: clamp(18px, 2vw, 24px);
 }
 
 body {
@@ -502,7 +502,7 @@ input[type="submit"] {
 }
 
 .markup .breakout {
-  --breakout-width: 54rem;
+  --breakout-width: min(100vw, 54rem);
 
   position: relative;
   right: 50%;
