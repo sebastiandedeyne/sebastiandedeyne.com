@@ -241,5 +241,27 @@
     "like-of": "https://sebastiandedeyne.com/why-we-use-important-with-tailwind/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Alex Chan",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/1c1f85a471181710beb8f41280ccee0aeb1e9216317cffc294df3ac6719df831.jpg",
+      "url": "https://twitter.com/alexandermchan"
+    },
+    "url": "https://twitter.com/alexandermchan/status/1547292350082420739",
+    "published": "2022-07-13T18:50:18+00:00",
+    "wm-received": "2022-07-13T22:56:30Z",
+    "wm-id": 1433714,
+    "wm-source": "https://brid.gy/post/twitter/sebdedeyne/1547292350082420739",
+    "wm-target": "https://sebastiandedeyne.com/why-we-use-important-with-tailwind/",
+    "content": {
+      "html": "I was surprised at the option for !important in tailwind <a href=\"https://sebastiandedeyne.com/why-we-use-important-with-tailwind/\">sebastiandedeyne.com/why-we-use-imp…</a>",
+      "text": "I was surprised at the option for !important in tailwind sebastiandedeyne.com/why-we-use-imp…"
+    },
+    "mention-of": "https://sebastiandedeyne.com/why-we-use-important-with-tailwind/",
+    "wm-property": "mention-of",
+    "wm-private": false
   }
 ]
