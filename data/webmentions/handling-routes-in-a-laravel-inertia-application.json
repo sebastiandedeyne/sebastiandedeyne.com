@@ -721,5 +721,27 @@
     "like-of": "https://sebastiandedeyne.com/handling-routes-in-a-laravel-inertia-application/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "BOX PIPER",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/bf3ba798b013ecf70bf25dae2d971007a9813d2a6ff82fcd77afa54d6a986d9e.jpg",
+      "url": "https://twitter.com/boxpiperapp"
+    },
+    "url": "https://twitter.com/boxpiperapp/status/1550201597455630345",
+    "published": "2022-07-21T19:30:36+00:00",
+    "wm-received": "2022-07-21T21:56:55Z",
+    "wm-id": 1438635,
+    "wm-source": "https://brid.gy/comment/twitter/sebdedeyne/1550201597455630345/1550201597455630345",
+    "wm-target": "https://sebastiandedeyne.com/handling-routes-in-a-laravel-inertia-application/",
+    "content": {
+      "html": "Handling routes in a Laravel and Inertia.js application\n<a href=\"https://sebastiandedeyne.com/handling-routes-in-a-laravel-inertia-application/\">sebastiandedeyne.com/handling-route…</a>",
+      "text": "Handling routes in a Laravel and Inertia.js application\nsebastiandedeyne.com/handling-route…"
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/handling-routes-in-a-laravel-inertia-application/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
   }
 ]

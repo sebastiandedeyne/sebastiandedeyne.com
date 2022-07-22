@@ -2142,5 +2142,27 @@
     "mention-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
     "wm-property": "mention-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "BOX PIPER",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/bf3ba798b013ecf70bf25dae2d971007a9813d2a6ff82fcd77afa54d6a986d9e.jpg",
+      "url": "https://twitter.com/boxpiperapp"
+    },
+    "url": "https://twitter.com/boxpiperapp/status/1550201596193214467",
+    "published": "2022-07-21T19:30:36+00:00",
+    "wm-received": "2022-07-21T21:56:58Z",
+    "wm-id": 1438637,
+    "wm-source": "https://brid.gy/comment/twitter/sebdedeyne/1550201596193214467/1550201596193214467",
+    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "content": {
+      "html": "Inertia.js and Livewire: a high-level comparison\n<a href=\"https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/\">sebastiandedeyne.com/inertia-js-and…</a>",
+      "text": "Inertia.js and Livewire: a high-level comparison\nsebastiandedeyne.com/inertia-js-and…"
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
   }
 ]
