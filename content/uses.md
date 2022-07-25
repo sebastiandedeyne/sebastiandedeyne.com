@@ -56,17 +56,17 @@ Some other people's setups and uses pages that inspired me in the past or for th
 
 <div style="display: grid; grid-template-columns: repeat(2, 1fr);">
 <div>
-{{< markdown >}}
+{{% markdown %}}
 [Christoph Rumpel](https://christoph-rumpel.com/uses)\
 [Robin Malfait](https://robinmalfait.com/uses)\
 [Simon Sarris](https://twitter.com/simonsarris/status/1516762041482194948)
-{{</ markdown >}}
+{{%/ markdown %}}
 </div>
 <div>
-{{< markdown >}}
+{{% markdown %}}
 [Freek Van der Herten](https://freek.dev/uses)\
 [Rafael Conde](https://setups.co/posts/rafael-conde)\
 [Stefan Zweifel](https://stefanzweifel.io/uses)
-{{</ markdown >}}
+{{%/ markdown %}}
 </div>
 </div>
