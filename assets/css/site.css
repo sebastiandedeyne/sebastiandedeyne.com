@@ -2,7 +2,7 @@
   --body: white;
   --shade: #f9fafb;
   --border: #f3f4f6;
-  --text: #111827;
+  --text: #000;
   --text-light: #9ca3af;
   --text-inverted: #f3f4f6;
   --highlight: #3b82f6;
@@ -46,7 +46,7 @@
 }
 
 html {
-  font-size: clamp(18px, 2vw, 24px);
+  font-size: clamp(16px, 2vw, 19px);
 }
 
 body {
@@ -121,8 +121,10 @@ input[type="submit"] {
 .header {
   font-size: var(--font-medium);
   color: var(--text-light);
-  padding: 1rem 0;
+  padding: 2.5rem 0 3rem;
   line-height: 1.5;
+  background-color: var(--shade);
+  border-bottom: 1px solid var(--border);
 }
 
 .header-grid {
@@ -152,8 +154,19 @@ input[type="submit"] {
   }
 }
 
+.header li {
+  padding-left: 2ch;
+  position: relative;
+}
+
 .header li.active {
   color: var(--link);
+}
+
+.header li.active:before {
+  content: '→';
+  position: absolute;
+  left: 0;
 }
 
 .header li a {
