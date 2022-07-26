@@ -815,5 +815,23 @@
     "like-of": "https://sebastiandedeyne.com/newsletter/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Théo Champion",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/30b8396dd206a2a5500b186a6adbbf2b2367fc1475fee01f7c10b202ee8f6524.jpg",
+      "url": "https://twitter.com/deletethistheo"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1546442916809392128#favorited-by-1357422889520267264",
+    "published": null,
+    "wm-received": "2022-07-26T11:18:35Z",
+    "wm-id": 1441599,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1546442916809392128/1357422889520267264",
+    "wm-target": "https://sebastiandedeyne.com/newsletter/",
+    "like-of": "https://sebastiandedeyne.com/newsletter/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
