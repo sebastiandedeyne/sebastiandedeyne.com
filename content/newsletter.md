@@ -8,6 +8,7 @@ There's no fixed frequency, but generally don't expect more than one or two mail
 <form
   method="post"
   action="https://sebastiandedeyne.mailcoach.app/subscribe/42d379f2-adba-46e5-8060-564a60af2f99"
+  target="_blank"
   class="newsletter-form"
 >
   <div class="newsletter-form-input-wrapper">
