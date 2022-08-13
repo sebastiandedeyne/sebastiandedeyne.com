@@ -3914,5 +3914,27 @@
     "mention-of": "https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/",
     "wm-property": "mention-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Didier Schonne",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/dabb23248b1a27e6831bf0f1a8235b807d4f2893ac62b06479bdd50872f0a876.png",
+      "url": "https://twitter.com/Glasfeu"
+    },
+    "url": "https://twitter.com/Glasfeu/status/1558084100581359616",
+    "published": "2022-08-12T13:32:52+00:00",
+    "wm-received": "2022-08-12T19:38:40Z",
+    "wm-id": 1457510,
+    "wm-source": "https://brid.gy/post/twitter/sebdedeyne/1558084100581359616",
+    "wm-target": "https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/",
+    "content": {
+      "html": "Pour ne pas polluer votre repo <a href=\"https://twitter.com/search?q=%23git\">#git</a> avec des règles qui ne concernent que votre config perso d'OS ou d'IDE (cf .DS_Store ou .idea).\nFaites un .gitignore perso et référencez-le :\ngit config --global core.excludesfile ~/.gitignore\n\nUn post le détaillant :\n<a href=\"https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/\">sebastiandedeyne.com/setting-up-a-g…</a>",
+      "text": "Pour ne pas polluer votre repo #git avec des règles qui ne concernent que votre config perso d'OS ou d'IDE (cf .DS_Store ou .idea).\nFaites un .gitignore perso et référencez-le :\ngit config --global core.excludesfile ~/.gitignore\n\nUn post le détaillant :\nsebastiandedeyne.com/setting-up-a-g…"
+    },
+    "mention-of": "https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/",
+    "wm-property": "mention-of",
+    "wm-private": false
   }
 ]
