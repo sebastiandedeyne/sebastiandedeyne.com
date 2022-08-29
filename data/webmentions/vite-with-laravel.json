@@ -4687,5 +4687,26 @@
     "mention-of": "https://sebastiandedeyne.com/vite-with-laravel/",
     "wm-property": "mention-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "",
+      "photo": "",
+      "url": ""
+    },
+    "url": "https://www.reddit.com/r/laravel/comments/maim61/vite_with_laravel/",
+    "published": null,
+    "wm-received": "2022-08-29T17:57:01Z",
+    "wm-id": 1499452,
+    "wm-source": "https://www.reddit.com/r/laravel/comments/maim61/vite_with_laravel/",
+    "wm-target": "https://sebastiandedeyne.com/vite-with-laravel/",
+    "mention-of": "https://sebastiandedeyne.com/vite-with-laravel/",
+    "wm-property": "mention-of",
+    "wm-private": false,
+    "rels": {
+      "canonical": "https://www.reddit.com/r/laravel/comments/maim61/vite_with_laravel/"
+    }
   }
 ]

@@ -701,5 +701,26 @@
     "mention-of": "https://sebastiandedeyne.com/a-rare-look-into-the-decision-making-process-of-a-large-project/",
     "wm-property": "mention-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "",
+      "photo": "",
+      "url": ""
+    },
+    "url": "https://www.reddit.com/r/PHP/comments/j17k50/w3c_wont_use_wordpress_for_their_next_website/",
+    "published": null,
+    "wm-received": "2022-08-29T14:32:37Z",
+    "wm-id": 1498548,
+    "wm-source": "https://www.reddit.com/r/PHP/comments/j17k50/w3c_wont_use_wordpress_for_their_next_website/",
+    "wm-target": "https://sebastiandedeyne.com/a-rare-look-into-the-decision-making-process-of-a-large-project/",
+    "mention-of": "https://sebastiandedeyne.com/a-rare-look-into-the-decision-making-process-of-a-large-project/",
+    "wm-property": "mention-of",
+    "wm-private": false,
+    "rels": {
+      "canonical": "https://www.reddit.com/r/PHP/comments/j17k50/w3c_wont_use_wordpress_for_their_next_website/"
+    }
   }
 ]
