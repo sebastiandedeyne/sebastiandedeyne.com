@@ -1050,5 +1050,26 @@
     "mention-of": "https://sebastiandedeyne.com/things-you-didnt-know-you-could-diff-in-github/",
     "wm-property": "mention-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "",
+      "photo": "",
+      "url": ""
+    },
+    "url": "https://www.reddit.com/r/programming/comments/id6o25/things_you_didnt_know_you_could_diff_in_github/",
+    "published": null,
+    "wm-received": "2022-08-28T23:13:22Z",
+    "wm-id": 1497957,
+    "wm-source": "https://www.reddit.com/r/programming/comments/id6o25/things_you_didnt_know_you_could_diff_in_github/",
+    "wm-target": "https://sebastiandedeyne.com/things-you-didnt-know-you-could-diff-in-github/",
+    "mention-of": "https://sebastiandedeyne.com/things-you-didnt-know-you-could-diff-in-github/",
+    "wm-property": "mention-of",
+    "wm-private": false,
+    "rels": {
+      "canonical": "https://www.reddit.com/r/programming/comments/id6o25/things_you_didnt_know_you_could_diff_in_github/"
+    }
   }
 ]
