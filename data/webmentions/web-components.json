@@ -128,5 +128,26 @@
     "like-of": "https://sebastiandedeyne.com/web-components/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "",
+      "photo": "",
+      "url": ""
+    },
+    "url": "https://www.reddit.com/r/javascript/comments/bin8mw/i_wrote_a_short_article_about_what_web_components/",
+    "published": null,
+    "wm-received": "2022-08-30T16:25:14Z",
+    "wm-id": 1506244,
+    "wm-source": "https://www.reddit.com/r/javascript/comments/bin8mw/i_wrote_a_short_article_about_what_web_components/",
+    "wm-target": "https://sebastiandedeyne.com/web-components",
+    "mention-of": "https://sebastiandedeyne.com/web-components",
+    "wm-property": "mention-of",
+    "wm-private": false,
+    "rels": {
+      "canonical": "https://www.reddit.com/r/javascript/comments/bin8mw/i_wrote_a_short_article_about_what_web_components/"
+    }
   }
 ]

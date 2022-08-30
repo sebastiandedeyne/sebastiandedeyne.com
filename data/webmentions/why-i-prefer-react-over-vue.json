@@ -154,5 +154,26 @@
     "mention-of": "https://sebastiandedeyne.com/why-i-prefer-react-over-vue/",
     "wm-property": "mention-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "",
+      "photo": "",
+      "url": ""
+    },
+    "url": "https://www.reddit.com/r/javascript/comments/broa79/why_sebastian_de_deyne_prefers_react_over_vue/",
+    "published": null,
+    "wm-received": "2022-08-30T16:33:01Z",
+    "wm-id": 1506290,
+    "wm-source": "https://www.reddit.com/r/javascript/comments/broa79/why_sebastian_de_deyne_prefers_react_over_vue/",
+    "wm-target": "https://sebastiandedeyne.com/why-i-prefer-react-over-vue/",
+    "mention-of": "https://sebastiandedeyne.com/why-i-prefer-react-over-vue/",
+    "wm-property": "mention-of",
+    "wm-private": false,
+    "rels": {
+      "canonical": "https://www.reddit.com/r/javascript/comments/broa79/why_sebastian_de_deyne_prefers_react_over_vue/"
+    }
   }
 ]

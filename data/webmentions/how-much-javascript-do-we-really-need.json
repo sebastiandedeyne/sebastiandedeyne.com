@@ -881,5 +881,26 @@
     "mention-of": "https://sebastiandedeyne.com/how-much-javascript-do-we-really-need/",
     "wm-property": "mention-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "",
+      "photo": "",
+      "url": ""
+    },
+    "url": "https://www.reddit.com/r/programming/comments/d94yjb/how_much_javascript_do_we_really_need/",
+    "published": null,
+    "wm-received": "2022-08-30T17:19:32Z",
+    "wm-id": 1506583,
+    "wm-source": "https://www.reddit.com/r/programming/comments/d94yjb/how_much_javascript_do_we_really_need/",
+    "wm-target": "https://sebastiandedeyne.com/how-much-javascript-do-we-really-need/",
+    "mention-of": "https://sebastiandedeyne.com/how-much-javascript-do-we-really-need/",
+    "wm-property": "mention-of",
+    "wm-private": false,
+    "rels": {
+      "canonical": "https://www.reddit.com/r/programming/comments/d94yjb/how_much_javascript_do_we_really_need/"
+    }
   }
 ]

@@ -1000,5 +1000,26 @@
     "mention-of": "https://sebastiandedeyne.com/thoughts-after-messing-around-with-the-jamstack/",
     "wm-property": "mention-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "",
+      "photo": "",
+      "url": ""
+    },
+    "url": "https://www.reddit.com/r/webdev/comments/e2wsbd/thoughts_and_doubts_after_messing_around_with_the/",
+    "published": null,
+    "wm-received": "2022-08-30T17:44:34Z",
+    "wm-id": 1506717,
+    "wm-source": "https://www.reddit.com/r/webdev/comments/e2wsbd/thoughts_and_doubts_after_messing_around_with_the/",
+    "wm-target": "https://sebastiandedeyne.com/thoughts-after-messing-around-with-the-jamstack/",
+    "mention-of": "https://sebastiandedeyne.com/thoughts-after-messing-around-with-the-jamstack/",
+    "wm-property": "mention-of",
+    "wm-private": false,
+    "rels": {
+      "canonical": "https://www.reddit.com/r/webdev/comments/e2wsbd/thoughts_and_doubts_after_messing_around_with_the/"
+    }
   }
 ]

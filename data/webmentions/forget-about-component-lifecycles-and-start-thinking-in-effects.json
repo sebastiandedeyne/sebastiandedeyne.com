@@ -1230,5 +1230,26 @@
     "mention-of": "https://sebastiandedeyne.com/forget-about-component-lifecycles-and-start-thinking-in-effects/",
     "wm-property": "mention-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "",
+      "photo": "",
+      "url": ""
+    },
+    "url": "https://www.reddit.com/r/reactjs/comments/c37ism/forget_about_component_lifecycles_and_start/",
+    "published": null,
+    "wm-received": "2022-08-30T16:43:11Z",
+    "wm-id": 1506354,
+    "wm-source": "https://www.reddit.com/r/reactjs/comments/c37ism/forget_about_component_lifecycles_and_start/",
+    "wm-target": "https://sebastiandedeyne.com/forget-about-component-lifecycles-and-start-thinking-in-effects/",
+    "mention-of": "https://sebastiandedeyne.com/forget-about-component-lifecycles-and-start-thinking-in-effects/",
+    "wm-property": "mention-of",
+    "wm-private": false,
+    "rels": {
+      "canonical": "https://www.reddit.com/r/reactjs/comments/c37ism/forget_about_component_lifecycles_and_start/"
+    }
   }
 ]

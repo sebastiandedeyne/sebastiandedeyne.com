@@ -2164,5 +2164,26 @@
     "in-reply-to": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
     "wm-property": "in-reply-to",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "",
+      "photo": "",
+      "url": ""
+    },
+    "url": "https://www.reddit.com/r/laravel/comments/d9irxf/inertiajs_and_livewire_a_high_level_comparison/",
+    "published": null,
+    "wm-received": "2022-08-30T17:19:53Z",
+    "wm-id": 1506584,
+    "wm-source": "https://www.reddit.com/r/laravel/comments/d9irxf/inertiajs_and_livewire_a_high_level_comparison/",
+    "wm-target": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "mention-of": "https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/",
+    "wm-property": "mention-of",
+    "wm-private": false,
+    "rels": {
+      "canonical": "https://www.reddit.com/r/laravel/comments/d9irxf/inertiajs_and_livewire_a_high_level_comparison/"
+    }
   }
 ]

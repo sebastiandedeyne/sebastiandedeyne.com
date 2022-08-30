@@ -677,5 +677,26 @@
     "like-of": "https://sebastiandedeyne.com/strawberry-jelly/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "",
+      "photo": "",
+      "url": ""
+    },
+    "url": "https://www.reddit.com/r/programming/comments/e8sg3a/strawberry_jelly_a_post_about_external/",
+    "published": null,
+    "wm-received": "2022-08-30T17:49:28Z",
+    "wm-id": 1506750,
+    "wm-source": "https://www.reddit.com/r/programming/comments/e8sg3a/strawberry_jelly_a_post_about_external/",
+    "wm-target": "https://sebastiandedeyne.com/strawberry-jelly/",
+    "mention-of": "https://sebastiandedeyne.com/strawberry-jelly/",
+    "wm-property": "mention-of",
+    "wm-private": false,
+    "rels": {
+      "canonical": "https://www.reddit.com/r/programming/comments/e8sg3a/strawberry_jelly_a_post_about_external/"
+    }
   }
 ]

@@ -764,5 +764,68 @@
     "mention-of": "https://sebastiandedeyne.com/react-for-vue-developers/",
     "wm-property": "mention-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "",
+      "photo": "",
+      "url": ""
+    },
+    "url": "https://www.reddit.com/r/reactjs/comments/br7yd8/react_for_vue_developers/",
+    "published": null,
+    "wm-received": "2022-08-30T16:32:37Z",
+    "wm-id": 1506287,
+    "wm-source": "https://www.reddit.com/r/reactjs/comments/br7yd8/react_for_vue_developers/",
+    "wm-target": "https://sebastiandedeyne.com/react-for-vue-developers/",
+    "mention-of": "https://sebastiandedeyne.com/react-for-vue-developers/",
+    "wm-property": "mention-of",
+    "wm-private": false,
+    "rels": {
+      "canonical": "https://www.reddit.com/r/reactjs/comments/br7yd8/react_for_vue_developers/"
+    }
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "",
+      "photo": "",
+      "url": ""
+    },
+    "url": "https://www.reddit.com/r/vuejs/comments/br7yt2/react_for_vue_developers/",
+    "published": null,
+    "wm-received": "2022-08-30T16:32:38Z",
+    "wm-id": 1506288,
+    "wm-source": "https://www.reddit.com/r/vuejs/comments/br7yt2/react_for_vue_developers/",
+    "wm-target": "https://sebastiandedeyne.com/react-for-vue-developers/",
+    "mention-of": "https://sebastiandedeyne.com/react-for-vue-developers/",
+    "wm-property": "mention-of",
+    "wm-private": false,
+    "rels": {
+      "canonical": "https://www.reddit.com/r/vuejs/comments/br7yt2/react_for_vue_developers/"
+    }
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "",
+      "photo": "",
+      "url": ""
+    },
+    "url": "https://www.reddit.com/r/webdev/comments/dnqyz0/react_for_vue_developers/",
+    "published": null,
+    "wm-received": "2022-08-30T17:31:53Z",
+    "wm-id": 1506645,
+    "wm-source": "https://www.reddit.com/r/webdev/comments/dnqyz0/react_for_vue_developers/",
+    "wm-target": "https://sebastiandedeyne.com/react-for-vue-developers/",
+    "mention-of": "https://sebastiandedeyne.com/react-for-vue-developers/",
+    "wm-property": "mention-of",
+    "wm-private": false,
+    "rels": {
+      "canonical": "https://www.reddit.com/r/webdev/comments/dnqyz0/react_for_vue_developers/"
+    }
   }
 ]
