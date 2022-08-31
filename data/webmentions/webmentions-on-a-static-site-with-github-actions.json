@@ -448,5 +448,47 @@
     "mention-of": "https://sebastiandedeyne.com/webmentions-on-a-static-site-with-github-actions/",
     "wm-property": "mention-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "",
+      "photo": "",
+      "url": ""
+    },
+    "url": "https://www.reddit.com/r/gohugo/comments/fpu3j1/adding_webmentions_to_a_hugo_site_with_github/",
+    "published": null,
+    "wm-received": "2022-08-30T18:36:22Z",
+    "wm-id": 1507134,
+    "wm-source": "https://www.reddit.com/r/gohugo/comments/fpu3j1/adding_webmentions_to_a_hugo_site_with_github/",
+    "wm-target": "https://sebastiandedeyne.com/webmentions-on-a-static-site-with-github-actions/",
+    "mention-of": "https://sebastiandedeyne.com/webmentions-on-a-static-site-with-github-actions/",
+    "wm-property": "mention-of",
+    "wm-private": false,
+    "rels": {
+      "canonical": "https://www.reddit.com/r/gohugo/comments/fpu3j1/adding_webmentions_to_a_hugo_site_with_github/"
+    }
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "",
+      "photo": "",
+      "url": ""
+    },
+    "url": "https://www.reddit.com/r/webdev/comments/fpu6xj/webmentions_on_a_static_site_with_github_actions/",
+    "published": null,
+    "wm-received": "2022-08-30T18:36:24Z",
+    "wm-id": 1507135,
+    "wm-source": "https://www.reddit.com/r/webdev/comments/fpu6xj/webmentions_on_a_static_site_with_github_actions/",
+    "wm-target": "https://sebastiandedeyne.com/webmentions-on-a-static-site-with-github-actions/",
+    "mention-of": "https://sebastiandedeyne.com/webmentions-on-a-static-site-with-github-actions/",
+    "wm-property": "mention-of",
+    "wm-private": false,
+    "rels": {
+      "canonical": "https://www.reddit.com/r/webdev/comments/fpu6xj/webmentions_on_a_static_site_with_github_actions/"
+    }
   }
 ]
