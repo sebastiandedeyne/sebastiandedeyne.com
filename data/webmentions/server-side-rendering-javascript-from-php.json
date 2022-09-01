@@ -1,0 +1,24 @@
+[
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "JLarky",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/bf98f485ffdd07024562da2c6e255d4ef88e4ad603ad76023b7ea8eeb6b4f60f.png",
+      "url": "https://twitter.com/JLarky"
+    },
+    "url": "https://twitter.com/JLarky/status/1565216262648541185",
+    "published": "2022-09-01T05:53:31+00:00",
+    "wm-received": "2022-09-01T09:58:34Z",
+    "wm-id": 1508618,
+    "wm-source": "https://brid.gy/comment/twitter/sebdedeyne/1565216262648541185/1565216262648541185",
+    "wm-target": "https://sebastiandedeyne.com/server-side-rendering-javascript-from-php/",
+    "content": {
+      "html": "Since I don't remember PHP anymore, thanks to <a href=\"https://stackoverflow.com/a/23740549/74167\">stackoverflow.com/a/23740549/741…</a> for the snippet. Also if you want pre-rendering in JS frameworks feel a bit less special, check out this article :) <a href=\"https://sebastiandedeyne.com/server-side-rendering-javascript-from-php/\">sebastiandedeyne.com/server-side-re…</a>",
+      "text": "Since I don't remember PHP anymore, thanks to stackoverflow.com/a/23740549/741… for the snippet. Also if you want pre-rendering in JS frameworks feel a bit less special, check out this article :) sebastiandedeyne.com/server-side-re…"
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/server-side-rendering-javascript-from-php/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  }
+]
