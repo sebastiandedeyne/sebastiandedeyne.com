@@ -3936,5 +3936,27 @@
     "mention-of": "https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/",
     "wm-property": "mention-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "subzey",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/5dbab1260d64ded819e6a36720b26a72aa9944b30bfe723c0c4fcfae57abb813.png",
+      "url": "https://twitter.com/subzey"
+    },
+    "url": "https://twitter.com/subzey/status/1565663636038770692",
+    "published": "2022-09-02T11:31:14+00:00",
+    "wm-received": "2022-09-02T11:36:47Z",
+    "wm-id": 1509656,
+    "wm-source": "https://brid.gy/comment/twitter/sebdedeyne/1565663636038770692/1565663636038770692",
+    "wm-target": "https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/",
+    "content": {
+      "html": "Можно всю эту гомну забанить глобально - через ~/.gitignore\n<a href=\"https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/\">sebastiandedeyne.com/setting-up-a-g…</a>\n(Гит тоже писал Линус, и там тоже \"настраивается всё, и ты будешь это всё настраивать\")\n<a class=\"u-mention\" href=\"https://twitter.com/technosham\"></a>",
+      "text": "Можно всю эту гомну забанить глобально - через ~/.gitignore\nsebastiandedeyne.com/setting-up-a-g…\n(Гит тоже писал Линус, и там тоже \"настраивается всё, и ты будешь это всё настраивать\")"
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
   }
 ]
