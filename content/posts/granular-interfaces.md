@@ -3,7 +3,7 @@ title: "Granular interfaces"
 slug: granular-interfaces
 date: 2022-09-05
 categories: ["articles"]
-image: /media/granular-interfaces.jpg
+image: /media/granular-interfaces.png
 keywords:
   - Programming
   - PHP
