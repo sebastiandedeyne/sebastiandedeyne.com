@@ -9,7 +9,7 @@
   <meta property="og:locale" content="en_US" />
   <meta property="og:url" content="{{ .Permalink }}" />
   {{ with .Params.image }}
-    <meta property="og:image" content="{{ . }}" />
+    <meta property="og:image" content="{{ . | absURL }}" />
   {{ else }}
     <meta property="og:image" content="https://sebastiandedeyne.com/media/me.jpg" />
   {{ end }}
