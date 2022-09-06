@@ -36,6 +36,8 @@
         </time>
         {{ with .Params.link }}
           ∙ <a href="{{ . }}" class="markup-link">{{ (urls.Parse .).Host }}</a>
+        {{ else }}
+          ∙ by <a href="/">Sebastian De Deyne</a>
         {{ end }}
       </p>
     </header>
@@ -80,5 +82,4 @@
       {{ end }}
     </section>
   </article>
-  <p class="cta">If you enjoyed this post, you might be interested in my <a href="/newsletter">newsletter</a>. I occasionally send a dispatch with personal stories, things I’ve been working on in the past month, and other interesting tidbits I come across online.</p>
 {{ end }}

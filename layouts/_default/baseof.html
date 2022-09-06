@@ -54,45 +54,38 @@
     {{ end }}
   </head>
   <body>
-    <header class="header">
-      <div class="wrap">
-        <div class="header-grid">
-          <strong>
-            <a href="/">Sebastian De Deyne</a>
-            <br> <span>Designer & developer at Spatie</span>
-          </strong>
-          <nav>
-            <ul>
-              <li class="{{ cond (ne (in (slice "/uses/" "/newsletter/") .RelPermalink) true) "active" "" }}">
-                <a href="/">Blog</a>
-              </li>
-            </ul>
-          </nav>
-          <nav>
-            <ul>
-              <li class="{{ cond (eq .RelPermalink "/uses/") "active" "" }}">
-                <a href="/uses">Uses</a>
-              </li>
-              <li class="{{ cond (eq .RelPermalink "/newsletter/") "active" "" }}">
-                <a href="/newsletter">Newsletter</a>
-              </li>
-            </ul>
-          </nav>
-          <nav>
-            <ul>
-              <li><a href="/index.xml">RSS ↗</a></li>
-              <li><a href="https://twitter.com/sebdedeyne" rel="me">Twitter ↗</a></li>
-            </ul>
-          </nav>
+    <div class="layout">
+      <main class="main">
+        <div class="wrap">
+          {{ block "main" . }}{{ end }}
         </div>
-      </div>
-    </header>
-
-    <main class="content">
-      <div class="wrap">
-        {{ block "main" . }}{{ end }}
-      </div>
-    </main>
+      </main>
+      <footer class="footer">
+        <strong>
+          <a href="/">Sebastian De Deyne</a>
+          <br> <span>Designer & developer at Spatie</span>
+        </strong>
+        <nav class="footer-nav">
+          <ul>
+            <li class="{{ cond (ne (in (slice "/uses/" "/newsletter/") .RelPermalink) true) "active" "" }}">
+              <a href="/">Blog</a>
+            </li>
+          </ul>
+          <ul>
+            <li class="{{ cond (eq .RelPermalink "/uses/") "active" "" }}">
+              <a href="/uses">Uses</a>
+            </li>
+            <li class="{{ cond (eq .RelPermalink "/newsletter/") "active" "" }}">
+              <a href="/newsletter">Newsletter</a>
+            </li>
+          </ul>
+          <ul>
+            <li><a href="/index.xml">RSS ↗</a></li>
+            <li><a href="https://twitter.com/sebdedeyne" rel="me">Twitter ↗</a></li>
+          </ul>
+        </nav>
+      </footer>
+    </div>
 
     {{ with resources.Get "css/chroma.css" | minify }}
       <style>{{ .Content | safeCSS }}</style>
