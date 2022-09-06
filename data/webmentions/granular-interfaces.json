@@ -921,5 +921,191 @@
     "in-reply-to": "https://sebastiandedeyne.com/granular-interfaces/",
     "wm-property": "in-reply-to",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Minh Nhat",
+      "photo": "https://webmention.io/avatar/abs.twimg.com/0e6b2cd70aa5b35dec24ca4e1e63f8963f0118736d9ec3bba77e3a8c99a27bc2.png",
+      "url": "https://twitter.com/minhnhat10bk"
+    },
+    "url": "https://twitter.com/minhnhat10bk/status/1567034610361729024",
+    "published": "2022-09-06T06:18:59+00:00",
+    "wm-received": "2022-09-06T06:27:54Z",
+    "wm-id": 1511673,
+    "wm-source": "https://brid.gy/repost/twitter/sebdedeyne/1566790498722930694/1567034610361729024",
+    "wm-target": "https://sebastiandedeyne.com/granular-interfaces/",
+    "content": {
+      "text": "Granular interfaces make a codebase more flexible and easier to understand. I shared some thoughts on implementing small interfaces on classes in PHP.\n\nsebastiandedeyne.com/granular-inter…"
+    },
+    "repost-of": "https://sebastiandedeyne.com/granular-interfaces/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Leonel Elimpe",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/810e18c21a28b15ba522944602c87baf52393e5df7504ac4884093bf210797d3.jpg",
+      "url": "https://twitter.com/leonelngande"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1566790498722930694#favorited-by-270438578",
+    "published": null,
+    "wm-received": "2022-09-06T07:07:24Z",
+    "wm-id": 1511683,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1566790498722930694/270438578",
+    "wm-target": "https://sebastiandedeyne.com/granular-interfaces/",
+    "like-of": "https://sebastiandedeyne.com/granular-interfaces/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Sergey Panteleev",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/2961083efc46a6bfe2e3e3556ca4e14cf9c70109203abdb524dd5c03812c8d5f.png",
+      "url": "https://twitter.com/s_panteleev"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1566790498722930694#favorited-by-399656217",
+    "published": null,
+    "wm-received": "2022-09-06T07:07:28Z",
+    "wm-id": 1511684,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1566790498722930694/399656217",
+    "wm-target": "https://sebastiandedeyne.com/granular-interfaces/",
+    "like-of": "https://sebastiandedeyne.com/granular-interfaces/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Gilbert Pellegrom 🍋",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/99b9671314197083bc70b4d867a0879311043529486da6b74610f31bb61a3af1.jpg",
+      "url": "https://twitter.com/gilbitron"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1566790498722930694#favorited-by-14420887",
+    "published": null,
+    "wm-received": "2022-09-06T07:49:57Z",
+    "wm-id": 1511697,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1566790498722930694/14420887",
+    "wm-target": "https://sebastiandedeyne.com/granular-interfaces/",
+    "like-of": "https://sebastiandedeyne.com/granular-interfaces/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "initial commit",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/082b622b43e5ac41cd92f14a767da57eeb1316b25e96b2a24535ac842d26c77a.jpg",
+      "url": "https://twitter.com/krismawan_riki"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1566790498722930694#favorited-by-1701532010",
+    "published": null,
+    "wm-received": "2022-09-06T08:28:01Z",
+    "wm-id": 1511706,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1566790498722930694/1701532010",
+    "wm-target": "https://sebastiandedeyne.com/granular-interfaces/",
+    "like-of": "https://sebastiandedeyne.com/granular-interfaces/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "exakat, static analysis for PHP",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/c77a87331f2d5518c7109012fbee7d6c670eef651e9b4682c218d39048dd3d4d.png",
+      "url": "https://twitter.com/exakat"
+    },
+    "url": "https://twitter.com/exakat/status/1567072346049024001",
+    "published": "2022-09-06T08:48:56+00:00",
+    "wm-received": "2022-09-06T08:59:49Z",
+    "wm-id": 1511726,
+    "wm-source": "https://brid.gy/repost/twitter/sebdedeyne/1566790498722930694/1567072346049024001",
+    "wm-target": "https://sebastiandedeyne.com/granular-interfaces/",
+    "content": {
+      "text": "Granular interfaces make a codebase more flexible and easier to understand. I shared some thoughts on implementing small interfaces on classes in PHP.\n\nsebastiandedeyne.com/granular-inter…"
+    },
+    "repost-of": "https://sebastiandedeyne.com/granular-interfaces/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Pedro Abrunhosa",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/7fcb2ca004cd1ca1f55821716f63503d19227c90552bfacb500116cf902cb183.jpg",
+      "url": "https://twitter.com/ABROfficialcsgo"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1566790498722930694#favorited-by-1113014509",
+    "published": null,
+    "wm-received": "2022-09-06T10:01:58Z",
+    "wm-id": 1511747,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1566790498722930694/1113014509",
+    "wm-target": "https://sebastiandedeyne.com/granular-interfaces/",
+    "like-of": "https://sebastiandedeyne.com/granular-interfaces/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Guilherme Augusto 🥕",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/456f4b4f423945dc56cb06ad876f6654d31ecce270b94c4ec2b3e82855f65c7c.jpg",
+      "url": "https://twitter.com/_seunoura"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1566790498722930694#favorited-by-41183813",
+    "published": null,
+    "wm-received": "2022-09-06T10:29:56Z",
+    "wm-id": 1511809,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1566790498722930694/41183813",
+    "wm-target": "https://sebastiandedeyne.com/granular-interfaces/",
+    "like-of": "https://sebastiandedeyne.com/granular-interfaces/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "SOEDJEDE Felix",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/4284fde3e0305e6111b1d72fd48a585b58093a18e162e2b05ea3bc4d0b809070.jpg",
+      "url": "https://twitter.com/fsoedjede"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1566790498722930694#favorited-by-249114008",
+    "published": null,
+    "wm-received": "2022-09-06T10:29:57Z",
+    "wm-id": 1511810,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1566790498722930694/249114008",
+    "wm-target": "https://sebastiandedeyne.com/granular-interfaces/",
+    "like-of": "https://sebastiandedeyne.com/granular-interfaces/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Paul Max",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/3cc7844e14cb0e1c5d98c6e7127732a604059f1cdad49399638fabbdd3d34ff2.jpg",
+      "url": "https://twitter.com/paulmax_os"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1566790498722930694#favorited-by-1503475214881013760",
+    "published": null,
+    "wm-received": "2022-09-06T11:19:50Z",
+    "wm-id": 1511854,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1566790498722930694/1503475214881013760",
+    "wm-target": "https://sebastiandedeyne.com/granular-interfaces/",
+    "like-of": "https://sebastiandedeyne.com/granular-interfaces/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
