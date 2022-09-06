@@ -1107,5 +1107,59 @@
     "like-of": "https://sebastiandedeyne.com/granular-interfaces/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Stefan Zweifel 🦦",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/3b772e9239dfd15ce8527f90edd45d0678849d57b28725cc69f929bb4f11cf06.jpg",
+      "url": "https://twitter.com/_stefanzweifel"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1566790498722930694#favorited-by-76577495",
+    "published": null,
+    "wm-received": "2022-09-06T13:17:44Z",
+    "wm-id": 1511930,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1566790498722930694/76577495",
+    "wm-target": "https://sebastiandedeyne.com/granular-interfaces/",
+    "like-of": "https://sebastiandedeyne.com/granular-interfaces/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Son of a Tailor",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/c784f448f05f72171d1cb225661a006a7802c2d612f4df93717e9ff4881f147d.jpg",
+      "url": "https://twitter.com/sonofatailor"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1566790498722930694#favorited-by-1670452550",
+    "published": null,
+    "wm-received": "2022-09-06T13:58:11Z",
+    "wm-id": 1511950,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1566790498722930694/1670452550",
+    "wm-target": "https://sebastiandedeyne.com/granular-interfaces/",
+    "like-of": "https://sebastiandedeyne.com/granular-interfaces/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "JOHN DOE",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/92341ddd09b9cff5f82be68b91dd01a0e83a56452eda6151f038aad56f0ac08f.jpg",
+      "url": "https://twitter.com/Drux_One"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1566790498722930694#favorited-by-177782317",
+    "published": null,
+    "wm-received": "2022-09-06T17:41:28Z",
+    "wm-id": 1512080,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1566790498722930694/177782317",
+    "wm-target": "https://sebastiandedeyne.com/granular-interfaces/",
+    "like-of": "https://sebastiandedeyne.com/granular-interfaces/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
