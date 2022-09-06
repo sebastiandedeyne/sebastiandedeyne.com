@@ -845,5 +845,81 @@
     "like-of": "https://sebastiandedeyne.com/granular-interfaces/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Big Codes Nation",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/b76b38c89ef935df08ce22f1ed70bce5b436f62db3c185ba8f45dcfc8b34aac7.jpg",
+      "url": "https://twitter.com/OilmoneDev"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1566790498722930694#favorited-by-3025559471",
+    "published": null,
+    "wm-received": "2022-09-06T00:32:48Z",
+    "wm-id": 1511432,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1566790498722930694/3025559471",
+    "wm-target": "https://sebastiandedeyne.com/granular-interfaces/",
+    "like-of": "https://sebastiandedeyne.com/granular-interfaces/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "OSC",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/fa1c47be3fd486d4fd293af18b3dcd43892a157e018fe9e13e1694f8c1dddd5d.jpg",
+      "url": "https://twitter.com/bromar_san"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1566790498722930694#favorited-by-41193411",
+    "published": null,
+    "wm-received": "2022-09-06T02:45:19Z",
+    "wm-id": 1511535,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1566790498722930694/41193411",
+    "wm-target": "https://sebastiandedeyne.com/granular-interfaces/",
+    "like-of": "https://sebastiandedeyne.com/granular-interfaces/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Qazi Hamayun",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/7a77c4e759f783aafc6cdbf909196cb804457a88a06ac85c758666be682458c0.jpg",
+      "url": "https://twitter.com/qazihamayun"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1566790498722930694#favorited-by-74371266",
+    "published": null,
+    "wm-received": "2022-09-06T04:10:31Z",
+    "wm-id": 1511583,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1566790498722930694/74371266",
+    "wm-target": "https://sebastiandedeyne.com/granular-interfaces/",
+    "like-of": "https://sebastiandedeyne.com/granular-interfaces/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Victor Dauchy",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/76c7366977f8d88e3c267e712dc372578084563960eb04424dcabdf8cb07ee36.jpg",
+      "url": "https://twitter.com/v_dauchy"
+    },
+    "url": "https://twitter.com/v_dauchy/status/1566867230440169472",
+    "published": "2022-09-05T19:13:53+00:00",
+    "wm-received": "2022-09-06T05:59:20Z",
+    "wm-id": 1511653,
+    "wm-source": "https://brid.gy/comment/twitter/sebdedeyne/1566790498722930694/1566867230440169472",
+    "wm-target": "https://sebastiandedeyne.com/granular-interfaces/",
+    "content": {
+      "html": "I suppose this can be referenced as I.S.P ? <a href=\"https://en.wikipedia.org/wiki/Interface_segregation_principle\">en.wikipedia.org/wiki/Interface…</a>\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/sebdedeyne\"></a>",
+      "text": "I suppose this can be referenced as I.S.P ? en.wikipedia.org/wiki/Interface…"
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/granular-interfaces/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
   }
 ]
