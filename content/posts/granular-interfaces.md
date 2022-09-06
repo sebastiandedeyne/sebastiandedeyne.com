@@ -74,8 +74,8 @@ foreach ($order->items as $orderItem) {
         createRegistration($cartItem->purchasable);
     }
 
-    if ($orderItem->product instanceof CreatesRegistrations) {
-        foreach ($orderItem->product->createsRegistrationsFor() as $registrable) {
+    if ($orderItem->purchasable instanceof CreatesRegistrations) {
+        foreach ($orderItem->purchasable->createsRegistrationsFor() as $registrable) {
             createRegistration($registrable);
         }
     }
@@ -108,6 +108,10 @@ foreach ($order->items as $orderItem) {
 }
 ```
 
-After refactoring to a more granular interface, our system is became flexible and composable. Small interfaces communicate intent more clearly, making it easier to understand the flow of a system.
+After refactoring to a granular interface, our system became more flexible and composable. Small interfaces communicate intent more clearly, making it easier to understand the flow of a system.
 
 That doesn't mean we should be paralyzed to find the perfect abstraction before we start. We only realized our interface wasn't granular enough after it grew out of its original use case. As a system evolves, abstractions should arise from current needs, not future possibilities.
+
+---
+
+As mentioned on [Twitter](https://twitter.com/v_dauchy/status/1566867230440169472), this guideline is formalized in the "I" in SOLID: the [interface segregation principle](https://en.wikipedia.org/wiki/Interface_segregation_principle).
