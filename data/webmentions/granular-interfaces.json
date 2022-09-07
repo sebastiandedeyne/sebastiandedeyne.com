@@ -1161,5 +1161,23 @@
     "like-of": "https://sebastiandedeyne.com/granular-interfaces/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Márlon Etiene | System Engineer",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/6a507b870194860210d65288252df9bbe86d535bfa4831cffb5495ed413c310e.jpg",
+      "url": "https://twitter.com/marlon_etiene"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1566790498722930694#favorited-by-75590827",
+    "published": null,
+    "wm-received": "2022-09-06T19:56:00Z",
+    "wm-id": 1512156,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1566790498722930694/75590827",
+    "wm-target": "https://sebastiandedeyne.com/granular-interfaces/",
+    "like-of": "https://sebastiandedeyne.com/granular-interfaces/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
