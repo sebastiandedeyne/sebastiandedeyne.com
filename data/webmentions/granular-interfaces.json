@@ -1179,5 +1179,101 @@
     "like-of": "https://sebastiandedeyne.com/granular-interfaces/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Povilas Korop | Laravel Courses Creator & Youtuber",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/5ef95e2bf27465cf77bc96ca2c33c6521a1cab328489700b8dd92b386563b318.jpg",
+      "url": "https://twitter.com/PovilasKorop"
+    },
+    "url": "https://twitter.com/PovilasKorop/status/1567477279575384066",
+    "published": "2022-09-07T11:38:00+00:00",
+    "wm-received": "2022-09-07T12:06:51Z",
+    "wm-id": 1512805,
+    "wm-source": "https://brid.gy/repost/twitter/sebdedeyne/1566790498722930694/1567477279575384066",
+    "wm-target": "https://sebastiandedeyne.com/granular-interfaces/",
+    "content": {
+      "text": "Granular interfaces make a codebase more flexible and easier to understand. I shared some thoughts on implementing small interfaces on classes in PHP.\n\nsebastiandedeyne.com/granular-inter…"
+    },
+    "repost-of": "https://sebastiandedeyne.com/granular-interfaces/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Seba Ramírez Pastore",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/e89f3d60d37f9d59b3910f8fae4026ba95c093b5a3e436fd7b90c0ded339e198.jpg",
+      "url": "https://twitter.com/sebapastore"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1566790498722930694#favorited-by-2189166180",
+    "published": null,
+    "wm-received": "2022-09-07T12:07:21Z",
+    "wm-id": 1512806,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1566790498722930694/2189166180",
+    "wm-target": "https://sebastiandedeyne.com/granular-interfaces/",
+    "like-of": "https://sebastiandedeyne.com/granular-interfaces/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "MarcoDM",
+      "photo": "https://webmention.io/avatar/abs.twimg.com/0e6b2cd70aa5b35dec24ca4e1e63f8963f0118736d9ec3bba77e3a8c99a27bc2.png",
+      "url": "https://twitter.com/m_demori"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1566790498722930694#favorited-by-43379035",
+    "published": null,
+    "wm-received": "2022-09-07T12:07:21Z",
+    "wm-id": 1512807,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1566790498722930694/43379035",
+    "wm-target": "https://sebastiandedeyne.com/granular-interfaces/",
+    "like-of": "https://sebastiandedeyne.com/granular-interfaces/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Daryl Legion ⚡",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/487308613259cc6679b2223755e1184359c8efe8089d681fdfa4edfee7bced0e.jpg",
+      "url": "https://twitter.com/Annevigoss"
+    },
+    "url": "https://twitter.com/Annevigoss/status/1567503376287694850",
+    "published": "2022-09-07T13:21:42+00:00",
+    "wm-received": "2022-09-07T14:47:43Z",
+    "wm-id": 1512874,
+    "wm-source": "https://brid.gy/repost/twitter/sebdedeyne/1566790498722930694/1567503376287694850",
+    "wm-target": "https://sebastiandedeyne.com/granular-interfaces/",
+    "content": {
+      "text": "Granular interfaces make a codebase more flexible and easier to understand. I shared some thoughts on implementing small interfaces on classes in PHP.\n\nsebastiandedeyne.com/granular-inter…"
+    },
+    "repost-of": "https://sebastiandedeyne.com/granular-interfaces/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Daryl Legion ⚡",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/487308613259cc6679b2223755e1184359c8efe8089d681fdfa4edfee7bced0e.jpg",
+      "url": "https://twitter.com/Annevigoss"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1566790498722930694#favorited-by-2788301381",
+    "published": null,
+    "wm-received": "2022-09-07T14:48:13Z",
+    "wm-id": 1512875,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1566790498722930694/2788301381",
+    "wm-target": "https://sebastiandedeyne.com/granular-interfaces/",
+    "like-of": "https://sebastiandedeyne.com/granular-interfaces/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
