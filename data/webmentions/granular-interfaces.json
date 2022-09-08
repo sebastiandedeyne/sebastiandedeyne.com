@@ -1275,5 +1275,23 @@
     "like-of": "https://sebastiandedeyne.com/granular-interfaces/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Canvas Craft Media",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/311e0f3d9cc07de10576ff46316f9da3f00450337597ccc1ec2bff2b1a03296d.jpg",
+      "url": "https://twitter.com/CanvasCraftM"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1566790498722930694#favorited-by-1463096811548151810",
+    "published": null,
+    "wm-received": "2022-09-08T07:06:51Z",
+    "wm-id": 1513740,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1566790498722930694/1463096811548151810",
+    "wm-target": "https://sebastiandedeyne.com/granular-interfaces/",
+    "like-of": "https://sebastiandedeyne.com/granular-interfaces/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
