@@ -1314,5 +1314,23 @@
     "repost-of": "https://sebastiandedeyne.com/granular-interfaces/",
     "wm-property": "repost-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Roman Pronskiy",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/9373f62b650e88f9265f5742739d93f3fbaa1f7d60d8593c694c25821996528e.png",
+      "url": "https://twitter.com/pronskiy"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1566790498722930694#favorited-by-156592964",
+    "published": null,
+    "wm-received": "2022-09-09T10:22:22Z",
+    "wm-id": 1515039,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1566790498722930694/156592964",
+    "wm-target": "https://sebastiandedeyne.com/granular-interfaces/",
+    "like-of": "https://sebastiandedeyne.com/granular-interfaces/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
