@@ -1293,5 +1293,26 @@
     "like-of": "https://sebastiandedeyne.com/granular-interfaces/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Jamiul Alam",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/3a114571442ebbd6b24b395a2265c22022f7f0af803afa90f833f9c62c2fa19a.jpg",
+      "url": "https://twitter.com/jamiul_alam"
+    },
+    "url": "https://twitter.com/jamiul_alam/status/1568047049878437889",
+    "published": "2022-09-09T01:22:04+00:00",
+    "wm-received": "2022-09-09T02:00:58Z",
+    "wm-id": 1514753,
+    "wm-source": "https://brid.gy/repost/twitter/sebdedeyne/1566790498722930694/1568047049878437889",
+    "wm-target": "https://sebastiandedeyne.com/granular-interfaces/",
+    "content": {
+      "text": "Granular interfaces make a codebase more flexible and easier to understand. I shared some thoughts on implementing small interfaces on classes in PHP.\n\nsebastiandedeyne.com/granular-inter…"
+    },
+    "repost-of": "https://sebastiandedeyne.com/granular-interfaces/",
+    "wm-property": "repost-of",
+    "wm-private": false
   }
 ]
