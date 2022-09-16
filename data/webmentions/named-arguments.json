@@ -1,0 +1,24 @@
+[
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Brent",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/0cca3f7343bc0976f3b56d050dab928e115b3f2592238788f78ed9de9bd4ed54.jpg",
+      "url": "https://twitter.com/brendt_gd"
+    },
+    "url": "https://twitter.com/brendt_gd/status/1570632798150742023",
+    "published": "2022-09-16T04:36:54+00:00",
+    "wm-received": "2022-09-16T04:40:51Z",
+    "wm-id": 1519883,
+    "wm-source": "https://brid.gy/post/twitter/sebdedeyne/1570632798150742023",
+    "wm-target": "https://sebastiandedeyne.com/named-arguments/",
+    "content": {
+      "html": "Some appreciation for named arguments! <a href=\"https://sebastiandedeyne.com/named-arguments/\">sebastiandedeyne.com/named-argument…</a>",
+      "text": "Some appreciation for named arguments! sebastiandedeyne.com/named-argument…"
+    },
+    "mention-of": "https://sebastiandedeyne.com/named-arguments/",
+    "wm-property": "mention-of",
+    "wm-private": false
+  }
+]
