@@ -1332,5 +1332,27 @@
     "like-of": "https://sebastiandedeyne.com/granular-interfaces/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Freek Van der Herten 🔭",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/7e8dd0e1ba6465a08a5665fc81c5dbae4530b088baaccff0f9b1f385d04a4e57.jpg",
+      "url": "https://twitter.com/freekmurze"
+    },
+    "url": "https://twitter.com/freekmurze/status/1570703068571869184",
+    "published": "2022-09-16T09:16:08+00:00",
+    "wm-received": "2022-09-16T09:38:59Z",
+    "wm-id": 1519999,
+    "wm-source": "https://brid.gy/post/twitter/sebdedeyne/1570703068571869184",
+    "wm-target": "https://sebastiandedeyne.com/granular-interfaces/",
+    "content": {
+      "html": "🔗 Granular interfaces\n<a href=\"https://sebastiandedeyne.com/granular-interfaces/\">sebastiandedeyne.com/granular-inter…</a>\n<a href=\"https://twitter.com/search?q=%23php\">#php</a> <a href=\"https://twitter.com/search?q=%23bestpractices\">#bestpractices</a>",
+      "text": "🔗 Granular interfaces\nsebastiandedeyne.com/granular-inter…\n#php #bestpractices"
+    },
+    "mention-of": "https://sebastiandedeyne.com/granular-interfaces/",
+    "wm-property": "mention-of",
+    "wm-private": false
   }
 ]
