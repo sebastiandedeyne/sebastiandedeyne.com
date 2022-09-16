@@ -62,5 +62,30 @@
     "rels": {
       "canonical": "https://lordmatt.co.uk/technology/the-internet/all-the-active-indieweb-sites-i-have-found-so-far-june-2022/"
     }
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Larachat Slack",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/30189dede5b1981e65c257bec8fdba1259a2d1ae52478fae5f21ce3a646cbbde.png",
+      "url": "https://twitter.com/larachatslack"
+    },
+    "url": "https://twitter.com/larachatslack/status/1570504503778226176",
+    "published": "2022-09-15T20:07:06+00:00",
+    "wm-received": "2022-09-15T20:07:54Z",
+    "wm-id": 1519622,
+    "wm-source": "https://brid.gy/post/twitter/sebdedeyne/1570504503778226176",
+    "wm-target": "https://sebastiandedeyne.com/",
+    "photo": [
+      "https://pbs.twimg.com/media/FcuNhcXakAAj_JF.jpg"
+    ],
+    "content": {
+      "html": "Named arguments: Named arguments September 15, 2022 ∙ by <a href=\"https://sebastiandedeyne.com/\">sebastiandedeyne.com</a> Look at this code, I have no idea what false, false, true conveys. $page-&gt;render(false, false, true); A pattern I often see in... <a href=\"https://larachat.co/articles/named-arguments\">larachat.co/articles/named…</a> <a href=\"http://dlvr.it/SYPHgm\">dlvr.it/SYPHgm</a>",
+      "text": "Named arguments: Named arguments September 15, 2022 ∙ by sebastiandedeyne.com Look at this code, I have no idea what false, false, true conveys. $page->render(false, false, true); A pattern I often see in... larachat.co/articles/named… dlvr.it/SYPHgm"
+    },
+    "mention-of": "https://sebastiandedeyne.com/",
+    "wm-property": "mention-of",
+    "wm-private": false
   }
 ]
