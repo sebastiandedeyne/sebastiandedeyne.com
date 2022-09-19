@@ -20,5 +20,27 @@
     "mention-of": "https://sebastiandedeyne.com/named-arguments/",
     "wm-property": "mention-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Freek Van der Herten 🔭",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/7e8dd0e1ba6465a08a5665fc81c5dbae4530b088baaccff0f9b1f385d04a4e57.jpg",
+      "url": "https://twitter.com/freekmurze"
+    },
+    "url": "https://twitter.com/freekmurze/status/1571578588280889352",
+    "published": "2022-09-18T19:15:08+00:00",
+    "wm-received": "2022-09-18T19:30:49Z",
+    "wm-id": 1522180,
+    "wm-source": "https://brid.gy/post/twitter/sebdedeyne/1571578588280889352",
+    "wm-target": "https://sebastiandedeyne.com/named-arguments/",
+    "content": {
+      "html": "🔗 Named arguments\n<a href=\"https://sebastiandedeyne.com/named-arguments/\">sebastiandedeyne.com/named-argument…</a>\n<a href=\"https://twitter.com/search?q=%23php\">#php</a>",
+      "text": "🔗 Named arguments\nsebastiandedeyne.com/named-argument…\n#php"
+    },
+    "mention-of": "https://sebastiandedeyne.com/named-arguments/",
+    "wm-property": "mention-of",
+    "wm-private": false
   }
 ]
