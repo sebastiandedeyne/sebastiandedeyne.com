@@ -27,7 +27,7 @@
 {{ end }}
 
 {{ define "main" }}
-  <article class="post">
+  <article>
     <header>
       <h1>{{ .Title }}</h1>
       <p>
@@ -35,30 +35,22 @@
           {{ .Date.Format "January 2, 2006" }}
         </time>
         {{ with .Params.link }}
-          ∙ <a href="{{ . }}" class="markup-link">{{ (urls.Parse .).Host }}</a>
-        {{ else }}
-          ∙ by <a href="/">Sebastian De Deyne</a>
+          ∙ <a href="{{ . }}">{{ (urls.Parse .).Host }}</a>
         {{ end }}
       </p>
     </header>
     <section>
       {{ if .Truncated }}
-        <div class="markup">
-          {{ .Summary }}
-        </div>
+        {{ .Summary }}
         {{ if .Params.toc }}
           <nav class="toc">
             <h2>In this post</h2>
             {{ .TableOfContents }}
           </nav>
         {{ end }}
-        <div class="markup">
-          {{ safeHTML (replace .Content .Summary "") }}
-        </div>
+        {{ safeHTML (replace .Content .Summary "") }}
       {{ else }}
-        <div class="markup">
-          {{ .Content }}
-        </div>
+        {{ .Content }}
       {{ end }}
       {{ if .Params.series }}
         {{ with index $.Site.Data.series .Params.series }}

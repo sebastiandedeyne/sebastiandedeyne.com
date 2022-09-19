@@ -23,7 +23,8 @@
     <link rel="webmention" href="https://webmention.io/sebastiandedeyne.com/webmention" />
     <link rel="pingback" href="https://webmention.io/sebastiandedeyne.com/xmlrpc" />
 
-    <link rel="stylesheet" type="text/css" href="/fonts/fonts.css">
+    <link rel="preconnect" href="https://fonts.bunny.net">
+    <link href="https://fonts.bunny.net/css?family=inconsolata:400,700|karla:200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i" rel="stylesheet" />
     {{ with resources.Get "css/reset.css" | minify }}
       <style>{{ .Content | safeCSS }}</style>
     {{ end }}
@@ -54,39 +55,21 @@
     {{ end }}
   </head>
   <body>
-    <div class="layout">
-      <main class="main">
-        <div class="wrap">
-          {{ block "main" . }}{{ end }}
-        </div>
-      </main>
-      <footer class="footer">
-        <strong>
-          <a href="/">Sebastian De Deyne</a>
-          <br> <span>Designer & developer at Spatie</span>
-        </strong>
-        <nav class="footer-nav">
+    <main>
+      {{ block "main" . }}{{ end }}
+      <hr>
+      <footer>
+        <nav>
+          <strong><a href="/">Sebastian De Deyne</a></strong>
           <ul>
-            <li class="{{ cond (ne (in (slice "/uses/" "/newsletter/") .RelPermalink) true) "active" "" }}">
-              <a href="/">Blog</a>
-            </li>
-          </ul>
-          <ul>
-            <li class="{{ cond (eq .RelPermalink "/uses/") "active" "" }}">
-              <a href="/uses">Uses</a>
-            </li>
-            <li class="{{ cond (eq .RelPermalink "/newsletter/") "active" "" }}">
-              <a href="/newsletter">Newsletter</a>
-            </li>
-          </ul>
-          <ul>
-            <li><a href="/index.xml">RSS ↗</a></li>
+            <a href="/newsletter">Newsletter</a>
+            <a href="/uses">Uses</a>
             <li><a href="https://twitter.com/sebdedeyne" rel="me">Twitter ↗</a></li>
+            <li><a href="/index.xml">RSS ↗</a></li>
           </ul>
         </nav>
       </footer>
-    </div>
-
+    </main>
     {{ with resources.Get "css/chroma.css" | minify }}
       <style>{{ .Content | safeCSS }}</style>
     {{ end }}
