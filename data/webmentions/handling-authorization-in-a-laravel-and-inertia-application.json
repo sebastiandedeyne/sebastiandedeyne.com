@@ -1735,5 +1735,27 @@
     "in-reply-to": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
     "wm-property": "in-reply-to",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "BOX PIPER",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/bf3ba798b013ecf70bf25dae2d971007a9813d2a6ff82fcd77afa54d6a986d9e.jpg",
+      "url": "https://twitter.com/boxpiperapp"
+    },
+    "url": "https://twitter.com/boxpiperapp/status/1576293450487586816",
+    "published": "2022-10-01T19:30:19+00:00",
+    "wm-received": "2022-10-01T23:26:19Z",
+    "wm-id": 1531385,
+    "wm-source": "https://brid.gy/comment/twitter/sebdedeyne/1576293450487586816/1576293450487586816",
+    "wm-target": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "content": {
+      "html": "Handling authorization in a Laravel and Inertia.js application\n<a href=\"https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/\">sebastiandedeyne.com/handling-autho…</a>",
+      "text": "Handling authorization in a Laravel and Inertia.js application\nsebastiandedeyne.com/handling-autho…"
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
   }
 ]
