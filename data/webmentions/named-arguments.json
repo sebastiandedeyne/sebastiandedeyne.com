@@ -42,5 +42,27 @@
     "mention-of": "https://sebastiandedeyne.com/named-arguments/",
     "wm-property": "mention-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Stefano Alletti",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/5e5a27a5072e031b79e2ecd105b165b79fabf0d3e02f6e4b3941dde0b94f6877.jpg",
+      "url": "https://twitter.com/stefanoalletti"
+    },
+    "url": "https://twitter.com/stefanoalletti/status/1577195921859022848",
+    "published": "2022-10-04T07:16:25+00:00",
+    "wm-received": "2022-10-04T07:47:06Z",
+    "wm-id": 1532525,
+    "wm-source": "https://brid.gy/post/twitter/sebdedeyne/1577195921859022848",
+    "wm-target": "https://sebastiandedeyne.com/named-arguments/",
+    "content": {
+      "html": "I shiver at the sight of a function packed with too-many-to-read-at-a-glance arguments without a description. \n<a href=\"https://sebastiandedeyne.com/named-arguments/\">sebastiandedeyne.com/named-argument…</a> <a href=\"https://twitter.com/official_php\">@official_php</a> <a href=\"https://twitter.com/search?q=%23coding\">#coding</a> <a href=\"https://twitter.com/search?q=%23webdevelopment\">#webdevelopment</a>",
+      "text": "I shiver at the sight of a function packed with too-many-to-read-at-a-glance arguments without a description. \nsebastiandedeyne.com/named-argument… @official_php #coding #webdevelopment"
+    },
+    "mention-of": "https://sebastiandedeyne.com/named-arguments/",
+    "wm-property": "mention-of",
+    "wm-private": false
   }
 ]
