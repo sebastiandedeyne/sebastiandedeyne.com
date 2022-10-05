@@ -1354,5 +1354,27 @@
     "mention-of": "https://sebastiandedeyne.com/granular-interfaces/",
     "wm-property": "mention-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Stefano Alletti",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/5e5a27a5072e031b79e2ecd105b165b79fabf0d3e02f6e4b3941dde0b94f6877.jpg",
+      "url": "https://twitter.com/stefanoalletti"
+    },
+    "url": "https://twitter.com/stefanoalletti/status/1577589925205233665",
+    "published": "2022-10-05T09:22:03+00:00",
+    "wm-received": "2022-10-05T09:52:39Z",
+    "wm-id": 1533165,
+    "wm-source": "https://brid.gy/post/twitter/sebdedeyne/1577589925205233665",
+    "wm-target": "https://sebastiandedeyne.com/granular-interfaces/",
+    "content": {
+      "html": "<a href=\"https://sebastiandedeyne.com/granular-interfaces/\">sebastiandedeyne.com/granular-inter…</a> <a href=\"https://twitter.com/official_php\">@official_php</a> <a href=\"https://twitter.com/search?q=%23php\">#php</a> <a href=\"https://twitter.com/search?q=%23webdevelopment\">#webdevelopment</a> <a href=\"https://twitter.com/search?q=%23coding\">#coding</a> <a href=\"https://twitter.com/sebdedeyne\">@sebdedeyne</a>",
+      "text": "sebastiandedeyne.com/granular-inter… @official_php #php #webdevelopment #coding @sebdedeyne"
+    },
+    "mention-of": "https://sebastiandedeyne.com/granular-interfaces/",
+    "wm-property": "mention-of",
+    "wm-private": false
   }
 ]
