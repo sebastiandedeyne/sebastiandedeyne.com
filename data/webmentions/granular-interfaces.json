@@ -1376,5 +1376,23 @@
     "mention-of": "https://sebastiandedeyne.com/granular-interfaces/",
     "wm-property": "mention-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "David Jiménez",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/ee43131d1941db4687d942b80f5df2bea02a6aa1ffb203394621b65f0293cc32.jpg",
+      "url": "https://twitter.com/davidjr82"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1566790498722930694#favorited-by-344190782",
+    "published": null,
+    "wm-received": "2022-10-07T19:55:06Z",
+    "wm-id": 1534578,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1566790498722930694/344190782",
+    "wm-target": "https://sebastiandedeyne.com/granular-interfaces/",
+    "like-of": "https://sebastiandedeyne.com/granular-interfaces/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
