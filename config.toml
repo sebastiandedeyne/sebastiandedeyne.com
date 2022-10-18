@@ -20,8 +20,6 @@ enableGitInfo = true
   home = ["HTML", "RSS"]
 
 [markup]
-  [markup.highlight]
-    noClasses = false
   [markup.goldmark.renderer]
       unsafe = true
   [markup.tableOfContents]
