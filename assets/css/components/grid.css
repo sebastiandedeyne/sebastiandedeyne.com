@@ -1,0 +1,42 @@
+.grid {
+  --outer-gutter: 8rem;
+  --inner-gutter: 3rem;
+
+  display: grid;
+  grid-template-columns:
+    1fr
+    var(--outer-gutter)
+    var(--inner-gutter)
+    minmax(auto, 32rem)
+    var(--inner-gutter)
+    var(--outer-gutter)
+    1fr;
+  row-gap: 1rem;
+  margin: 0 2rem;
+}
+
+.grid > .nav {
+  grid-column: 1 / -1;
+}
+
+.grid > .header {
+  grid-column: 2 / -4;
+}
+
+.grid > .header--centered {
+  grid-column: 1 / -1;
+}
+
+.grid > * {
+  grid-column: 4 / -4;
+}
+
+.grid > pre,
+.grid > blockquote {
+  grid-column: 3 / -2;
+  padding: 2.5rem var(--inner-gutter);
+}
+
+.grid > p:has(img) {
+  grid-column: 1 / -1;
+}

@@ -1,0 +1,15 @@
+.archive {
+  display: grid;
+  gap: 1.5rem;
+  line-height: 1.25;
+}
+
+.archive > li > p {
+  font-size: var(--text-sm);
+  color: var(--color-text-light);
+  margin: 0;
+}
+
+.archive > li li {
+  margin-top: 0.35rem;
+}

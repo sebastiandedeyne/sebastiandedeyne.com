@@ -1,0 +1,46 @@
+.newsletter-form-input-wrapper {
+  display: flex;
+  gap: 0;
+}
+
+.newsletter-form-input-wrapper input[type="email"] {
+  border-radius: var(--border-radius) 0 0 var(--border-radius);
+}
+
+.newsletter-form-input-wrapper input[type="submit"] {
+  border-radius: 0 var(--border-radius) var(--border-radius) 0;
+}
+
+.newsletter-form p {
+  font-size: var(--text-sm);
+  color: var(--color-text-light);
+  margin-top: 0.5em;
+}
+
+.newsletter-form p a {
+  color: currentColor;
+  text-decoration: none;
+}
+
+input[type="email"],
+input[type="submit"] {
+  display: inline-block;
+  font: inherit;
+  border-radius: 0;
+  -webkit-appearance: none;
+  border: 1px solid transparent;
+  border-radius: var(--border-radius);
+  margin: 0;
+}
+
+input[type="email"] {
+  background-color: var(--color-gray);
+  padding: 0.25rem 0.5rem;
+}
+
+input[type="submit"] {
+  background-color: var(--color-chroma);
+  color: white;
+  font-weight: 500;
+  padding: 0.25rem 0.75rem;
+}

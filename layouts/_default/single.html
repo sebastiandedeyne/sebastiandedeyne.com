@@ -1,7 +1,9 @@
 {{ define "main" }}
-  <article>
-    <header>
-      <h1>{{ .Title }}</h1>
+  <article class="grid markup">
+    <header class="header header--centered">
+      <h1 class="header__h">
+        {{ .Title }}
+      </h1>
     </header>
     {{ .Content }}
   </article>

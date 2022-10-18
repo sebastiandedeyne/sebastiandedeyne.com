@@ -1,20 +1,3 @@
-/*
- Margin and rounding are personal preferences,
- overflow-x-auto is recommended.
-*/
-pre {
-  border-radius: 0.25rem;
-  margin-top: 1rem;
-  margin-bottom: 1rem;
-  overflow-x: auto;
-}
-
-/*
- Add some vertical padding and expand the width
- to fill its container. The horizontal padding
- comes at the line level so that background
- colors extend edge to edge.
-*/
 pre code.torchlight {
   display: block;
   min-width: -webkit-max-content;

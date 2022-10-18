@@ -24,12 +24,8 @@
     <link rel="pingback" href="https://webmention.io/sebastiandedeyne.com/xmlrpc" />
 
     <link rel="preconnect" href="https://fonts.bunny.net">
-    <link href="https://fonts.bunny.net/css?family=inconsolata:400,700|karla:200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i" rel="stylesheet" />
-    {{ with resources.Get "css/reset.css" | minify }}
-      <style>{{ .Content | safeCSS }}</style>
-    {{ end }}
-    {{ with resources.Get "css/site.css" | minify }}
-      <style>{{ .Content | safeCSS }}</style>
+    {{ with resources.Match "css/**.css" | resources.Concat "assets/site.css" }}
+      <link rel="stylesheet" href="{{ .Permalink }}">
     {{ end }}
 
     {{ block "meta" . }}
@@ -53,26 +49,35 @@
     {{ if hugo.IsProduction }}
       <script src="https://cdn.usefathom.com/script.js" data-site="ZJKABUUJ" defer></script>
     {{ end }}
+
+    <link rel="stylesheet" href="https://use.typekit.net/itm3bth.css">
   </head>
   <body>
-    <main>
-      {{ block "main" . }}{{ end }}
-      <hr>
-      <footer>
-        <nav>
-          <strong><a href="/">Sebastian De Deyne</a></strong>
-          <ul>
-            <li><a href="/">Home</a></li>
-            <li><a href="/newsletter">Newsletter</a></li>
+    <div style="background-color: blue; margin-bottom: -4.85rem">
+      <header class="grid">
+        <nav class="nav">
+          <p class="nav__title">
+            <a href="/">Sebastian De Deyne</a>
+          </p>
+          <ul class="nav__links">
+            <li><a href="#" aria-current="true">Articles</a></li>
+            <li><a href="#">Notes</a></li>
+          </ul>
+          <ul class="nav__links">
+            <li><a href="#">Speaking</a></li>
             <li><a href="/uses">Uses</a></li>
-            <li><a href="https://twitter.com/sebdedeyne" rel="me">Twitter ↗</a></li>
-            <li><a href="/index.xml">RSS ↗</a></li>
+            <li><a href="#">Now</a></li>
+          </ul>
+          <ul class="nav__links">
+            <li><a href="/newsletter">Newsletter</a></li>
+            <li><a href="https://twitter.com/sebdedeyne">Twitter</a></li>
+            <li><a href="/index.xml">RSS</a></li>
           </ul>
         </nav>
-      </footer>
+      </header>
+    </div>
+    <main>
+      {{ block "main" . }}{{ end }}
     </main>
-    {{ with resources.Get "css/torchlight.css" | minify }}
-      <style>{{ .Content | safeCSS }}</style>
-    {{ end }}
   </body>
 </html>

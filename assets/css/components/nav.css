@@ -1,0 +1,55 @@
+.nav {
+  display: grid;
+  grid-template-columns: auto repeat(3, min-content);
+  column-gap: 4rem;
+  line-height: 1.4;
+  padding-top: 1.5rem;
+  padding-bottom: 7rem;
+  font-family: var(--font-display);
+  color: white;
+  font-size: 0.8rem;
+}
+
+.nav a {
+  color: currentColor;
+  text-decoration: none;
+}
+
+.nav__title {
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+.nav__links {
+  list-style: none;
+}
+
+.nav__links a {
+  position: relative;
+}
+
+.nav__links a:before {
+  position: absolute;
+  left: -1.5ch;
+}
+
+.nav__links a[aria-current="true"]:before {
+  content: '▮';
+  color: cyan;
+}
+
+.nav__links a:hover:before {
+  content: '▮';
+  color: white;
+  animation: 0.075s block infinite;
+}
+
+.nav__links a[href*="twitter"]:hover:before,
+.nav__links a[href*="xml"]:hover:before {
+  content: '↗';
+}
+
+@keyframes block {
+  0% { opacity: 1; }
+  100% { opacity: 0; }
+}

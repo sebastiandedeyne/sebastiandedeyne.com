@@ -4,16 +4,14 @@ image: /media/desk-2022.jpeg
 description: My uses page, a spotlight of the tools I enjoy using most.
 ---
 
-Welcome to my `/uses` page! This isn't meant to be a complete list of everything I touch on a daily basis, but a spotlight of the tools I enjoy using most.
+<p class="intro">Welcome to my <code>/uses</code> page! This isn't meant to be a complete list of everything I touch on a daily basis, but a spotlight of the tools I enjoy using most.<p>
 
----
-
-<img src="/media/desk-2022.jpeg" alt="My desk in 2022" class="breakout">
+![My desk in 2022](/media/desk-2022.jpeg)
 
 ## Workspace
 
 | | |
-|---|---|
+|---|--:|
 | **Laptop** | MacBook Pro M1 2020 |
 | **Stand** | Rain Design mStand |
 | **Speakers** | Bose Companion 2 Series II speakers |

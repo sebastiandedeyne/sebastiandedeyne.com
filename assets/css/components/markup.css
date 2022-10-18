@@ -1,0 +1,68 @@
+.markup > h2 {
+  font-size: var(--text-lg);
+  font-weight: 700;
+  text-align: center;
+  margin-top: 3rem;
+}
+
+.markup > h3 {
+  font-weight: 700;
+}
+
+.markup > iframe {
+  width: 100%;
+}
+
+.markup > table {
+  width: 100%;
+  font-family: var(--font-display);
+  font-variant-numeric: tabular-nums;
+}
+
+.markup > th {
+  font-weight: normal;
+}
+
+.markup > th,
+.markup > td {
+  font-size: var(--text-sm);
+  padding-top: 0.25rem;
+  padding-bottom: 0.25rem;
+  border-bottom: 1px solid var(--color-border);
+}
+
+.markup > blockquote {
+  border-radius: var(--border-radius);
+  background-color: var(--color-gray);
+}
+
+.markup > hr {
+  border-color: var(--color-border);
+}
+
+.markup > pre,
+.markup code {
+  font-family: var(--font-mono);
+}
+
+.markup > pre {
+  font-size: 0.8em;
+  color: white;
+  background-color: black;
+  overflow-x: auto;
+  border-radius: var(--border-radius);
+  line-height: 2.2;
+  margin: 1rem 0;
+}
+
+.markup > code:not(pre code) {
+  padding: 0.1em 0.25em;
+  background-color: var(--color-gray);
+  border: 1px solid var(--color-border);
+  border-radius: 0.2em;
+}
+
+.markup > p > img {
+  display: block;
+  width: 100%;
+}
