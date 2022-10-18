@@ -17,9 +17,9 @@ A pattern I often see in older code is an associative array as the single parame
 
 ```php
 $page->render([
-  'footer' => false,
-  'header' => false,
-  'include_assets' => true,
+    'footer' => false,
+    'header' => false,
+    'include_assets' => true,
 ]);
 ```
 
