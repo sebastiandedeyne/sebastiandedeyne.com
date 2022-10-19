@@ -5,6 +5,7 @@ date: 2022-09-15
 categories: ["articles"]
 keywords:
   - PHP
+summary: I shiver at the sight of a function packed with too-many-to-read-at-a-glance arguments without a description.
 ---
 
 I shiver at the sight of a function packed with too-many-to-read-at-a-glance arguments without a description. Especially boolean flags. Boolean flags lack context. Look at this code, I have no idea what `false, false, true` conveys.

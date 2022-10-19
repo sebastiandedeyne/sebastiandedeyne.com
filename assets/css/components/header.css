@@ -1,23 +1,50 @@
 .header {
-  margin-bottom: calc(var(--spacing) * 3);
-  color: white;
+  display: grid;
+  grid-template-columns: auto repeat(3, min-content);
+  column-gap: 4rem;
+  line-height: 1.4;
+  padding-top: 1.5rem;
+  padding-bottom: 2.5rem;
   font-family: var(--font-display);
+  color: white;
+  font-size: 0.8rem;
 }
 
-.header--centered {
-  text-align: center;
+.header a {
+  color: currentColor;
+  text-decoration: none;
 }
 
-.header__h {
-  font-size: 2.5rem;
-  font-weight: 700;
-  line-height: 1.1;
-  mix-blend-mode: difference;
-}
-
-.header__meta {
-  font-size: 0.75rem;
+.header__title {
   text-transform: uppercase;
-  margin-top: 1rem;
-  color: magenta;
+  font-weight: bold;
+}
+
+.header__links {
+  list-style: none;
+}
+
+.header__links a {
+  position: relative;
+}
+
+.header__links a:before {
+  position: absolute;
+  left: -1.5ch;
+}
+
+.header__links a[aria-current="true"]:before {
+  content: '▮';
+  color: cyan;
+}
+
+.header__links a:hover:before {
+  content: '▮';
+  color: white;
+  animation: 0.075s flicker infinite;
+}
+
+.header__links a[href*="twitter"]:hover:before,
+.header__links a[href*="xml"]:hover:before {
+  content: '↗';
 }

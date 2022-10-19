@@ -5,6 +5,7 @@ title = "Sebastian De Deyne"
 summaryLength = 1_000_000
 rssLimit = 10
 enableGitInfo = true
+paginate = 20
 
 [taxonomies]
   category = "categories"

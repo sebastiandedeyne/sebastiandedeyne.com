@@ -17,7 +17,7 @@
   --text-sm: 0.85rem;
   --text-lg: 1.1rem;
 
-  --font-size: 24px;
+  --font-size: 20px;
   --line-height: 1.6;
 
   --font-sans: ff-meta-web-pro, system-ui, sans-serif;
@@ -42,7 +42,7 @@ html {
 body {
   margin: 0;
   color: var(--color-text);
-  background-color: var(--color-background);
+  background-color: blue;
   line-height: var(--line-height);
   font-family: var(--font-sans);
 }

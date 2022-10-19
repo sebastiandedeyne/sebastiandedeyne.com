@@ -1,29 +1,24 @@
 .grid {
-  --outer-gutter: 8rem;
-  --inner-gutter: 3rem;
+  --gutter: 3rem;
 
   display: grid;
   grid-template-columns:
     1fr
-    var(--outer-gutter)
-    var(--inner-gutter)
-    minmax(auto, 32rem)
-    var(--inner-gutter)
-    var(--outer-gutter)
-    1fr;
+    var(--gutter)
+    var(--gutter)
+    minmax(20rem, 28rem)
+    var(--gutter)
+    var(--gutter)
+    2fr;
   row-gap: 1rem;
-  margin: 0 2rem;
+  padding: 0 2rem;
 }
 
-.grid > .nav {
-  grid-column: 1 / -1;
-}
-
-.grid > .header {
+.grid > .bigtitle {
   grid-column: 2 / -4;
 }
 
-.grid > .header--centered {
+.grid > .bigtitle--centered {
   grid-column: 1 / -1;
 }
 
@@ -31,12 +26,16 @@
   grid-column: 4 / -4;
 }
 
-.grid > pre,
-.grid > blockquote {
-  grid-column: 3 / -2;
-  padding: 2.5rem var(--inner-gutter);
+.grid--header > * {
+  grid-column: 1 / -1;
 }
 
-.grid > p:has(img) {
+.grid--article > pre,
+.grid--article > blockquote {
+  grid-column: 3 / -2;
+  padding: 2.5rem var(--gutter);
+}
+
+.grid--article > p:has(img) {
   grid-column: 1 / -1;
 }

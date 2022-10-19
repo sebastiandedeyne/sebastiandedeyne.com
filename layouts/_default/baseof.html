@@ -53,31 +53,31 @@
     <link rel="stylesheet" href="https://use.typekit.net/itm3bth.css">
   </head>
   <body>
-    <div style="background-color: blue; margin-bottom: -4.85rem">
-      <header class="grid">
-        <nav class="nav">
-          <p class="nav__title">
+    <div class="layout">
+      <header class="grid grid--header">
+        <nav class="header">
+          <p class="header__title">
             <a href="/">Sebastian De Deyne</a>
           </p>
-          <ul class="nav__links">
-            <li><a href="#" aria-current="true">Articles</a></li>
-            <li><a href="#">Notes</a></li>
+          <ul class="header__links">
+            <li><a href="/posts" aria-current="true">Blog</a></li>
           </ul>
-          <ul class="nav__links">
+          <ul class="header__links">
             <li><a href="#">Speaking</a></li>
             <li><a href="/uses">Uses</a></li>
             <li><a href="#">Now</a></li>
           </ul>
-          <ul class="nav__links">
+          <ul class="header__links">
             <li><a href="/newsletter">Newsletter</a></li>
             <li><a href="https://twitter.com/sebdedeyne">Twitter</a></li>
             <li><a href="/index.xml">RSS</a></li>
           </ul>
         </nav>
       </header>
-    </div>
-    <main>
       {{ block "main" . }}{{ end }}
-    </main>
+      <footer class="footer">
+        est.2015/Sebastian De Deyne
+      </footer>
+    </div>
   </body>
 </html>

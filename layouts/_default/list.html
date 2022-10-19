@@ -1,14 +1,21 @@
 {{ define "main" }}
-  <ul class="archive">
-    {{ range ((where $.Site.RegularPages "Section" "posts").GroupByDate "January, 2006") }}
-      <li>
-        <p>{{ .Key }}</p>
-        {{ range .Pages }}
-          <ul>
-            <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
-          </ul>
-        {{ end }}
-      </li>
-    {{ end }}
-  </ul>
+  <main class="layout__main">
+    <ul class="grid list">
+      {{ range .Paginator.Pages }}
+        <li class="list__item">
+          <h2 class="list__item__h">
+            {{ if .Params.link }}
+              <a href="{{ .RelPermalink }}">↗{{ .Title }}</a>
+            {{ else }}
+              <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+            {{ end }}
+          </h2>
+          <div class="list__item__summary">
+            {{ .Summary }}
+          </div>
+        </li>
+      {{ end }}
+    </ul>
+    {{ template "_internal/pagination.html" . }}
+  </main>
 {{ end }}

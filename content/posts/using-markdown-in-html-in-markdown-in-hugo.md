@@ -5,6 +5,7 @@ date: 2022-07-25
 categories: ["articles"]
 keywords:
   - Hugo
+summary: How to write HTML in Hugo without losing markdown capabilities.
 ---
 
 The markdown specification allows you to inline HTML in a markdown document.

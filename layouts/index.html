@@ -1,19 +1,8 @@
 {{ define "main" }}
-  <div class="markup">
-    <p>I'm a designer and full-stack developer from Ghent, Belgium. I work at a small but mighty web agency in Antwerp called <a href="https://spatie.be">Spatie</a>. We specialize in Laravel development, and have released a lot of open source packages.</p>
-    <p>Over the years, I've dabbled in backend development, frontend development, design, and more recently product and project management.</p>
-    <hr>
-  </div>
-  <ul class="archive">
-    {{ range ((where $.Site.RegularPages "Section" "posts").GroupByDate "January, 2006") }}
-      <li>
-        <p>{{ .Key }}</p>
-        {{ range .Pages }}
-          <ul>
-            <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
-          </ul>
-        {{ end }}
-      </li>
-    {{ end }}
-  </ul>
+  <main class="layout__main layout__main--transparent">
+    <article class="grid home">
+      <p>I'm a designer and full-stack developer from Ghent, Belgium. I work at a small but mighty web agency in Antwerp called <a href="https://spatie.be">Spatie</a>. We specialize in Laravel development, and have released a lot of open source packages.</p>
+      <p>Over the years, I've dabbled in backend development, frontend development, design, and more recently product and project management.</p>
+    </article>
+  </main>
 {{ end }}

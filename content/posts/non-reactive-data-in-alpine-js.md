@@ -11,6 +11,8 @@ Sometimes you want to store data in your Alpine component without wrapping it in
 
 For example, third party libraries might have issues when wrapped in a proxy. Chart.js is one of those. If you store a Chart.js instance in Alpine data, the chart will error.
 
+<!--more-->
+
 To prevent Alpine from making the property reactive, the property shouldn't be on the data object in the first place. One way to create state without storing it on an object is with the [revealing module pattern](https://www.oreilly.com/library/view/learning-javascript-design/9781449334840/ch09s03.html).
 
 ```html
