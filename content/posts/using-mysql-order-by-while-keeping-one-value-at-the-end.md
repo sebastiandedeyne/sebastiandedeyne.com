@@ -3,7 +3,7 @@ title: "Using MySQL `order by` while keeping one value at the end"
 slug: using-mysql-order-by-while-keeping-one-value-at-the-end
 date: 2021-12-16
 categories: ["articles"]
-keywords:
+tags:
   - MySQL
   - Laravel
 ---

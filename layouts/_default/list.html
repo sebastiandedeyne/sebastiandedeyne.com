@@ -1,21 +1,11 @@
 {{ define "main" }}
-  <main class="layout__main">
-    <ul class="grid list">
-      {{ range .Paginator.Pages }}
-        <li class="list__item">
-          <h2 class="list__item__h">
-            {{ if .Params.link }}
-              <a href="{{ .RelPermalink }}">↗{{ .Title }}</a>
-            {{ else }}
-              <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-            {{ end }}
-          </h2>
-          <div class="list__item__summary">
-            {{ .Summary }}
-          </div>
-        </li>
-      {{ end }}
-    </ul>
-    {{ template "_internal/pagination.html" . }}
-  </main>
+  {{ $permalink := .Permalink }}
+  {{ range .Paginator.Pages }}
+    <article>
+      {{ partial "header" (dict "Page" . "Permalink" $permalink) }}
+      <p>{{ .Summary }}</p>
+    </article>
+    <hr>
+  {{ end }}
+  {{ template "_internal/pagination.html" . }}
 {{ end }}

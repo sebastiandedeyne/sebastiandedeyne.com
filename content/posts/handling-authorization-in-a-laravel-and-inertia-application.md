@@ -2,7 +2,7 @@
 title: "Handling authorization in a Laravel and Inertia application"
 date: 2019-11-05
 categories: ["articles"]
-keywords:
+tags:
     - Laravel
     - Inertia.js
 ---

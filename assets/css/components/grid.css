@@ -1,41 +1,43 @@
 .grid {
-  --gutter: 3rem;
+  --sidebar: 10rem;
 
   display: grid;
   grid-template-columns:
     1fr
-    var(--gutter)
-    var(--gutter)
-    minmax(20rem, 28rem)
-    var(--gutter)
-    var(--gutter)
-    2fr;
-  row-gap: 1rem;
+    auto
+    minmax(20rem, 32rem)
+    1fr;
+  column-gap: calc(var(--spacing) * 3);
   padding: 0 2rem;
+  min-height: 100vh;
 }
 
-.grid > .bigtitle {
-  grid-column: 2 / -4;
+.grid > .sidebar {
+  grid-column: 2 / 3;
+  grid-row: 1 / 999;
 }
 
-.grid > .bigtitle--centered {
+.grid > article {
+  display: contents;
+}
+
+.grid > *,
+.grid > article > * {
+  grid-column: 3 / 4;
+}
+
+.grid > article > pre {
+  grid-column: 2 / -1;
+}
+
+.grid > article > blockquote {
+  grid-column: 3 / -1;
+}
+
+.grid > article > p:has(img) {
   grid-column: 1 / -1;
 }
 
-.grid > * {
-  grid-column: 4 / -4;
-}
-
-.grid--header > * {
-  grid-column: 1 / -1;
-}
-
-.grid--article > pre,
-.grid--article > blockquote {
-  grid-column: 3 / -2;
-  padding: 2.5rem var(--gutter);
-}
-
-.grid--article > p:has(img) {
+.grid > .footer {
   grid-column: 1 / -1;
 }

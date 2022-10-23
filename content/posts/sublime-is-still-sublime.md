@@ -3,7 +3,7 @@ title: "Sublime is still sublime"
 slug: sublime-is-still-sublime
 date: 2020-10-08T08:00:00+02:00
 categories: ["articles"]
-keywords:
+tags:
   - Editors
 ---
 

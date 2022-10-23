@@ -3,7 +3,7 @@ title: "Named arguments"
 slug: named-arguments
 date: 2022-09-15
 categories: ["articles"]
-keywords:
+tags:
   - PHP
 summary: I shiver at the sight of a function packed with too-many-to-read-at-a-glance arguments without a description.
 ---

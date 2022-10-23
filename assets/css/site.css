@@ -7,22 +7,19 @@
 }
 
 :root {
-  --color-background: white;
-  --color-text: black;
-  --color-text-light: #9aa;
   --color-gray: #f8f8f8;
   --color-border: #f2f2f2;
   --color-link: blue;
 
   --text-sm: 0.85rem;
   --text-lg: 1.1rem;
+  --text-xl: 1.3rem;
 
-  --font-size: 20px;
+  --font-size: 16px;
   --line-height: 1.6;
 
-  --font-sans: ff-meta-web-pro, system-ui, sans-serif;
-  --font-display: 'Berkeley Mono Trial', system-ui, sans-serif;
-  --font-mono: 'Berkeley Mono Trial', monospace;
+  --font-sans: 'Karla', system-ui, sans-serif;
+  --font-mono: 'Berkeley Mono', monospace;
 
   --spacing: 2rem;
 
@@ -41,13 +38,23 @@ html {
 
 body {
   margin: 0;
-  color: var(--color-text);
-  background-color: blue;
   line-height: var(--line-height);
   font-family: var(--font-sans);
 }
 
 a {
-  color: var(--color-link);
+  color: currentColor;
+  text-decoration: none;
 }
 
+hr {
+  border: none;
+}
+
+hr:after {
+  content: '▯▯▯';
+  display: block;
+  padding: calc(var(--spacing) * 2.5) 0 calc(var(--spacing) * 1.5);
+  text-align: center;
+  color: blue;
+}

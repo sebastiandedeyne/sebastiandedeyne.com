@@ -3,7 +3,7 @@ title: "Composable seeders in Laravel with callOnce"
 slug: composable-laravel-seeders-with-callonce
 date: 2022-02-22
 categories: ["articles"]
-keywords:
+tags:
   - Laravel
 ---
 

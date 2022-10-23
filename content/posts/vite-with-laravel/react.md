@@ -4,7 +4,7 @@ title: "Vite with Laravel: Using React"
 slug: vite-with-laravel/react
 categories: ["articles"]
 series: vite-with-laravel
-keywords:
+tags:
   - Laravel
   - Vite
   - Frontend

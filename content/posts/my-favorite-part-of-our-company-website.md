@@ -2,7 +2,7 @@
 title: "My favorite part of our company website"
 date: 2019-06-17T15:23:19+02:00
 categories: ["articles"]
-keywords:
+tags:
     - the web
     - Spatie
 ---

@@ -2,7 +2,7 @@
 title: "A rare look into the decision making process of a large project"
 slug: a-rare-look-into-the-decision-making-process-of-a-large-project
 date: 2020-09-28T08:00:00+02:00
-keywords:
+tags:
   - cms
   - strategy
   - the web

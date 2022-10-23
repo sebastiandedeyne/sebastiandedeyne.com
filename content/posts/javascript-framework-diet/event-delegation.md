@@ -4,7 +4,7 @@ title: Event delegation
 slug: javascript-framework-diet/event-delegation
 categories: ["articles"]
 series: javascript-framework-diet
-keywords:
+tags:
   - JavaScript
   - Vanilla JS
 ---

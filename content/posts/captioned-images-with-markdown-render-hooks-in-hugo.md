@@ -3,7 +3,7 @@ title: "Caption images with markdown render hooks in Hugo"
 slug: captioned-images-with-markdown-render-hooks-in-hugo
 date: 2020-06-08
 categories: ["articles"]
-keywords:
+tags:
   - Hugo
 ---
 

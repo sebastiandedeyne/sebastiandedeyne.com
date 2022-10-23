@@ -3,7 +3,7 @@ title: "Enabling basic HTTP authentication with nginx on a Laravel Forge provisi
 slug: enabling-basic-http-authentication-with-nginx-on-a-laravel-forge-provisioned-server
 date: 2020-04-20
 categories: ["articles"]
-keywords:
+tags:
   - Laravel Forge
   - devops
 ---
@@ -62,7 +62,7 @@ Now add some `auth_basic` rules to protect your entire site with basic authentic
 location / {
     auth_basic "Log in to continue";
     auth_basic_user_file /etc/apache2/.htpasswd;
-    
+
     try_files $uri $uri/ /index.php?$query_string;
 }
 ```
@@ -88,7 +88,7 @@ Alternatively, if you want to protect all-but-one part of your site, disable aut
 location / {
     auth_basic "Log in to continue";
     auth_basic_user_file /etc/apache2/.htpasswd;
-    
+
     try_files $uri $uri/ /index.php?$query_string;
 }
 

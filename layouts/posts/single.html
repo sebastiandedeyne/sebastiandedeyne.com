@@ -27,54 +27,39 @@
 {{ end }}
 
 {{ define "main" }}
-  <main class="layout__main">
-    <article class="grid grid--article markup {{ with .Params.intro }} markup--intro {{ end }}">
-      <header class="bigtitle">
-        <h1 class="bigtitle__h">
-          {{ .Title }}
-        </h1>
-        <p class="bigtitle__meta">
-          <time datetime="{{ .Date.Format "2006-01-02" }}">
-            {{ .Date.Format "2006-01-02" }}
-          </time>
-          /  *Hugo *Netlify *Github
-          {{ with .Params.link }}
-            <a href="{{ . }}">{{ (urls.Parse .).Host }}</a>
-          {{ end }}
-        </p>
-      </header>
-      {{ if .Truncated }}
-        {{ .Summary }}
-        {{ if .Params.toc }}
-          <nav class="toc">
-            <h2>In this post</h2>
-            {{ .TableOfContents }}
-          </nav>
-        {{ end }}
-        {{ safeHTML (replace .Content .Summary "") }}
-      {{ else }}
-        {{ .Content }}
+  <article class="markup {{ with .Params.intro }} markup--intro {{ end }}" style="display: contents">
+    {{ partial "header" (dict "Page" . "Permalink" .Permalink) }}
+    {{ if .Truncated }}
+      {{ .Summary }}
+      {{ if .Params.toc }}
+        <nav class="toc">
+          <h2>In this post</h2>
+          {{ .TableOfContents }}
+        </nav>
       {{ end }}
-      {{ if .Params.series }}
-        {{ with index $.Site.Data.series .Params.series }}
-          <aside class="toc">
-            <h2>{{ .title }}</h2>
-            <ol>
-              {{ range .posts }}
-                  {{ if .slug }}
-                    {{ if eq .slug $.Page.Slug }}
-                      <li class="active">{{ .title }}</li>
-                    {{ else }}
-                      <li><a href="{{ .slug | relURL }}">{{ .title }}</a></li>
-                    {{ end }}
+      {{ safeHTML (replace .Content .Summary "") }}
+    {{ else }}
+      {{ .Content }}
+    {{ end }}
+    {{ if .Params.series }}
+      {{ with index $.Site.Data.series .Params.series }}
+        <aside class="toc">
+          <h2>{{ .title }}</h2>
+          <ol>
+            {{ range .posts }}
+                {{ if .slug }}
+                  {{ if eq .slug $.Page.Slug }}
+                    <li class="active">{{ .title }}</li>
                   {{ else }}
-                    <li><span>{{ .title }}</span></li>
+                    <li><a href="{{ .slug | relURL }}">{{ .title }}</a></li>
                   {{ end }}
-              {{ end }}
-            </ol>
-          </aside>
-        {{ end }}
+                {{ else }}
+                  <li><span>{{ .title }}</span></li>
+                {{ end }}
+            {{ end }}
+          </ol>
+        </aside>
       {{ end }}
-    </article>
-  </main>
+    {{ end }}
+  </article>
 {{ end }}

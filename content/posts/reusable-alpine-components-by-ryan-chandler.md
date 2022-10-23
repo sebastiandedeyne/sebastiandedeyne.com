@@ -3,7 +3,7 @@ title: "Reusable Alpine Components by Ryan Chandler"
 slug: reusable-alpine-components-by-ryan-chandler
 date: 2021-04-07
 link: https://ryangjchandler.co.uk/articles/writing-reusable-alpine-components
-keywords:
+tags:
   - Alpine
   - JavaScript
 ---

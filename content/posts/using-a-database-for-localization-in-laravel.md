@@ -3,7 +3,7 @@ date: 2016-05-31
 title: Using a database for localization in Laravel
 subtitle: Written for Laravel ^5.2
 categories: ["articles"]
-keywords:
+tags:
     - Laravel
     - PHP
     - localization

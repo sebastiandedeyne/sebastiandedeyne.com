@@ -53,31 +53,31 @@
     <link rel="stylesheet" href="https://use.typekit.net/itm3bth.css">
   </head>
   <body>
-    <div class="layout">
-      <header class="grid grid--header">
-        <nav class="header">
-          <p class="header__title">
-            <a href="/">Sebastian De Deyne</a>
-          </p>
-          <ul class="header__links">
-            <li><a href="/posts" aria-current="true">Blog</a></li>
-          </ul>
-          <ul class="header__links">
-            <li><a href="#">Speaking</a></li>
-            <li><a href="/uses">Uses</a></li>
-            <li><a href="#">Now</a></li>
-          </ul>
-          <ul class="header__links">
-            <li><a href="/newsletter">Newsletter</a></li>
-            <li><a href="https://twitter.com/sebdedeyne">Twitter</a></li>
-            <li><a href="/index.xml">RSS</a></li>
-          </ul>
-        </nav>
-      </header>
+    <div class="grid">
+      <nav class="sidebar">
+        <header>
+          <a href="/">Seb De Deyne</a>
+        </header>
+        {{ $section := index (split .RelPermalink "/") 1 }}
+        {{ if not (in (slice "about" "speaking" "uses" "now" "newsletter") $section) }}
+          {{ $section = "blog" }}
+        {{ end }}
+        <ul>
+          <li><a href="/" {{ if eq $section "blog" }}aria-current="page"{{ end }}>Blog</a></li>
+        </ul>
+        <ul>
+          <li><a href="/about" {{ if eq $section "about" }}aria-current="page"{{ end }}>About</a></li>
+          <li><a href="/speaking" {{ if eq $section "speaking" }}aria-current="page"{{ end }}>Speaking</a></li>
+          <li><a href="/uses" {{ if eq $section "uses" }}aria-current="page"{{ end }}>Uses</a></li>
+          <li><a href="/now" {{ if eq $section "now" }}aria-current="page"{{ end }}>Now</a></li>
+        </ul>
+        <ul>
+          <li><a href="/newsletter" {{ if eq $section "newsletter" }}aria-current="page"{{ end }}>Newsletter</a></li>
+          <li><a href="https://twitter.com/sebdedeyne">Twitter</a></li>
+          <li><a href="/index.xml">RSS</a></li>
+        </ul>
+      </nav>
       {{ block "main" . }}{{ end }}
-      <footer class="footer">
-        est.2015/Sebastian De Deyne
-      </footer>
     </div>
   </body>
 </html>

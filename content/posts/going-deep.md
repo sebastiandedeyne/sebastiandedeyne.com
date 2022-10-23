@@ -3,7 +3,7 @@ title: "Going deep"
 slug: going-deep
 date: 2020-10-20T06:00:00
 categories: ["articles"]
-keywords:
+tags:
   - everything
   - software
   - performance

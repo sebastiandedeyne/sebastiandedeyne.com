@@ -2,7 +2,7 @@
 date: 2017-10-24
 title: Debugging the dreaded "Class log does not exist" error in Laravel
 categories: ["articles"]
-keywords:
+tags:
   - Laravel
   - PHP
 ---

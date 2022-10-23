@@ -3,7 +3,7 @@ title: "macOS settings I always customize"
 slug: macos-settings-i-always-customize
 date: 2021-03-03
 categories: ["articles"]
-keywords:
+tags:
   - Mac
 ---
 
@@ -21,7 +21,7 @@ You can remap Caps Lock in **System Preferences > Keyboard > Modifier Keys**. Th
 
 ## Three finger drag
 
-I'm a full-time trackpad user. However, I always found the force you need to apply to drag awkward. Three finger drag allows you to "grab" something by placing three fingers on your trackpad and moving them around. 
+I'm a full-time trackpad user. However, I always found the force you need to apply to drag awkward. Three finger drag allows you to "grab" something by placing three fingers on your trackpad and moving them around.
 
 This setting is a bit hard to find in **‌System Preferences > Accessibility > Pointer Control > Trackpad Options… > Enable dragging three finger drag**.
 
@@ -31,16 +31,16 @@ This setting is a bit hard to find in **‌System Preferences > Accessibility > 
 
 I have my tracking speed almost at the fastest setting. This takes a day to get used to, but once you do every other machine feels slow.
 
-Tracking speed can be set in **System Preferences > Trackpad > Point & Click > Tracking speed**. 
+Tracking speed can be set in **System Preferences > Trackpad > Point & Click > Tracking speed**.
 
 ![Tracking speed settings](/media/mac/tracking-speed.jpeg)
 
 ## Fast key repeat with a low delay
 
 Like my trackpad, I like my keyboard to respond fast too. Key delay means a key will start repeating fast, key repeat will make it repeat fast. This is especially useful for backspace and space.
- 
+
 Key repeat settings are in **System Preferences > Keyboard > Keyboard > Key Repeat** & **Delay Until Repeat**.
- 
+
  ![Key repeat settings](/media/mac/key-repeat.jpeg)
 
 ## Keyboard navigation to move focus
@@ -65,4 +65,4 @@ In all apps, I often cycle through tabs with Option+Command+Left and Option+Comm
 
 You can add custom app shortcuts in **System Preferences > Keyboard > Shortcuts > App Shortcuts**.
 
-![](/media/mac/safari-tab-cycling.jpeg) 
+![](/media/mac/safari-tab-cycling.jpeg)

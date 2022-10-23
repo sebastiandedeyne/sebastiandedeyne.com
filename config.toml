@@ -5,14 +5,15 @@ title = "Sebastian De Deyne"
 summaryLength = 1_000_000
 rssLimit = 10
 enableGitInfo = true
-paginate = 20
+paginate = 10
 
 [taxonomies]
   category = "categories"
+  tag = "tags"
 
 [permalinks]
   posts = "/:slug"
-  categories = "/:title"
+  tags = "/tags/:title"
 
 [author]
   name = "Sebastian De Deyne"

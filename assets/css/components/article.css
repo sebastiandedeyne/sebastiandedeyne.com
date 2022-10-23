@@ -1,0 +1,128 @@
+article header {
+  font-family: var(--font-mono);
+  margin-top: calc(var(--spacing) * 1);
+}
+
+article header p {
+  position: relative;
+  font-size: 0.8rem;
+  color: magenta;
+}
+
+article header a,
+article header a:visited {
+  color: currentColor;
+  text-decoration: none;
+}
+
+article header a:hover {
+  text-decoration: underline;
+}
+
+article header a[aria-current="page"] {
+  background-color: yellow;
+}
+
+article header h1,
+article header h2 {
+  font-size: var(--text-xl);
+  font-weight: bold;
+  line-height: 1.4;
+  margin-top: var(--spacing);
+}
+
+
+.markup--intro > p:first-of-type:after {
+  content: '▯▯▯';
+  display: block;
+  padding: 2.5rem 0 2rem;
+  text-align: center;
+  color: blue;
+}
+
+article h2 {
+  font-size: var(--text-lg);
+  font-weight: 700;
+  margin-top: calc(var(--spacing) * 2);
+}
+
+article h3 {
+  font-weight: 700;
+}
+
+article p {
+  margin-top: var(--spacing);
+}
+
+article a {
+  color: blue;
+  text-decoration: underline;
+}
+
+article a:visited {
+  color: magenta;
+}
+
+
+article iframe {
+  width: 100%;
+}
+
+article table {
+  margin-top: var(--spacing);
+  width: 100%;
+  font-family: var(--font-mono);
+  font-variant-numeric: tabular-nums;
+}
+
+article th {
+  font-weight: normal;
+}
+
+article th,
+article td {
+  font-size: var(--text-sm);
+  padding-top: 0.25rem;
+  padding-bottom: 0.25rem;
+  border-bottom: 1px solid var(--color-border);
+}
+
+article blockquote {
+  margin-top: calc(var(--spacing) * 2);
+  margin-bottom: var(--spacing);
+  border-radius: var(--border-radius);
+  background-color: var(--color-gray);
+  padding: calc(var(--spacing) * 2);
+}
+
+article blockquote > :first-child {
+  margin-top: 0;
+}
+
+article pre,
+.markup code {
+  font-family: var(--font-mono);
+  font-size: var(--font-small);
+}
+
+article pre {
+  background-color: var(--color-gray);
+  overflow-x: auto;
+  border-radius: var(--border-radius);
+  line-height: 2.2;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  padding: var(--spacing) calc(var(--spacing) * 2);
+}
+
+article code:not(pre code) {
+  padding: 0.1em 0.25em;
+  background-color: magenta;
+  color: yellow;
+}
+
+article p > img {
+  display: block;
+  width: 100%;
+  border-radius: var(--border-radius);
+}

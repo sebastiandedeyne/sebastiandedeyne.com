@@ -2,7 +2,7 @@
 title: "Akin's laws of spacecraft design"
 date: 2019-11-04
 link: https://spacecraft.ssl.umd.edu/akins_laws.html
-keywords:
+tags:
     - programming
 ---
 

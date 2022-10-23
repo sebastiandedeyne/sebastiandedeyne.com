@@ -2,7 +2,7 @@
 date: 2019-05-09
 title: "Full Stack Radio 114: React for Vue developers"
 link: http://www.fullstackradio.com/114
-keywords:
+tags:
     - React
     - Vue.js
     - JavaScript

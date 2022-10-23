@@ -1,0 +1,22 @@
+.pagination {
+  display: flex;
+  justify-content: center;
+  list-style: none;
+  gap: 1rem;
+  font-family: var(--font-mono);
+  font-size: var(--text-sm);
+  margin-top: calc(var(--spacing) * 2);
+  margin-bottom: var(--spacing);
+}
+
+.pagination a {
+  color: blue;
+}
+
+.pagination a[aria-disabled] {
+  color: gray;
+}
+
+.pagination a:not([aria-disabled], [aria-current="page"]) {
+  text-decoration: underline;
+}

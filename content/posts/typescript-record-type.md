@@ -3,7 +3,7 @@ title: "The Record type in TypeScript"
 slug: typescript-record-type
 date: 2021-03-31
 categories: ["articles"]
-keywords:
+tags:
   - TypeScript
 ---
 

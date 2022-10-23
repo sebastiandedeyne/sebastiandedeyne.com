@@ -3,7 +3,7 @@ date: 2016-12-21
 title: Dealing with templates in Vue.js 2.0
 subtitle: Written for Vue ^2.0
 categories: ["articles"]
-keywords:
+tags:
   - Vue.js
   - JavaScript
 ---

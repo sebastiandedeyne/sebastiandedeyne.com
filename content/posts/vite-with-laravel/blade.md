@@ -4,7 +4,7 @@ title: "Vite with Laravel: Auto-refresh Blade views"
 slug: vite-with-laravel/blade
 categories: ["articles"]
 series: vite-with-laravel
-keywords:
+tags:
   - Laravel
   - Vite
   - Frontend

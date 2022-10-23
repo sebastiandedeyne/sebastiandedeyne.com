@@ -1,12 +1,15 @@
 {{ define "main" }}
-  <main class="layout__main">
-    <article class="grid grid--article markup">
-      <header class="bigtitle bigtitle--centered">
-        <h1 class="bigtitle__h">
-          {{ .Title }}
-        </h1>
-      </header>
-      {{ .Content }}
-    </article>
-  </main>
+  <article>
+    <header>
+      <p>
+        <a href="{{ .Permalink }}">
+          {{ substr .RelPermalink 0 -1 }}
+        </a>
+      </p>
+      <h1>
+        {{ .Title }}
+      </h1>
+    </header>
+    {{ .Content }}
+  </article>
 {{ end }}

@@ -5,7 +5,7 @@ date: 2022-09-05
 categories: ["articles"]
 image: /media/granular-interfaces.png
 intro: true
-keywords:
+tags:
   - Programming
   - PHP
 ---

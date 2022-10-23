@@ -4,7 +4,7 @@ title: Listing directories
 slug: unix-things/listing-directories
 series: unix-things
 categories: ["articles"]
-keywords:
+tags:
   - CLI
 ---
 

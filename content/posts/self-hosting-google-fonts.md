@@ -3,7 +3,7 @@ title: "Self-hosting Google Fonts"
 slug: self-hosting-google-fonts
 date: 2021-04-15T08:26:07+02:00
 categories: ["articles"]
-keywords:
+tags:
   - CSS
   - Web fonts
   - Performance

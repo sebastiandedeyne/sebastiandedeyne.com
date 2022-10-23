@@ -4,7 +4,7 @@ title: File structure
 slug: javascript-framework-diet/file-structure
 categories: ["articles"]
 series: javascript-framework-diet
-keywords:
+tags:
   - JavaScript
   - Vanilla JS
 ---

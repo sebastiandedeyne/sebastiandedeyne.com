@@ -3,7 +3,7 @@ title: "Ebb and flow"
 slug: ebb-and-flow
 date: 2021-08-09
 categories: ["articles"]
-keywords:
+tags:
   - Thoughts
 ---
 
@@ -16,4 +16,3 @@ There are times you need to focus on work. There are times you need to focus on 
 The trick is to learn to pace yourself moving in one direction, or you'll become overwhelmed. Don't let ebb become drought, or flow become flood. If you try to maintain an arbitrary, exact balance at all times, you risk not moving forward on any focus area.
 
 This can be applied to other places as well, like working on a main project vs a side project, or maintaining [essential vs accidental complexity](https://www.simplethread.com/why-does-it-take-so-long-to-build-software/) in a software project.
-

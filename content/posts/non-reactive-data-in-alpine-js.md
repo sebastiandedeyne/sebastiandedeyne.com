@@ -3,7 +3,7 @@ title: "Non-reactive data in Alpine.js"
 slug: non-reactive-data-in-alpine-js
 date: 2022-06-01
 categories: ["articles"]
-keywords:
+tags:
   - Alpine
 ---
 

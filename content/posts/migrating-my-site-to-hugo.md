@@ -2,7 +2,7 @@
 title: "Migrating my site to Hugo"
 date: 2019-06-19T18:17:47+02:00
 categories: ["articles"]
-keywords:
+tags:
     - static sites
     - this website
 ---
