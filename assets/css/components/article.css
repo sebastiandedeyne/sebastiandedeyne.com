@@ -31,15 +31,6 @@ article header h2 {
   margin-top: var(--spacing);
 }
 
-
-.markup--intro > p:first-of-type:after {
-  content: '▯▯▯';
-  display: block;
-  padding: 2.5rem 0 2rem;
-  text-align: center;
-  color: blue;
-}
-
 article h2 {
   font-size: var(--text-lg);
   font-weight: 700;
@@ -102,7 +93,7 @@ article blockquote > :first-child {
 article pre,
 .markup code {
   font-family: var(--font-mono);
-  font-size: var(--font-small);
+  font-size: var(--text-sm);
 }
 
 article pre {
@@ -110,9 +101,13 @@ article pre {
   overflow-x: auto;
   border-radius: var(--border-radius);
   line-height: 2.2;
-  margin-top: 2rem;
-  margin-bottom: 1rem;
+  margin-top: calc(var(--spacing) * 2);
+  margin-bottom: var(--spacing);
   padding: var(--spacing) calc(var(--spacing) * 2);
+}
+
+article pre + pre {
+  margin-top: 0;
 }
 
 article code:not(pre code) {

@@ -3,7 +3,11 @@
   {{ range .Paginator.Pages }}
     <article>
       {{ partial "header" (dict "Page" . "Permalink" $permalink) }}
-      <p>{{ .Summary }}</p>
+      {{ if (in .Params.categories "articles") }}
+        <p>{{ .Summary }}</p>
+      {{ else }}
+        {{ .Content }}
+      {{ end }}
     </article>
     <hr>
   {{ end }}

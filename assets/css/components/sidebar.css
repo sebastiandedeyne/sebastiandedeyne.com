@@ -22,19 +22,8 @@
   text-decoration: underline;
 }
 
-.sidebar a:after {
-  content: '';
-  position: absolute;
-}
-
 .sidebar a[aria-current="page"]:after {
   content: '#';
+  position: absolute;
   color: blue;
-}
-
-.sidebar a[href*="twitter"]:hover:after,
-.sidebar a[href*="xml"]:hover:after {
-  content: '↗';
-  font-family: system-ui;
-  color: magenta;
 }

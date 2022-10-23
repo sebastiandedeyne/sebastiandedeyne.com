@@ -4,7 +4,6 @@ slug: granular-interfaces
 date: 2022-09-05
 categories: ["articles"]
 image: /media/granular-interfaces.png
-intro: true
 tags:
   - Programming
   - PHP
@@ -13,6 +12,7 @@ tags:
 A few weeks ago a spec change for an application we're working on forced us to refactor part of the codebase. It was food for thought about the flexibility granular interfaces provide, and choosing the right abstraction at the right time. This is a short writeup on the thought process we went through as we updated our logic to support a new feature now and allow more options in the future.
 
 <!--more-->
+<hr>
 
 Imagine we were hired to build a course platform. We're working on the code that grants access to a course after a user purchased it.
 

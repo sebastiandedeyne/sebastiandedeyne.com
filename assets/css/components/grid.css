@@ -8,7 +8,7 @@
     minmax(20rem, 32rem)
     1fr;
   column-gap: calc(var(--spacing) * 3);
-  padding: 0 2rem;
+  padding: 0 2rem calc(var(--spacing) * 4);
   min-height: 100vh;
 }
 

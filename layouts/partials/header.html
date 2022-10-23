@@ -6,12 +6,18 @@
     {{ $permalink := .Permalink }}
     {{ range .Page.Params.tags }}
         {{ $url := absURL (print "/tags/" (urlize .) "/") }}
-        <a href="{{ $url }}" {{ if eq $url $permalink }}aria-current="page"{{ end }}>#{{ . | lower }}</a>
+        <a href="{{ $url }}" {{ if eq $url $permalink }}aria-current="page"{{ end }}>#{{ . | lower | urlize }}</a>
     {{ end }}
   </p>
   <h2>
-    <a href="{{ .Page.Permalink }}">
-      {{ .Page.Title }}
-    </a>
+    {{ if .Page.Params.link }}
+      <a href="{{ .Page.Params.link }}" class="link-external">
+        {{ .Page.Title }}
+      </a>
+    {{ else }}
+      <a href="{{ .Page.Permalink }}">
+        {{ .Page.Title }}
+      </a>
+    {{ end }}
   </h2>
 </header>
