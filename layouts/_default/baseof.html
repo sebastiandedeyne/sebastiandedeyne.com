@@ -55,29 +55,35 @@
   <body>
     <div class="grid">
       <nav class="sidebar">
-        <header>
+        <header class="sidebar-header">
           <a href="/">Seb De Deyne</a>
         </header>
         {{ $section := index (split .RelPermalink "/") 1 }}
         {{ if not (in (slice "about" "speaking" "uses" "now" "newsletter") $section) }}
           {{ $section = "blog" }}
         {{ end }}
-        <ul>
+        <ul class="sidebar-blog">
           <li><a href="/" {{ if eq $section "blog" }}aria-current="page"{{ end }}>Blog</a></li>
         </ul>
-        <ul>
+        <ul class="sidebar-pages">
           <li><a href="/about" {{ if eq $section "about" }}aria-current="page"{{ end }}>About</a></li>
           <li><a href="/speaking" {{ if eq $section "speaking" }}aria-current="page"{{ end }}>Speaking</a></li>
           <li><a href="/uses" {{ if eq $section "uses" }}aria-current="page"{{ end }}>Uses</a></li>
           <li><a href="/now" {{ if eq $section "now" }}aria-current="page"{{ end }}>Now</a></li>
         </ul>
-        <ul>
+        <ul class="sidebar-follow">
           <li><a href="/newsletter" {{ if eq $section "newsletter" }}aria-current="page"{{ end }}>Newsletter</a></li>
           <li><a href="https://twitter.com/sebdedeyne" class="link-external">Twitter</a></li>
           <li><a href="/index.xml" class="link-external">RSS</a></li>
         </ul>
       </nav>
       {{ block "main" . }}{{ end }}
+      <footer class="footer">
+        <p>
+          &lt;!-- est.2015 <a href="/">Seb De Deyne</a><br>
+          &nbsp;&nbsp;&nbsp;&nbsp; syntax highlighing with <a href="https://torchlight.dev">Torchlight</a> --&gt;
+        </p>
+      </footer>
     </div>
   </body>
 </html>

@@ -1,4 +1,11 @@
 .sidebar {
+  display: grid;
+  grid-template-areas:
+    "header"
+    "blog"
+    "pages"
+    "follow";
+  align-content: start;
   padding-top: calc(var(--spacing) * 2);
   padding-bottom: var(--spacing);
   font-family: var(--font-mono);
@@ -6,6 +13,23 @@
   border-right: 1px solid gainsboro;
   padding-right: calc(var(--spacing) * 3);
 }
+
+@media (max-width: 600px) {
+  .sidebar {
+    grid-template-areas:
+      "header header"
+      "blog blog"
+      "pages follow";
+    border: none;
+    padding: 0;
+    margin: calc(var(--spacing) * 2) 0;
+  }
+}
+
+.sidebar-header { grid-area: header; }
+.sidebar-blog { grid-area: blog; }
+.sidebar-pages { grid-area: pages; }
+.sidebar-follow { grid-area: follow; }
 
 .sidebar ul {
   list-style: none;
@@ -15,7 +39,6 @@
 .sidebar header {
   text-transform: uppercase;
   font-weight: bold;
-  margin-bottom: var(--spacing);
 }
 
 .sidebar a:hover {

@@ -1,11 +1,3 @@
 {{ define "main" }}
-  {{ $permalink := .Permalink }}
-  {{ range .Paginator.Pages }}
-    <article>
-      {{ partial "header" (dict "Page" . "Permalink" $permalink) }}
-      <p>{{ .Summary }}</p>
-    </article>
-    <hr>
-  {{ end }}
-  {{ template "_internal/pagination.html" . }}
+  {{ partial "list" . }}
 {{ end }}
