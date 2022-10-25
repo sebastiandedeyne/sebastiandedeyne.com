@@ -13,14 +13,14 @@ This blog's design has remained roughly the same the past two years. I tweaked t
 
 ## Desk research & design inspiration
 
-Before I design a website, I like to set up a primary goal to fall back to. For my blog, I went with *"minimal enough to not get bored of it, but with enough personality"*. 
+Before I design a website, I like to set up a primary goal to fall back to. For my blog, I went with *"minimal enough to not get bored of it, but with enough personality"*.
 
 I've had designs with exotic typography or a bunch of flair. But after a few weeks, I tend to get bored of them and fall back to a minimal black and white design. This time I wanted more than a neutral style. I wanted some elements that add personality to the site without overdoing it, or I'd get tired of it after a few weeks.
 
 First I went through my bookmarks to dig up some inspiration. Here are some that stood out the most.
 
 - [Elise Hein](https://elisehe.in/) — Love the typography here. I really like how some elements are pulled out of the single column layout. This turned out to be a big source of inspiration for this site's grid.
-- [Rasmus](https://rsms.me/) — Great content structure, great typography, lovely colors. Completely different style than what I ended up with, but seeing good work like this is an inspiration. 
+- [Rasmus](https://rsms.me/) — Great content structure, great typography, lovely colors. Completely different style than what I ended up with, but seeing good work like this is an inspiration.
 - [Robin Rendle](https://www.robinrendle.com/) — Interesting home page, and I like the split between "notes" and "essays". I didn't end up splitting mine up, but I might in the future.
 - [Paco Coursey](https://paco.me/) — Perfect example of a minimal design. Clean, good typography, and a few elements to keep it interesting. However, a bit too minimal to count towards my primary goal.
 - [Daring Fireball](https://daringfireball.net/) — I always liked the simplicity of Daring Fireball's content structure. Just one big stream of content, some links, some posts.
@@ -122,6 +122,7 @@ The biggest tradeoff is build speed. Hugo is inhumanly fast (300ms, remember?). 
 Besides highlighting, Torchlight has fun features like code collapsing. And I don't need to start every PHP snippet with a `<?php` tag anymore!
 
 ```php
+// torchlight! {"summaryCollapsedIndicator": "Click to expand…"}
 class User
 { // [tl! collapse:start]
     public function __construct(
