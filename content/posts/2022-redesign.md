@@ -7,7 +7,7 @@ tags:
     - meta
 ---
 
-This blog's design has remained roughly the same the past two years. I tweaked the style a lot, but changes were incremental and stay true to the plain black and white neutral style. Codebases rot over time, and small changes slowly but surely introduce technical debt. I started cleaning house, and before I knew it I was embarked in a full redesign.
+This blog's design has remained roughly the same the past two years. I tweaked the style a lot, but changes were incremental and stay true to the neutral black and white style. Codebases rot over time, and small changes slowly but surely introduce technical debt. I started cleaning house, and before I knew it I was embarked in a full redesign.
 
 <!--more-->
 
@@ -15,16 +15,16 @@ This blog's design has remained roughly the same the past two years. I tweaked t
 
 Before I design a website, I like to set up a primary goal to fall back to. For my blog, I went with *"minimal enough to not get bored of it, but with enough personality"*.
 
-I've had designs with exotic typography or a bunch of flair. But after a few weeks, I tend to get bored of them and fall back to a minimal black and white design. This time I wanted more than a neutral style. I wanted some elements that add personality to the site without overdoing it, or I'd get tired of it after a few weeks.
+I've had designs with exotic typography or a bunch of flair. But after a few weeks, I tend to get bored of them and fall back to a minimal design. This time I wanted more than a neutral style. I wanted some elements that add personality to the site without overdoing it, without getting tired of them after a few weeks.
 
 First I went through my bookmarks to dig up some inspiration. Here are some that stood out the most.
 
 - [Elise Hein](https://elisehe.in/) — Love the typography here. I really like how some elements are pulled out of the single column layout. This turned out to be a big source of inspiration for this site's grid.
-- [Rasmus](https://rsms.me/) — Great content structure, great typography, lovely colors. Completely different style than what I ended up with, but seeing good work like this is an inspiration.
+- [Rasmus](https://rsms.me/) — Great content structure, great typography, lovely colors. Completely different style than what I ended up with, but I love this design.
 - [Robin Rendle](https://www.robinrendle.com/) — Interesting home page, and I like the split between "notes" and "essays". I didn't end up splitting mine up, but I might in the future.
-- [Paco Coursey](https://paco.me/) — Perfect example of a minimal design. Clean, good typography, and a few elements to keep it interesting. However, a bit too minimal to count towards my primary goal.
+- [Paco Coursey](https://paco.me/) — Perfect example of a minimal design. Clean, good typography, and a few elements to keep it interesting. However, a bit too minimal for my redesign goal.
 - [Daring Fireball](https://daringfireball.net/) — I always liked the simplicity of Daring Fireball's content structure. Just one big stream of content, some links, some posts.
-- [Dries Depoorter](https://driesdepoorter.be/) — Dries Depoorter is a digital artist. His site didn't inspire me, but I recently saw him speak at Full Stack Europe, and it reignited a spark to be more creative in digital projects. Not everything needs to be as clean or efficient as possible.
+- [Dries Depoorter](https://driesdepoorter.be/) — Dries Depoorter is a digital artist. I recently saw him speak at Full Stack Europe, and he reignited a spark to be more creative in digital projects.
 
 Now, on to design and implementation.
 
