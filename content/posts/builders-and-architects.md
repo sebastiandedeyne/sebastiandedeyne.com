@@ -3,7 +3,7 @@ title: "Builders and architects"
 slug: builders-and-architects
 date: 2020-05-28
 link: https://stitcher.io/blog/builders-and-architects-two-types-of-programmers
-keywords:
+tags:
   - programming
 ---
 

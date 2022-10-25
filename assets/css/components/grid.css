@@ -1,0 +1,61 @@
+.grid {
+  display: grid;
+  grid-template-columns:
+    [left-edge] minmax(calc(var(--spacing) * 2), 1fr)
+    [sidebar-start] auto
+    [sidebar-end content-start] minmax(20rem, 32rem)
+    [content-end] minmax(calc(var(--spacing) * 2), 1fr)
+    [right-edge];
+  column-gap: calc(var(--spacing) * 3);
+  padding: 0 calc(var(--spacing) * 2);
+  min-height: 100vh;
+}
+
+@media (max-width: 600px) {
+  .grid {
+    grid-template-columns:
+      [left-edge] calc(var(--spacing) * 2)
+      [sidebar-start content-start] auto
+      [sidebar-end content-end] calc(var(--spacing) * 2)
+      [right-edge];
+    column-gap: 0;
+    padding: 0;
+  }
+}
+
+.grid > .sidebar {
+  grid-column: sidebar-start / sidebar-end;
+  grid-row: 1 / 999;
+}
+
+.grid > article {
+  display: contents;
+}
+
+.grid > *,
+.grid > article > * {
+  grid-column: content-start / content-end;
+}
+
+.grid > article > pre {
+  grid-column: sidebar-start / right-edge;
+}
+
+.grid > article > blockquote {
+  grid-column: content-start / right-edge;
+}
+
+@media (max-width: 600px) {
+  .grid > article > pre,
+  .grid > article > blockquote {
+    grid-column: left-edge / right-edge;
+  }
+}
+
+.grid > article > p:has(img) {
+  grid-column: left-edge / right-edge;
+}
+
+.grid > .footer {
+  grid-column: left-edge / right-edge;
+}

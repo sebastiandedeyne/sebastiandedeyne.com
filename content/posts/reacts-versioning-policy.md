@@ -2,7 +2,7 @@
 title: "React's versioning policy"
 date: 2019-10-08
 link: https://reactjs.org/docs/faq-versioning.html
-keywords:
+tags:
     - React
     - JavaScript
     - OSS

@@ -4,7 +4,7 @@ title: "Vite with Laravel: Using Inertia.js"
 slug: vite-with-laravel/inertia
 categories: ["articles"]
 series: vite-with-laravel
-keywords:
+tags:
   - Laravel
   - Vite
   - Frontend
@@ -16,9 +16,9 @@ summary: |
 
 Time for the last—and my favorite—post in the Vite series: using [Inertia.js](https://inertiajs.com).
 
-Inertia suggests two ways to resolve views in the docs: with `require` or with `import`. 
+Inertia suggests two ways to resolve views in the docs: with `require` or with `import`.
 
-- `require` bundles all your pages in a single file, it's a Webpack-specific implementation 
+- `require` bundles all your pages in a single file, it's a Webpack-specific implementation
 - `import` code splits your pages to multiple chunks, and is part of ECMAScript
 
 Because `import` is a standard, it's supported our of the box. One little catch compared to usign it with Webpack: with Vite, you _must_ specify the extension in the `import` template literal.
@@ -38,7 +38,7 @@ If you'd rather bundle your pages in a single file (similar to using `require` w
 ```js
 resolveComponent: (name) => {
     const pages = import.meta.globEager(`./Pages/${name}.vue`);
-    
+
     return pages[`./Pages/${name}.vue`].default;
 },
 ```
@@ -74,7 +74,7 @@ A setup like this can be bundled with a glob:
 ```js
 resolveComponent: async (name) => {
     const pages = import.meta.glob('./app/**/views/*.vue');
-    
+
     return (await pages[`${name}.vue`]()).default;
 },
 ```
@@ -82,4 +82,3 @@ resolveComponent: async (name) => {
 That concludes the Vite with Laravel series! If you have questions or requests for more posts, talk to me on [Twitter](https://twitter.com/sebdedeyne).
 
 ## Path aliases
-

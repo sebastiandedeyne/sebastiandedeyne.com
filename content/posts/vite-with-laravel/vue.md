@@ -4,7 +4,7 @@ title: "Vite with Laravel: Using Vue.js"
 slug: vite-with-laravel/vue
 categories: ["articles"]
 series: vite-with-laravel
-keywords:
+tags:
   - Laravel
   - Vite
   - Frontend

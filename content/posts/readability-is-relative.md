@@ -2,7 +2,7 @@
 date: 2018-12-06
 title: Readability is relative
 categories: ["articles"]
-keywords:
+tags:
     - programming
 ---
 

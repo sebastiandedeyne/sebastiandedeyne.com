@@ -3,7 +3,7 @@ title: "How to do a case sensitive file rename in git on macOS"
 slug: how-to-do-a-case-sensitive-file-rename-in-git-on-macos
 date: 2021-03-11
 categories: ["articles"]
-keywords:
+tags:
   - Git
 ---
 

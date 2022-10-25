@@ -3,7 +3,7 @@ title: "Complexity has to live somewhere"
 slug: complexity-has-to-live-somewhere
 date: 2020-05-18
 link: https://ferd.ca/complexity-has-to-live-somewhere.html
-keywords:
+tags:
   - programming
 ---
 

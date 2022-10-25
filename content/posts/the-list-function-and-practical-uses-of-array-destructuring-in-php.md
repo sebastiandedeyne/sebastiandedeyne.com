@@ -3,7 +3,7 @@ date: 2017-05-15
 title: The list function & practical uses of array destructuring in PHP
 subtitle: Written for PHP ^7.1
 categories: ["articles"]
-keywords:
+tags:
   - PHP
 ---
 

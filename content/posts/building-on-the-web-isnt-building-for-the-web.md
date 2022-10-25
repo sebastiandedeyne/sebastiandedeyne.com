@@ -3,7 +3,7 @@ title: "Building on the web isn't building for the web"
 slug: building-on-the-web-isnt-building-for-the-web
 date: 2020-10-06
 categories: ["articles"]
-keywords:
+tags:
   - The web
 summary: |
   Today I read ["Web Apps Are Not A Thing, Please Stop"](https://www.robinrendle.com/notes/web-apps-are-not-a-thing-please-stop) by Robin Rendle, who says we should stop treating websites different from web apps.

@@ -4,7 +4,7 @@ title: Enter & leave transitions
 slug: javascript-framework-diet/enter-leave-transitions
 categories: ["articles"]
 series: javascript-framework-diet
-keywords:
+tags:
   - JavaScript
   - Vanilla JS
 ---

@@ -2,7 +2,7 @@
 date: 2019-11-06
 title: "The rule of least power"
 link: https://www.w3.org/2001/tag/doc/leastPower.html
-keywords:
+tags:
     - programming
     - the web
 ---

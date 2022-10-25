@@ -4,7 +4,7 @@ slug: the-monetization-trap
 date: 2021-08-10
 categories: ["articles"]
 ad: false
-keywords:
+tags:
   - Thoughts
   - Monetization
 ---

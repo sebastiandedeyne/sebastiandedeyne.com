@@ -2,7 +2,7 @@
 title: "Live updating Oh Dear! status pages"
 date: 2019-09-23
 categories: ["articles"]
-keywords:
+tags:
     - JavaScript
 ---
 

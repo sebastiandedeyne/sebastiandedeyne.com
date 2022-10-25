@@ -2,7 +2,7 @@
 title: "Laravel Typescript Transformer"
 slug: laravel-typescript-transformer
 date: 2020-09-29T08:00:00+02:00
-keywords:
+tags:
   - Laravel
   - TypeScript
   - Inertia

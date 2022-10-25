@@ -3,8 +3,9 @@ title: "Using markdown in HTML (in markdown) in Hugo"
 slug: using-markdown-in-html-in-markdown-in-hugo
 date: 2022-07-25
 categories: ["articles"]
-keywords:
+tags:
   - Hugo
+summary: How to write HTML in Hugo without losing markdown capabilities.
 ---
 
 The markdown specification allows you to inline HTML in a markdown document.

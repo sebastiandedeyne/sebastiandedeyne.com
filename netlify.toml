@@ -1,9 +1,9 @@
 [build]
-command = "hugo --minify"
+command = "hugo --minify && npm i -g @torchlight-api/torchlight-cli && npx torchlight"
 publish = "public"
 
 [build.environment]
-HUGO_VERSION = "0.81.0"
+HUGO_VERSION = "0.101.0"
 HUGO_ENV = "production"
 
 [[redirects]]

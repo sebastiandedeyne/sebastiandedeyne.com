@@ -2,7 +2,7 @@
 title: "A Tale of Client Side Framework Performance"
 slug: a-tale-of-client-side-framework-performance
 date: 2020-09-20
-keywords:
+tags:
   - JavaScript
   - performance
 ---

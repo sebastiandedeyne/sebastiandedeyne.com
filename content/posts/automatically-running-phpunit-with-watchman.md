@@ -2,7 +2,7 @@
 date: 2017-04-12
 title: Automatically running PHPUnit with Watchman
 categories: ["articles"]
-keywords:
+tags:
   - PHP
   - PHPUnit
   - testing

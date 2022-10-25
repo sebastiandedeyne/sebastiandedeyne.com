@@ -3,7 +3,7 @@ title: "Middleware as a Laravel service provider"
 slug: middleware-as-a-laravel-service-provider
 date: 2020-06-03
 categories: ["articles"]
-keywords:
+tags:
   - Laravel
 description: How to clean up service providers in large Laravel apps with middleware
 ---

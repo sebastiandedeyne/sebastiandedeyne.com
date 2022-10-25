@@ -3,7 +3,7 @@ title: "When to add types and when to infer in TypeScript"
 slug: when-to-add-types-and-when-to-infer-in-typescript
 date: 2020-12-15
 categories: ["articles"]
-keywords:
+tags:
   - TypeScript
 ---
 

@@ -4,7 +4,7 @@ title: Unix things I always forget
 slug: unix-things
 categories: ["articles"]
 series: unix-things
-keywords:
+tags:
   - CLI
 summary: |
   A short intro on my second series: Unix things I always forget!

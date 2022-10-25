@@ -3,7 +3,7 @@ title: "Mailcoach's (lack of) JavaScript stack"
 slug: mailcoachs-lack-of-javascript-stack
 date: 2020-01-30
 categories: ["articles"]
-keywords:
+tags:
   - JavaScript
   - Spatie
 ---

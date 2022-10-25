@@ -1,0 +1,52 @@
+.newsletter-form {
+  margin-top: calc(var(--spacing) * 2);
+}
+
+.newsletter-form-input-wrapper {
+  display: flex;
+  gap: 1rem;
+}
+
+.newsletter-form p {
+  font-size: var(--text-sm);
+  margin-top: 0.5em;
+  color: gray;
+}
+
+.newsletter-form p a {
+  color: currentColor;
+  text-decoration: none;
+}
+
+input[type="email"],
+input[type="submit"] {
+  --shadow-color: cyan;
+
+  display: inline-block;
+  font: inherit;
+  font-family: var(--font-mono);
+  border-radius: 0;
+  -webkit-appearance: none;
+  border: 1px solid transparent;
+  margin: 0;
+  box-shadow: 2px 2px 0 0 white, 4px 4px 0 0 var(--shadow-color);
+}
+
+input[type="email"]:focus,
+input[type="submit"]:focus {
+  --shadow-color: magenta;
+
+  outline: none;
+}
+
+input[type="email"] {
+  border: 2px solid black;
+  padding: 0.25rem 0.5rem;
+}
+
+input[type="submit"] {
+  background-color: black;
+  color: white;
+  font-weight: 500;
+  padding: 0.25rem 0.75rem;
+}

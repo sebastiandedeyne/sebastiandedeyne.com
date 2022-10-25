@@ -2,7 +2,7 @@
 title: "BlurHash"
 slug: blurhash
 date: 2020-10-19T06:00:00
-keywords:
+tags:
   - design
   - images
   - libraries

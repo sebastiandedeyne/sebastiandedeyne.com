@@ -2,7 +2,7 @@
 title: "Why Do We Interface"
 slug: why-do-we-interface
 date: 2020-09-21
-keywords:
+tags:
   - UX
   - design
 ---

@@ -4,7 +4,7 @@ title: Selecting elements (part 2)
 slug: javascript-framework-diet/selecting-elements-part-2
 categories: ["articles"]
 series: javascript-framework-diet
-keywords:
+tags:
   - JavaScript
   - Vanilla JS
 ---

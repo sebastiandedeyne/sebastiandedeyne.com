@@ -3,7 +3,7 @@ date: 2018-08-14
 title: Mo' models mo' problems
 subtitle: A dive into `v-model` and `.sync`
 categories: ["articles"]
-keywords:
+tags:
   - Vue.js
   - JavaScript
 ---

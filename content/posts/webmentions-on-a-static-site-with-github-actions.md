@@ -3,7 +3,7 @@ title: "Webmentions on a static site with GitHub Actions"
 slug: webmentions-on-a-static-site-with-github-actions
 date: 2020-03-27
 categories: ["articles"]
-keywords:
+tags:
   - webmentions
   - static sites
   - GitHub Actions
@@ -376,8 +376,4 @@ jobs:
 
 Now that everything's set up, commits our pouring in with freshly fetched webmentions!
 
-<img
-  src="/media/webmentions-github-commits.jpg"
-  alt="Screenshot of GitHub commits"
-  class="bordered"
-/>
+![Screenshot of GitHub commits](/media/webmentions-github-commits.jpg)

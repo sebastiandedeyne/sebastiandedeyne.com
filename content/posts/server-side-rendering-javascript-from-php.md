@@ -2,7 +2,7 @@
 date: 2018-03-11
 title: Server side rendering JavaScript from PHP
 categories: ["articles"]
-keywords:
+tags:
   - PHP
   - JavaScript
   - ssr

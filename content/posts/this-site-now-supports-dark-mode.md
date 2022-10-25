@@ -2,7 +2,7 @@
 title: "This site now supports dark mode"
 date: 2019-10-09
 categories: ["articles"]
-keywords:
+tags:
     - this website
 ---
 

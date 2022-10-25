@@ -3,7 +3,7 @@ title: "Gary Bernhardt on tests and TypeScript"
 slug: gary-bernhardt-on-tests-and-typescript
 date: 2020-04-14
 link: https://www.executeprogram.com/blog/are-tests-necessary-in-typescript
-keywords:
+tags:
   - TypeScript
 ---
 

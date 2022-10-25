@@ -4,7 +4,7 @@ title: Rsync
 slug: unix-things/rsync
 series: unix-things
 categories: ["articles"]
-keywords:
+tags:
   - CLI
 ---
 

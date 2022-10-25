@@ -2,7 +2,7 @@
 date: 2018-07-31
 title: "Distraction-less user interfaces: Delayed transient states"
 categories: ["articles"]
-keywords:
+tags:
   - ux
   - JavaScript
   - Vue.js

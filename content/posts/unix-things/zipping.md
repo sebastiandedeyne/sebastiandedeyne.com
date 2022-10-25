@@ -4,7 +4,7 @@ title: Zipping
 slug: unix-things/zipping
 series: unix-things
 categories: ["articles"]
-keywords:
+tags:
   - CLI
 ---
 

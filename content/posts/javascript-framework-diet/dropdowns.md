@@ -4,7 +4,7 @@ title: Dropdowns
 slug: javascript-framework-diet/dropdowns
 categories: ["articles"]
 series: javascript-framework-diet
-keywords:
+tags:
   - JavaScript
   - Vanilla JS
 ---

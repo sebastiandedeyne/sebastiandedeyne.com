@@ -4,7 +4,7 @@ slug: unix-things/finding-out-which-ports-are-in-use
 series: unix-things
 date: 2021-07-09
 categories: ["articles"]
-keywords:
+tags:
   - CLI
 ---
 

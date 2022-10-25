@@ -4,7 +4,7 @@ title: JavaScript Framework Diet
 slug: javascript-framework-diet
 categories: ["articles"]
 series: javascript-framework-diet
-keywords:
+tags:
   - JavaScript
   - Vanilla JS
 summary: |

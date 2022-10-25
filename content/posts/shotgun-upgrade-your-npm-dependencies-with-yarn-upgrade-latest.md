@@ -3,7 +3,7 @@ title: "Shotgun upgrade your npm dependencies with yarn upgrade --latest"
 slug: shotgun-upgrade-your-npm-dependencies-with-yarn-upgrade-latest
 date: 2020-04-27
 categories: ["articles"]
-keywords:
+tags:
   - npm
   - JavaScript
 ---

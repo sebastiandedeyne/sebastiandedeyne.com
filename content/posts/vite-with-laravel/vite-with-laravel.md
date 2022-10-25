@@ -4,7 +4,7 @@ title: Vite with Laravel
 slug: vite-with-laravel
 categories: ["articles"]
 series: vite-with-laravel
-keywords:
+tags:
   - Laravel
   - Vite
   - Frontend
@@ -131,33 +131,33 @@ The `bootstrap.js` file also has some `requires` that need to be reworked.
 ```diff
 + import _ from 'lodash';
 + import axios from 'axios';
-+ 
++
 - window._ = require('lodash');
 + window._ = _;
-  
+
   /**
    * We'll load the axios HTTP library which allows us to easily issue requests
    * to our Laravel back-end. This library automatically handles sending the
    * CSRF token as a header based on the value of the "XSRF" token cookie.
    */
-  
+
 - window.axios = require('axios');
 + window.axios = axios;
-  
+
   window.axios.defaults.headers.common['X-Requested-With'] = 'XMLHttpRequest';
-  
+
   /**
    * Echo exposes an expressive API for subscribing to channels and listening
    * for events that are broadcast by Laravel. Echo and event broadcasting
    * allows your team to easily build robust real-time web applications.
    */
-  
+
   // import Echo from 'laravel-echo';
 + // import Pusher from 'pusher-js';
-  
+
 - // window.Pusher = require('pusher-js');
 + // window.Pusher = Pusher;
-  
+
   // window.Echo = new Echo({
   //     broadcaster: 'pusher',
   //     key: process.env.MIX_PUSHER_APP_KEY,
@@ -172,9 +172,9 @@ If we run `npm run dev`, the dev server should start at `http://localhost:3000`.
 
 ## Laravel configuration
 
-With the build pipeline up and running, it's time to load the assets in the application. 
+With the build pipeline up and running, it's time to load the assets in the application.
 
-First the dev server. When we run `npm run dev`, Vite spins up a dev server with hot module replacement enabled on `localhost:3000`. 
+First the dev server. When we run `npm run dev`, Vite spins up a dev server with hot module replacement enabled on `localhost:3000`.
 
 To load our app, load Vite's runtime, then create a `module` `script` tag that points to our entry filename on `localhost:3000`.
 
@@ -262,7 +262,7 @@ use Illuminate\Support\HtmlString;
 function vite_assets(): HtmlString
 {
     $devServerIsRunning = false;
-    
+
     if (app()->environment('local')) {
         try {
             Http::get("http://localhost:3000");
@@ -270,18 +270,18 @@ function vite_assets(): HtmlString
         } catch (Exception) {
         }
     }
-    
+
     if ($devServerIsRunning) {
         return new HtmlString(<<<HTML
             <script type="module" src="http://localhost:3000/@vite/client"></script>
             <script type="module" src="http://localhost:3000/resources/js/app.js"></script>
         HTML);
     }
-    
+
     $manifest = json_decode(file_get_contents(
         public_path('build/manifest.json')
     ), true);
-    
+
     return new HtmlString(<<<HTML
         <script type="module" src="/build/{$manifest['resources/js/app.js']['file']}"></script>
         <link rel="stylesheet" href="/build/{$manifest['resources/js/app.js']['css'][0]}">

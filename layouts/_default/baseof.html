@@ -4,7 +4,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
     {{ if not (eq .Title $.Site.Title) }}
-      <title>{{ .Title }} — {{ $.Site.Title }}</title>
+      <title>{{ .Title }} \ {{ $.Site.Title }}</title>
     {{ else }}
       <title>{{ $.Site.Title }}</title>
     {{ end }}
@@ -16,19 +16,18 @@
     <link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
     <meta name="theme-color" content="#ffffff">
 
-    <link rel="alternate" type="application/rss+xml" href="/index.xml" title="Sebastian De Deyne" />
-    <link rel="alternate" type="application/rss+xml" href="/articles/index.xml" title="Sebastian De Deyne: Articles" />
-    <link rel="alternate" type="application/rss+xml" href="/newsletter/index.xml" title="Sebastian De Deyne: Newsletter" />
+    <link rel="alternate" type="application/rss+xml" href="/index.xml" title="Seb De Deyne" />
+    <link rel="alternate" type="application/rss+xml" href="/articles/index.xml" title="Seb De Deyne: Articles" />
+    <link rel="alternate" type="application/rss+xml" href="/newsletter/index.xml" title="Seb De Deyne: Newsletter" />
 
     <link rel="webmention" href="https://webmention.io/sebastiandedeyne.com/webmention" />
     <link rel="pingback" href="https://webmention.io/sebastiandedeyne.com/xmlrpc" />
 
-    <link rel="stylesheet" type="text/css" href="/fonts/fonts.css">
-    {{ with resources.Get "css/reset.css" | minify }}
-      <style>{{ .Content | safeCSS }}</style>
-    {{ end }}
-    {{ with resources.Get "css/site.css" | minify }}
-      <style>{{ .Content | safeCSS }}</style>
+    {{ $site := resources.Get "css/site.css" }}
+    {{ $fonts := resources.Get "css/fonts.css" }}
+    {{ $components := resources.Match "css/components/**.css" }}
+    {{ with slice $fonts $site | append $components | resources.Concat "assets/site.css" | resources.Minify  }}
+      <link rel="stylesheet" href="{{ .Permalink }}">
     {{ end }}
 
     {{ block "meta" . }}
@@ -54,41 +53,37 @@
     {{ end }}
   </head>
   <body>
-    <div class="layout">
-      <main class="main">
-        <div class="wrap">
-          {{ block "main" . }}{{ end }}
-        </div>
-      </main>
+    <div class="grid">
+      <nav class="sidebar">
+        <header class="sidebar-header">
+          <a href="/">Seb De Deyne</a>
+        </header>
+        {{ $section := index (split .RelPermalink "/") 1 }}
+        {{ if not (in (slice "about" "speaking" "uses" "now" "newsletter") $section) }}
+          {{ $section = "blog" }}
+        {{ end }}
+        <ul class="sidebar-blog">
+          <li><a href="/" {{ if eq $section "blog" }}aria-current="page"{{ end }}>Blog</a></li>
+        </ul>
+        <ul class="sidebar-pages">
+          <li><a href="/about" {{ if eq $section "about" }}aria-current="page"{{ end }}>About</a></li>
+          <li><a href="/speaking" {{ if eq $section "speaking" }}aria-current="page"{{ end }}>Speaking</a></li>
+          <li><a href="/uses" {{ if eq $section "uses" }}aria-current="page"{{ end }}>Uses</a></li>
+          <li><a href="/now" {{ if eq $section "now" }}aria-current="page"{{ end }}>Now</a></li>
+        </ul>
+        <ul class="sidebar-follow">
+          <li><a href="/newsletter" {{ if eq $section "newsletter" }}aria-current="page"{{ end }}>Newsletter</a></li>
+          <li><a href="https://twitter.com/sebdedeyne" class="link-external">Twitter</a></li>
+          <li><a href="/index.xml" class="link-external">RSS</a></li>
+        </ul>
+      </nav>
+      {{ block "main" . }}{{ end }}
       <footer class="footer">
-        <strong>
-          <a href="/">Sebastian De Deyne</a>
-          <br> <span>Designer & developer at Spatie</span>
-        </strong>
-        <nav class="footer-nav">
-          <ul>
-            <li class="{{ cond (ne (in (slice "/uses/" "/newsletter/") .RelPermalink) true) "active" "" }}">
-              <a href="/">Blog</a>
-            </li>
-          </ul>
-          <ul>
-            <li class="{{ cond (eq .RelPermalink "/uses/") "active" "" }}">
-              <a href="/uses">Uses</a>
-            </li>
-            <li class="{{ cond (eq .RelPermalink "/newsletter/") "active" "" }}">
-              <a href="/newsletter">Newsletter</a>
-            </li>
-          </ul>
-          <ul>
-            <li><a href="/index.xml">RSS ↗</a></li>
-            <li><a href="https://twitter.com/sebdedeyne" rel="me">Twitter ↗</a></li>
-          </ul>
-        </nav>
+        <p>
+          &lt;!-- est.2015 <a href="/">Seb De Deyne</a><br>
+          &nbsp;&nbsp;&nbsp;&nbsp; syntax highlighing with <a href="https://torchlight.dev">Torchlight</a> --&gt;
+        </p>
       </footer>
     </div>
-
-    {{ with resources.Get "css/chroma.css" | minify }}
-      <style>{{ .Content | safeCSS }}</style>
-    {{ end }}
   </body>
 </html>

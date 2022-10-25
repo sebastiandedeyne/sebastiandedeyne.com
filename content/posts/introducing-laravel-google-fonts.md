@@ -3,7 +3,7 @@ title: "Introducing Laravel Google Fonts"
 slug: introducing-laravel-google-fonts
 date: 2021-06-23
 categories: ["articles"]
-keywords:
+tags:
   - Laravel
   - Web fonts
   - Performance
@@ -17,17 +17,17 @@ Today, we're launching a new Spatie package: Laravel Google Fonts. I've [written
 Self-hosting fonts from Google Fonts isn't a new idea, but it's a tedious process. You need to download them, set up CSS, and keep them up to date over time. To make this process as smooth as possible, we created this package.
 
 First, choose your fonts on [fonts.google.com](https://fonts.google.com) and grab the CSS URL.
-    
+
 ```txt
 https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Recursive:wght@400;700&display=swap
 ```
 
 Next, install the package and publish the config file. Paste the CSS URL in the `default` font set.
-    
+
 ```txt
 composer require spatie/laravel-google-fonts
 ```
-    
+
 ```php
 // config/google-fonts.php
 

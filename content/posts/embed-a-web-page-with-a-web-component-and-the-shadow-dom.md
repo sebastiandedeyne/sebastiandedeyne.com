@@ -3,7 +3,7 @@ title: "Embed a web page with a web component and the shadow DOM"
 slug: embed-a-web-page-with-a-web-component-and-the-shadow-dom
 date: 2020-10-21T08:00:00+02:00
 categories: ["articles"]
-keywords:
+tags:
   - web components
   - JavaScript
   - vanilla JS
@@ -78,4 +78,3 @@ window.customElements.define(
 While web components have their use cases, a lot of developers tend to have the notion that web components need to replace the entire framework ecosystem to be useful.
 
 I still stand behind my conclusion from over a year ago that web components are not a replacement for tools like React and Vue. But every now and then I come across a case where a web component is the perfect fit. Today was one of those days.
-

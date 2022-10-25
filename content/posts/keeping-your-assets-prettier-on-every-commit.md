@@ -3,7 +3,7 @@ date: 2019-04-04
 title: Keep your assets Prettier on every commit
 slug: keeping-your-assets-prettier-on-every-commit
 categories: ["articles"]
-keywords:
+tags:
     - tooling
 ---
 

@@ -2,7 +2,7 @@
 date: 2017-07-04
 title: Is snapshot testing viable in PHP?
 link: https://www.sitepoint.com/snapshot-testing-viable-php
-keywords:
+tags:
   - PHP
   - PHPUnit
   - testing

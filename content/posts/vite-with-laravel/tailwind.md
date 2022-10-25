@@ -4,7 +4,7 @@ title: "Vite with Laravel: Using Tailwind CSS"
 slug: vite-with-laravel/tailwind
 categories: ["articles"]
 series: vite-with-laravel
-keywords:
+tags:
   - Laravel
   - Vite
   - Frontend
@@ -14,7 +14,7 @@ summary: |
   How to set up Tailwind CSS in Vite with Laravel.
 ---
 
-Vite includes PostCSS support, so adding Tailwind doesn't require too much configuration. 
+Vite includes PostCSS support, so adding Tailwind doesn't require too much configuration.
 
 First, install Tailwind and its peer dependencies `postcss` and `autoprefixer`.
 

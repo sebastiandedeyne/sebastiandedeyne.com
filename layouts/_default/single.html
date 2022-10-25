@@ -1,6 +1,15 @@
 {{ define "main" }}
-  <div class="markup">
-    <h1>{{ .Title }}</h1>
+  <article>
+    <header>
+      <p>
+        <a href="{{ .Permalink }}">
+          {{ substr .RelPermalink 0 -1 }}
+        </a>
+      </p>
+      <h1>
+        {{ .Title }}
+      </h1>
+    </header>
     {{ .Content }}
-  </div>
+  </article>
 {{ end }}

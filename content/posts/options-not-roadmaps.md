@@ -2,7 +2,7 @@
 title: "Options, Not Roadmaps"
 slug: options-not-roadmaps
 date: 2020-10-09T08:00:00+02:00
-keywords:
+tags:
   - Product
   - Project management
 ---

@@ -3,7 +3,7 @@ title: "Tim MacDonald on HasOne relationships in Laravel"
 slug: tim-macdonald-has-one-relationship
 date: 2021-03-30
 link: https://timacdonald.me/would-you-like-a-fry-with-that-using-a-has-one-over-a-has-many-relationship-in-laravel/
-keywords:
+tags:
   - Laravel
   - Eloquent
 ---

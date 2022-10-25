@@ -1,0 +1,52 @@
+.toc {
+  border-radius: 2px;
+  margin-bottom: 1.5rem;
+  background-color: var(--color-gray);
+  border-radius: var(--border-radius);
+  padding: 1.5rem;
+  font-size: var(--text-sm);
+  line-height: 1.5;
+}
+
+@media (min-width: 640px) {
+  .toc {
+    display: grid;
+    grid-template-columns: repeat(2, auto);
+    grid-column-gap: 1.5rem;
+  }
+}
+
+.markup + .toc {
+  margin-top:  2.625rem;
+  margin-bottom: 0;
+}
+
+.toc h2 {
+  font-weight: 600;
+  margin-bottom: 0.75rem;
+}
+
+.toc ol {
+  counter-reset: toc;
+  list-style: none;
+}
+
+.toc ol ol {
+  margin-left: 1.5rem;
+}
+
+.toc li:before {
+  display: inline-block;
+  counter-increment: toc;
+  content: counter(toc) ".";
+  width: 1.5rem;
+}
+
+.toc li.active:before {
+  content: "→";
+  font-weight: 300;
+}
+
+.toc a {
+  text-decoration: underline;
+}

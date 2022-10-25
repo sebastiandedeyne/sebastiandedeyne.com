@@ -4,7 +4,7 @@ title: "Vite with Laravel: Using TypeScript"
 slug: vite-with-laravel/typescript
 categories: ["articles"]
 series: vite-with-laravel
-keywords:
+tags:
   - Laravel
   - Vite
   - Frontend
@@ -43,10 +43,10 @@ Vite's `--clearScreen` and TypeScript's `--preserveWatchOutput` flags ensure tha
 If you want to make the difference between the two processes more clear, `concurrently` supports naming and color-coding.
 
 ```txt
-concurrently 
-    -n "vite,typescript" 
-    -c "white,green" 
-    "npm run vite --clearScreen false" 
+concurrently
+    -n "vite,typescript"
+    -c "white,green"
+    "npm run vite --clearScreen false"
     "npm run tsc -w --preserveWatchOutput"
 ```
 

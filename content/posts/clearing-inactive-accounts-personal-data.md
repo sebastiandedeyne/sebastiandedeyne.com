@@ -3,7 +3,7 @@ title: "Clearing personal data from inactive accounts"
 slug: clearing-inactive-accounts-personal-data
 date: 2021-04-01
 link: https://freek.dev/1940-why-and-how-you-should-remove-inactive-users-and-teams
-keywords:
+tags:
   - Privacy
 ---
 
