@@ -1,0 +1,27 @@
+[
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Larachat Slack",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/30189dede5b1981e65c257bec8fdba1259a2d1ae52478fae5f21ce3a646cbbde.png",
+      "url": "https://twitter.com/larachatslack"
+    },
+    "url": "https://twitter.com/larachatslack/status/1584926645689135105",
+    "published": "2022-10-25T15:15:33+00:00",
+    "wm-received": "2022-10-25T17:20:26Z",
+    "wm-id": 1544665,
+    "wm-source": "https://brid.gy/post/twitter/sebdedeyne/1584926645689135105",
+    "wm-target": "https://sebastiandedeyne.com/2022-redesign/",
+    "photo": [
+      "https://pbs.twimg.com/media/Ff7KYpiaUAAy1hQ.jpg"
+    ],
+    "content": {
+      "html": "2022 redesign: 2022 redesign <a href=\"https://sebastiandedeyne.com/2022-redesign/\">sebastiandedeyne.com/2022-redesign/</a> <a href=\"https://sebastiandedeyne.com/tags/css/\">sebastiandedeyne.com/tags/css/</a> <a href=\"https://sebastiandedeyne.com/tags/meta/https://sebastiandedeyne.com/2022-redesign/This\">sebastiandedeyne.com/tags/meta/http…</a> blog’s design h... <a href=\"https://larachat.co/articles/2022-redesign\">larachat.co/articles/2022-…</a> <a href=\"http://dlvr.it/SbhJHc\">dlvr.it/SbhJHc</a>",
+      "text": "2022 redesign: 2022 redesign sebastiandedeyne.com/2022-redesign/ sebastiandedeyne.com/tags/css/ sebastiandedeyne.com/tags/meta/http… blog’s design h... larachat.co/articles/2022-… dlvr.it/SbhJHc"
+    },
+    "mention-of": "https://sebastiandedeyne.com/2022-redesign/",
+    "wm-property": "mention-of",
+    "wm-private": false
+  }
+]
