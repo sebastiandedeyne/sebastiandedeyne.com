@@ -45,6 +45,12 @@ article p {
   margin-top: var(--spacing);
 }
 
+article ol,
+article ul {
+  margin-top: var(--spacing);
+  margin-left: 1em;
+}
+
 article a {
   color: blue;
   text-decoration: underline;
@@ -54,8 +60,12 @@ article a:visited {
   color: magenta;
 }
 
+article details {
+  margin-top: var(--spacing);
+}
 
 article iframe {
+  margin-top: var(--spacing);
   width: 100%;
 }
 
@@ -64,6 +74,7 @@ article table {
   width: 100%;
   font-family: var(--font-mono);
   font-variant-numeric: tabular-nums;
+  border-collapse: collapse;
 }
 
 article th {
@@ -118,6 +129,7 @@ article code:not(pre code) {
 
 article p > img {
   display: block;
-  width: 100%;
+  max-width: 100%;
+  margin: 0 auto;
   border-radius: var(--border-radius);
 }

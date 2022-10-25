@@ -376,8 +376,4 @@ jobs:
 
 Now that everything's set up, commits our pouring in with freshly fetched webmentions!
 
-<img
-  src="/media/webmentions-github-commits.jpg"
-  alt="Screenshot of GitHub commits"
-  class="bordered"
-/>
+![Screenshot of GitHub commits](/media/webmentions-github-commits.jpg)

@@ -1,6 +1,7 @@
 ---
 title: Newsletter
 ---
+
 I occasionally send out a newsletter with personal stories, things I’ve been working on in the past month, and interesting things I come across.
 
 There's no fixed frequency, but generally don't expect more than one or two mails per month. Consider it an adventure for both of us!

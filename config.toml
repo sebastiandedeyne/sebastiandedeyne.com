@@ -1,6 +1,6 @@
 baseURL = "https://sebastiandedeyne.com"
 languageCode = "en-us"
-title = "Sebastian De Deyne"
+title = "Seb De Deyne"
 
 summaryLength = 1_000_000
 rssLimit = 10
@@ -16,13 +16,13 @@ paginate = 10
   tags = "/tags/:title"
 
 [author]
-  name = "Sebastian De Deyne"
+  name = "Seb De Deyne"
 
 [outputs]
   home = ["HTML", "RSS"]
 
 [markup]
   [markup.goldmark.renderer]
-      unsafe = true
+    unsafe = true
   [markup.tableOfContents]
     ordered = true

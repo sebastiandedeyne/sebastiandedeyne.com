@@ -4,6 +4,7 @@
     {{ partial "header" (dict "Page" . "Permalink" $permalink) }}
     {{ if (in .Params.categories "articles") }}
       <p>{{ .Summary }}</p>
+      <p><a href="{{ .Permalink }}">Read more</a></p>
     {{ else }}
       {{ .Content }}
     {{ end }}

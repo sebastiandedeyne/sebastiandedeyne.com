@@ -36,7 +36,7 @@ Taking autocompletion and other IDE features out of the picture, [Sublime Text](
 
 My main browser is **Safari**. I value its low footprint and sync with my other devices, despite being the weakest of the bunch when it comes to devtools. When I occasionally need more advanced tooling, I switch to Chrome.
 
-I use [Things](https://culturedcode.com/things/) to manage tasks that are time-sensitive or need a reminder. I tend to store more information in note-taking apps. [iA Writer](https://ia.net/writer) has always been a staple and I'm currently experimenting with [Roam](https://roamresearch.com).
+I use [Things](https://culturedcode.com/things/) to manage tasks that are time-sensitive or need a reminder. I tend to store more information in note-taking apps. [iA Writer](https://ia.net/writer) has always been a staple for writing and note-taking.
 
 I also want to mention [Excalidraw](https://excalidraw.com). I do a lot of UX & product design work, and Excalidraw has been my tool of choice to mock up interfaces or create diagrams to clarify specs & documentation.
 
