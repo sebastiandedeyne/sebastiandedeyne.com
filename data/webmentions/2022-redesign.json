@@ -77,5 +77,23 @@
     "like-of": "https://sebastiandedeyne.com/2022-redesign/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "maesbn 🌲",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/729540ccb5ef845bec56b03384bfb86858f5b89ddc6534018f3c9d83ff5dae50.jpg",
+      "url": "https://twitter.com/maesbn"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1584893721409388544#favorited-by-13466432",
+    "published": null,
+    "wm-received": "2022-10-26T08:54:52Z",
+    "wm-id": 1545004,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1584893721409388544/13466432",
+    "wm-target": "https://sebastiandedeyne.com/2022-redesign/",
+    "like-of": "https://sebastiandedeyne.com/2022-redesign/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
