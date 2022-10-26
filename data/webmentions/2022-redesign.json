@@ -95,5 +95,23 @@
     "like-of": "https://sebastiandedeyne.com/2022-redesign/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Dave Driesmans",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/e405c29fe66df55690f512ddcb6f641e48f8106156be82bba6506e5eaec7b222.jpg",
+      "url": "https://twitter.com/DaveDriesmans"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1584893721409388544#favorited-by-17464188",
+    "published": null,
+    "wm-received": "2022-10-26T15:37:29Z",
+    "wm-id": 1545114,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1584893721409388544/17464188",
+    "wm-target": "https://sebastiandedeyne.com/2022-redesign/",
+    "like-of": "https://sebastiandedeyne.com/2022-redesign/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
