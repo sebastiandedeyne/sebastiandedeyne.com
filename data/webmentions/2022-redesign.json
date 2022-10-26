@@ -23,5 +23,59 @@
     "mention-of": "https://sebastiandedeyne.com/2022-redesign/",
     "wm-property": "mention-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Miguel Piedrafita",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/6328362fa408694a12e89bcc71d2677e552221c50239c6576a7ef294e755d561.jpg",
+      "url": "https://twitter.com/m1guelpf"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1584893721409388544#favorited-by-713094195955830785",
+    "published": null,
+    "wm-received": "2022-10-25T22:27:40Z",
+    "wm-id": 1544821,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1584893721409388544/713094195955830785",
+    "wm-target": "https://sebastiandedeyne.com/2022-redesign/",
+    "like-of": "https://sebastiandedeyne.com/2022-redesign/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Ruslan",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/6615dcfdec84166dae871ce09cd86d866ebae4a180cd37624b5e01153386ec90.jpg",
+      "url": "https://twitter.com/ruslansteiger"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1584893721409388544#favorited-by-935107835045842944",
+    "published": null,
+    "wm-received": "2022-10-25T22:27:40Z",
+    "wm-id": 1544822,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1584893721409388544/935107835045842944",
+    "wm-target": "https://sebastiandedeyne.com/2022-redesign/",
+    "like-of": "https://sebastiandedeyne.com/2022-redesign/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "David Torras",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/516f719def9708ed707ff111de1afd12686526081e785ba1322caa5f256f8db2.jpg",
+      "url": "https://twitter.com/dtorras"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1584893721409388544#favorited-by-1375881231812988929",
+    "published": null,
+    "wm-received": "2022-10-25T22:27:41Z",
+    "wm-id": 1544823,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1584893721409388544/1375881231812988929",
+    "wm-target": "https://sebastiandedeyne.com/2022-redesign/",
+    "like-of": "https://sebastiandedeyne.com/2022-redesign/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
