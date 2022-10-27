@@ -48,6 +48,10 @@ a {
   text-decoration: none;
 }
 
+i {
+  font-family: system-ui;
+}
+
 hr {
   border: none;
 }

@@ -11,8 +11,8 @@
   </p>
   <h2>
     {{ if .Page.Params.link }}
-      <a href="{{ .Page.Params.link }}" class="link-external">
-        {{ .Page.Title }}
+      <a href="{{ .Page.Params.link }}">
+        <i>↗</i>{{ .Page.Title }}
       </a>
     {{ else }}
       <a href="{{ .Page.Permalink }}">
