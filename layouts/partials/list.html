@@ -3,7 +3,11 @@
   <article>
     {{ partial "header" (dict "Page" . "Permalink" $permalink) }}
     {{ if (in .Params.categories "articles") }}
-      <p>{{ .Summary }}</p>
+      {{ if .Params.summary }}
+        <p>{{ .Summary | markdownify }}</p>
+      {{ else }}
+        {{ .Summary }}
+      {{ end }}
       <p><a href="{{ .Permalink }}">Read more</a></p>
     {{ else }}
       {{ .Content }}
