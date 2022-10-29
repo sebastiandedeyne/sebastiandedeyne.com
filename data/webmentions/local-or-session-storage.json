@@ -1,0 +1,20 @@
+[
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Bas Mulders",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/79ad875fbabbc92f867fc39ed04d5198e5efca7d608bd3b73cb56f1f41d04c9d.jpg",
+      "url": "https://twitter.com/bsmldrs"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1585985948709363712#favorited-by-237479936",
+    "published": null,
+    "wm-received": "2022-10-29T16:18:46Z",
+    "wm-id": 1546945,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1585985948709363712/237479936",
+    "wm-target": "https://sebastiandedeyne.com/local-or-session-storage/",
+    "like-of": "https://sebastiandedeyne.com/local-or-session-storage/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+]
