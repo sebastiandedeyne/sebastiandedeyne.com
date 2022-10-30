@@ -16,5 +16,23 @@
     "like-of": "https://sebastiandedeyne.com/local-or-session-storage/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Ruslan",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/6615dcfdec84166dae871ce09cd86d866ebae4a180cd37624b5e01153386ec90.jpg",
+      "url": "https://twitter.com/ruslansteiger"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1585985948709363712#favorited-by-935107835045842944",
+    "published": null,
+    "wm-received": "2022-10-30T14:37:07Z",
+    "wm-id": 1547237,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1585985948709363712/935107835045842944",
+    "wm-target": "https://sebastiandedeyne.com/local-or-session-storage/",
+    "like-of": "https://sebastiandedeyne.com/local-or-session-storage/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
