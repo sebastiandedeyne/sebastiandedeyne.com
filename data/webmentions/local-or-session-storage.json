@@ -34,5 +34,26 @@
     "like-of": "https://sebastiandedeyne.com/local-or-session-storage/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Ruslan",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/6615dcfdec84166dae871ce09cd86d866ebae4a180cd37624b5e01153386ec90.jpg",
+      "url": "https://twitter.com/ruslansteiger"
+    },
+    "url": "https://twitter.com/ruslansteiger/status/1586720725276266499",
+    "published": "2022-10-30T14:04:35+00:00",
+    "wm-received": "2022-10-30T20:57:38Z",
+    "wm-id": 1547345,
+    "wm-source": "https://brid.gy/repost/twitter/sebdedeyne/1585985948709363712/1586720725276266499",
+    "wm-target": "https://sebastiandedeyne.com/local-or-session-storage/",
+    "content": {
+      "text": "✒️ Local storage or session storage: when to use which web storage API?\n\nsebastiandedeyne.com/local-or-sessi…"
+    },
+    "repost-of": "https://sebastiandedeyne.com/local-or-session-storage/",
+    "wm-property": "repost-of",
+    "wm-private": false
   }
 ]
