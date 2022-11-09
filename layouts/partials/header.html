@@ -8,6 +8,9 @@
         {{ $url := absURL (print "/tags/" (urlize .) "/") }}
         <a href="{{ $url }}" {{ if eq $url $permalink }}aria-current="page"{{ end }}>#{{ . | lower | urlize }}</a>
     {{ end }}
+    {{ if .Page.Params.link }}
+      / <a href="{{ .Page.Params.link }}">{{ (urls.Parse .Page.Params.link).Host }}</a>
+    {{ end }}
   </p>
   <h2>
     {{ if .Page.Params.link }}
