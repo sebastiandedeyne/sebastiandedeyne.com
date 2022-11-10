@@ -28,7 +28,7 @@
     {{ range $pages }}
     <item>
       {{ if .Page.Params.link }}
-        <title>↗{{ .Title }}</title>
+        <title>{{ .Title }} ↗</title>
         <link>{{ .Page.Params.link }}</link>
       {{ else }}
         <title>{{ .Title }}</title>
