@@ -55,5 +55,27 @@
     "repost-of": "https://sebastiandedeyne.com/local-or-session-storage/",
     "wm-property": "repost-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Freek Van der Herten 🔭",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/78c4ff6e0d5dd78dbeb28a27b7e256090db3528ed6919b72210cf95ba9f86014.jpg",
+      "url": "https://twitter.com/freekmurze"
+    },
+    "url": "https://twitter.com/freekmurze/status/1590841760842158080",
+    "published": "2022-11-10T23:00:06+00:00",
+    "wm-received": "2022-11-10T23:37:41Z",
+    "wm-id": 1555418,
+    "wm-source": "https://brid.gy/post/twitter/sebdedeyne/1590841760842158080",
+    "wm-target": "https://sebastiandedeyne.com/local-or-session-storage/",
+    "content": {
+      "html": "🔗 Local or session storage?\n<a href=\"https://sebastiandedeyne.com/local-or-session-storage/\">sebastiandedeyne.com/local-or-sessi…</a>\n<a href=\"https://twitter.com/search?q=%23javascript\">#javascript</a>",
+      "text": "🔗 Local or session storage?\nsebastiandedeyne.com/local-or-sessi…\n#javascript"
+    },
+    "mention-of": "https://sebastiandedeyne.com/local-or-session-storage/",
+    "wm-property": "mention-of",
+    "wm-private": false
   }
 ]
