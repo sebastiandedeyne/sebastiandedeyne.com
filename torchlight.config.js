@@ -34,7 +34,7 @@ module.exports = {
 
     // When lines are collapsed, this is the text that will
     // be shown to indicate that they can be expanded.
-    // summaryCollapsedIndicator: '...',
+    summaryCollapsedIndicator: "Click to expand…",
   },
 
   // Options for the highlight command.

@@ -122,7 +122,6 @@ The biggest tradeoff is build speed. Hugo is inhumanly fast (300ms, remember?). 
 Besides highlighting, Torchlight has fun features like code collapsing. And I don't need to start every PHP snippet with a `<?php` tag anymore!
 
 ```php
-// torchlight! {"summaryCollapsedIndicator": "Click to expand…"}
 class User
 { // [tl! collapse:start]
     public function __construct(
