@@ -1,5 +1,9 @@
 [build]
-command = "hugo --minify && npm i -g @torchlight-api/torchlight-cli && npx torchlight"
+command = """
+hugo --minify
+npm i -g @torchlight-api/torchlight-cli
+npx torchlight
+"""
 publish = "public"
 
 [build.environment]
