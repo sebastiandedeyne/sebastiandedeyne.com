@@ -80,5 +80,23 @@
     "repost-of": "https://sebastiandedeyne.com/better-code-highlighting-in-hugo-with-torchlight/",
     "wm-property": "repost-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "René Sinnbeck",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/ae719a785cfadef42a9d134f0debdb227847ffe76e20bb87a12bd665c1e188d9.jpg",
+      "url": "https://twitter.com/rsinnbeck"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1593532820907081729#favorited-by-282584132",
+    "published": null,
+    "wm-received": "2022-11-18T23:55:59Z",
+    "wm-id": 1562714,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1593532820907081729/282584132",
+    "wm-target": "https://sebastiandedeyne.com/better-code-highlighting-in-hugo-with-torchlight/",
+    "like-of": "https://sebastiandedeyne.com/better-code-highlighting-in-hugo-with-torchlight/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
