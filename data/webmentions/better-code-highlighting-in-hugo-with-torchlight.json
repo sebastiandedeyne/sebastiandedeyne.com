@@ -98,5 +98,23 @@
     "like-of": "https://sebastiandedeyne.com/better-code-highlighting-in-hugo-with-torchlight/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Daryl Legion ⚡",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/b4117f151f564ceabfc8291fec3b2c62511be957a3a87fe47275638fe16d8d9f.jpg",
+      "url": "https://twitter.com/Annevigoss"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1593532820907081729#favorited-by-2788301381",
+    "published": null,
+    "wm-received": "2022-11-20T13:02:49Z",
+    "wm-id": 1564028,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1593532820907081729/2788301381",
+    "wm-target": "https://sebastiandedeyne.com/better-code-highlighting-in-hugo-with-torchlight/",
+    "like-of": "https://sebastiandedeyne.com/better-code-highlighting-in-hugo-with-torchlight/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
