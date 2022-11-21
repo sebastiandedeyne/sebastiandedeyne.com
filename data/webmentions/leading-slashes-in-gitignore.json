@@ -1,0 +1,116 @@
+[
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "samdkingdev",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/c633dcf82d43b4f58038a9cf314d0b73a3c15371952cb8b3c214741cdcfcc8ac.jpg",
+      "url": "https://twitter.com/samdkingdev"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1594595950546325505#favorited-by-1297436843781349376",
+    "published": null,
+    "wm-received": "2022-11-21T14:36:33Z",
+    "wm-id": 1565663,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1594595950546325505/1297436843781349376",
+    "wm-target": "https://sebastiandedeyne.com/leading-slashes-in-gitignore/",
+    "like-of": "https://sebastiandedeyne.com/leading-slashes-in-gitignore/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Filip Ganyicz",
+      "photo": "https://webmention.io/avatar/abs.twimg.com/0e6b2cd70aa5b35dec24ca4e1e63f8963f0118736d9ec3bba77e3a8c99a27bc2.png",
+      "url": "https://twitter.com/ganyicz"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1594595950546325505#favorited-by-3433184175",
+    "published": null,
+    "wm-received": "2022-11-21T14:36:34Z",
+    "wm-id": 1565664,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1594595950546325505/3433184175",
+    "wm-target": "https://sebastiandedeyne.com/leading-slashes-in-gitignore/",
+    "like-of": "https://sebastiandedeyne.com/leading-slashes-in-gitignore/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Tristan Bailey",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/021fd85df1315d20b7bea0603286574669d376cfdf12c45e18b8a18b9f3c49cc.jpg",
+      "url": "https://twitter.com/tristanbailey"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1594595950546325505#favorited-by-14843239",
+    "published": null,
+    "wm-received": "2022-11-21T14:36:34Z",
+    "wm-id": 1565665,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1594595950546325505/14843239",
+    "wm-target": "https://sebastiandedeyne.com/leading-slashes-in-gitignore/",
+    "like-of": "https://sebastiandedeyne.com/leading-slashes-in-gitignore/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Sebastiaan Luca 🤖",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/be933408a7baf74258a78b290c60c1c76bc648df613301a9ed4754b62f07bcff.jpg",
+      "url": "https://twitter.com/sebastiaanluca"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1594595950546325505#favorited-by-357390496",
+    "published": null,
+    "wm-received": "2022-11-21T14:36:35Z",
+    "wm-id": 1565666,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1594595950546325505/357390496",
+    "wm-target": "https://sebastiandedeyne.com/leading-slashes-in-gitignore/",
+    "like-of": "https://sebastiandedeyne.com/leading-slashes-in-gitignore/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Tristan Bailey",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/021fd85df1315d20b7bea0603286574669d376cfdf12c45e18b8a18b9f3c49cc.jpg",
+      "url": "https://twitter.com/tristanbailey"
+    },
+    "url": "https://twitter.com/tristanbailey/status/1594685878454161408",
+    "published": "2022-11-21T13:35:15+00:00",
+    "wm-received": "2022-11-21T14:36:35Z",
+    "wm-id": 1565667,
+    "wm-source": "https://brid.gy/repost/twitter/sebdedeyne/1594595950546325505/1594685878454161408",
+    "wm-target": "https://sebastiandedeyne.com/leading-slashes-in-gitignore/",
+    "content": {
+      "text": "✒️ Leading slashes in .gitignore sebastiandedeyne.com/leading-slashe…"
+    },
+    "repost-of": "https://sebastiandedeyne.com/leading-slashes-in-gitignore/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Filip Ganyicz",
+      "photo": "https://webmention.io/avatar/abs.twimg.com/0e6b2cd70aa5b35dec24ca4e1e63f8963f0118736d9ec3bba77e3a8c99a27bc2.png",
+      "url": "https://twitter.com/ganyicz"
+    },
+    "url": "https://twitter.com/ganyicz/status/1594653742254919680",
+    "published": "2022-11-21T11:27:34+00:00",
+    "wm-received": "2022-11-21T14:36:36Z",
+    "wm-id": 1565668,
+    "wm-source": "https://brid.gy/repost/twitter/sebdedeyne/1594595950546325505/1594653742254919680",
+    "wm-target": "https://sebastiandedeyne.com/leading-slashes-in-gitignore/",
+    "content": {
+      "text": "✒️ Leading slashes in .gitignore sebastiandedeyne.com/leading-slashe…"
+    },
+    "repost-of": "https://sebastiandedeyne.com/leading-slashes-in-gitignore/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  }
+]
