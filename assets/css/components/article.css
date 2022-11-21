@@ -102,7 +102,7 @@ article blockquote > :first-child {
 }
 
 article pre,
-.markup code {
+article code {
   font-family: var(--font-mono);
   font-size: var(--text-sm);
 }

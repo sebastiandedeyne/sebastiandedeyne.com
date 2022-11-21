@@ -16,11 +16,6 @@
   }
 }
 
-.markup + .toc {
-  margin-top:  2.625rem;
-  margin-bottom: 0;
-}
-
 .toc h2 {
   font-weight: 600;
   margin-bottom: 0.75rem;

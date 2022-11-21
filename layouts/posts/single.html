@@ -27,7 +27,7 @@
 {{ end }}
 
 {{ define "main" }}
-  <article class="markup {{ with .Params.intro }} has-intro {{ end }}" style="display: contents">
+  <article>
     {{ partial "header" (dict "Page" . "Permalink" .Permalink) }}
     {{ if .Truncated }}
       {{ .Summary }}
