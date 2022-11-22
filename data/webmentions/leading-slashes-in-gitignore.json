@@ -3,6 +3,31 @@
     "type": "entry",
     "author": {
       "type": "card",
+      "name": "Larachat Slack",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/30189dede5b1981e65c257bec8fdba1259a2d1ae52478fae5f21ce3a646cbbde.png",
+      "url": "https://twitter.com/larachatslack"
+    },
+    "url": "https://twitter.com/larachatslack/status/1594632495882174464",
+    "published": "2022-11-21T10:03:08+00:00",
+    "wm-received": "2022-11-21T10:54:57Z",
+    "wm-id": 1565520,
+    "wm-source": "https://brid.gy/post/twitter/sebdedeyne/1594632495882174464",
+    "wm-target": "https://sebastiandedeyne.com/leading-slashes-in-gitignore/",
+    "photo": [
+      "https://pbs.twimg.com/media/FiFFzd-aAAIxT6Y.jpg"
+    ],
+    "content": {
+      "html": "Leading slashes in .gitignore: Leading slashes in .gitignore <a href=\"https://sebastiandedeyne.com/leading-slashes-in-gitignore/\">sebastiandedeyne.com/leading-slashe…</a> <a href=\"https://sebastiandedeyne.com/tags/git/This\">sebastiandedeyne.com/tags/git/This</a> is a friendly reminder to keep leading slashes in mi... <a href=\"https://larachat.co/articles/leading-slashes-in-gitignore\">larachat.co/articles/leadi…</a> <a href=\"http://dlvr.it/Sd6YpJ\">dlvr.it/Sd6YpJ</a>",
+      "text": "Leading slashes in .gitignore: Leading slashes in .gitignore sebastiandedeyne.com/leading-slashe… sebastiandedeyne.com/tags/git/This is a friendly reminder to keep leading slashes in mi... larachat.co/articles/leadi… dlvr.it/Sd6YpJ"
+    },
+    "mention-of": "https://sebastiandedeyne.com/leading-slashes-in-gitignore/",
+    "wm-property": "mention-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
       "name": "samdkingdev",
       "photo": "https://webmention.io/avatar/pbs.twimg.com/c633dcf82d43b4f58038a9cf314d0b73a3c15371952cb8b3c214741cdcfcc8ac.jpg",
       "url": "https://twitter.com/samdkingdev"
@@ -105,6 +130,142 @@
     "wm-received": "2022-11-21T14:36:36Z",
     "wm-id": 1565668,
     "wm-source": "https://brid.gy/repost/twitter/sebdedeyne/1594595950546325505/1594653742254919680",
+    "wm-target": "https://sebastiandedeyne.com/leading-slashes-in-gitignore/",
+    "content": {
+      "text": "✒️ Leading slashes in .gitignore sebastiandedeyne.com/leading-slashe…"
+    },
+    "repost-of": "https://sebastiandedeyne.com/leading-slashes-in-gitignore/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Onur Uslu",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/f4cf38b272604a79ec7525bdda84bbb3696d1597285ae721e0bacfdbef31ea2e.jpg",
+      "url": "https://twitter.com/oonuruslu"
+    },
+    "url": "https://twitter.com/oonuruslu/status/1594752479052316695",
+    "published": "2022-11-21T17:59:54+00:00",
+    "wm-received": "2022-11-21T18:14:21Z",
+    "wm-id": 1565781,
+    "wm-source": "https://brid.gy/post/twitter/sebdedeyne/1594752479052316695",
+    "wm-target": "https://sebastiandedeyne.com/leading-slashes-in-gitignore/",
+    "content": {
+      "html": ".gitignore'da \"/vendor\" ve \"vendor\" un davranışları farklıymış 😲 <a href=\"https://sebastiandedeyne.com/leading-slashes-in-gitignore/\">sebastiandedeyne.com/leading-slashe…</a>",
+      "text": ".gitignore'da \"/vendor\" ve \"vendor\" un davranışları farklıymış 😲 sebastiandedeyne.com/leading-slashe…"
+    },
+    "mention-of": "https://sebastiandedeyne.com/leading-slashes-in-gitignore/",
+    "wm-property": "mention-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Placebo Domingo | @brbcoding@indieweb.social",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/c64ed43d1bcd2c0fa37e0b1d25f5bc26830922e2c9c08287939d126d62b9c40f.jpg",
+      "url": "https://twitter.com/brbcoding"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1594595950546325505#favorited-by-1157124170066595840",
+    "published": null,
+    "wm-received": "2022-11-21T18:14:23Z",
+    "wm-id": 1565782,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1594595950546325505/1157124170066595840",
+    "wm-target": "https://sebastiandedeyne.com/leading-slashes-in-gitignore/",
+    "like-of": "https://sebastiandedeyne.com/leading-slashes-in-gitignore/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Sergey",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/dc1bff45de811b3b9f6a4cc72420e3413600673cb5725a81a7f77faeae67081e.png",
+      "url": "https://twitter.com/vlassiuk"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1594595950546325505#favorited-by-45801442",
+    "published": null,
+    "wm-received": "2022-11-21T18:14:24Z",
+    "wm-id": 1565783,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1594595950546325505/45801442",
+    "wm-target": "https://sebastiandedeyne.com/leading-slashes-in-gitignore/",
+    "like-of": "https://sebastiandedeyne.com/leading-slashes-in-gitignore/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Reindert Vetter",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/1b2783ada6448c11fe0b114dfca71544b2c09628ac2e533618d5f32fb51eccf9.jpg",
+      "url": "https://twitter.com/ReindertVetter"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1594595950546325505#favorited-by-1036707609120845825",
+    "published": null,
+    "wm-received": "2022-11-21T18:14:24Z",
+    "wm-id": 1565784,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1594595950546325505/1036707609120845825",
+    "wm-target": "https://sebastiandedeyne.com/leading-slashes-in-gitignore/",
+    "like-of": "https://sebastiandedeyne.com/leading-slashes-in-gitignore/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Bas Mulders",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/79ad875fbabbc92f867fc39ed04d5198e5efca7d608bd3b73cb56f1f41d04c9d.jpg",
+      "url": "https://twitter.com/bsmldrs"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1594595950546325505#favorited-by-237479936",
+    "published": null,
+    "wm-received": "2022-11-21T18:14:25Z",
+    "wm-id": 1565785,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1594595950546325505/237479936",
+    "wm-target": "https://sebastiandedeyne.com/leading-slashes-in-gitignore/",
+    "like-of": "https://sebastiandedeyne.com/leading-slashes-in-gitignore/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Placebo Domingo | @brbcoding@indieweb.social",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/c64ed43d1bcd2c0fa37e0b1d25f5bc26830922e2c9c08287939d126d62b9c40f.jpg",
+      "url": "https://twitter.com/brbcoding"
+    },
+    "url": "https://twitter.com/brbcoding/status/1594708618527604742",
+    "published": "2022-11-21T15:05:37+00:00",
+    "wm-received": "2022-11-21T18:14:26Z",
+    "wm-id": 1565786,
+    "wm-source": "https://brid.gy/repost/twitter/sebdedeyne/1594595950546325505/1594708618527604742",
+    "wm-target": "https://sebastiandedeyne.com/leading-slashes-in-gitignore/",
+    "content": {
+      "text": "✒️ Leading slashes in .gitignore sebastiandedeyne.com/leading-slashe…"
+    },
+    "repost-of": "https://sebastiandedeyne.com/leading-slashes-in-gitignore/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Chrispian H. Burks",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/9438df928ca4acdef82127d4f64779682bc50c95c3a79cf9837c8c010bd9afcc.png",
+      "url": "https://twitter.com/chrispian"
+    },
+    "url": "https://twitter.com/chrispian/status/1594812661006573576",
+    "published": "2022-11-21T21:59:03+00:00",
+    "wm-received": "2022-11-22T00:02:48Z",
+    "wm-id": 1566057,
+    "wm-source": "https://brid.gy/repost/twitter/sebdedeyne/1594595950546325505/1594812661006573576",
     "wm-target": "https://sebastiandedeyne.com/leading-slashes-in-gitignore/",
     "content": {
       "text": "✒️ Leading slashes in .gitignore sebastiandedeyne.com/leading-slashe…"
