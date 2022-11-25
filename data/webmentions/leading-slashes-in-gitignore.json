@@ -273,5 +273,44 @@
     "repost-of": "https://sebastiandedeyne.com/leading-slashes-in-gitignore/",
     "wm-property": "repost-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Daryl Legion ⚡",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/b4117f151f564ceabfc8291fec3b2c62511be957a3a87fe47275638fe16d8d9f.jpg",
+      "url": "https://twitter.com/Annevigoss"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1594595950546325505#favorited-by-2788301381",
+    "published": null,
+    "wm-received": "2022-11-25T10:10:32Z",
+    "wm-id": 1567940,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1594595950546325505/2788301381",
+    "wm-target": "https://sebastiandedeyne.com/leading-slashes-in-gitignore/",
+    "like-of": "https://sebastiandedeyne.com/leading-slashes-in-gitignore/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Daryl Legion ⚡",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/b4117f151f564ceabfc8291fec3b2c62511be957a3a87fe47275638fe16d8d9f.jpg",
+      "url": "https://twitter.com/Annevigoss"
+    },
+    "url": "https://twitter.com/Annevigoss/status/1596076136265842688",
+    "published": "2022-11-25T09:39:39+00:00",
+    "wm-received": "2022-11-25T10:10:33Z",
+    "wm-id": 1567941,
+    "wm-source": "https://brid.gy/repost/twitter/sebdedeyne/1594595950546325505/1596076136265842688",
+    "wm-target": "https://sebastiandedeyne.com/leading-slashes-in-gitignore/",
+    "content": {
+      "text": "✒️ Leading slashes in .gitignore sebastiandedeyne.com/leading-slashe…"
+    },
+    "repost-of": "https://sebastiandedeyne.com/leading-slashes-in-gitignore/",
+    "wm-property": "repost-of",
+    "wm-private": false
   }
 ]
