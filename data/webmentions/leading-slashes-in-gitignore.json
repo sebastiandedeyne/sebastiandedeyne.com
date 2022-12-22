@@ -312,5 +312,27 @@
     "repost-of": "https://sebastiandedeyne.com/leading-slashes-in-gitignore/",
     "wm-property": "repost-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Povilas Korop | Laravel Courses Creator & Youtuber",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/d23c161f4bbbd2c2c9e12b56a7e40c835ab3eaa17a2b380ef509cdaa62b773b6.jpg",
+      "url": "https://twitter.com/PovilasKorop"
+    },
+    "url": "https://twitter.com/PovilasKorop/status/1605918644407500800",
+    "published": "2022-12-22T13:30:16+00:00",
+    "wm-received": "2022-12-22T15:32:13Z",
+    "wm-id": 1585617,
+    "wm-source": "https://brid.gy/post/twitter/sebdedeyne/1605918644407500800",
+    "wm-target": "https://sebastiandedeyne.com/leading-slashes-in-gitignore/",
+    "content": {
+      "html": "Leading slashes in .gitignore \\ Seb De Deyne <a href=\"https://sebastiandedeyne.com/leading-slashes-in-gitignore/?utm_source=newsletter&amp;utm_medium=email&amp;utm_campaign=spatie-tldr-4\">sebastiandedeyne.com/leading-slashe…</a>\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/leading-slashes-in-gitignore/\"></a>",
+      "text": "Leading slashes in .gitignore \\ Seb De Deyne sebastiandedeyne.com/leading-slashe…"
+    },
+    "mention-of": "https://sebastiandedeyne.com/leading-slashes-in-gitignore/",
+    "wm-property": "mention-of",
+    "wm-private": false
   }
 ]
