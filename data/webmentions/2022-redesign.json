@@ -113,5 +113,45 @@
     "like-of": "https://sebastiandedeyne.com/2022-redesign/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Sebastian De Deyne",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/5a9a25c3a34a5ea4617148cfb60fb0790b9df156ddc38c3f2c5fddc000ef5554.jpg",
+      "url": "https://twitter.com/sebdedeyne"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1608246205825585153",
+    "published": "2022-12-28T23:39:09+00:00",
+    "wm-received": "2022-12-29T01:44:40Z",
+    "wm-id": 1588428,
+    "wm-source": "https://brid.gy/comment/twitter/sebdedeyne/1608246205825585153/1608246205825585153",
+    "wm-target": "https://sebastiandedeyne.com/2022-redesign/",
+    "content": {
+      "html": "🖐️ <a href=\"https://sebastiandedeyne.com/2022-redesign/\">sebastiandedeyne.com/2022-redesign/</a>\n<a class=\"u-mention\" href=\"https://twitter.com/brian_lovin\"></a>",
+      "text": "🖐️ sebastiandedeyne.com/2022-redesign/"
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/2022-redesign/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Brian Lovin",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/d7049c18dc1f2f4395237c9670636b7b72ad725b96fd794861f3bd2f9033da15.jpg",
+      "url": "https://twitter.com/brian_lovin"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1608246205825585153#favorited-by-465068802",
+    "published": null,
+    "wm-received": "2022-12-29T03:50:06Z",
+    "wm-id": 1588457,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1608246205825585153/465068802",
+    "wm-target": "https://sebastiandedeyne.com/2022-redesign/",
+    "like-of": "https://sebastiandedeyne.com/2022-redesign/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
