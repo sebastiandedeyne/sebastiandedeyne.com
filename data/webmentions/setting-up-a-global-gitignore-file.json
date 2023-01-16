@@ -3958,5 +3958,27 @@
     "in-reply-to": "https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/",
     "wm-property": "in-reply-to",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Peter Pan",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/0b1de437d78222deecc1aa18f16a49be3dd1844fdee6cbf1e9a54c374c5d66b8.png",
+      "url": "https://twitter.com/peterhil"
+    },
+    "url": "https://twitter.com/peterhil/status/1614924319137714176",
+    "published": "2023-01-16T09:55:36+00:00",
+    "wm-received": "2023-01-16T13:55:14Z",
+    "wm-id": 1600300,
+    "wm-source": "https://brid.gy/post/twitter/sebdedeyne/1614924319137714176",
+    "wm-target": "https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/",
+    "content": {
+      "html": "Git <a href=\"https://twitter.com/search?q=%23ProTip\">#ProTip</a> – add your editor and system specific cruft to user specific ignore file! <a href=\"https://twitter.com/search?q=%23Git\">#Git</a> <a href=\"https://twitter.com/search?q=%23Programming\">#Programming</a>\n\nSetting up a global .gitignore file \\ Seb De Deyne\n<a href=\"https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/\">sebastiandedeyne.com/setting-up-a-g…</a>",
+      "text": "Git #ProTip – add your editor and system specific cruft to user specific ignore file! #Git #Programming\n\nSetting up a global .gitignore file \\ Seb De Deyne\nsebastiandedeyne.com/setting-up-a-g…"
+    },
+    "mention-of": "https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/",
+    "wm-property": "mention-of",
+    "wm-private": false
   }
 ]
