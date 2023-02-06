@@ -152,5 +152,27 @@
     "mention-of": "https://sebastiandedeyne.com/when-to-add-types-and-when-to-infer-in-typescript/",
     "wm-property": "mention-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Sebastian De Deyne",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/5a9a25c3a34a5ea4617148cfb60fb0790b9df156ddc38c3f2c5fddc000ef5554.jpg",
+      "url": "https://twitter.com/sebdedeyne"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1622530967121305606",
+    "published": "2023-02-06T09:41:42+00:00",
+    "wm-received": "2023-02-06T10:03:03Z",
+    "wm-id": 1616420,
+    "wm-source": "https://brid.gy/comment/twitter/sebdedeyne/1622530967121305606/1622530967121305606",
+    "wm-target": "https://sebastiandedeyne.com/when-to-add-types-and-when-to-infer-in-typescript/",
+    "content": {
+      "html": "Also wrote about this a while ago: <a href=\"https://sebastiandedeyne.com/when-to-add-types-and-when-to-infer-in-typescript/\">sebastiandedeyne.com/when-to-add-ty…</a>\n<a class=\"u-mention\" href=\"https://twitter.com/mattpocockuk\"></a>",
+      "text": "Also wrote about this a while ago: sebastiandedeyne.com/when-to-add-ty…"
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/when-to-add-types-and-when-to-infer-in-typescript/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
   }
 ]

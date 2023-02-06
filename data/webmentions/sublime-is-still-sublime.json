@@ -1812,5 +1812,85 @@
     "mention-of": "https://sebastiandedeyne.com/sublime-is-still-sublime/",
     "wm-property": "mention-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Sebastian De Deyne",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/5a9a25c3a34a5ea4617148cfb60fb0790b9df156ddc38c3f2c5fddc000ef5554.jpg",
+      "url": "https://twitter.com/sebdedeyne"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1622526496035192832",
+    "published": "2023-02-06T09:23:56+00:00",
+    "wm-received": "2023-02-06T09:26:10Z",
+    "wm-id": 1616415,
+    "wm-source": "https://brid.gy/comment/twitter/sebdedeyne/1622526496035192832/1622526496035192832",
+    "wm-target": "https://sebastiandedeyne.com/sublime-is-still-sublime/",
+    "content": {
+      "html": "Sublime will always have a special place in my heart <a href=\"https://sebastiandedeyne.com/sublime-is-still-sublime/\">sebastiandedeyne.com/sublime-is-sti…</a>\n<a class=\"u-mention\" href=\"https://twitter.com/maesbn\"></a>",
+      "text": "Sublime will always have a special place in my heart sebastiandedeyne.com/sublime-is-sti…"
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/sublime-is-still-sublime/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "S.V Gubadov",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/c8b6cf55fd3c3a512c73ad98b324aad0c02ed81e5b61bee2c86c67d99dcbbc59.jpg",
+      "url": "https://twitter.com/melarafon"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1622526496035192832#favorited-by-1490252265965432837",
+    "published": null,
+    "wm-received": "2023-02-06T10:36:47Z",
+    "wm-id": 1616433,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1622526496035192832/1490252265965432837",
+    "wm-target": "https://sebastiandedeyne.com/sublime-is-still-sublime/",
+    "like-of": "https://sebastiandedeyne.com/sublime-is-still-sublime/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "maesbn 🌲",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/729540ccb5ef845bec56b03384bfb86858f5b89ddc6534018f3c9d83ff5dae50.jpg",
+      "url": "https://twitter.com/maesbn"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1622526496035192832#favorited-by-13466432",
+    "published": null,
+    "wm-received": "2023-02-06T11:09:21Z",
+    "wm-id": 1616442,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1622526496035192832/13466432",
+    "wm-target": "https://sebastiandedeyne.com/sublime-is-still-sublime/",
+    "like-of": "https://sebastiandedeyne.com/sublime-is-still-sublime/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "maesbn 🌲",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/729540ccb5ef845bec56b03384bfb86858f5b89ddc6534018f3c9d83ff5dae50.jpg",
+      "url": "https://twitter.com/maesbn"
+    },
+    "url": "https://twitter.com/maesbn/status/1622546296539078657",
+    "published": "2023-02-06T10:42:37+00:00",
+    "wm-received": "2023-02-06T11:09:50Z",
+    "wm-id": 1616443,
+    "wm-source": "https://brid.gy/comment/twitter/sebdedeyne/1622526496035192832/1622546296539078657",
+    "wm-target": "https://sebastiandedeyne.com/sublime-is-still-sublime/",
+    "content": {
+      "html": "Thanks! I think I'll just have to check if I can set it up the way I like\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/sebdedeyne\"></a>",
+      "text": "Thanks! I think I'll just have to check if I can set it up the way I like"
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/sublime-is-still-sublime/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
   }
 ]
