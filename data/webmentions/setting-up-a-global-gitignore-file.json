@@ -3980,5 +3980,27 @@
     "mention-of": "https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/",
     "wm-property": "mention-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Ｓａｄ░ｎｏｉｓｅｓ　（スケベ）✪",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/af04d6f66427f8f0ae16e10eac7481e725df225a44da03952ea893e765149413.jpg",
+      "url": "https://twitter.com/sufferingwave"
+    },
+    "url": "https://twitter.com/sufferingwave/status/1622285785578733571",
+    "published": "2023-02-05T17:27:26+00:00",
+    "wm-received": "2023-02-05T22:09:26Z",
+    "wm-id": 1616212,
+    "wm-source": "https://brid.gy/comment/twitter/sebdedeyne/1622285785578733571/1622285785578733571",
+    "wm-target": "https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/",
+    "content": {
+      "html": "or \n<a href=\"https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/\">sebastiandedeyne.com/setting-up-a-g…</a>\n<a class=\"u-mention\" href=\"https://twitter.com/mxcl\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/soer7022\"></a>",
+      "text": "or \nsebastiandedeyne.com/setting-up-a-g…"
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
   }
 ]
