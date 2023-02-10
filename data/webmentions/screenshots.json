@@ -1,0 +1,20 @@
+[
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "James",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/00cc5890464efc7543d9f2a73c42a616aed11c8984635cad29d278e748146b93.jpg",
+      "url": "https://twitter.com/sesticles"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1623968735194148865#favorited-by-1062926515",
+    "published": null,
+    "wm-received": "2023-02-10T11:11:16Z",
+    "wm-id": 1619753,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1623968735194148865/1062926515",
+    "wm-target": "https://sebastiandedeyne.com/screenshots/",
+    "like-of": "https://sebastiandedeyne.com/screenshots/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+]
