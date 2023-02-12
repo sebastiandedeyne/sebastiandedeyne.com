@@ -64,7 +64,7 @@ Some other people's setups and uses pages that inspired me in the past or for th
 {{% markdown %}}
 [Freek Van der Herten](https://freek.dev/uses)\
 [Rafael Conde](https://setups.co/posts/rafael-conde)\
-[Stefan Zweifel](https://stefanzweifel.io/uses)
+[Stefan Zweifel](https://stefanzweifel.dev/uses)
 {{%/ markdown %}}
 </div>
 </div>

@@ -12,7 +12,7 @@ description: |
 
 Ever since [Things 3](https://culturedcode.com/things/) came along, it's been my todo app of choice. Every now and then I check out the competition, but I always swing back.
 
-Inspired by [Stefan Zweifel's post](https://stefanzweifel.io/posts/things-3-setup-2019/), here's how I use Things on a daily basis.
+Inspired by [Stefan Zweifel's post](https://stefanzweifel.dev/posts/2019/12/26/things-3-setup), here's how I use Things on a daily basis.
 
 <!--more-->
 
