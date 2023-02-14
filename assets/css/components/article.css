@@ -93,7 +93,7 @@ article blockquote {
   margin-top: calc(var(--spacing) * 2);
   margin-bottom: var(--spacing);
   border-radius: var(--border-radius);
-  background-color: var(--color-gray);
+  background-color: lavender;
   padding: calc(var(--spacing) * 2);
 }
 
