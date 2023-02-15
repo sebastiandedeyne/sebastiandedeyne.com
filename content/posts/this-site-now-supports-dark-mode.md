@@ -31,4 +31,4 @@ module.exports = {
 
 [Here's the commit](https://github.com/sebastiandedeyne/sebastiandedeyne.com/commit/44079c3be7d1971ad287267597d89dfeb9dea350) that added dark mode support to this website. Since my design is quite minimalistic, it didn't require too many changes.
 
-Check out [Stefan's post](https://stefanzweifel.io/posts/support-mojave-dark-mode-with-tailwind-css/) for an in-depth explanation on the Tailwind configuration, and enjoy reading this website in the dark from here on!
+Check out [Stefan's post](https://stefanzweifel.dev/posts/2018/10/30/support-mojave-dark-mode-with-tailwind-css) for an in-depth explanation on the Tailwind configuration, and enjoy reading this website in the dark from here on!
