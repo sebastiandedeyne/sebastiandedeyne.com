@@ -1,13 +1,13 @@
 [build]
 command = """
-hugo --minify
+hugo --minify --buildFuture=$BUILD_FUTURE --baseURL=$DEPLOY_URL
 npm i -g @torchlight-api/torchlight-cli
 npx torchlight
 """
 publish = "public"
 
 [build.environment]
-HUGO_VERSION = "0.101.0"
+HUGO_VERSION = "0.110.0"
 HUGO_ENV = "production"
 
 [[redirects]]
