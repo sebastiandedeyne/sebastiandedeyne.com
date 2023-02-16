@@ -1,6 +1,6 @@
 [build]
 command = """
-hugo --minify --buildFuture=$BUILD_FUTURE --baseURL=$DEPLOY_URL
+hugo --minify --buildFuture=$BUILD_FUTURE --baseURL=$(echo $PRODUCTION_URL || echo $DEPLOY_URL)
 npm i -g @torchlight-api/torchlight-cli
 npx torchlight
 """
