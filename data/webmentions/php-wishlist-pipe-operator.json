@@ -20,5 +20,49 @@
     "mention-of": "https://sebastiandedeyne.com/php-wishlist-pipe-operator/",
     "wm-property": "mention-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "PHP Weekly",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/ad60f441cd51b9b662faeb67d9f54c3d29452f9f23e9d301fe9fecfca2b8c414.jpg",
+      "url": "https://twitter.com/PHPDiscussions"
+    },
+    "url": "https://twitter.com/PHPDiscussions/status/1626378295007649793",
+    "published": "2023-02-17T00:29:36+00:00",
+    "wm-received": "2023-02-17T00:34:12Z",
+    "wm-id": 1624748,
+    "wm-source": "https://brid.gy/post/twitter/sebdedeyne/1626378295007649793",
+    "wm-target": "https://sebastiandedeyne.com/php-wishlist-pipe-operator/",
+    "content": {
+      "html": "PHP wishlist: The pipe operator\n\n<a href=\"https://sebastiandedeyne.com/php-wishlist-pipe-operator/\">sebastiandedeyne.com/php-wishlist-p…</a>\n\nDiscussions: <a href=\"https://discu.eu/q/https://sebastiandedeyne.com/php-wishlist-pipe-operator/\">discu.eu/q/https://seba…</a>\n\n<a href=\"https://twitter.com/search?q=%23php\">#php</a> <a href=\"https://twitter.com/search?q=%23programming\">#programming</a>",
+      "text": "PHP wishlist: The pipe operator\n\nsebastiandedeyne.com/php-wishlist-p…\n\nDiscussions: discu.eu/q/https://seba…\n\n#php #programming"
+    },
+    "mention-of": "https://sebastiandedeyne.com/php-wishlist-pipe-operator/",
+    "wm-property": "mention-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "PHP LibHunt",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/1624e57d726ee48bba2cfdd92952e4b0b975f53bcf4c48553298e02a8ac2ed27.jpg",
+      "url": "https://twitter.com/phpLibHunt"
+    },
+    "url": "https://twitter.com/phpLibHunt/status/1626402844453781504",
+    "published": "2023-02-17T02:07:09+00:00",
+    "wm-received": "2023-02-17T02:28:56Z",
+    "wm-id": 1624836,
+    "wm-source": "https://brid.gy/post/twitter/sebdedeyne/1626402844453781504",
+    "wm-target": "https://sebastiandedeyne.com/php-wishlist-pipe-operator/",
+    "content": {
+      "html": "PHP wishlist: The pipe operator <a href=\"https://sebastiandedeyne.com/php-wishlist-pipe-operator\">sebastiandedeyne.com/php-wishlist-p…</a> by <a href=\"https://twitter.com/sebdedeyne\">@sebdedeyne</a>\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/php-wishlist-pipe-operator/\"></a>",
+      "text": "PHP wishlist: The pipe operator sebastiandedeyne.com/php-wishlist-p… by @sebdedeyne"
+    },
+    "mention-of": "https://sebastiandedeyne.com/php-wishlist-pipe-operator/",
+    "wm-property": "mention-of",
+    "wm-private": false
   }
 ]
