@@ -1,0 +1,24 @@
+[
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Peter Fox",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/074764071b2874e2b45f43ba00e612e16ab6bf7fafc93a75118bac9cee211d70.jpg",
+      "url": "https://twitter.com/SlyFireFox"
+    },
+    "url": "https://twitter.com/SlyFireFox/status/1626305472545316865",
+    "published": "2023-02-16T19:40:14+00:00",
+    "wm-received": "2023-02-16T19:47:41Z",
+    "wm-id": 1624503,
+    "wm-source": "https://brid.gy/post/twitter/sebdedeyne/1626305472545316865",
+    "wm-target": "https://sebastiandedeyne.com/php-wishlist-pipe-operator/",
+    "content": {
+      "html": "It's weird I've been thinking about the  same thing lately 😄 <a href=\"https://sebastiandedeyne.com/php-wishlist-pipe-operator/\">sebastiandedeyne.com/php-wishlist-p…</a>",
+      "text": "It's weird I've been thinking about the  same thing lately 😄 sebastiandedeyne.com/php-wishlist-p…"
+    },
+    "mention-of": "https://sebastiandedeyne.com/php-wishlist-pipe-operator/",
+    "wm-property": "mention-of",
+    "wm-private": false
+  }
+]
