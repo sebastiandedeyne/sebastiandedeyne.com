@@ -30,7 +30,7 @@ Hack's pipe operator is more verbose as it requires a `$$` token to indicate whi
 ```php
 'Hello, world!'
 |> strtolower($$)
-|> substr($$, 12)
+|> substr($$, 0, -1)
 |> str_replace(',', '', $$)
 
 // 'hello world'
@@ -43,7 +43,7 @@ I prefer a more succinct approach without the token. With short closures in PHP 
 ```php
 'Hello, world!'
 |> strtolower(...)
-|> substr(12)
+|> substr(0, -1)
 |> fn ($greeting) => str_replace(',', '', $greeting)
 
 // 'hello world'
@@ -289,7 +289,7 @@ First, there was discussion wether it should use a token. Back to one of my prev
 ```php
 'Hello, world!'
 |> strtolower($$)
-|> substr($$, 12)
+|> substr($$, 0, -1)
 |> str_replace(',', '', $$)
 
 // 'hello world'
@@ -300,7 +300,7 @@ I don't really mind wrapping code in an arrow function when the argument order i
 ```php
 'Hello, world!'
 |> strtolower(...)
-|> substr(12)
+|> substr(0, -1)
 |> fn ($greeting) => str_replace(',', '', $greeting)
 
 // 'hello world'
