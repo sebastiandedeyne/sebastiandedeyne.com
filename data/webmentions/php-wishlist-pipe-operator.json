@@ -86,5 +86,51 @@
     "mention-of": "https://sebastiandedeyne.com/php-wishlist-pipe-operator/",
     "wm-property": "mention-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Sebastiaan Andeweg",
+      "photo": "https://webmention.io/avatar/seblog.nl/df346916d2a97b05f18c3fd39e70c55885af4642f71d07b2094aca1d28d5c3cf.jpg",
+      "url": "https://seblog.nl/"
+    },
+    "url": "https://seblog.nl/2023/02/21/1/like",
+    "published": "2023-02-21T08:32:09+00:00",
+    "wm-received": "2023-02-21T08:33:33Z",
+    "wm-id": 1627333,
+    "wm-source": "https://seblog.nl/2023/02/21/1/like",
+    "wm-target": "https://sebastiandedeyne.com/php-wishlist-pipe-operator/",
+    "content": {
+      "text": "Seb vindt dit leuk."
+    },
+    "like-of": "https://sebastiandedeyne.com/php-wishlist-pipe-operator/",
+    "wm-property": "like-of",
+    "wm-private": false,
+    "rels": {
+      "canonical": "https://seblog.nl/2023/052/1"
+    }
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Travis van der Font 🇱🇺🇪🇺🇺🇸",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/b63d4fb833befcbd89a07f96eb907ff7a91e2d631ac7a3137c473b18aa333e62.jpg",
+      "url": "https://twitter.com/travisfont"
+    },
+    "url": "https://twitter.com/travisfont/status/1627986500213256193",
+    "published": "2023-02-21T11:00:02+00:00",
+    "wm-received": "2023-02-21T11:25:23Z",
+    "wm-id": 1627414,
+    "wm-source": "https://brid.gy/post/twitter/sebdedeyne/1627986500213256193",
+    "wm-target": "https://sebastiandedeyne.com/php-wishlist-pipe-operator/",
+    "content": {
+      "html": "I think this would be a bad idea, and I hope any related RFC never gets passed 😬🔥\n\nAesthetically, it does prove evidence that core PHP functions have a problem with the subject never being consistent and the first (and required) argument.\n<a href=\"https://twitter.com/search?q=%23coding\">#coding</a> <a href=\"https://twitter.com/search?q=%23php\">#php</a>\n<a href=\"https://sebastiandedeyne.com/php-wishlist-pipe-operator/\">sebastiandedeyne.com/php-wishlist-p…</a>",
+      "text": "I think this would be a bad idea, and I hope any related RFC never gets passed 😬🔥\n\nAesthetically, it does prove evidence that core PHP functions have a problem with the subject never being consistent and the first (and required) argument.\n#coding #php\nsebastiandedeyne.com/php-wishlist-p…"
+    },
+    "mention-of": "https://sebastiandedeyne.com/php-wishlist-pipe-operator/",
+    "wm-property": "mention-of",
+    "wm-private": false
   }
 ]
