@@ -154,5 +154,27 @@
     "mention-of": "https://sebastiandedeyne.com/php-wishlist-pipe-operator/",
     "wm-property": "mention-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Micha(el) Bladowski 🇩🇪 🇺🇦",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/95a49b9fd51d76253f5f9077265dfe6e17e6a1fa26089cad09ba8bda07328754.jpg",
+      "url": "https://twitter.com/michabbb"
+    },
+    "url": "https://twitter.com/michabbb/status/1629036756405288960",
+    "published": "2023-02-24T08:33:23+00:00",
+    "wm-received": "2023-02-24T09:01:27Z",
+    "wm-id": 1629346,
+    "wm-source": "https://brid.gy/post/twitter/sebdedeyne/1629036756405288960",
+    "wm-target": "https://sebastiandedeyne.com/php-wishlist-pipe-operator/",
+    "content": {
+      "html": "<a href=\"https://twitter.com/search?q=%23PHP\">#PHP</a> wishlist: The pipe operator\n\n<a href=\"https://sebastiandedeyne.com/php-wishlist-pipe-operator/\">sebastiandedeyne.com/php-wishlist-p…</a>",
+      "text": "#PHP wishlist: The pipe operator\n\nsebastiandedeyne.com/php-wishlist-p…"
+    },
+    "mention-of": "https://sebastiandedeyne.com/php-wishlist-pipe-operator/",
+    "wm-property": "mention-of",
+    "wm-private": false
   }
 ]
