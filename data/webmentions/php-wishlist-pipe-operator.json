@@ -292,5 +292,192 @@
     "like-of": "https://sebastiandedeyne.com/php-wishlist-pipe-operator/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Caleb Porzio",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/03b72d49666215a47c3257a0ae49879d92a4e67d8d87bd2c1ddbdc10e0c81a72.jpg",
+      "url": "https://twitter.com/calebporzio"
+    },
+    "url": "https://twitter.com/calebporzio/status/1630367729998872579",
+    "published": "2023-02-28T00:42:12+00:00",
+    "wm-received": "2023-02-28T01:08:20Z",
+    "wm-id": 1631543,
+    "wm-source": "https://brid.gy/comment/twitter/sebdedeyne/1630194904436465664/1630367729998872579",
+    "wm-target": "https://sebastiandedeyne.com/php-wishlist-pipe-operator/",
+    "content": {
+      "html": "Sounds like a dream, would love this\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/sebdedeyne\"></a>",
+      "text": "Sounds like a dream, would love this"
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/php-wishlist-pipe-operator/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "वेद",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/741f4034924f08314e696969572422a76481255470d547cd1ecf7b50a674eef3.jpg",
+      "url": "https://twitter.com/tmg_bedus"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1630194904436465664#favorited-by-1010790802463821824",
+    "published": null,
+    "wm-received": "2023-02-28T01:08:20Z",
+    "wm-id": 1631544,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1630194904436465664/1010790802463821824",
+    "wm-target": "https://sebastiandedeyne.com/php-wishlist-pipe-operator/",
+    "like-of": "https://sebastiandedeyne.com/php-wishlist-pipe-operator/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Chandra",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/729c830b7f73e25f72203bb9fb0938dcb0f1ff460269dc5eb9157e3c21b41dcc.jpg",
+      "url": "https://twitter.com/chandraa_tama"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1630194904436465664#favorited-by-3099769783",
+    "published": null,
+    "wm-received": "2023-02-28T01:08:22Z",
+    "wm-id": 1631545,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1630194904436465664/3099769783",
+    "wm-target": "https://sebastiandedeyne.com/php-wishlist-pipe-operator/",
+    "like-of": "https://sebastiandedeyne.com/php-wishlist-pipe-operator/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Caleb Porzio",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/03b72d49666215a47c3257a0ae49879d92a4e67d8d87bd2c1ddbdc10e0c81a72.jpg",
+      "url": "https://twitter.com/calebporzio"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1630194904436465664#favorited-by-24035747",
+    "published": null,
+    "wm-received": "2023-02-28T01:08:22Z",
+    "wm-id": 1631546,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1630194904436465664/24035747",
+    "wm-target": "https://sebastiandedeyne.com/php-wishlist-pipe-operator/",
+    "like-of": "https://sebastiandedeyne.com/php-wishlist-pipe-operator/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Thomas",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/763f978cf21322fe0dd45654ddf77946e67d0cd3170617a83388e58fc12f2eaa.jpg",
+      "url": "https://twitter.com/thomas4lmeida"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1630194904436465664#favorited-by-3048154475",
+    "published": null,
+    "wm-received": "2023-02-28T01:08:23Z",
+    "wm-id": 1631547,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1630194904436465664/3048154475",
+    "wm-target": "https://sebastiandedeyne.com/php-wishlist-pipe-operator/",
+    "like-of": "https://sebastiandedeyne.com/php-wishlist-pipe-operator/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Chandra",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/729c830b7f73e25f72203bb9fb0938dcb0f1ff460269dc5eb9157e3c21b41dcc.jpg",
+      "url": "https://twitter.com/chandraa_tama"
+    },
+    "url": "https://twitter.com/chandraa_tama/status/1630370878855995393",
+    "published": "2023-02-28T00:54:43+00:00",
+    "wm-received": "2023-02-28T01:08:24Z",
+    "wm-id": 1631548,
+    "wm-source": "https://brid.gy/repost/twitter/sebdedeyne/1630194904436465664/1630370878855995393",
+    "wm-target": "https://sebastiandedeyne.com/php-wishlist-pipe-operator/",
+    "content": {
+      "text": "One of my top feature requests for PHP is the pipe operator. It sure looks cool, but the main reason is better, more composable code.\n\nsebastiandedeyne.com/php-wishlist-p…"
+    },
+    "repost-of": "https://sebastiandedeyne.com/php-wishlist-pipe-operator/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "realCodeCraft 🐧",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/a756dd71e9c2f9ddf4fc91190db0e45b2eb2fa6df89b81a79f0196feeb757687.png",
+      "url": "https://twitter.com/realCodeCraft"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1630194904436465664#favorited-by-3506611516",
+    "published": null,
+    "wm-received": "2023-02-28T02:04:12Z",
+    "wm-id": 1631566,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1630194904436465664/3506611516",
+    "wm-target": "https://sebastiandedeyne.com/php-wishlist-pipe-operator/",
+    "like-of": "https://sebastiandedeyne.com/php-wishlist-pipe-operator/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Ahmed Mohamed Abd El Ftah",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/8d33366c9eb22489cbb535a6d858b8e09864f516ea30e8221981f6eda1fda7df.jpg",
+      "url": "https://twitter.com/amaelftah"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1630194904436465664#favorited-by-920384655634980864",
+    "published": null,
+    "wm-received": "2023-02-28T05:10:02Z",
+    "wm-id": 1631625,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1630194904436465664/920384655634980864",
+    "wm-target": "https://sebastiandedeyne.com/php-wishlist-pipe-operator/",
+    "like-of": "https://sebastiandedeyne.com/php-wishlist-pipe-operator/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Taylor Otwell 🪐",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/774f699bfc17c89db5430b5cf7642602eb298f28dac7bce584c63bbfbf24125a.jpg",
+      "url": "https://twitter.com/taylorotwell"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1630194904436465664#favorited-by-28870687",
+    "published": null,
+    "wm-received": "2023-02-28T05:34:26Z",
+    "wm-id": 1631629,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1630194904436465664/28870687",
+    "wm-target": "https://sebastiandedeyne.com/php-wishlist-pipe-operator/",
+    "like-of": "https://sebastiandedeyne.com/php-wishlist-pipe-operator/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Jan",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/32b3c81d55936de47b10f99ffa0133c2b2fd6ac06da99c50c55e549cd1797356.jpg",
+      "url": "https://twitter.com/rollbrettklauen"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1630194904436465664#favorited-by-1566012413987659776",
+    "published": null,
+    "wm-received": "2023-02-28T05:34:26Z",
+    "wm-id": 1631630,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1630194904436465664/1566012413987659776",
+    "wm-target": "https://sebastiandedeyne.com/php-wishlist-pipe-operator/",
+    "like-of": "https://sebastiandedeyne.com/php-wishlist-pipe-operator/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
