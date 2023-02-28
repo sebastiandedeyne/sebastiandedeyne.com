@@ -81,7 +81,7 @@ Another benefit is we don't need macros anymore.
 Collection::macro('foo', fn (Collection $collection) => …);
 ```
 
-We can mix and match third party methods our with our own.
+We can mix and match third party methods with our own.
 
 ```php
 use App\Support\Collection\{foo}
