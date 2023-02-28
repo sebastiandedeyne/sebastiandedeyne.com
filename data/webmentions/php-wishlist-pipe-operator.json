@@ -176,5 +176,121 @@
     "mention-of": "https://sebastiandedeyne.com/php-wishlist-pipe-operator/",
     "wm-property": "mention-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Sebastiaan Luca 🤖",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/be933408a7baf74258a78b290c60c1c76bc648df613301a9ed4754b62f07bcff.jpg",
+      "url": "https://twitter.com/sebastiaanluca"
+    },
+    "url": "https://twitter.com/sebastiaanluca/status/1630267142472974341",
+    "published": "2023-02-27T18:02:30+00:00",
+    "wm-received": "2023-02-27T18:20:49Z",
+    "wm-id": 1631421,
+    "wm-source": "https://brid.gy/comment/twitter/sebdedeyne/1630194904436465664/1630267142472974341",
+    "wm-target": "https://sebastiandedeyne.com/php-wishlist-pipe-operator/",
+    "content": {
+      "html": "It's been a while since the proposal, so would amaze me if it'd still get added, but I got you covered 😄\n\nSince PHP 8.1, you can even get auto completion for methods 👌\n\n<a href=\"https://github.com/sebastiaanluca/php-pipe-operator\">github.com/sebastiaanluca…</a>\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/sebdedeyne\"></a>",
+      "text": "It's been a while since the proposal, so would amaze me if it'd still get added, but I got you covered 😄\n\nSince PHP 8.1, you can even get auto completion for methods 👌\n\ngithub.com/sebastiaanluca…"
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/php-wishlist-pipe-operator/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Sebastiaan Luca 🤖",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/be933408a7baf74258a78b290c60c1c76bc648df613301a9ed4754b62f07bcff.jpg",
+      "url": "https://twitter.com/sebastiaanluca"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1630194904436465664#favorited-by-357390496",
+    "published": null,
+    "wm-received": "2023-02-27T18:20:50Z",
+    "wm-id": 1631422,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1630194904436465664/357390496",
+    "wm-target": "https://sebastiandedeyne.com/php-wishlist-pipe-operator/",
+    "like-of": "https://sebastiandedeyne.com/php-wishlist-pipe-operator/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Ryan Chandler",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/beb1b977233d5272c46b6e9d8d9bb8f273bc1ba5221838e687bff07e2903f715.png",
+      "url": "https://twitter.com/ryangjchandler"
+    },
+    "url": "https://twitter.com/ryangjchandler/status/1630273894614532096",
+    "published": "2023-02-27T18:29:20+00:00",
+    "wm-received": "2023-02-27T18:46:58Z",
+    "wm-id": 1631429,
+    "wm-source": "https://brid.gy/comment/twitter/sebdedeyne/1630194904436465664/1630273894614532096",
+    "wm-target": "https://sebastiandedeyne.com/php-wishlist-pipe-operator/",
+    "content": {
+      "html": "On my PXP list!\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/sebdedeyne\"></a>",
+      "text": "On my PXP list!"
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/php-wishlist-pipe-operator/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Paul Redmond 🇺🇸",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/268ef2d8db48537326b50858bf546e09c7463518acd63d8d88994818476be0bc.jpg",
+      "url": "https://twitter.com/paulredmond"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1630194904436465664#favorited-by-14081470",
+    "published": null,
+    "wm-received": "2023-02-27T19:19:42Z",
+    "wm-id": 1631439,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1630194904436465664/14081470",
+    "wm-target": "https://sebastiandedeyne.com/php-wishlist-pipe-operator/",
+    "like-of": "https://sebastiandedeyne.com/php-wishlist-pipe-operator/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "David Torras",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/516f719def9708ed707ff111de1afd12686526081e785ba1322caa5f256f8db2.jpg",
+      "url": "https://twitter.com/dtorras"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1630194904436465664#favorited-by-1375881231812988929",
+    "published": null,
+    "wm-received": "2023-02-27T22:30:23Z",
+    "wm-id": 1631490,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1630194904436465664/1375881231812988929",
+    "wm-target": "https://sebastiandedeyne.com/php-wishlist-pipe-operator/",
+    "like-of": "https://sebastiandedeyne.com/php-wishlist-pipe-operator/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "hariharan",
+      "photo": "https://webmention.io/avatar/abs.twimg.com/0e6b2cd70aa5b35dec24ca4e1e63f8963f0118736d9ec3bba77e3a8c99a27bc2.png",
+      "url": "https://twitter.com/hariharan2684"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1630194904436465664#favorited-by-703166378413428736",
+    "published": null,
+    "wm-received": "2023-02-27T22:30:24Z",
+    "wm-id": 1631491,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1630194904436465664/703166378413428736",
+    "wm-target": "https://sebastiandedeyne.com/php-wishlist-pipe-operator/",
+    "like-of": "https://sebastiandedeyne.com/php-wishlist-pipe-operator/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
