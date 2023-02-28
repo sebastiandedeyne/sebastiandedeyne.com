@@ -771,5 +771,84 @@
     "like-of": "https://sebastiandedeyne.com/php-wishlist-pipe-operator/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "tudouyavip",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/3376b54a8b409949d565734ecbf2f20d55868997cf117546bd66a49fd920c59f.jpg",
+      "url": "https://twitter.com/tudouyavip"
+    },
+    "url": "https://twitter.com/tudouyavip/status/1630539314097717248",
+    "published": "2023-02-28T12:04:01+00:00",
+    "wm-received": "2023-02-28T12:15:51Z",
+    "wm-id": 1631757,
+    "wm-source": "https://brid.gy/repost/twitter/sebdedeyne/1630194904436465664/1630539314097717248",
+    "wm-target": "https://sebastiandedeyne.com/php-wishlist-pipe-operator/",
+    "content": {
+      "text": "One of my top feature requests for PHP is the pipe operator. It sure looks cool, but the main reason is better, more composable code.\n\nsebastiandedeyne.com/php-wishlist-p…"
+    },
+    "repost-of": "https://sebastiandedeyne.com/php-wishlist-pipe-operator/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "＜MARK＞ ",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/10ef5de1e000dd72e7d6bf362701e3475c0bda83ca0cc15a194b5ecd09bd254d.jpg",
+      "url": "https://twitter.com/marknuyens"
+    },
+    "url": "https://twitter.com/marknuyens/status/1630593281431093251",
+    "published": "2023-02-28T15:38:27+00:00",
+    "wm-received": "2023-02-28T15:48:10Z",
+    "wm-id": 1631848,
+    "wm-source": "https://brid.gy/comment/twitter/sebdedeyne/1630194904436465664/1630593281431093251",
+    "wm-target": "https://sebastiandedeyne.com/php-wishlist-pipe-operator/",
+    "content": {
+      "html": "I question the \"|&gt;\" operator tough. I still find it kind of confusing. :🤔\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/sebdedeyne\"></a>",
+      "text": "I question the \"|>\" operator tough. I still find it kind of confusing. :🤔"
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/php-wishlist-pipe-operator/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "＜MARK＞ ",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/10ef5de1e000dd72e7d6bf362701e3475c0bda83ca0cc15a194b5ecd09bd254d.jpg",
+      "url": "https://twitter.com/marknuyens"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1630194904436465664#favorited-by-51505915",
+    "published": null,
+    "wm-received": "2023-02-28T15:48:11Z",
+    "wm-id": 1631849,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1630194904436465664/51505915",
+    "wm-target": "https://sebastiandedeyne.com/php-wishlist-pipe-operator/",
+    "like-of": "https://sebastiandedeyne.com/php-wishlist-pipe-operator/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Clint Winter",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/4df9b108f31054a91e8b8e1c9b50605eee1d38c5a6c19d904f83e0283ad6611e.jpg",
+      "url": "https://twitter.com/clintwinter13"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1630194904436465664#favorited-by-1153366404244152320",
+    "published": null,
+    "wm-received": "2023-02-28T17:38:32Z",
+    "wm-id": 1631903,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1630194904436465664/1153366404244152320",
+    "wm-target": "https://sebastiandedeyne.com/php-wishlist-pipe-operator/",
+    "like-of": "https://sebastiandedeyne.com/php-wishlist-pipe-operator/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
