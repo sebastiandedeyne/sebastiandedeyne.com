@@ -92,9 +92,9 @@ article td {
 article blockquote {
   margin-top: calc(var(--spacing) * 2);
   margin-bottom: var(--spacing);
-  border-radius: var(--border-radius);
-  background-color: lavender;
   padding: calc(var(--spacing) * 2);
+  border: 1px solid black;
+  box-shadow: 2px 2px 0 0 white, 3px 3px 0 0 black;
 }
 
 article blockquote > :first-child {
