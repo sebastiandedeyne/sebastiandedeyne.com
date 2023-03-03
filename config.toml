@@ -13,6 +13,7 @@ paginate = 10
 
 [permalinks]
   posts = "/:slug"
+  categories = "/:title"
   tags = "/tags/:title"
 
 [author]
