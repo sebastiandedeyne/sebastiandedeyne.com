@@ -41,6 +41,7 @@
     {{ else }}
       {{ .Content }}
     {{ end }}
+    <hr>
     {{ if .Params.series }}
       {{ with index $.Site.Data.series .Params.series }}
         <aside class="toc">
