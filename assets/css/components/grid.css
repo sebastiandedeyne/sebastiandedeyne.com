@@ -48,7 +48,7 @@
 @media (max-width: 600px) {
   .grid > article > pre,
   .grid > article > blockquote {
-    grid-column: left-edge / right-edge;
+    grid-column: content-start / content-end;
   }
 }
 
