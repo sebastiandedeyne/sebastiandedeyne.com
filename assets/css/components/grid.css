@@ -42,11 +42,14 @@
 }
 
 .grid > article > blockquote {
-  grid-column: content-start / right-edge;
+  grid-column: content-start / content-end;
 }
 
 @media (max-width: 600px) {
-  .grid > article > pre,
+  .grid > article > pre {
+    grid-column: left-edge / right-edge;
+  }
+
   .grid > article > blockquote {
     grid-column: content-start / content-end;
   }
