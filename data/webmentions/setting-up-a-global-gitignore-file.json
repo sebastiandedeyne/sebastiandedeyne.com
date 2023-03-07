@@ -4002,5 +4002,27 @@
     "in-reply-to": "https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/",
     "wm-property": "in-reply-to",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Gaurav Munjal @gaurav9576@fosstodon.org",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/88dc1eff53ee72efef75a0d3c7b11a0c671ec582ae23d4ce3c373d956c6ac938.png",
+      "url": "https://twitter.com/gaurav9576"
+    },
+    "url": "https://twitter.com/gaurav9576/status/1632857001880350722",
+    "published": "2023-03-06T21:33:40+00:00",
+    "wm-received": "2023-03-06T22:05:19Z",
+    "wm-id": 1635417,
+    "wm-source": "https://brid.gy/comment/twitter/sebdedeyne/1632857001880350722/1632857001880350722",
+    "wm-target": "https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/",
+    "content": {
+      "html": "Add the file to your 'global' .gitignore (the one in your home directory) <a href=\"https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/\">sebastiandedeyne.com/setting-up-a-g…</a>\n<a class=\"u-mention\" href=\"https://twitter.com/knownasilya\"></a>",
+      "text": "Add the file to your 'global' .gitignore (the one in your home directory) sebastiandedeyne.com/setting-up-a-g…"
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
   }
 ]
