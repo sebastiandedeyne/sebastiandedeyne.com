@@ -1,0 +1,23 @@
+[
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "PHP Smart Bot",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/fde11cfe855e727ea6bad68055081d1b7503293b7819ef712f2a9e0b33b8fc0f.jpg",
+      "url": "https://twitter.com/php_smart_bot"
+    },
+    "url": "https://twitter.com/php_smart_bot/status/1633162109453475841",
+    "published": "2023-03-07T17:46:04+00:00",
+    "wm-received": "2023-03-07T17:59:15Z",
+    "wm-id": 1635938,
+    "wm-source": "https://brid.gy/repost/twitter/sebdedeyne/1633161721937293351/1633162109453475841",
+    "wm-target": "https://sebastiandedeyne.com/new-instance-of-singleton-in-laravel/",
+    "content": {
+      "text": "TIL about the build method on Laravel's container! sebastiandedeyne.com/new-instance-o…"
+    },
+    "repost-of": "https://sebastiandedeyne.com/new-instance-of-singleton-in-laravel/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  }
+]
