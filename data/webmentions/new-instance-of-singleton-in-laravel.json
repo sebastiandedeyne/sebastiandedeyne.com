@@ -19,5 +19,27 @@
     "repost-of": "https://sebastiandedeyne.com/new-instance-of-singleton-in-laravel/",
     "wm-property": "repost-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "ManuGlez ",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/18b499f7629faaa2c72eddaf133f11a6204409ec452f4227d911bd4068203465.jpg",
+      "url": "https://twitter.com/_ManuelGL_"
+    },
+    "url": "https://twitter.com/_ManuelGL_/status/1633197207900897281",
+    "published": "2023-03-07T20:05:32+00:00",
+    "wm-received": "2023-03-07T20:31:46Z",
+    "wm-id": 1635995,
+    "wm-source": "https://brid.gy/comment/twitter/sebdedeyne/1633161721937293351/1633197207900897281",
+    "wm-target": "https://sebastiandedeyne.com/new-instance-of-singleton-in-laravel/",
+    "content": {
+      "html": "Ok, Laravel is flexible enough, but I think it has no sense use a singleton pattern and breaking it.\n<a class=\"u-mention\" href=\"https://sebastiandedeyne.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/sebdedeyne\"></a>",
+      "text": "Ok, Laravel is flexible enough, but I think it has no sense use a singleton pattern and breaking it."
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/new-instance-of-singleton-in-laravel/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
   }
 ]
