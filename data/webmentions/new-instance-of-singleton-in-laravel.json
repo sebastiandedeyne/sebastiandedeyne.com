@@ -120,5 +120,62 @@
     "repost-of": "https://sebastiandedeyne.com/new-instance-of-singleton-in-laravel/",
     "wm-property": "repost-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Daryl Legion ⚡",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/b1062ed40567686d38b229fd4b0ab8da14f5b44f68f41183cd0677628c9e051b.jpg",
+      "url": "https://twitter.com/Annevigoss"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1633161721937293351#favorited-by-2788301381",
+    "published": null,
+    "wm-received": "2023-03-08T12:19:30Z",
+    "wm-id": 1636475,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1633161721937293351/2788301381",
+    "wm-target": "https://sebastiandedeyne.com/new-instance-of-singleton-in-laravel/",
+    "like-of": "https://sebastiandedeyne.com/new-instance-of-singleton-in-laravel/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Daryl Legion ⚡",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/b1062ed40567686d38b229fd4b0ab8da14f5b44f68f41183cd0677628c9e051b.jpg",
+      "url": "https://twitter.com/Annevigoss"
+    },
+    "url": "https://twitter.com/Annevigoss/status/1633442309130928128",
+    "published": "2023-03-08T12:19:29+00:00",
+    "wm-received": "2023-03-08T12:44:45Z",
+    "wm-id": 1636490,
+    "wm-source": "https://brid.gy/repost/twitter/sebdedeyne/1633161721937293351/1633442309130928128",
+    "wm-target": "https://sebastiandedeyne.com/new-instance-of-singleton-in-laravel/",
+    "content": {
+      "text": "TIL about the build method on Laravel's container! sebastiandedeyne.com/new-instance-o…"
+    },
+    "repost-of": "https://sebastiandedeyne.com/new-instance-of-singleton-in-laravel/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "René Sinnbeck",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/24e3da35f67fd7a198af3ba57e327fcb788cfa056a00479f453018653e0b0d2f.jpg",
+      "url": "https://twitter.com/rsinnbeck"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1633161721937293351#favorited-by-282584132",
+    "published": null,
+    "wm-received": "2023-03-08T13:19:55Z",
+    "wm-id": 1636497,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1633161721937293351/282584132",
+    "wm-target": "https://sebastiandedeyne.com/new-instance-of-singleton-in-laravel/",
+    "like-of": "https://sebastiandedeyne.com/new-instance-of-singleton-in-laravel/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
