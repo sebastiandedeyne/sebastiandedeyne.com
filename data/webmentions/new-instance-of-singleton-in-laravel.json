@@ -41,5 +41,84 @@
     "in-reply-to": "https://sebastiandedeyne.com/new-instance-of-singleton-in-laravel/",
     "wm-property": "in-reply-to",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Hannes",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/0c0cee9eaf90645ae95a83f0e22546bc634cc02016d0e2554e4a2e70d409c403.jpg",
+      "url": "https://twitter.com/rompetomp"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1633161721937293351#favorited-by-74808740",
+    "published": null,
+    "wm-received": "2023-03-08T06:26:49Z",
+    "wm-id": 1636351,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1633161721937293351/74808740",
+    "wm-target": "https://sebastiandedeyne.com/new-instance-of-singleton-in-laravel/",
+    "like-of": "https://sebastiandedeyne.com/new-instance-of-singleton-in-laravel/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Sebastian De Deyne",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/5a9a25c3a34a5ea4617148cfb60fb0790b9df156ddc38c3f2c5fddc000ef5554.jpg",
+      "url": "https://twitter.com/sebdedeyne"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1633357936977227776",
+    "published": "2023-03-08T06:44:13+00:00",
+    "wm-received": "2023-03-08T06:52:27Z",
+    "wm-id": 1636371,
+    "wm-source": "https://brid.gy/comment/twitter/sebdedeyne/1633161721937293351/1633357936977227776",
+    "wm-target": "https://sebastiandedeyne.com/new-instance-of-singleton-in-laravel/",
+    "content": {
+      "html": "I agree, this is almost never useful :)\n\nI needed this because a package registered something as a singleton and it's less hefty than setting up a custom service provider. It's a nice escape hatch provided by Laravel.\n<a class=\"u-mention\" href=\"https://twitter.com/_ManuelGL_\"></a>",
+      "text": "I agree, this is almost never useful :)\n\nI needed this because a package registered something as a singleton and it's less hefty than setting up a custom service provider. It's a nice escape hatch provided by Laravel."
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/new-instance-of-singleton-in-laravel/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Ryan Chandler",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/beb1b977233d5272c46b6e9d8d9bb8f273bc1ba5221838e687bff07e2903f715.png",
+      "url": "https://twitter.com/ryangjchandler"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1633161721937293351#favorited-by-1088489047260041217",
+    "published": null,
+    "wm-received": "2023-03-08T09:54:31Z",
+    "wm-id": 1636427,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1633161721937293351/1088489047260041217",
+    "wm-target": "https://sebastiandedeyne.com/new-instance-of-singleton-in-laravel/",
+    "like-of": "https://sebastiandedeyne.com/new-instance-of-singleton-in-laravel/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Ryan Chandler",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/beb1b977233d5272c46b6e9d8d9bb8f273bc1ba5221838e687bff07e2903f715.png",
+      "url": "https://twitter.com/ryangjchandler"
+    },
+    "url": "https://twitter.com/ryangjchandler/status/1633405169168789504",
+    "published": "2023-03-08T09:51:54+00:00",
+    "wm-received": "2023-03-08T09:54:31Z",
+    "wm-id": 1636428,
+    "wm-source": "https://brid.gy/repost/twitter/sebdedeyne/1633161721937293351/1633405169168789504",
+    "wm-target": "https://sebastiandedeyne.com/new-instance-of-singleton-in-laravel/",
+    "content": {
+      "text": "TIL about the build method on Laravel's container! sebastiandedeyne.com/new-instance-o…"
+    },
+    "repost-of": "https://sebastiandedeyne.com/new-instance-of-singleton-in-laravel/",
+    "wm-property": "repost-of",
+    "wm-private": false
   }
 ]
