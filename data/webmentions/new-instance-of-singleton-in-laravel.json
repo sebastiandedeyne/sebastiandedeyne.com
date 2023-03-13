@@ -177,5 +177,27 @@
     "like-of": "https://sebastiandedeyne.com/new-instance-of-singleton-in-laravel/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Micha(el) Bladowski 🇩🇪 🇺🇦",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/95a49b9fd51d76253f5f9077265dfe6e17e6a1fa26089cad09ba8bda07328754.jpg",
+      "url": "https://twitter.com/michabbb"
+    },
+    "url": "https://twitter.com/michabbb/status/1635333295230836736",
+    "published": "2023-03-13T17:33:35+00:00",
+    "wm-received": "2023-03-13T17:34:59Z",
+    "wm-id": 1640047,
+    "wm-source": "https://brid.gy/post/twitter/sebdedeyne/1635333295230836736",
+    "wm-target": "https://sebastiandedeyne.com/new-instance-of-singleton-in-laravel/",
+    "content": {
+      "html": "Resolving a new instance of a singleton in <a href=\"https://twitter.com/search?q=%23Laravel\">#Laravel</a> \n\n<a href=\"https://sebastiandedeyne.com/new-instance-of-singleton-in-laravel/\">sebastiandedeyne.com/new-instance-o…</a>",
+      "text": "Resolving a new instance of a singleton in #Laravel \n\nsebastiandedeyne.com/new-instance-o…"
+    },
+    "mention-of": "https://sebastiandedeyne.com/new-instance-of-singleton-in-laravel/",
+    "wm-property": "mention-of",
+    "wm-private": false
   }
 ]
