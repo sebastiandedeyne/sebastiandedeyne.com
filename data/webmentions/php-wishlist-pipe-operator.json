@@ -850,5 +850,27 @@
     "like-of": "https://sebastiandedeyne.com/php-wishlist-pipe-operator/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Paul Redmond 🇺🇸",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/268ef2d8db48537326b50858bf546e09c7463518acd63d8d88994818476be0bc.jpg",
+      "url": "https://twitter.com/paulredmond"
+    },
+    "url": "https://twitter.com/paulredmond/status/1635129250759192578",
+    "published": "2023-03-13T04:02:47+00:00",
+    "wm-received": "2023-03-13T04:19:47Z",
+    "wm-id": 1639668,
+    "wm-source": "https://brid.gy/comment/twitter/sebdedeyne/1635129250759192578/1635129250759192578",
+    "wm-target": "https://sebastiandedeyne.com/php-wishlist-pipe-operator/",
+    "content": {
+      "html": "The pipe operator. <a href=\"https://twitter.com/sebdedeyne\">@sebdedeyne</a> wrote about it here <a href=\"https://sebastiandedeyne.com/php-wishlist-pipe-operator/\">sebastiandedeyne.com/php-wishlist-p…</a>\n<a class=\"u-mention\" href=\"https://twitter.com/ryangjchandler\"></a>",
+      "text": "The pipe operator. @sebdedeyne wrote about it here sebastiandedeyne.com/php-wishlist-p…"
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/php-wishlist-pipe-operator/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
   }
 ]
