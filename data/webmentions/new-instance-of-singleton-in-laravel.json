@@ -199,5 +199,27 @@
     "mention-of": "https://sebastiandedeyne.com/new-instance-of-singleton-in-laravel/",
     "wm-property": "mention-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Laravel Daily",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/e8b567042d40aa5b0d337b6b1555e2ace5237e1eb3d76eaccdee9a1d6073a112.png",
+      "url": "https://twitter.com/DailyLaravel"
+    },
+    "url": "https://twitter.com/DailyLaravel/status/1635573985709522945",
+    "published": "2023-03-14T09:30:00+00:00",
+    "wm-received": "2023-03-14T09:57:48Z",
+    "wm-id": 1640565,
+    "wm-source": "https://brid.gy/post/twitter/sebdedeyne/1635573985709522945",
+    "wm-target": "https://sebastiandedeyne.com/new-instance-of-singleton-in-laravel/",
+    "content": {
+      "html": "Resolving a new instance of a singleton in Laravel <a href=\"https://sebastiandedeyne.com/new-instance-of-singleton-in-laravel/\">sebastiandedeyne.com/new-instance-o…</a>",
+      "text": "Resolving a new instance of a singleton in Laravel sebastiandedeyne.com/new-instance-o…"
+    },
+    "mention-of": "https://sebastiandedeyne.com/new-instance-of-singleton-in-laravel/",
+    "wm-property": "mention-of",
+    "wm-private": false
   }
 ]
