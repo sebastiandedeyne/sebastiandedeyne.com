@@ -872,5 +872,30 @@
     "in-reply-to": "https://sebastiandedeyne.com/php-wishlist-pipe-operator/",
     "wm-property": "in-reply-to",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Caleb Porzio",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/03b72d49666215a47c3257a0ae49879d92a4e67d8d87bd2c1ddbdc10e0c81a72.jpg",
+      "url": "https://twitter.com/calebporzio"
+    },
+    "url": "https://twitter.com/calebporzio/status/1635657190206844929",
+    "published": "2023-03-14T15:00:37+00:00",
+    "wm-received": "2023-03-14T15:06:20Z",
+    "wm-id": 1640712,
+    "wm-source": "https://brid.gy/comment/twitter/sebdedeyne/1635657190206844929/1635657190206844929",
+    "wm-target": "https://sebastiandedeyne.com/php-wishlist-pipe-operator/",
+    "photo": [
+      "https://pbs.twimg.com/media/FrL8zEPXoAAytYh.jpg"
+    ],
+    "content": {
+      "html": "In a perfect world, PHP just has a pipe operator (<a href=\"https://sebastiandedeyne.com/php-wishlist-pipe-operator/\">sebastiandedeyne.com/php-wishlist-p…</a>)\n\nProblem is: we don't\n\nSo let's begin our quest: how can we mimic one as best as possible using what we already have in PHP",
+      "text": "In a perfect world, PHP just has a pipe operator (sebastiandedeyne.com/php-wishlist-p…)\n\nProblem is: we don't\n\nSo let's begin our quest: how can we mimic one as best as possible using what we already have in PHP"
+    },
+    "in-reply-to": "https://sebastiandedeyne.com/php-wishlist-pipe-operator/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
   }
 ]
