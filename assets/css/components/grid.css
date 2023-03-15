@@ -8,7 +8,6 @@
     [right-edge];
   column-gap: calc(var(--spacing) * 3);
   padding: 0 calc(var(--spacing) * 2);
-  min-height: 100vh;
 }
 
 @media (max-width: 600px) {
