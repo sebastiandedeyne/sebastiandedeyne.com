@@ -4,7 +4,6 @@ title = "Seb De Deyne"
 
 summaryLength = 1_000_000
 rssLimit = 10
-enableGitInfo = true
 paginate = 10
 
 [taxonomies]
