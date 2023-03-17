@@ -1,1 +1,2 @@
-<pre><code data-language="{{ .Type }}">{{ .Inner }}</code></pre>
+{{ $class := .Attributes.class | default "" }}
+<pre{{ with $class }} class="{{ . }}"{{ end }}><code data-language="{{ .Type }}">{{ .Inner }}</code></pre>
