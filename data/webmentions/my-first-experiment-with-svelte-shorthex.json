@@ -1,0 +1,20 @@
+[
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "erwinheiser",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/08a6e1bd10f57e95684df6bd9b7220fd1b6479402b4a6fb2df4c3147fecce4a7.jpg",
+      "url": "https://twitter.com/erwinheiser"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1638074937637257217#favorited-by-16362884",
+    "published": null,
+    "wm-received": "2023-03-21T11:00:40Z",
+    "wm-id": 1645654,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1638074937637257217/16362884",
+    "wm-target": "https://sebastiandedeyne.com/my-first-experiment-with-svelte-shorthex/",
+    "like-of": "https://sebastiandedeyne.com/my-first-experiment-with-svelte-shorthex/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+]
