@@ -16,5 +16,23 @@
     "like-of": "https://sebastiandedeyne.com/my-first-experiment-with-svelte-shorthex/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "James",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/00cc5890464efc7543d9f2a73c42a616aed11c8984635cad29d278e748146b93.jpg",
+      "url": "https://twitter.com/sesticles"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1638074937637257217#favorited-by-1062926515",
+    "published": null,
+    "wm-received": "2023-03-21T14:28:51Z",
+    "wm-id": 1645813,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1638074937637257217/1062926515",
+    "wm-target": "https://sebastiandedeyne.com/my-first-experiment-with-svelte-shorthex/",
+    "like-of": "https://sebastiandedeyne.com/my-first-experiment-with-svelte-shorthex/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
