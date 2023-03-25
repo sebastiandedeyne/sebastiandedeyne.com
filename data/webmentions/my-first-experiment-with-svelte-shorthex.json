@@ -52,5 +52,23 @@
     "like-of": "https://sebastiandedeyne.com/my-first-experiment-with-svelte-shorthex/",
     "wm-property": "like-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Développeur Blockchain | CRYPTO DUDES",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/6b47d3e075980f2cba4b7c68a1ea229ebe630a6dc659a5949d5330a310ea5fd7.jpg",
+      "url": "https://twitter.com/starlabman"
+    },
+    "url": "https://twitter.com/sebdedeyne/status/1638074937637257217#favorited-by-3907424908",
+    "published": null,
+    "wm-received": "2023-03-25T17:37:53Z",
+    "wm-id": 1649259,
+    "wm-source": "https://brid.gy/like/twitter/sebdedeyne/1638074937637257217/3907424908",
+    "wm-target": "https://sebastiandedeyne.com/my-first-experiment-with-svelte-shorthex/",
+    "like-of": "https://sebastiandedeyne.com/my-first-experiment-with-svelte-shorthex/",
+    "wm-property": "like-of",
+    "wm-private": false
   }
 ]
