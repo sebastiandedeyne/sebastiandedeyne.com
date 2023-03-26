@@ -103,7 +103,8 @@ article blockquote > :first-child {
 }
 
 article pre,
-article code {
+article code,
+article kbd {
   font-family: var(--font-mono);
   font-size: var(--text-sm);
 }
@@ -122,7 +123,8 @@ article pre + pre {
   margin-top: 0;
 }
 
-article code:not(pre code) {
+article code:not(pre code),
+article kbd {
   padding: 0.1em 0.25em;
   background-color: magenta;
   color: yellow;
