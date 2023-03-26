@@ -6,6 +6,7 @@ article header {
 article header p {
   position: relative;
   font-size: 0.8rem;
+  padding-top: 1px;
   color: magenta;
 }
 
