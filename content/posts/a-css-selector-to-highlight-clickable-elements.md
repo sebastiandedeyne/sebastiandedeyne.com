@@ -22,3 +22,5 @@ How it works:
 - `html:active` will match whenever you hold down your mouse on the page
 - `:not(:has(a:active, button:active, label:active))` will not match when you're holding down your mouse on an `a`, `button`, or `label` element, to avoid the outline from appearing when the user clicks something that _is_ functional
 - `:is(a, button, label)` matches all  `a`, `button`, and `label` elements on the page
+
+View a demo on [CodePen](https://codepen.io/sebdd/pen/ZEMwxqB?editors=1100).
