@@ -221,5 +221,26 @@
     "mention-of": "https://sebastiandedeyne.com/new-instance-of-singleton-in-laravel/",
     "wm-property": "mention-of",
     "wm-private": false
+  },
+  {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Kevin Florenz Daus",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/8a578adaacc0ccac06ffcefc20472adfda495fa423e3491df20bbe246ee56a43.jpg",
+      "url": "https://twitter.com/KevinDaus"
+    },
+    "url": "https://twitter.com/KevinDaus/status/1640556011693178887",
+    "published": "2023-03-28T03:26:47+00:00",
+    "wm-received": "2023-03-28T03:43:11Z",
+    "wm-id": 1652418,
+    "wm-source": "https://brid.gy/repost/twitter/sebdedeyne/1633161721937293351/1640556011693178887",
+    "wm-target": "https://sebastiandedeyne.com/new-instance-of-singleton-in-laravel/",
+    "content": {
+      "text": "TIL about the build method on Laravel's container! sebastiandedeyne.com/new-instance-o…"
+    },
+    "repost-of": "https://sebastiandedeyne.com/new-instance-of-singleton-in-laravel/",
+    "wm-property": "repost-of",
+    "wm-private": false
   }
 ]
