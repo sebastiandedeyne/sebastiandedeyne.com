@@ -1,7 +1,7 @@
 ---
 title: "Hyper key"
 slug: hyper-key
-date: 2023-03-29
+date: 2023-03-29T08:00:00+02:00
 categories: ["articles"]
 tags:
   - macOS

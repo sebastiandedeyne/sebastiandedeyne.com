@@ -1,7 +1,7 @@
 ---
 title: "A CSS selector to highlight clickable elements"
 slug: a-css-selector-to-highlight-clickable-elements
-date: 2023-03-31
+date: 2023-03-31T08:00:00+02:00
 categories: ["articles"]
 tags:
   - CSS
