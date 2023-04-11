@@ -9,7 +9,7 @@ tags:
 
 I was building wireframes for a website with HTML & CSS. Since it's a prototype, not all actions are functional. When a visitor reviewing the prototype tries to click something that isn't hooked up, I wanted to clarify what they _could_ interact with. This also allows visitors to click anywhere on the page to highlight what they can click.
 
-In the past, I've used JavaScript to add an `outline` to clickable elements when someting non-interactive was clicked. But with the `:has` and `:is` selectors, this is doable with plain CSS.
+In the past, I've used JavaScript to add an `outline` to clickable elements when something non-interactive was clicked. But with the `:has` and `:is` selectors, this is doable with plain CSS.
 
 ```css
 html:active:not(:has(a:active, button:active, label:active)) :is(a, button, label) {
