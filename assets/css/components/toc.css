@@ -6,6 +6,7 @@
   padding: 1.5rem;
   font-size: var(--text-sm);
   line-height: 1.5;
+  margin-top: calc(var(--spacing) * 2);
 }
 
 @media (min-width: 640px) {
@@ -22,6 +23,7 @@
 }
 
 .toc ol {
+  margin: 0;
   counter-reset: toc;
   list-style: none;
 }

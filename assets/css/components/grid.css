@@ -58,6 +58,10 @@
   grid-column: left-edge / right-edge;
 }
 
+.grid > article > figure:has(img) {
+  grid-column: content-start / content-end;
+}
+
 .grid > .footer {
   grid-column: left-edge / right-edge;
 }
