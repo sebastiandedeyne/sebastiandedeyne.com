@@ -9,7 +9,7 @@ tags:
   - Progressive Enhancement
 ---
 
-From Jeremy Keith:
+From [Jeremy Keith](https://adactio.com/journal/20113):
 
 > Your app should work in a read-only mode without JavaScript.
 > Without JavaScript I should still be able to read my email in Gmail, even if you don’t let me compose, reply, or organise my messages.

@@ -3,10 +3,10 @@ date: 2020-02-06T10:38:00+01:00
 title: JavaScript Framework Diet
 slug: javascript-framework-diet
 categories: ["articles"]
-series: javascript-framework-diet
 tags:
   - JavaScript
   - Vanilla JS
+  - JavaScript Framework Diet
 summary: |
   JavaScript frameworks are great, but overused. Adding small bits of interactivity to an interface shouldn't mean installing kilobytes of dependencies or introducing complex build tools.
 

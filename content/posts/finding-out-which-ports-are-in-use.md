@@ -1,11 +1,10 @@
 ---
 title: Finding out which ports are in use
-slug: unix-things/finding-out-which-ports-are-in-use
-series: unix-things
 date: 2021-07-09
 categories: ["articles"]
 tags:
   - CLI
+  - Unix things I always forget
 ---
 
 Sometimes you want to spin up a process, but the port it wants to bind to is already in use. Or a port isn't listening to a process as you expected. `lsof` is a debugging life saver in these situations.

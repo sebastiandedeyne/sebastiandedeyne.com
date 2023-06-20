@@ -1,12 +1,12 @@
 ---
 date: 2020-05-04
 title: Enter & leave transitions
-slug: javascript-framework-diet/enter-leave-transitions
+slug: javascript-framework-diet-enter-leave-transitions
 categories: ["articles"]
-series: javascript-framework-diet
 tags:
   - JavaScript
   - Vanilla JS
+  - JavaScript Framework Diet
 ---
 
 Now that we've built a dropdown list, lets add some transitions to create open & close animations.

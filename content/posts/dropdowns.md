@@ -1,12 +1,12 @@
 ---
 date: 2020-03-05
 title: Dropdowns
-slug: javascript-framework-diet/dropdowns
+slug: javascript-framework-diet-dropdowns
 categories: ["articles"]
-series: javascript-framework-diet
 tags:
   - JavaScript
   - Vanilla JS
+  - JavaScript Framework Diet
 ---
 
 On to our first component: a dropdown list. I'm going to walk through the implementation I landed on in a recent project. There are many ways to build dropdowns, and you might want to shape the API your way, so use this post as a source of inspiration.

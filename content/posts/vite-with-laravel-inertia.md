@@ -1,12 +1,11 @@
 ---
 date: 2021-03-29
 title: "Vite with Laravel: Using Inertia.js"
-slug: vite-with-laravel/inertia
+slug: vite-with-laravel-inertia
 categories: ["articles"]
-series: vite-with-laravel
 tags:
   - Laravel
-  - Vite
+  - Vite with Laravel
   - Frontend
   - Build tools
   - Inertia.js
@@ -81,4 +80,14 @@ resolveComponent: async (name) => {
 
 That concludes the Vite with Laravel series! If you have questions or requests for more posts, talk to me on [Twitter](https://twitter.com/sebdedeyne).
 
-## Path aliases
+---
+
+## Vite with Laravel
+
+- [Up and running](/vite-with-laravel)
+- [Auto-refresh Blade views](/vite-with-laravel-blade)
+- [Using Tailwind CSS](/vite-with-laravel-tailwind)
+- [Using Vue.js](/vite-with-laravel-vue)
+- [Using React](/vite-with-laravel-react)
+- [Using TypeScript](/vite-with-laravel-typescript)
+- Using Inertia.js

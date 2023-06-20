@@ -1,12 +1,11 @@
 ---
 date: 2021-03-22T06:03:00+01:00
 title: "Vite with Laravel: Using Vue.js"
-slug: vite-with-laravel/vue
+slug: vite-with-laravel-typescript
 categories: ["articles"]
-series: vite-with-laravel
 tags:
   - Laravel
-  - Vite
+  - Vite with Laravel
   - Frontend
   - Build tools
   - Vue
@@ -55,3 +54,15 @@ export default ({ command }) => ({
 ```
 
 Ready for takeoff!
+
+---
+
+## Vite with Laravel
+
+- [Up and running](/vite-with-laravel)
+- [Auto-refresh Blade views](/vite-with-laravel-blade)
+- [Using Tailwind CSS](/vite-with-laravel-tailwind)
+- Using Vue.js
+- [Using React](/vite-with-laravel-react)
+- [Using TypeScript](/vite-with-laravel-typescript)
+- [Using Inertia.js](/vite-with-laravel-inertia)

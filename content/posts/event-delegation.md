@@ -1,12 +1,12 @@
 ---
 date: 2020-02-13
 title: Event delegation
-slug: javascript-framework-diet/event-delegation
+slug: javascript-framework-diet-event-delegation
 categories: ["articles"]
-series: javascript-framework-diet
 tags:
   - JavaScript
   - Vanilla JS
+  - JavaScript Framework Diet
 ---
 
 After learning how to select elements in the DOM, it's time to zoom into events. This is the third post in the JavaScript Framework Diet series.

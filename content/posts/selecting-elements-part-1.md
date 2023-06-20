@@ -1,12 +1,12 @@
 ---
 date: 2020-02-06T10:39:00+01:00
 title: Selecting elements (part 1)
-slug: javascript-framework-diet/selecting-elements-part-1
+slug: javascript-framework-diet-selecting-elements-part-1
 categories: ["articles"]
-series: javascript-framework-diet
 tags:
   - JavaScript
   - Vanilla JS
+  - JavaScript Framework Diet
 ---
 
 Lets get warmed up! Before we can get productive, we need two small helpers that we'll be using in most components we'll build from here on. I'm talking about `$` and `$$`, which are wrappers around `document.querySelector` and `document.querySelectorAll`.

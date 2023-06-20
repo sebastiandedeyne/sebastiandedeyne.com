@@ -1,12 +1,11 @@
 ---
 date: 2021-03-22T06:01:00+01:00
 title: "Vite with Laravel: Auto-refresh Blade views"
-slug: vite-with-laravel/blade
+slug: vite-with-laravel-blade
 categories: ["articles"]
-series: vite-with-laravel
 tags:
   - Laravel
-  - Vite
+  - Vite with Laravel
   - Frontend
   - Build tools
   - Blade
@@ -49,3 +48,16 @@ export default ({ command }) => ({
     ],
 });
 ```
+
+---
+
+## Vite with Laravel
+
+- [Up and running](/vite-with-laravel)
+- Auto-refresh Blade views
+- [Using Tailwind CSS](/vite-with-laravel-tailwind)
+- [Using Vue.js](/vite-with-laravel-vue)
+- [Using React](/vite-with-laravel-react)
+- [Using TypeScript](/vite-with-laravel-typescript)
+- [Using Inertia.js](/vite-with-laravel-inertia)
+

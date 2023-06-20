@@ -1,11 +1,10 @@
 ---
 date: 2020-07-15
 title: Rsync
-slug: unix-things/rsync
-series: unix-things
 categories: ["articles"]
 tags:
   - CLI
+  - Unix things I always forget
 ---
 
 Rsync is a command line tool to copy files between different hosts.

@@ -52,3 +52,19 @@ to = "/articles/index.xml"
 [[redirects]]
 from = "/semver-deps"
 to = "/composer-semver-and-underlying-dependency-changes"
+
+[[redirects]]
+from = "/javascript-framework-diet/:post"
+to = "/javascript-framework-diet-:post"
+
+[[redirects]]
+from = "/vite-with-laravel/:post"
+to = "/vite-with-laravel-:post"
+
+[[redirects]]
+from = "/unix-things/:post"
+to = "/:post"
+
+[[redirects]]
+from = "/event-sourcing/:post"
+to = "/:post"

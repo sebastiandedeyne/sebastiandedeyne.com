@@ -3,9 +3,9 @@ date: 2020-03-18
 title: Unix things I always forget
 slug: unix-things
 categories: ["articles"]
-series: unix-things
 tags:
   - CLI
+  - Unix things I always forget
 summary: |
   A short intro on my second series: Unix things I always forget!
 

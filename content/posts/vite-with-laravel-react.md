@@ -1,12 +1,11 @@
 ---
 date: 2021-03-25T06:00:00+01:00
 title: "Vite with Laravel: Using React"
-slug: vite-with-laravel/react
+slug: vite-with-laravel-react
 categories: ["articles"]
-series: vite-with-laravel
 tags:
   - Laravel
-  - Vite
+  - Vite with Laravel
   - Frontend
   - Build tools
   - React
@@ -73,3 +72,15 @@ Finally, you'll need to add an extra script in your development snippet.
 ```
 
 Happy hot reloading!
+
+---
+
+## Vite with Laravel
+
+- [Up and running](/vite-with-laravel)
+- [Auto-refresh Blade views](/vite-with-laravel-blade)
+- [Using Tailwind CSS](/vite-with-laravel-tailwind)
+- [Using Vue.js](/vite-with-laravel-vue)
+- Using React
+- [Using TypeScript](/vite-with-laravel-typescript)
+- [Using Inertia.js](/vite-with-laravel-inertia)

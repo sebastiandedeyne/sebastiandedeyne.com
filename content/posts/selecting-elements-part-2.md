@@ -1,12 +1,12 @@
 ---
 date: 2020-02-06T10:40:00+01:00
 title: Selecting elements (part 2)
-slug: javascript-framework-diet/selecting-elements-part-2
+slug: javascript-framework-diet-selecting-elements-part-2
 categories: ["articles"]
-series: javascript-framework-diet
 tags:
   - JavaScript
   - Vanilla JS
+  - JavaScript Framework Diet
 ---
 
 In [Selecting elements (part 1)](/javascript-framework-diet/selecting-elements-part-1) we learned how to select elements from the DOM, and how to find elements inside other elements, both with our own `$` and `$$` helpers.

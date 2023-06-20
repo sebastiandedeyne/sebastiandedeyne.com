@@ -41,25 +41,5 @@
       {{ .Content }}
     {{ end }}
     <hr>
-    {{ if .Params.series }}
-      {{ with index $.Site.Data.series .Params.series }}
-        <aside class="toc">
-          <h2>{{ .title }}</h2>
-          <ol>
-            {{ range .posts }}
-                {{ if .slug }}
-                  {{ if eq .slug $.Page.Slug }}
-                    <li class="active">{{ .title }}</li>
-                  {{ else }}
-                    <li><a href="{{ .slug | relURL }}">{{ .title }}</a></li>
-                  {{ end }}
-                {{ else }}
-                  <li><span>{{ .title }}</span></li>
-                {{ end }}
-            {{ end }}
-          </ol>
-        </aside>
-      {{ end }}
-    {{ end }}
   </article>
 {{ end }}

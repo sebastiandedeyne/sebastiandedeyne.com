@@ -1,12 +1,12 @@
 ---
 date: 2020-02-19
 title: File structure
-slug: javascript-framework-diet/file-structure
+slug: javascript-framework-diet-file-structure
 categories: ["articles"]
-series: javascript-framework-diet
 tags:
   - JavaScript
   - Vanilla JS
+  - JavaScript Framework Diet
 ---
 
 In the previous posts, we've gone through our first few utility functions. We now have enough in our toolbox to move on to our first component. However, where do all these functions belong?

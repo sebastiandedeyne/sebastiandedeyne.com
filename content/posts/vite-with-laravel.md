@@ -1,12 +1,10 @@
 ---
 date: 2021-03-22T06:00:00+01:00
 title: Vite with Laravel
-slug: vite-with-laravel
 categories: ["articles"]
-series: vite-with-laravel
 tags:
   - Laravel
-  - Vite
+  - Vite with Laravel
   - Frontend
   - Build tools
 ---
@@ -296,3 +294,15 @@ Finally, echo the assets in our application's layout template.
 ```
 
 Ready to go! Vite is set up in our Laravel application. The next step is to add additional configuration based on the tooling we'll use.
+
+---
+
+## Vite with Laravel
+
+- Up and running
+- [Auto-refresh Blade views](/vite-with-laravel-blade)
+- [Using Tailwind CSS](/vite-with-laravel-tailwind)
+- [Using Vue.js](/vite-with-laravel-vue)
+- [Using React](/vite-with-laravel-react)
+- [Using TypeScript](/vite-with-laravel-typescript)
+- [Using Inertia.js](/vite-with-laravel-inertia)

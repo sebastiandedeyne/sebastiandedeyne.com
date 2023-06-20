@@ -1,12 +1,11 @@
 ---
 date: 2021-03-22T06:02:00+01:00
 title: "Vite with Laravel: Using Tailwind CSS"
-slug: vite-with-laravel/tailwind
+slug: vite-with-laravel-tailwind
 categories: ["articles"]
-series: vite-with-laravel
 tags:
   - Laravel
-  - Vite
+  - Vite with Laravel
   - Frontend
   - Build tools
   - Tailwind
@@ -73,3 +72,15 @@ export default ({ command }) => ({
     },
   });
 ```
+
+---
+
+## Vite with Laravel
+
+- [Up and running](/vite-with-laravel)
+- [Auto-refresh Blade views](/vite-with-laravel-blade)
+- Using Tailwind CSS
+- [Using Vue.js](/vite-with-laravel-vue)
+- [Using React](/vite-with-laravel-react)
+- [Using TypeScript](/vite-with-laravel-typescript)
+- [Using Inertia.js](/vite-with-laravel-inertia)

@@ -1,11 +1,10 @@
 ---
 date: 2020-06-02
 title: Zipping
-slug: unix-things/zipping
-series: unix-things
 categories: ["articles"]
 tags:
   - CLI
+  - Unix things I always forget
 ---
 
 Zipping is easy. Remembering `zip`'s arguments is hard.

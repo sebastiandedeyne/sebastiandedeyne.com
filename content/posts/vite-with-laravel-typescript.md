@@ -1,12 +1,11 @@
 ---
 date: 2021-03-25T06:01:00+01:00
 title: "Vite with Laravel: Using TypeScript"
-slug: vite-with-laravel/typescript
+slug: vite-with-laravel-typescript
 categories: ["articles"]
-series: vite-with-laravel
 tags:
   - Laravel
-  - Vite
+  - Vite with Laravel
   - Frontend
   - Build tools
   - TypeScript
@@ -53,3 +52,15 @@ concurrently
 With these settings, your output will look like this:
 
 ![Screenshot of my terminal running Vite and TypeScript in parallel](/media/vite-typescript.png)
+
+---
+
+## Vite with Laravel
+
+- [Up and running](/vite-with-laravel)
+- [Auto-refresh Blade views](/vite-with-laravel-blade)
+- [Using Tailwind CSS](/vite-with-laravel-tailwind)
+- [Using Vue.js](/vite-with-laravel-vue)
+- [Using React](/vite-with-laravel-react)
+- Using TypeScript
+- [Using Inertia.js](/vite-with-laravel-inertia)

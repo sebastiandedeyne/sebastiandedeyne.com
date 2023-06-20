@@ -1,11 +1,10 @@
 ---
 date: 2020-03-18
 title: Listing directories
-slug: unix-things/listing-directories
-series: unix-things
 categories: ["articles"]
 tags:
   - CLI
+  - Unix things I always forget
 ---
 
 A listing of my favorite `ls` features.
