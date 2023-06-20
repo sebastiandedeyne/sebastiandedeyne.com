@@ -1,3 +1,8 @@
 {{ define "main" }}
-  {{ partial "list" . }}
+  {{ $permalink := .Permalink }}
+  {{ range (.Paginate (where site.RegularPages "Section" "posts")).Pages }}
+    {{ partial "article" (dict "Page" . "Permalink" $permalink) }}
+    <hr>
+  {{ end }}
+  {{ template "_internal/pagination.html" . }}
 {{ end }}

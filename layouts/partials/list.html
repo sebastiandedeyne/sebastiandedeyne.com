@@ -1,17 +1,6 @@
 {{ $permalink := .Permalink }}
 {{ range .Paginator.Pages }}
-  <article>
-    {{ partial "header" (dict "Page" . "Permalink" $permalink) }}
-    {{ if .Params.summary }}
-      <p>{{ .Summary | markdownify }}</p>
-      <p><a href="{{ .Permalink }}">Read more</a></p>
-    {{ else if strings.Contains .RawContent "<!--more-->" }}
-      {{ .Summary }}
-      <p><a href="{{ .Permalink }}">Read more</a></p>
-    {{ else }}
-      {{ .Content }}
-    {{ end }}
-  </article>
+  {{ partial "article" (dict "Page" . "Permalink" $permalink) }}
   <hr>
 {{ end }}
 {{ template "_internal/pagination.html" . }}
