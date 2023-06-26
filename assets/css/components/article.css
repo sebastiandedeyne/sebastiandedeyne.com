@@ -55,6 +55,14 @@ article ul {
   margin-left: 1em;
 }
 
+article dt {
+  margin-top: var(--spacing);
+}
+
+article dd {
+  padding-left: 1em;
+}
+
 article a {
   color: blue;
   text-decoration: underline;
