@@ -60,7 +60,7 @@ article dt {
 }
 
 article dd {
-  padding-left: 1em;
+  padding-left: var(--spacing);
 }
 
 article a {
