@@ -309,3 +309,10 @@ I don't really mind wrapping code in an arrow function when the argument order i
 Second, many noted a `pipe` function can exist in userland. While true, a custom `pipe` will be difficult to statically analyze for type-safety between function calls. More importantly, it doesn't promote writing pipe-friendly code in general. Adding the pipe operator to the language would push developers to consider separating data from processes.
 
 I hope the pipe operator can be reconsidered in a future PHP version.
+
+---
+
+More on my PHP wishlist:
+
+- The pipe operator
+- [Nested properties](/php-wishlist-nested-properties)
