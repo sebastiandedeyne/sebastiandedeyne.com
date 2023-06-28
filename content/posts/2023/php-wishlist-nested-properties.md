@@ -76,7 +76,7 @@ class ContactResource extends Resource
                 index: action([ContactController::class, 'index']),
                 store: action([ContactController::class, 'store']),
                 update: action([ContactController::class, 'update'], $contact->id),
-                update: action([ContactController::class, 'delete'], $delete->id),
+                delete: action([ContactController::class, 'delete'], $delete->id),
             ),
         );
     }
