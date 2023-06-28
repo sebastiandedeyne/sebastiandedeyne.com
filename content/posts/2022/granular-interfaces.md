@@ -2,7 +2,6 @@
 title: "Granular interfaces"
 slug: granular-interfaces
 date: 2022-09-05
-type: article
 image: /media/granular-interfaces.png
 tags:
   - Programming

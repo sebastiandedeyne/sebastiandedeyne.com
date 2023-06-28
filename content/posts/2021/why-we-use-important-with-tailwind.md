@@ -2,7 +2,6 @@
 title: "Why we use `!important` with Tailwind"
 slug: why-we-use-important-with-tailwind
 date: 2021-04-21
-type: article
 tags:
   - Tailwind
   - CSS

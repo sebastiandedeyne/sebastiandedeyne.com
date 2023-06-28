@@ -2,7 +2,6 @@
 date: 2021-03-22T06:01:00+01:00
 title: "Vite with Laravel: Auto-refresh Blade views"
 slug: vite-with-laravel-blade
-type: article
 tags:
   - Laravel
   - Vite with Laravel

@@ -2,7 +2,6 @@
 title: "Lessons from Atomic Habits"
 slug: lessons-from-atomic-habits
 date: 2021-04-08
-type: article
 image: /media/atomic-habits.jpg
 tags:
   - Productivity

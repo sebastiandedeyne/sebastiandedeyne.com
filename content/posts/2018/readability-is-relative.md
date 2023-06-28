@@ -1,7 +1,6 @@
 ---
 date: 2018-12-06
 title: Readability is relative
-type: article
 tags:
     - programming
 ---

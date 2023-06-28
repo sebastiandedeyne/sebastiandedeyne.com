@@ -2,7 +2,6 @@
 title: "File watching with chokidar"
 slug: file-watching-with-chokidar
 date: 2021-04-16
-type: article
 tags:
   - Tools
 ---

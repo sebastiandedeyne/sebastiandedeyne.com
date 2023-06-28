@@ -2,7 +2,6 @@
 date: 2017-06-28
 title: Exposing multiple Vue components as a plugin
 subtitle: Written for Vue ^2.0
-type: article
 tags:
   - Vue.js
 ---

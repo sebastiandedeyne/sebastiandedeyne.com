@@ -1,7 +1,6 @@
 ---
 date: 2019-11-06
 title: "Full Stack Europe 2019 recap"
-type: article
 tags:
     - conferences
 ---

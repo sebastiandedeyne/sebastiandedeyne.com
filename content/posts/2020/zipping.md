@@ -1,7 +1,6 @@
 ---
 date: 2020-06-02
 title: Zipping
-type: article
 tags:
   - CLI
   - Unix things I always forget

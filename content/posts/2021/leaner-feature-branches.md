@@ -2,7 +2,6 @@
 title: "Leaner feature branches"
 slug: leaner-feature-branches
 date: 2021-07-07
-type: article
 tags:
     - Git
 ---

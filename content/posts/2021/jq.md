@@ -2,7 +2,6 @@
 title: "jq"
 slug: jq
 date: 2021-01-04
-type: article
 tags:
   - CLI
   - Unix

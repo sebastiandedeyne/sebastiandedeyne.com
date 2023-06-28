@@ -2,7 +2,6 @@
 date: 2020-02-06T10:39:00+01:00
 title: Selecting elements (part 1)
 slug: javascript-framework-diet-selecting-elements-part-1
-type: article
 tags:
   - JavaScript
   - Vanilla JS

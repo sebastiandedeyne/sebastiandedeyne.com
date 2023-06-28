@@ -2,7 +2,6 @@
 title: "Webmentions on a static site with GitHub Actions"
 slug: webmentions-on-a-static-site-with-github-actions
 date: 2020-03-27
-type: article
 tags:
   - webmentions
   - static sites

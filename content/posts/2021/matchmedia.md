@@ -2,7 +2,6 @@
 title: "The window.matchMedia API"
 slug: matchmedia
 date: 2021-04-05
-type: article
 tags:
   - JavaScript
 ---

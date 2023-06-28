@@ -1,7 +1,6 @@
 ---
 date: 2018-04-16
 title: Code splitting with Laravel Mix
-type: article
 tags:
   - Laravel
   - JavaScript

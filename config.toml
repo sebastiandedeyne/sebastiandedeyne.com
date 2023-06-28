@@ -4,14 +4,14 @@ title = "Seb De Deyne"
 
 summaryLength = 1_000_000
 rssLimit = 10
-paginate = 10
+paginate = 15
 
 [taxonomies]
-  type = "type"
-  tag = "tags"
+  tags = "tags"
 
 [permalinks]
   posts = "/:slug"
+  links = "/links/:slug"
 
 [author]
   name = "Seb De Deyne"

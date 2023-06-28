@@ -2,7 +2,6 @@
 title: "PHP wishlist: Nested properties"
 slug: php-wishlist-nested-properties
 date: 2023-06-27T10:30:00+02:00
-type: article
 tags:
   - PHP
   - PHP Wishlist

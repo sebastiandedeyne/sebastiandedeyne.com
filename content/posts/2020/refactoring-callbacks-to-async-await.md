@@ -2,7 +2,6 @@
 title: "Refactoring callbacks to async/await"
 slug: refactoring-callbacks-to-async-await
 date: 2020-05-08
-type: article
 ---
 
 Web browsers have a few functions that accept callback parameters. `setTimeout` and `requestAnimationFrame` are the first that come to mind.

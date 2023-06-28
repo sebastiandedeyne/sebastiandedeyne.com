@@ -2,7 +2,6 @@
 title: "Embed a web page with a web component and the shadow DOM"
 slug: embed-a-web-page-with-a-web-component-and-the-shadow-dom
 date: 2020-10-21T08:00:00+02:00
-type: article
 tags:
   - web components
   - JavaScript

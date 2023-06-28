@@ -2,7 +2,6 @@
 title: "Local-first software"
 slug: local-first-software
 date: 2020-12-14
-type: article
 tags:
   - Performance
   - UX

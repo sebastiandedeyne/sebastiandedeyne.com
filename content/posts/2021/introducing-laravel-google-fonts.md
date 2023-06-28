@@ -2,7 +2,6 @@
 title: "Introducing Laravel Google Fonts"
 slug: introducing-laravel-google-fonts
 date: 2021-06-23
-type: article
 tags:
   - Laravel
   - Web fonts

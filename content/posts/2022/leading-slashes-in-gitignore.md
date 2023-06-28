@@ -2,7 +2,6 @@
 title: "Leading slashes in .gitignore"
 slug: leading-slashes-in-gitignore
 date: 2022-11-21
-type: article
 tags:
   - Git
 ---

@@ -2,7 +2,6 @@
 title: "The Monetization Trap"
 slug: the-monetization-trap
 date: 2021-08-10
-type: article
 ad: false
 tags:
   - Thoughts

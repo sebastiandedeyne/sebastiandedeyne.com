@@ -1,7 +1,6 @@
 ---
 date: 2019-04-28
 title: Web components
-type: article
 tags:
     - web components
     - JavaScript

@@ -1,7 +1,6 @@
 ---
 date: 2019-04-26
 title: Why I prefer React over Vue
-type: article
 tags:
     - JavaScript
     - React

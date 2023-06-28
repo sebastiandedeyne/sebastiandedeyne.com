@@ -2,7 +2,6 @@
 title: "Laravel closure validation rules"
 slug: laravel-closure-validation-rules
 date: 2023-06-16T13:00:00+02:00
-type: article
 tags:
   - Laravel
 ---

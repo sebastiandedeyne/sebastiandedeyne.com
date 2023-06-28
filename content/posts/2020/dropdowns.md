@@ -2,7 +2,6 @@
 date: 2020-03-05
 title: Dropdowns
 slug: javascript-framework-diet-dropdowns
-type: article
 tags:
   - JavaScript
   - Vanilla JS

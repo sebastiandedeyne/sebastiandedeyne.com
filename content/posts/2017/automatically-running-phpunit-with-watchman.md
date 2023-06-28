@@ -1,7 +1,6 @@
 ---
 date: 2017-04-12
 title: Automatically running PHPUnit with Watchman
-type: article
 tags:
   - PHP
   - PHPUnit

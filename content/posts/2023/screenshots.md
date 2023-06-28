@@ -2,7 +2,6 @@
 title: "Screenshots"
 slug: screenshots
 date: 2023-02-10
-type: article
 tags:
   - Misc
 ---

@@ -2,7 +2,6 @@
 title: "Eager load relations in Laravel using withWhereHas"
 slug: eager-load-relations-in-laravel-using-with-where-has
 date: 2023-04-05T08:00:00+02:00
-type: article
 tags:
   - Laravel
 ---

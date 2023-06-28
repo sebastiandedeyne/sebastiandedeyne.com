@@ -1,7 +1,6 @@
 ---
 title: "Writing a custom React hook: Google Places autocomplete"
 date: 2019-10-11
-type: article
 tags:
     - React
 ---

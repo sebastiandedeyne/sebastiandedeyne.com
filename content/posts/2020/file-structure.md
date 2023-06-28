@@ -2,7 +2,6 @@
 date: 2020-02-19
 title: File structure
 slug: javascript-framework-diet-file-structure
-type: article
 tags:
   - JavaScript
   - Vanilla JS

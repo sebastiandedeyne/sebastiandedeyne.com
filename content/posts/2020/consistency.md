@@ -2,7 +2,6 @@
 title: "Consistency"
 slug: consistency
 date: 2020-12-18
-type: article
 tags:
   - Programming
 ---

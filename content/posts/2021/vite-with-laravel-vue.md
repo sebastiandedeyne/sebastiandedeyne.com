@@ -2,7 +2,6 @@
 date: 2021-03-22T06:03:00+01:00
 title: "Vite with Laravel: Using Vue.js"
 slug: vite-with-laravel-vue
-type: article
 tags:
   - Laravel
   - Vite with Laravel

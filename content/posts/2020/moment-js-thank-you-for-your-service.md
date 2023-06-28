@@ -2,7 +2,6 @@
 title: "Moment.js, thank you for your service"
 slug: moment-js-thank-you-for-your-service
 date: 2020-09-15
-type: article
 tags:
   - JavaScript
   - OSS

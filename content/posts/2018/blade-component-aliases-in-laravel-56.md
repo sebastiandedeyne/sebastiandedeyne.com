@@ -2,7 +2,6 @@
 date: 2018-02-05
 title: Blade component aliases in Laravel 5.6
 subtitle: Laravel ^5.6
-type: article
 tags:
   - Laravel
   - PHP

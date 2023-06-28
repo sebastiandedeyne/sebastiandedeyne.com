@@ -2,7 +2,6 @@
 title: "Enabling basic HTTP authentication with nginx on a Laravel Forge provisioned server"
 slug: enabling-basic-http-authentication-with-nginx-on-a-laravel-forge-provisioned-server
 date: 2020-04-20
-type: article
 tags:
   - Laravel Forge
   - devops

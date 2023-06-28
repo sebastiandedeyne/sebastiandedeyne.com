@@ -2,7 +2,6 @@
 title: "Thoughts (and doubts) after messing around with the JAMstack"
 slug: thoughts-after-messing-around-with-the-jamstack
 date: 2019-11-27
-type: article
 tags:
   - the web
   - JAMstack

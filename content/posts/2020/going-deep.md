@@ -2,7 +2,6 @@
 title: "Going deep"
 slug: going-deep
 date: 2020-10-20T06:00:00
-type: article
 tags:
   - everything
   - software

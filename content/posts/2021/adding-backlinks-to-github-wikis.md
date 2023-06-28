@@ -2,7 +2,6 @@
 title: "Adding backlinks to a GitHub wiki"
 slug: adding-backlinks-to-a-github-wiki
 date: 2021-07-16
-type: article
 tags:
   - GitHub
   - Documentation

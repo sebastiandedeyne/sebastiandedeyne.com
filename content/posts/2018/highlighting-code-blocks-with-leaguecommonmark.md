@@ -1,7 +1,6 @@
 ---
 date: 2018-11-30
 title: Highlighting code blocks with league/commonmark
-type: article
 tags:
     - PHP
     - markdown

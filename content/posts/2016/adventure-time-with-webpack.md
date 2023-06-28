@@ -2,7 +2,6 @@
 date: 2016-02-04
 title: Adventure Time with Webpack
 subtitle: Written for Webpack 1.12
-type: article
 tags:
   - Webpack
   - JavaScript

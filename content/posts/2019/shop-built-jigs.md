@@ -1,7 +1,6 @@
 ---
 title: "Shop-built jigs"
 date: 2019-11-21
-type: article
 tags:
   - programming
 ---

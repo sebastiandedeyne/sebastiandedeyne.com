@@ -1,7 +1,6 @@
 ---
 title: "Strawberry jelly"
 date: 2019-12-09
-type: article
 tags:
     - programming
 ---

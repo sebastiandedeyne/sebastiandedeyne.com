@@ -2,7 +2,6 @@
 title: "Use Blink to execute something once and only once"
 slug: use-blink-to-execute-something-once-and-only-once
 date: 2021-07-22
-type: article
 tags:
   - Laravel
   - PHP

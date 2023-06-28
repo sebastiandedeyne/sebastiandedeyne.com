@@ -1,7 +1,6 @@
 ---
 date: 2020-07-15
 title: Rsync
-type: article
 tags:
   - CLI
   - Unix things I always forget

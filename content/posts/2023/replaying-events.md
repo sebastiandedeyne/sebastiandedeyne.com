@@ -2,7 +2,6 @@
 title: "Thoughts on event sourcing: Replaying events"
 slug: replaying-events
 date: 2023-06-20T10:50:00+02:00
-type: article
 tags:
   - Event Sourcing
 summary: |

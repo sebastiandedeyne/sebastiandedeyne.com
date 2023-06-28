@@ -2,7 +2,6 @@
 title: "Scan for todos on a git branch"
 slug: scan-todos-in-git
 date: 2023-03-10
-type: article
 tags:
   - Git
 ---

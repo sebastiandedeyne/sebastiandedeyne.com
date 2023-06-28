@@ -1,7 +1,6 @@
 ---
 date: 2016-03-09
 title: Normalize your values on input
-type: article
 tags:
   - PHP
   - programming

@@ -1,7 +1,6 @@
 ---
 date: 2018-03-11
 title: Server side rendering JavaScript from PHP
-type: article
 tags:
   - PHP
   - JavaScript

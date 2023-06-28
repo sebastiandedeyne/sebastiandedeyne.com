@@ -2,7 +2,6 @@
 title: "Composer, semver, and underlying dependency changes"
 slug: composer-semver-and-underlying-dependency-changes
 date: 2020-03-17
-type: article
 ---
 
 Every now and then I need to bump a dependency in a package, or require a higher PHP version.

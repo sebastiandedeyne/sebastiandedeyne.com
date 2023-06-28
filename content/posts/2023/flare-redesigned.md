@@ -2,7 +2,6 @@
 title: "Flare redesigned"
 slug: flare-redesigned
 date: 2023-06-12T10:50:00+02:00
-type: article
 tags:
   - Spatie
 ---

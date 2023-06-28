@@ -2,7 +2,6 @@
 title: "Twitter Break"
 slug: twitter-break
 date: 2021-03-02
-type: article
 tags:
   - Focus
   - Productivity

@@ -1,7 +1,6 @@
 ---
 title: "Adding webmentions to my blog"
 date: 2019-06-27T22:39:56+02:00
-type: article
 tags:
     - the web
     - static sites

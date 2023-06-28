@@ -1,7 +1,6 @@
 ---
 title: "Laravel Typescript Transformer"
 slug: laravel-typescript-transformer
-type: article
 date: 2020-09-29T08:00:00+02:00
 tags:
   - Laravel

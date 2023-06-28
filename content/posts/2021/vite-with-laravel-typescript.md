@@ -2,7 +2,6 @@
 date: 2021-03-25T06:01:00+01:00
 title: "Vite with Laravel: Using TypeScript"
 slug: vite-with-laravel-typescript
-type: article
 tags:
   - Laravel
   - Vite with Laravel
