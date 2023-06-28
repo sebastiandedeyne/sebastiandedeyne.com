@@ -1,6 +1,7 @@
 ---
 date: 2018-12-28
 title: Everyone has JavaScript, right?
+type: link
 link: https://kryogenix.org/code/browser/everyonehasjs.html
 tags:
     - JavaScript

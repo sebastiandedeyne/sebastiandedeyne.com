@@ -2,7 +2,7 @@
 title: "Jason Fried: 'Delegating projects, not tasks'"
 slug: jason-fried-delegating-projects-not-tasks
 date: 2023-04-20T08:00:00+02:00
-categories: ["links"]
+type: link
 link: https://world.hey.com/jason/delegating-projects-not-tasks-f36cb8bc
 tags:
   - Product

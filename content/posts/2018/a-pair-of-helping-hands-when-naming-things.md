@@ -1,7 +1,7 @@
 ---
 date: 2018-02-15
 title: A pair of helping hands when naming things
-categories: ["articles"]
+type: article
 tags:
   - programming
 ---

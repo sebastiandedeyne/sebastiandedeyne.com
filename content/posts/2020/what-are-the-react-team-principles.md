@@ -1,6 +1,7 @@
 ---
 title: "What are the React team principles?"
 date: 2020-01-08
+type: link
 link: https://overreacted.io/what-are-the-react-team-principles/
 tags:
   - programming

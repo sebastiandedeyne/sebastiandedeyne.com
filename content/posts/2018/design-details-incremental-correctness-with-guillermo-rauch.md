@@ -1,6 +1,7 @@
 ---
 date: 2018-04-09
 title: "Design Details: Incremental Correctness with Guillermo Rauch"
+type: link
 link: https://spec.fm/podcasts/design-details/113490
 tags:
   - programming

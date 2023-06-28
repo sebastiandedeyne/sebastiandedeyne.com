@@ -2,7 +2,7 @@
 date: 2020-05-04
 title: Enter & leave transitions
 slug: javascript-framework-diet-enter-leave-transitions
-categories: ["articles"]
+type: article
 tags:
   - JavaScript
   - Vanilla JS

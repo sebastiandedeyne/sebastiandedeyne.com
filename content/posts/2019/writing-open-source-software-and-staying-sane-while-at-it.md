@@ -1,7 +1,7 @@
 ---
 title: "Writing open source software, and staying sane while at it"
 date: 2019-10-29
-categories: ["articles"]
+type: article
 tags:
   - programming
   - OSS

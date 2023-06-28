@@ -2,7 +2,7 @@
 title: "Local or session storage?"
 slug: local-or-session-storage
 date: 2022-10-28
-categories: ["articles"]
+type: article
 tags:
   - JavaScript
 ---

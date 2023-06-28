@@ -1,6 +1,7 @@
 ---
 title: "The rising complexity of JAMstack sites"
 date: 2019-12-16T15:50:38+01:00
+type: link
 link: https://css-tricks.com/the-rising-complexity-of-jamstack-sites-and-how-to-manage-them/
 tags:
   - the web

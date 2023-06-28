@@ -2,7 +2,7 @@
 title: "Standards"
 slug: mathias-verraes-standards
 date: 2023-06-09T13:30:00+02:00
-categories: ["articles"]
+type: article
 tags:
   - Programming
 ---

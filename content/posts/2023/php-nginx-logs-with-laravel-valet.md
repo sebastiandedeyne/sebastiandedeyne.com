@@ -2,7 +2,7 @@
 title: "PHP & NGINX logs with Laravel Valet"
 slug: php-nginx-logs-with-laravel-valet
 date: 2023-03-17
-categories: ["articles"]
+type: article
 tags:
   - Laravel
   - Valet

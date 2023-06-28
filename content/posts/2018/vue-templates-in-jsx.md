@@ -1,7 +1,7 @@
 ---
 date: 2018-05-25
 title: Vue templates in JSX
-categories: ["articles"]
+type: article
 tags:
     - Vue.js
     - jsx

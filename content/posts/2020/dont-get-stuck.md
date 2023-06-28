@@ -2,6 +2,8 @@
 title: "Dont Get Stuck"
 slug: dont-get-stuck
 date: 2020-09-20T14:21:56+02:00
+type: link
+link: https://stitcher.io/blog/dont-get-stuck
 tags:
   - career
   - productivity

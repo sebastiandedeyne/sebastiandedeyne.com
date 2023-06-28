@@ -1,7 +1,7 @@
 ---
 date: 2019-04-09
 title: Don’t forget to be selfish every now and then
-categories: ["articles"]
+type: article
 tags:
     - OSS
 ---

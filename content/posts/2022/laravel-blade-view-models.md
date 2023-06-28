@@ -2,7 +2,7 @@
 title: "Laravel Blade & View Models"
 slug: laravel-blade-view-models
 date: 2022-01-10
-categories: ["articles"]
+type: article
 tags:
   - Laravel
   - Blade

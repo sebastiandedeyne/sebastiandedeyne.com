@@ -2,7 +2,7 @@
 title: "Handling routes in a Laravel and Inertia app"
 slug: handling-routes-in-a-laravel-inertia-application
 date: 2019-09-25
-categories: ["articles"]
+type: article
 tags:
     - Laravel
     - Inertia.js

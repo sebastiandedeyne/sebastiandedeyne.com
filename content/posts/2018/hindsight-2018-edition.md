@@ -1,7 +1,7 @@
 ---
 date: 2018-12-28
 title: Hindsight 2018 edition
-categories: ["articles"]
+type: article
 tags:
     - personal
 ---

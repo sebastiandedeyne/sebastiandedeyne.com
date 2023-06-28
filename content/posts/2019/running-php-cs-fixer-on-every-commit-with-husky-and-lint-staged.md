@@ -1,7 +1,7 @@
 ---
 date: 2019-05-02
 title: Running PHP CS Fixer on every commit with husky and lint-staged
-categories: ["articles"]
+type: article
 tags:
     - tooling
 ---

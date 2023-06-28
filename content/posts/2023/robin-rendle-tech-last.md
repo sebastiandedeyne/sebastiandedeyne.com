@@ -2,7 +2,7 @@
 title: "Robin Rendle: 'Tech Last'"
 slug: robin-rendle-tech-last
 date: 2023-03-21
-categories: ["links"]
+type: link
 link: https://www.robinrendle.com/notes/tech-last/
 tags:
   - Programming

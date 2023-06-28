@@ -2,6 +2,7 @@
 title: "Good Ideas"
 slug: nat-eliason-good-ideas
 date: 2022-11-09
+type: link
 link: https://blog.nateliason.com/p/fermenting-great-ideas?publication_id=882098&post_id=81760147&isFreemail=true
 tags:
   - Misc

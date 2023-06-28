@@ -2,6 +2,7 @@
 title: "Antilibrary: the perfect excuse to buy more books"
 slug: antilibrary
 date: 2021-03-29
+type: link
 link: https://nesslabs.com/antilibrary
 tags:
   - Knowledge

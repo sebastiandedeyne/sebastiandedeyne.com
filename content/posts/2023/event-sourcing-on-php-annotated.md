@@ -2,7 +2,7 @@
 title: "Event sourcing on PHP Annotated"
 slug: event-sourcing-on-php-annotated
 date: 2023-06-21T13:00:00+02:00
-categories: ["links"]
+type: link
 link: https://www.youtube.com/watch?v=qTUB_jESAKY
 tags:
   - Event Sourcing

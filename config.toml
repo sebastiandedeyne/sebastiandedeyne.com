@@ -7,13 +7,11 @@ rssLimit = 10
 paginate = 10
 
 [taxonomies]
-  category = "categories"
+  type = "type"
   tag = "tags"
 
 [permalinks]
   posts = "/:slug"
-  categories = "/:title"
-  tags = "/tags/:title"
 
 [author]
   name = "Seb De Deyne"

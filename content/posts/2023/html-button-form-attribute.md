@@ -2,7 +2,7 @@
 title: "HTML button form attribute"
 slug: html-button-form-attribute
 date: 2023-06-09T10:55:00+02:00
-categories: ["articles"]
+type: article
 tags:
   - Html
 ---

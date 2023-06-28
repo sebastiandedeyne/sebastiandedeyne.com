@@ -1,7 +1,7 @@
 ---
 title: "Laravel Mix Preload v1"
 date: 2019-10-21
-categories: ["articles"]
+type: article
 tags:
   - Laravel
 ---

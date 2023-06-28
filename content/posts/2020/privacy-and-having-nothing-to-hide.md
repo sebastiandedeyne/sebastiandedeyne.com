@@ -2,6 +2,7 @@
 title: "Privacy and having nothing to hide"
 slug: privacy-and-having-nothing-to-hide
 date: 2020-03-12
+type: link
 link: https://pjrvs.com/hide
 tags:
   - privacy

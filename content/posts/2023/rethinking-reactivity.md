@@ -2,7 +2,7 @@
 title: "Rich Harris: 'Rethinking reactivity'"
 slug: rethinking-reactivity
 date: 2023-03-28
-categories: ["links"]
+type: link
 link: https://www.youtube.com/watch?v=OyFI-zOrKSk
 tags:
   - Frontend

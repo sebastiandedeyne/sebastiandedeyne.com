@@ -2,7 +2,7 @@
 title: "Derrick Reimer: 'Ship small, ship fast'"
 slug: ship-small-ship-fast
 date: 2023-03-27
-categories: ["links"]
+type: link
 link: https://www.derrickreimer.com/ship-small/
 tags:
   - Git

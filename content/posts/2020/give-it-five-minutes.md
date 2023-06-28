@@ -2,6 +2,7 @@
 title: "Give it five minutes"
 slug: give-it-five-minutes
 date: 2020-02-21
+type: link
 link: https://signalvnoise.com/posts/3124-give-it-five-minutes
 ---
 

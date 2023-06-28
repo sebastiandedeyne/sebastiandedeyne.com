@@ -2,7 +2,7 @@
 title: "PHP wishlist: The pipe operator"
 slug: php-wishlist-pipe-operator
 date: 2023-02-16
-categories: ["articles"]
+type: article
 tags:
   - PHP
   - PHP Wishlist

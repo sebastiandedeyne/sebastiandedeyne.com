@@ -2,7 +2,7 @@
 title: "Upgrading Node.js on a Laravel Forge Provisioned Server"
 slug: upgrading-node-js-on-a-laravel-forge-provisioned-server
 date: 2020-03-10
-categories: ["articles"]
+type: article
 tags:
   - Laravel Forge
   - devops

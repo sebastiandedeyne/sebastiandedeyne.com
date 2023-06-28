@@ -2,7 +2,7 @@
 title: "Forget about component lifecycles and start thinking in effects"
 subtitle: "About React's useEffect hook"
 date: 2019-06-20T17:47:02+02:00
-categories: ["articles"]
+type: article
 tags:
     - React
     - JavaScript

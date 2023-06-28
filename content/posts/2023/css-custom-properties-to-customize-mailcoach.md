@@ -2,7 +2,7 @@
 title: "How I built customizable themes using CSS custom properties & HSL"
 slug: css-custom-properties-to-customize-mailcoach
 date: 2023-06-27T11:15:00+02:00
-categories: ["links"]
+type: link
 link: https://mailcoach.app/blog/26-how-we-use-css-custom-properties-to-customize-your-newsletter-archive?preview_secret=APxuL5JxsK
 tags:
   - CSS

@@ -1,6 +1,7 @@
 ---
 date: 2018-12-17
 title: A blogging style guide
+type: link
 link: http://robertheaton.com/2018/12/06/a-blogging-style-guide/
 tags:
     - writing

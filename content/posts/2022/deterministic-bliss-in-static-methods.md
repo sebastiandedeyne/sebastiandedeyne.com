@@ -2,6 +2,7 @@
 title: "Deterministic bliss in static methods"
 slug: deterministic-bliss-in-static-methods
 date: 2022-12-08
+type: link
 link: https://verraes.net/2014/06/when-to-use-static-methods-in-php/
 tags:
   - PHP

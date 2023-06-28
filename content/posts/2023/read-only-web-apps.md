@@ -2,7 +2,7 @@
 title: "Read-only web apps"
 slug: read-only-web-apps
 date: 2023-06-20T17:52:00+02:00
-categories: ["links"]
+type: link
 link: https://adactio.com/journal/20113
 tags:
   - The Web

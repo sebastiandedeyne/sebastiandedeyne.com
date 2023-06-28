@@ -2,7 +2,7 @@
 date: 2017-08-24
 title: Theme-based views in Laravel using vendor namespaces
 subtitle: Written for Laravel ^5.4
-categories: ["articles"]
+type: article
 tags:
   - Laravel
   - PHP

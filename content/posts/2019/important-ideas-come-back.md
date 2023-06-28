@@ -1,6 +1,7 @@
 ---
 date: 2019-11-18
 title: "Important ideas come back"
+type: link
 link: https://basecamp.com/shapeup
 tags:
   - productivity

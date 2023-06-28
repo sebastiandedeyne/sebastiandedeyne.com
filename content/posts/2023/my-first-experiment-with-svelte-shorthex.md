@@ -2,7 +2,7 @@
 title: "My first experiment with Svelte: Shorthex"
 slug: my-first-experiment-with-svelte-shorthex
 date: 2023-03-21
-categories: ["articles"]
+type: article
 tags:
   - Svelte
 ---

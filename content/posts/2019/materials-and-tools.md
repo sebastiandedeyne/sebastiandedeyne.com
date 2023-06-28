@@ -1,6 +1,7 @@
 ---
 title: "Materials and tools"
 date: 2019-10-29
+type: link
 link: https://adactio.com/journal/15050
 ---
 

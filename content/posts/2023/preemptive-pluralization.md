@@ -2,7 +2,7 @@
 title: "Preemptive pluralization"
 slug: preemptive-pluralization
 date: 2023-03-07
-categories: ["links"]
+type: link
 tags:
   - Programming
 link: https://www.swyx.io/preemptive-pluralization

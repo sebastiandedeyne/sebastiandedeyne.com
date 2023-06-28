@@ -2,7 +2,7 @@
 title: "How to schedule posts on a static Hugo site with Netlify and GitHub Actions"
 slug: how-to-schedule-posts-with-hugo-netlify-and-github-actions
 date: 2020-10-08T08:00:00+02:00
-categories: ["articles"]
+type: article
 tags:
   - Netlify
   - Hugo

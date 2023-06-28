@@ -2,7 +2,7 @@
 title: "Things you didn't know you could diff in GitHub"
 slug: things-you-didnt-know-you-could-diff-in-github
 date: 2020-08-20
-categories: ["articles"]
+type: article
 tags:
   - Git
   - GitHub

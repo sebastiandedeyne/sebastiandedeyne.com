@@ -1,6 +1,7 @@
 ---
 title: "Takuya Matsuyama’s take on growth"
 date: 2019-10-14
+type: link
 link: https://blog.inkdrop.info/i-stopped-setting-a-financial-goal-for-my-saas-a92c3db65506
 tags:
     - thoughts

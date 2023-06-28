@@ -2,7 +2,7 @@
 title: "Auto-tooting new posts with val town"
 slug: auto-tooting-new-posts-with-val-town
 date: 2023-04-03T08:00:00+02:00
-categories: ["articles"]
+type: article
 tags:
   - Mastodon
   - val town

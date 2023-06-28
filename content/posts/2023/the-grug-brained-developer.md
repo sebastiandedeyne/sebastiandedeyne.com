@@ -2,7 +2,7 @@
 title: "The grug brained developer"
 slug: the-grug-brained-developer
 date: 2023-06-08T17:00:00+02:00
-categories: ["links"]
+type: link
 link: https://grugbrain.dev
 tags:
   - Programming

@@ -2,7 +2,7 @@
 title: "Clean code has room to breath"
 slug: clean-code-has-room-to-breath
 date: 2023-04-07T08:00:00+02:00
-categories: ["links"]
+type: link
 link: https://freek.dev/2206-code-that-breathes
 tags:
   - Programming

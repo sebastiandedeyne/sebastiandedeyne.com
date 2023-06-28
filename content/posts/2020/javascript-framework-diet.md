@@ -2,7 +2,7 @@
 date: 2020-02-06T10:38:00+01:00
 title: JavaScript Framework Diet
 slug: javascript-framework-diet
-categories: ["articles"]
+type: article
 tags:
   - JavaScript
   - Vanilla JS

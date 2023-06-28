@@ -2,7 +2,7 @@
 title: "How the Svelte team uses TypeScript with JSDoc"
 slug: svelte-using-typescript-without-compilation
 date: 2023-04-25T08:00:00+02:00
-categories: ["links"]
+type: link
 link: https://dev.to/thepassle/using-typescript-without-compilation-3ko4
 tags:
   - TypeScript

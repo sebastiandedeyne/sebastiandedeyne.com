@@ -1,7 +1,7 @@
 ---
 date: 2020-03-18
 title: Listing directories
-categories: ["articles"]
+type: article
 tags:
   - CLI
   - Unix things I always forget

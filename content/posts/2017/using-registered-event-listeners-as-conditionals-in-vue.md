@@ -2,7 +2,7 @@
 date: 2017-07-18
 title: Using registered event listeners as conditionals in Vue
 subtitle: Written for Vue ^2.4
-categories: ["articles"]
+type: article
 tags:
     - Vue.js
     - JavaScript

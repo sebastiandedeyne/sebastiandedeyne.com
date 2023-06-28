@@ -1,6 +1,7 @@
 ---
 date: 2017-08-21
 title: Introducing our company guidelines site
+type: link
 link: https://guidelines.spatie.be
 tags:
   - programming

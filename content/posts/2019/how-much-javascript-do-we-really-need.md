@@ -1,7 +1,7 @@
 ---
 title: "How much JavaScript do we really need?"
 date: 2019-09-22
-categories: ["articles"]
+type: article
 tags:
     - the web
     - JavaScript

@@ -47,7 +47,11 @@ to = "/index.xml"
 
 [[redirects]]
 from = "/feed/articles"
-to = "/articles/index.xml"
+to = "/type/article/index.xml"
+
+[[redirects]]
+from = "/articles/index.xml"
+to = "/type/article/index.xml"
 
 [[redirects]]
 from = "/semver-deps"

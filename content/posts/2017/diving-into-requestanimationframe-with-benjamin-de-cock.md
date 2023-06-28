@@ -1,6 +1,7 @@
 ---
 date: 2017-08-29
 title: Diving into requestAnimationFrame with Benjamin De Cock
+type: link
 link: https://medium.com/@bdc/gain-motion-superpowers-with-requestanimationframe-ecc6d5b0d9a4
 tags:
   - JavaScript

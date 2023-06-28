@@ -1,7 +1,7 @@
 ---
 title: Finding out which ports are in use
 date: 2021-07-09
-categories: ["articles"]
+type: article
 tags:
   - CLI
   - Unix things I always forget

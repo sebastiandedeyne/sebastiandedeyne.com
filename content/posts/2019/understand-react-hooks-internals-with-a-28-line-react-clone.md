@@ -1,6 +1,7 @@
 ---
 date: 2019-05-05
 title: Understand React hooks internals with a 28-line React clone
+type: link
 link: https://www.netlify.com/blog/2019/03/11/deep-dive-how-do-react-hooks-really-work/
 tags:
     - JavaScript

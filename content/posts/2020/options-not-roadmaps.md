@@ -2,6 +2,8 @@
 title: "Options, Not Roadmaps"
 slug: options-not-roadmaps
 date: 2020-10-09T08:00:00+02:00
+type: link
+link: https://basecamp.com/articles/options-not-roadmaps
 tags:
   - Product
   - Project management

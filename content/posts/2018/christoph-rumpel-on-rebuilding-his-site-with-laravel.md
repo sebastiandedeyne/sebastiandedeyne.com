@@ -2,6 +2,7 @@
 date: 2018-01-15
 title: Christoph Rumpel on rebuilding his site with Laravel
 subtitle: Laravel ~5.5
+type: link
 link: https://christoph-rumpel.com/2018/01/how-i-redesigned-my-blog-and-moved-it-from-jekyll-to-laravel
 tags:
   - Laravel

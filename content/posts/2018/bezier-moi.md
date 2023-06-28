@@ -1,6 +1,7 @@
 ---
 date: 2018-12-11
 title: Bézier moi
+type: link
 link: https://cormullion.github.io/blog/2018/06/21/bezier.html
 tags:
     - design

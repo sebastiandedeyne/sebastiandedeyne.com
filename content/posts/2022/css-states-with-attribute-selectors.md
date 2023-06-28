@@ -2,9 +2,10 @@
 title: "CSS states with attribute selectors"
 slug: css-states-with-attribute-selectors
 date: 2022-10-27
+type: link
+link: https://elisehe.in/2022/10/16/attribute-selectors
 tags:
   - CSS
-link: https://elisehe.in/2022/10/16/attribute-selectors
 ---
 
 Elise Hein compiled a few arguments in favor of using CSS attribute selectors more often. Two examples stood our for me.

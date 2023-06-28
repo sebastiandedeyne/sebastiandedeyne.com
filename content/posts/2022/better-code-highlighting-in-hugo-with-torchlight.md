@@ -2,7 +2,7 @@
 title: "Better code highlighting in Hugo with Torchlight"
 slug: better-code-highlighting-in-hugo-with-torchlight
 date: 2022-11-18
-categories: ["articles"]
+type: article
 tags:
   - Hugo
 ---

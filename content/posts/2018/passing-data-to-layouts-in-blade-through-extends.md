@@ -1,7 +1,7 @@
 ---
 date: 2018-01-15
 title: Passing data to layouts in Blade through extends
-categories: ["articles"]
+type: article
 tags:
   - Laravel
   - PHP

@@ -2,7 +2,7 @@
 date: 2017-05-16
 title: TypeScript with Laravel Mix
 subtitle: Written for Mix 0.*
-categories: ["articles"]
+type: article
 tags:
   - typescript
   - Laravel

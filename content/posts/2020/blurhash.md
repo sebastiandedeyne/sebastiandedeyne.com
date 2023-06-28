@@ -2,6 +2,8 @@
 title: "BlurHash"
 slug: blurhash
 date: 2020-10-19T06:00:00
+type: link
+link: https://github.com/woltapp/blurhash
 tags:
   - design
   - images

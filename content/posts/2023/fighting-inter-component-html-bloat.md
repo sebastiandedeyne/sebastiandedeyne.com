@@ -2,7 +2,7 @@
 title: "Elise Hein: 'Fighting inter-component HTML bloat'"
 slug: fighting-inter-component-html-bloat
 date: 2023-04-06T08:00:00+02:00
-categories: ["links"]
+type: link
 link: https://elisehe.in/2023/03/27/minimal-html-in-design-systems
 tags:
   - HTML

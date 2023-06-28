@@ -1,7 +1,7 @@
 ---
 date: 2021-03-22T06:00:00+01:00
 title: Vite with Laravel
-categories: ["articles"]
+type: article
 tags:
   - Laravel
   - Vite with Laravel

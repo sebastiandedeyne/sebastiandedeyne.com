@@ -2,7 +2,7 @@
 title: "How we keep our Laravel packages customizable at Spatie"
 slug: customizing-spatie-packages
 date: 2023-03-06
-categories: ["links"]
+type: link
 tags:
   - PHP
   - Laravel

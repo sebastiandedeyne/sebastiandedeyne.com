@@ -1,7 +1,7 @@
 ---
 date: 2019-05-20
 title: "React for Vue developers"
-categories: ["articles"]
+type: article
 tags:
     - React
     - Vue.js

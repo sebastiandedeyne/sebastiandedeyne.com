@@ -2,10 +2,11 @@
 title: "Rauno's web interface guidelines"
 slug: rauno-web-interface-guidelines
 date: 2023-02-28
+type: link
+link: https://rauno.me/interfaces
 tags:
   - Design
   - Frontend
-link: https://rauno.me/interfaces
 ---
 
 Rauno Freiberg (designer at Vercel) shares his web guidelines for web interfaces. A few that stood out for me:

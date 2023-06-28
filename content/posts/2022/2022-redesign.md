@@ -1,7 +1,7 @@
 ---
 date: 2022-10-24
 title: 2022 redesign
-categories: ["articles"]
+type: article
 tags:
     - css
     - meta

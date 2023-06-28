@@ -2,7 +2,7 @@
 title: "Resolving a new instance of a singleton in Laravel"
 slug: new-instance-of-singleton-in-laravel
 date: 2023-03-07
-categories: ["articles"]
+type: article
 tags:
   - Laravel
 ---

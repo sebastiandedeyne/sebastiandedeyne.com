@@ -1,6 +1,8 @@
 ---
 title: "A Tale of Client Side Framework Performance"
 slug: a-tale-of-client-side-framework-performance
+type: link
+link: https://css-tricks.com/radeventlistener-a-tale-of-client-side-framework-performance/
 date: 2020-09-20
 tags:
   - JavaScript

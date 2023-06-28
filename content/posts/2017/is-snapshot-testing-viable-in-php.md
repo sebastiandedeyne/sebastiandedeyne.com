@@ -1,6 +1,7 @@
 ---
 date: 2017-07-04
 title: Is snapshot testing viable in PHP?
+type: link
 link: https://www.sitepoint.com/snapshot-testing-viable-php
 tags:
   - PHP

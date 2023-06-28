@@ -1,7 +1,7 @@
 ---
 date: 2016-03-09
 title: Normalize your values on input
-categories: ["articles"]
+type: article
 tags:
   - PHP
   - programming

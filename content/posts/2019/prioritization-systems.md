@@ -1,7 +1,7 @@
 ---
 title: "Prioritization systems"
 date: 2019-10-30
-categories: ["articles"]
+type: article
 tags:
   - planning
   - product management

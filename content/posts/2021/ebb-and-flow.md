@@ -2,7 +2,7 @@
 title: "Ebb and flow"
 slug: ebb-and-flow
 date: 2021-08-09
-categories: ["articles"]
+type: article
 tags:
   - Thoughts
 ---

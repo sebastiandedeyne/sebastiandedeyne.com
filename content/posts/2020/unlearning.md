@@ -2,7 +2,7 @@
 title: "Unlearning"
 slug: unlearning
 date: 2020-05-29
-categories: ["articles"]
+type: article
 tags:
   - programming
 ---

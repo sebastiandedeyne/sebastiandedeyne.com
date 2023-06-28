@@ -2,7 +2,7 @@
 title: "macOS settings I always customize"
 slug: macos-settings-i-always-customize
 date: 2021-03-03
-categories: ["articles"]
+type: article
 tags:
   - Mac
 ---

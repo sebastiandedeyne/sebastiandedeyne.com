@@ -1,7 +1,7 @@
 ---
 title: "Advent of Code 2019"
 date: 2019-12-02
-categories: ["articles"]
+type: article
 ---
 
 It's that time of the year, for the Advent of Code, <br>

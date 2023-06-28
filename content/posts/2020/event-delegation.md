@@ -2,7 +2,7 @@
 date: 2020-02-13
 title: Event delegation
 slug: javascript-framework-diet-event-delegation
-categories: ["articles"]
+type: article
 tags:
   - JavaScript
   - Vanilla JS

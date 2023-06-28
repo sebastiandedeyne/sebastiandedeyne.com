@@ -1,6 +1,7 @@
 ---
 date: 2019-01-23
 title: The great divide
+type: link
 link: https://css-tricks.com/the-great-divide/
 tags:
     - the web

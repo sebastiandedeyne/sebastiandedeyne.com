@@ -1,7 +1,7 @@
 ---
 title: "Disappointed"
 date: 2019-10-21T20:18:44+02:00
-categories: ["articles"]
+type: article
 ad: false
 ---
 

@@ -2,7 +2,7 @@
 date: 2021-03-29
 title: "Vite with Laravel: Using Inertia.js"
 slug: vite-with-laravel-inertia
-categories: ["articles"]
+type: article
 tags:
   - Laravel
   - Vite with Laravel

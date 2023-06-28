@@ -1,7 +1,7 @@
 ---
 date: 2018-04-24
 title: A good issue
-categories: ["articles"]
+type: article
 tags:
   - programming
   - OSS

@@ -2,7 +2,7 @@
 title: "Setting up a global .gitignore file"
 slug: setting-up-a-global-gitignore-file
 date: 2020-03-12
-categories: ["articles"]
+type: article
 tags:
   - git
   - OSS

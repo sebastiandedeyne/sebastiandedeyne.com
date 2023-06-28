@@ -2,7 +2,7 @@
 title: "A new website for Set Studio"
 slug: new-website-set-studio
 date: 2023-03-22
-categories: ["links"]
+type: link
 link: https://set.studio/new-shoes/
 tags:
   - Webdesign

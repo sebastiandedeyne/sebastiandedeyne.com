@@ -2,7 +2,7 @@
 title: "Pretend Everyone Costs 1k Hr"
 slug: pretend-everyone-costs-1k-hr
 date: 2023-06-15T10:00:00+02:00
-categories: ["links"]
+type: link
 link: https://notesonwork.transistor.fm/episodes/pretend-everyone-costs-1k-hr
 tags:
   - Work
