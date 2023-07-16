@@ -3,6 +3,8 @@ title: "Blogs, more than ever"
 slug: blogs-more-than-ever
 date: 2023-07-02T13:21:00+02:00
 tags:
+  - The web
+  - Writing
 ---
 
 It's been an odd few days with the changes on Reddit and Twitter – the only two major social media platforms I browse.
