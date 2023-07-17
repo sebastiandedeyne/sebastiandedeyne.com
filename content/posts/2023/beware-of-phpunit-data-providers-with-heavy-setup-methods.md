@@ -1,5 +1,5 @@
 ---
-title: "Beware of phpunit data providers with heavy setup methods"
+title: "Beware of PHPUnit data providers with heavy setup methods"
 slug: beware-of-phpunit-data-providers-with-heavy-setup-methods
 date: 2023-07-17T17:06:52+02:00
 summary: |
