@@ -11,4 +11,4 @@ What a lovely project! Project E-Ink builds a large e-ink display that displays 
 
 {{< figure src="/media/project-e-ink.webp" >}}
 
-I have a strong attraction towards e-ink. I think it's because despite being state of the art technology, e-ink doesn't feel "digital". In the case of this displat: it's there, it's connected, but it's static. It's up to date but doesn't grab your attention.
+I have a strong attraction towards e-ink. I think it's because despite being state of the art technology, e-ink doesn't feel "digital". In the case of this display: it's there, it's connected, but it's static. It's up to date but doesn't grab your attention.
