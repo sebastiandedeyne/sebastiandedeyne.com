@@ -1,6 +1,6 @@
 ---
-title: "Explore the other side & learn another language"
-slug: explore-the-other-side-and-learn-another-language
+title: "Explore the other side & learn a new language"
+slug: explore-the-other-side-and-learn-a-new-language
 date: 2023-07-18T08:00:00+02:00
 tags:
   - Programming
