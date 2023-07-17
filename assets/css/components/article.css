@@ -45,7 +45,8 @@ article h3 {
   margin-top: calc(var(--spacing) * 2);
 }
 
-article p {
+article p,
+article figure {
   margin-top: var(--spacing);
 }
 
