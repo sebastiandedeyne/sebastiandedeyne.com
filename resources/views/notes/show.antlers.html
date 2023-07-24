@@ -1,0 +1,28 @@
+<article>
+    <header>
+        <p>/</p>
+        <h1>{{ title }}</h1>
+    </header>
+    {{ content }}
+    <dl>
+        {{ if uri == "/notes" }}
+            {{ nav:collection:notes }}
+                {{ unless no_results }}
+                    <dt><a href="{{ url }}">{{ title }}</a></dt>
+                    <dd>{{ summary }}</dd>
+                {{ /unless }}
+            {{ /nav:collection:notes }}
+        {{ else }}
+            {{ nav:collection:notes :from="uri" }}
+                {{ unless no_results }}
+                    <dt><a href="{{ url }}">{{ title }}</a></dt>
+                    <dd>{{ summary }}</dd>
+                {{ /unless }}
+            {{ /nav:collection:notes }}
+            {{ parent }}
+                <dt><a href="{{ url }}"><< {{ title }}</a></dt>
+            {{ /parent }}
+        {{ /if }}
+    </dl>
+</article>
+<hr>

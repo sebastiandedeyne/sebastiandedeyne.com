@@ -1,0 +1,53 @@
+tree:
+  -
+    id: 12571df6-1602-4d45-a3cc-fa3e5be147af
+    title: Main
+    children:
+      -
+        id: 0d53eefd-133b-4a62-900a-55f214490147
+        title: Blog
+        url: /
+  -
+    id: 74b6125d-026b-4186-8be1-3c9283cace69
+    title: Pages
+    children:
+      -
+        id: 214f75a6-2cf0-4e9d-99af-b1f4b1dd6988
+        title: About
+        url: /about
+      -
+        id: c9fbc91d-e7ef-4f90-a853-e006e0bbea32
+        title: Speaking
+        url: /speaking
+      -
+        id: 6d22adfe-6b95-4a6b-9ac4-c9e5c381e443
+        title: Uses
+        url: /uses
+      -
+        id: 5f45261b-5265-4751-ba2f-e25379b6f417
+        title: Reads
+        url: /reads
+      -
+        id: 2cdf71e4-6f28-4aff-8dc1-6e47ed552717
+        title: Now
+        url: /now
+  -
+    id: 46b461e1-8aa2-4f04-b4b9-9a097f61d4ee
+    title: Follow
+    children:
+      -
+        id: cd8bf070-111a-45bf-ad6b-fa0567c48241
+        title: Newsletter
+        url: /newsletter
+      -
+        id: c7157b28-f2ff-4552-acab-5e6e8b7f981d
+        title: Twitter
+        url: 'https://twitter.com/sebdedeyne'
+      -
+        id: 52033798-e37c-47f6-984a-ffd6728c6a88
+        title: Mastodon
+        url: 'https://mastodon.social/@sebdd'
+      -
+        id: fe3d3671-0bf4-416c-8c37-78389a73866b
+        title: RSS
+        url: /index.xml

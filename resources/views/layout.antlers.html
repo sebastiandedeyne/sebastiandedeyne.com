@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="{{ site:short_locale }}">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+        <title>{{ if title && title !== "Home" }}{{ title }} | {{ /if }}{{ site:name }}</title>
+
+        <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+        <link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
+        <link rel="icon" type="image/png" href="/android-chrome-192x192.png" sizes="192x192">
+        <link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96">
+        <link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
+        <meta name="theme-color" content="#ffffff">
+
+        <link rel="alternate" type="application/rss+xml" href="/index.xml" title="Seb De Deyne">
+        <link rel="alternate" type="application/rss+xml" href="/articles/index.xml" title="Seb De Deyne: Articles">
+
+        <meta name="description" content="{{ description ?? "I'm a web developer and designer. I build websites & interfaces with JavaScript, CSS and PHP." }}">
+        <meta property="og:title" content="{{ title ?? site:name }}">
+        <meta property="og:type" content="website">
+        <meta property="og:locale" content="en_US">
+        <meta property="og:url" content="{{ current_url }}">
+        <meta property="og:image" content="{{ meta_image:permalink ?? "https://sebastiandedeyne.com/media/me.jpg" }}">
+        {{ if url === '/' }}
+            <meta property="og:description" content="I'm a web developer and designer. I build websites & interfaces with JavaScript, CSS and PHP.">
+        {{ else }}
+            <meta property="og:description" content="{{ meta_description ?? (content | strip_tags | safe_truncate(280, '…')) }}">
+        {{ /if }}
+        {{ vite src="resources/js/site.js|resources/css/site.css" }}
+
+        {{ if environment === 'production' }}
+            <script src="https://cdn.usefathom.com/script.js" data-site="ZJKABUUJ" defer></script>
+        {{ /if }}
+    </head>
+    <body>
+        <div class="grid">
+            <nav class="sidebar">
+                <header class="sidebar-header">
+                    {{ if url === '/' }}
+                        <h1><a href="/">Sebastian De Deyne</a></h1>
+                    {{ else }}
+                        <a href="/">Sebastian De Deyne</a>
+                    {{ /if }}
+                </header>
+                {{ nav:main }}
+                    <ul class="sidebar-{{ title | lowercase }}">
+                        {{ children }}
+                            <li><a href="{{ url }}" {{ if is_current || (uri == "/" && collection == "posts") }}aria-current="page"{{ /if }}>{{ title }}</a></li>
+                        {{ /children }}
+                    </ul>
+                {{ /nav:main }}
+            </nav>
+            {{ template_content }}
+            <footer class="footer">
+                <p>
+                    &lt;!-- est.2015 <a href="/">Seb De Deyne</a><br>
+                    &nbsp;&nbsp;&nbsp;&nbsp; syntax highlighing with <a href="https://torchlight.dev">Torchlight</a> --&gt;
+                </p>
+            </footer>
+        </div>
+    </body>
+</html>

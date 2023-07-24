@@ -1,0 +1,18 @@
+title: Notes
+template: notes/show
+layout: layout
+mount: 15e9bd10-34f6-4aaf-a2b6-0aa7a7da17a0
+revisions: false
+route: '{{ if parent_uri }}/{{ parent_uri }}/{{ slug }}{{ else }}/{{ notes }}/{{ slug }}{{ /if }}'
+sort_dir: asc
+date_behavior:
+  past: public
+  future: private
+preview_targets:
+  -
+    label: Entry
+    url: '{permalink}'
+    refresh: true
+structure:
+  root: false
+  slugs: true

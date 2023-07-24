@@ -1,0 +1,8 @@
+<article>
+    {{ partial:posts/partials/header }}
+    {{ preview = {summary ?? (content | explode("<!--more-->") | first)} }}
+    {{ preview }}
+    {{ if preview !== content }}
+        <p><a href="{{ url }}">Read more</a></p>
+    {{ /if }}
+</article>

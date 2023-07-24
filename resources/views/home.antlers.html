@@ -1,0 +1,9 @@
+{{ collection :from="mount" paginate="15" as="posts" }}
+    {{ posts }}
+        {{ partial:posts/partials/preview }}
+        <hr>
+    {{ /posts }}
+    {{ paginate }}
+        {{ auto_links }}
+    {{ /paginate }}
+{{ /collection }}

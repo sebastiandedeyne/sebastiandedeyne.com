@@ -1,6 +1,0 @@
-.link-external:hover:after {
-  position: absolute;
-  content: '↗';
-  font-family: system-ui;
-  color: magenta;
-}

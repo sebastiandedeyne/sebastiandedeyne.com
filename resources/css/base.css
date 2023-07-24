@@ -1,0 +1,75 @@
+*,
+*:before,
+*:after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --color-gray: #f8f8f8;
+  --color-border: #f2f2f2;
+  --color-link: blue;
+
+  --text-xs: 0.7rem;
+  --text-sm: 0.85rem;
+  --text-lg: 1.1rem;
+  --text-xl: 1.3rem;
+
+  --font-size: 16px;
+  --line-height: 1.6;
+
+  --font-sans: 'Karla', system-ui, sans-serif;
+  --font-mono: 'Berkeley Mono', monospace;
+
+  --spacing: 1rem;
+
+  --border-radius: 2px;
+}
+
+@media(max-width: 600px) {
+  :root {
+    --spacing: 0.5rem;
+  }
+}
+
+html {
+  font-size: var(--font-size);
+}
+
+body {
+  margin: 0;
+  line-height: var(--line-height);
+  font-family: var(--font-sans);
+}
+
+a {
+  color: currentColor;
+  text-decoration: none;
+}
+
+h1 {
+    font-size: 1em;
+}
+
+i {
+  font-family: system-ui;
+}
+
+hr {
+  border: none;
+}
+
+hr:after {
+  content: '▯▯▯';
+  display: block;
+  padding: calc(var(--spacing) * 4) 0 calc(var(--spacing) * 3);
+  text-align: center;
+  color: blue;
+}
+
+@media (max-width: 600px) {
+  hr:after {
+    text-align: left;
+  }
+}

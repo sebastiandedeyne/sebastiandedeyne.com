@@ -1,0 +1,21 @@
+<header>
+    <p>
+        <a href="{{ url }}">{{ date | format("Y-m-d") }}</a>
+        {{ tags }}
+            <a href="/tags/{{ slug }}" {{ if current_uri == '/tags/' + slug }}aria-current="page"{{ /if }}>
+                #{{ slug }}</a>
+        {{ /tags }}
+        {{ if link }}/ <a href="{{ link }}">{{ link | parse_url("host") }}</a>{{ /if }}
+    </p>
+    <h1>
+        {{ if link }}
+            <a href="{{ link }}">
+                <i>↗</i> {{ title }}
+            </a>
+        {{ else }}
+            <a href="{{ url }}">
+                {{ title }}
+            </a>
+        {{ /if }}
+    </h1>
+</header>

@@ -1,6 +1,0 @@
-{{ $permalink := .Permalink }}
-{{ range .Paginator.Pages }}
-  {{ partial "article" (dict "Page" . "Permalink" $permalink) }}
-  <hr>
-{{ end }}
-{{ template "_internal/pagination.html" . }}

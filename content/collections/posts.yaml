@@ -1,0 +1,19 @@
+title: Posts
+template: posts/show
+layout: layout
+mount: home
+taxonomies:
+  - tags
+revisions: false
+route: '{{ if link }}/links/{{ slug }}{{ else }}{{ slug }}{{ /if }}'
+date: true
+sort_dir: desc
+default_status: draft
+date_behavior:
+  past: public
+  future: unlisted
+preview_targets:
+  -
+    label: Entry
+    url: '{permalink}'
+    refresh: true
