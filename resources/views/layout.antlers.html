@@ -26,7 +26,7 @@
         {{ else }}
             <meta property="og:description" content="{{ meta_description ?? (content | strip_tags | safe_truncate(280, '…')) }}">
         {{ /if }}
-        {{ vite src="resources/js/site.js|resources/css/site.css" }}
+        {{ vite src="resources/css/site.css" }}
 
         {{ if environment === 'production' }}
             <script src="https://cdn.usefathom.com/script.js" data-site="ZJKABUUJ" defer></script>
