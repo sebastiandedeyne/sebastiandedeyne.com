@@ -29,6 +29,7 @@ class Feed
             ->where('published', true)
             ->where('date', '<=', now())
             ->orderBy('date', 'desc')
+            ->limit(10)
             ->get()
             ->map(function (\Statamic\Entries\Entry $entry) {
                 return FeedItem::create()
