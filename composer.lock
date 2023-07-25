@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "99b0fbc1663559e8e6c0015208cf8f4d",
+    "content-hash": "72c3a4da9770f053ad9f5b7d86495c7a",
     "packages": [
         {
             "name": "ajthinking/archetype",
@@ -2000,16 +2000,16 @@
         },
         {
             "name": "laravel/framework",
-            "version": "v10.15.0",
+            "version": "v10.16.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/laravel/framework.git",
-                "reference": "c7599dc92e04532824bafbd226c2936ce6a905b8"
+                "reference": "7589f09fe0e8735615cf25f0f1807682aac124c1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/laravel/framework/zipball/c7599dc92e04532824bafbd226c2936ce6a905b8",
-                "reference": "c7599dc92e04532824bafbd226c2936ce6a905b8",
+                "url": "https://api.github.com/repos/laravel/framework/zipball/7589f09fe0e8735615cf25f0f1807682aac124c1",
+                "reference": "7589f09fe0e8735615cf25f0f1807682aac124c1",
                 "shasum": ""
             },
             "require": {
@@ -2196,7 +2196,7 @@
                 "issues": "https://github.com/laravel/framework/issues",
                 "source": "https://github.com/laravel/framework"
             },
-            "time": "2023-07-11T13:43:52+00:00"
+            "time": "2023-07-25T14:31:32+00:00"
         },
         {
             "name": "laravel/helpers",
@@ -2322,16 +2322,16 @@
         },
         {
             "name": "laravel/serializable-closure",
-            "version": "v1.3.0",
+            "version": "v1.3.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/laravel/serializable-closure.git",
-                "reference": "f23fe9d4e95255dacee1bf3525e0810d1a1b0f37"
+                "reference": "e5a3057a5591e1cfe8183034b0203921abe2c902"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/laravel/serializable-closure/zipball/f23fe9d4e95255dacee1bf3525e0810d1a1b0f37",
-                "reference": "f23fe9d4e95255dacee1bf3525e0810d1a1b0f37",
+                "url": "https://api.github.com/repos/laravel/serializable-closure/zipball/e5a3057a5591e1cfe8183034b0203921abe2c902",
+                "reference": "e5a3057a5591e1cfe8183034b0203921abe2c902",
                 "shasum": ""
             },
             "require": {
@@ -2378,7 +2378,7 @@
                 "issues": "https://github.com/laravel/serializable-closure/issues",
                 "source": "https://github.com/laravel/serializable-closure"
             },
-            "time": "2023-01-30T18:31:20+00:00"
+            "time": "2023-07-14T13:56:28+00:00"
         },
         {
             "name": "laravel/tinker",
@@ -5464,16 +5464,16 @@
         },
         {
             "name": "statamic/cms",
-            "version": "v4.12.0",
+            "version": "v4.13.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/statamic/cms.git",
-                "reference": "f8fcb062488507c2dc96e96b8a2377ce8c5c7246"
+                "reference": "9c5ab940861da3c26ffae7b45fd685b47a7fd18c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/statamic/cms/zipball/f8fcb062488507c2dc96e96b8a2377ce8c5c7246",
-                "reference": "f8fcb062488507c2dc96e96b8a2377ce8c5c7246",
+                "url": "https://api.github.com/repos/statamic/cms/zipball/9c5ab940861da3c26ffae7b45fd685b47a7fd18c",
+                "reference": "9c5ab940861da3c26ffae7b45fd685b47a7fd18c",
                 "shasum": ""
             },
             "require": {
@@ -5554,7 +5554,7 @@
             ],
             "support": {
                 "issues": "https://github.com/statamic/cms/issues",
-                "source": "https://github.com/statamic/cms/tree/v4.12.0"
+                "source": "https://github.com/statamic/cms/tree/v4.13.0"
             },
             "funding": [
                 {
@@ -5562,7 +5562,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2023-07-20T22:01:12+00:00"
+            "time": "2023-07-24T21:30:21+00:00"
         },
         {
             "name": "statamic/stringy",
@@ -8514,16 +8514,16 @@
         },
         {
             "name": "torchlight/torchlight-commonmark",
-            "version": "v0.5.5",
+            "version": "dev-main",
             "source": {
                 "type": "git",
-                "url": "https://github.com/torchlight-api/torchlight-commonmark-php.git",
-                "reference": "eb618ae6187090126a9ef881ccaf9c315d49c99b"
+                "url": "https://github.com/sebastiandedeyne/torchlight-commonmark-php.git",
+                "reference": "927c2224ceef97c83d4a7645bc6027e765b3e244"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/torchlight-api/torchlight-commonmark-php/zipball/eb618ae6187090126a9ef881ccaf9c315d49c99b",
-                "reference": "eb618ae6187090126a9ef881ccaf9c315d49c99b",
+                "url": "https://api.github.com/repos/sebastiandedeyne/torchlight-commonmark-php/zipball/927c2224ceef97c83d4a7645bc6027e765b3e244",
+                "reference": "927c2224ceef97c83d4a7645bc6027e765b3e244",
                 "shasum": ""
             },
             "require": {
@@ -8536,13 +8536,18 @@
                 "orchestra/testbench": "^5.0|^6.0",
                 "phpunit/phpunit": "^8.4"
             },
+            "default-branch": true,
             "type": "library",
             "autoload": {
                 "psr-4": {
                     "Torchlight\\Commonmark\\": "src/"
                 }
             },
-            "notification-url": "https://packagist.org/downloads/",
+            "autoload-dev": {
+                "psr-4": {
+                    "Torchlight\\Commonmark\\Tests\\": "tests/"
+                }
+            },
             "license": [
                 "MIT"
             ],
@@ -8555,17 +8560,16 @@
             "description": "A Commonmark extension for Torchlight, the syntax highlighting API.",
             "homepage": "https://torchlight.dev",
             "keywords": [
-                "Code highlighting",
+                "code highlighting",
                 "commonmark",
                 "laravel",
                 "markdown",
                 "syntax highlighting"
             ],
             "support": {
-                "issues": "https://github.com/torchlight-api/torchlight-commonmark-php/issues",
-                "source": "https://github.com/torchlight-api/torchlight-commonmark-php/tree/v0.5.5"
+                "source": "https://github.com/sebastiandedeyne/torchlight-commonmark-php/tree/main"
             },
-            "time": "2022-02-23T17:09:44+00:00"
+            "time": "2023-07-25T17:02:35+00:00"
         },
         {
             "name": "torchlight/torchlight-laravel",
@@ -12111,7 +12115,9 @@
     ],
     "aliases": [],
     "minimum-stability": "dev",
-    "stability-flags": [],
+    "stability-flags": {
+        "torchlight/torchlight-commonmark": 20
+    },
     "prefer-stable": true,
     "prefer-lowest": false,
     "platform": {

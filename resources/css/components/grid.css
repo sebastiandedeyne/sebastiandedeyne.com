@@ -36,7 +36,7 @@
   grid-column: content-start / content-end;
 }
 
-.grid > article > pre:has(code:not(.short)) {
+.grid > article > pre:has(code):not(.short) {
   grid-column: sidebar-start / right-edge;
 }
 
