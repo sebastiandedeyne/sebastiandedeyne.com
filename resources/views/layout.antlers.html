@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-        {{ if url === '/' }}
+        {{ if (url === '/' || !title) }}
             <title>{{ site:name }}</title>
         {{ else }}
             <title>{{ title }} | {{ site:name }}</title>
@@ -20,7 +20,7 @@
         <link rel="alternate" type="application/rss+xml" href="/articles/index.xml" title="Seb De Deyne: Articles">
 
         <meta name="description" content="{{ description ?? "I'm a web developer and designer. I build websites & interfaces with JavaScript, CSS and PHP." }}">
-        <meta property="og:title" content="{{ url === '/' ? site:name : title }}">
+        <meta property="og:title" content="{{ (url === '/' || !title) ? site:name : title }}">
         <meta property="og:type" content="website">
         <meta property="og:locale" content="en_US">
         <meta property="og:url" content="{{ current_url }}">
