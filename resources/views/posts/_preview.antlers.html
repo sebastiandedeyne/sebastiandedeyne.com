@@ -1,5 +1,5 @@
 <article>
-    {{ partial:posts/partials/header }}
+    {{ partial:posts/_header }}
     {{ preview = {summary ?? (content | explode("<!--more-->") | first)} }}
     {{ preview }}
     {{ if preview !== content }}
