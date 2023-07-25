@@ -24,7 +24,6 @@ class AppServiceProvider extends ServiceProvider
     {
         Markdown::addExtension(function () {
             return [
-                new AttributesExtension(),
                 new TorchlightExtension(),
             ];
         });
