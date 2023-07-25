@@ -3,7 +3,11 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-        <title>{{ if title && title !== "Home" }}{{ title }} | {{ /if }}{{ site:name }}</title>
+        {{ if url === '/' }}
+            <title>{{ site:name }}</title>
+        {{ else }}
+            <title>{{ title }} | {{ site:name }}</title>
+        {{ /if }}
 
         <link rel="apple-touch-icon" href="/apple-touch-icon.png">
         <link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
@@ -16,7 +20,7 @@
         <link rel="alternate" type="application/rss+xml" href="/articles/index.xml" title="Seb De Deyne: Articles">
 
         <meta name="description" content="{{ description ?? "I'm a web developer and designer. I build websites & interfaces with JavaScript, CSS and PHP." }}">
-        <meta property="og:title" content="{{ title ?? site:name }}">
+        <meta property="og:title" content="{{ url === '/' ? site:name : title }}">
         <meta property="og:type" content="website">
         <meta property="og:locale" content="en_US">
         <meta property="og:url" content="{{ current_url }}">
