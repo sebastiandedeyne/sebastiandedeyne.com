@@ -2,8 +2,10 @@
     <p>
         <a href="{{ url }}">{{ date | format("Y-m-d") }}</a>
         {{ tags }}
-            <a href="/tags/{{ slug }}" {{ if current_uri == '/tags/' + slug }}aria-current="page"{{ /if }}>
-                #{{ slug }}</a>
+            {{ unless no_results }}
+                <a href="/tags/{{ slug }}" {{ if current_uri == '/tags/' + slug }}aria-current="page"{{ /if }}>
+                    #{{ slug }}</a>
+            {{ /unless }}
         {{ /tags }}
         {{ if link }}/ <a href="{{ link }}">{{ link | parse_url("host") }}</a>{{ /if }}
     </p>
