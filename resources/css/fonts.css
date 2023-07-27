@@ -1,71 +1,79 @@
 @font-face {
-  font-family: 'Berkeley Mono';
-  font-style: normal;
-  font-weight: 400;
-  src: local(''),
-    url('/fonts/BerkeleyMono-Regular.woff2') format('woff2'),
-    url('/fonts/BerkeleyMono-Regular.woff') format('woff');
+    font-family: "Berkeley Mono";
+    font-style: normal;
+    font-weight: 400;
+    src:
+        local(""),
+        url("/fonts/BerkeleyMono-Regular.woff2") format("woff2"),
+        url("/fonts/BerkeleyMono-Regular.woff") format("woff");
 }
 
 @font-face {
-  font-family: 'Berkeley Mono';
-  font-style: normal;
-  font-weight: 700;
-  src: local(''),
-    url('/fonts/BerkeleyMono-Bold.woff2') format('woff2'),
-    url('/fonts/BerkeleyMono-Bold.woff') format('woff');
+    font-family: "Berkeley Mono";
+    font-style: normal;
+    font-weight: 700;
+    src:
+        local(""),
+        url("/fonts/BerkeleyMono-Bold.woff2") format("woff2"),
+        url("/fonts/BerkeleyMono-Bold.woff") format("woff");
 }
 
 @font-face {
-  font-family: 'Berkeley Mono';
-  font-style: italic;
-  font-weight: 400;
-  src: local(''),
-    url('/fonts/BerkeleyMono-Italic.woff2') format('woff2'),
-    url('/fonts/BerkeleyMono-Italic.woff') format('woff');
+    font-family: "Berkeley Mono";
+    font-style: italic;
+    font-weight: 400;
+    src:
+        local(""),
+        url("/fonts/BerkeleyMono-Italic.woff2") format("woff2"),
+        url("/fonts/BerkeleyMono-Italic.woff") format("woff");
 }
 
 @font-face {
-  font-family: 'Berkeley Mono';
-  font-style: italic;
-  font-weight: 700;
-  src: local(''),
-    url('/fonts/BerkeleyMono-BoldItalic.woff2') format('woff2'),
-    url('/fonts/BerkeleyMono-BoldItalic.woff') format('woff');
+    font-family: "Berkeley Mono";
+    font-style: italic;
+    font-weight: 700;
+    src:
+        local(""),
+        url("/fonts/BerkeleyMono-BoldItalic.woff2") format("woff2"),
+        url("/fonts/BerkeleyMono-BoldItalic.woff") format("woff");
 }
 
 @font-face {
-  font-family: 'Karla';
-  font-style: normal;
-  font-weight: 400;
-  src: local(''),
-       url('/fonts/Karla-Regular.woff2') format('woff2'),
-       url('/fonts/Karla-Regular.woff') format('woff');
+    font-family: "Karla";
+    font-style: normal;
+    font-weight: 400;
+    src:
+        local(""),
+        url("/fonts/Karla-Regular.woff2") format("woff2"),
+        url("/fonts/Karla-Regular.woff") format("woff");
 }
 
 @font-face {
-  font-family: 'Karla';
-  font-style: normal;
-  font-weight: 700;
-  src: local(''),
-       url('/fonts/Karla-Bold.woff2') format('woff2'),
-       url('/fonts/Karla-Bold.woff') format('woff');
+    font-family: "Karla";
+    font-style: normal;
+    font-weight: 700;
+    src:
+        local(""),
+        url("/fonts/Karla-Bold.woff2") format("woff2"),
+        url("/fonts/Karla-Bold.woff") format("woff");
 }
 
 @font-face {
-  font-family: 'Karla';
-  font-style: italic;
-  font-weight: 400;
-  src: local(''),
-       url('/fonts/Karla-Italic.woff2') format('woff2'),
-       url('/fonts/Karla-Italic.woff') format('woff');
+    font-family: "Karla";
+    font-style: italic;
+    font-weight: 400;
+    src:
+        local(""),
+        url("/fonts/Karla-Italic.woff2") format("woff2"),
+        url("/fonts/Karla-Italic.woff") format("woff");
 }
 
 @font-face {
-  font-family: 'Karla';
-  font-style: italic;
-  font-weight: 700;
-  src: local(''),
-       url('/fonts/Karla-BoldItalic.woff2') format('woff2'),
-       url('/fonts/Karla-BoldItalic.woff') format('woff');
+    font-family: "Karla";
+    font-style: italic;
+    font-weight: 700;
+    src:
+        local(""),
+        url("/fonts/Karla-BoldItalic.woff2") format("woff2"),
+        url("/fonts/Karla-BoldItalic.woff") format("woff");
 }

@@ -1,11 +1,11 @@
-@import './base.css';
+@import "./base.css";
 
-@import './components/article.css';
-@import './components/footer.css';
-@import './components/grid.css';
-@import './components/newsletter.css';
-@import './components/pagination.css';
-@import './components/sidebar.css';
-@import './components/toc.css';
+@import "./components/article.css";
+@import "./components/footer.css";
+@import "./components/grid.css";
+@import "./components/newsletter.css";
+@import "./components/pagination.css";
+@import "./components/sidebar.css";
+@import "./components/toc.css";
 
-@import './fonts.css';
+@import "./fonts.css";

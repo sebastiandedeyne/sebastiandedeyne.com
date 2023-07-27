@@ -1,49 +1,49 @@
 .toc {
-  border-radius: 2px;
-  margin-bottom: 1.5rem;
-  background-color: var(--color-gray);
-  border-radius: var(--border-radius);
-  padding: 1.5rem;
-  font-size: var(--text-sm);
-  line-height: 1.5;
-  margin-top: calc(var(--spacing) * 2);
+    border-radius: 2px;
+    margin-bottom: 1.5rem;
+    background-color: var(--color-gray);
+    border-radius: var(--border-radius);
+    padding: 1.5rem;
+    font-size: var(--text-sm);
+    line-height: 1.5;
+    margin-top: calc(var(--spacing) * 2);
 }
 
 @media (min-width: 640px) {
-  .toc {
-    display: grid;
-    grid-template-columns: repeat(2, auto);
-    grid-column-gap: 1.5rem;
-  }
+    .toc {
+        display: grid;
+        grid-template-columns: repeat(2, auto);
+        grid-column-gap: 1.5rem;
+    }
 }
 
 .toc h2 {
-  font-weight: 600;
-  margin-bottom: 0.75rem;
+    font-weight: 600;
+    margin-bottom: 0.75rem;
 }
 
 .toc ol {
-  margin: 0;
-  counter-reset: toc;
-  list-style: none;
+    margin: 0;
+    counter-reset: toc;
+    list-style: none;
 }
 
 .toc ol ol {
-  margin-left: 1.5rem;
+    margin-left: 1.5rem;
 }
 
 .toc li:before {
-  display: inline-block;
-  counter-increment: toc;
-  content: counter(toc) ".";
-  width: 1.5rem;
+    display: inline-block;
+    counter-increment: toc;
+    content: counter(toc) ".";
+    width: 1.5rem;
 }
 
 .toc li.active:before {
-  content: "→";
-  font-weight: 300;
+    content: "→";
+    font-weight: 300;
 }
 
 .toc a {
-  text-decoration: underline;
+    text-decoration: underline;
 }
