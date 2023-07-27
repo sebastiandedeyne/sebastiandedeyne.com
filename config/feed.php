@@ -16,7 +16,7 @@ return [
         ],
         'articles' => [
             'items' => [\App\Feed::class, 'articles'],
-            'url' => '/articles/index.xml',
+            'url' => '/articles.xml',
             'title' => 'Sebastian De Deyne: Articles',
             'description' => 'I\'m a web developer and designer. I build websites & interfaces with JavaScript, CSS and PHP.',
             'language' => 'en-US',

@@ -22,15 +22,16 @@ return [
      * You can use Laravel's route parameters here.
      */
     'redirects' => [
+        '/feed' => '/index.xml',
+        '/feed/articles' => '/articles.xml',
+        '/posts/index.xml' => '/articles.xml',
+        '/articles/index.xml' => '/articles.xml',
         '/2016/{slug}' => '/{slug}',
         '/2017/{slug}' => '/{slug}',
         '/2018/{slug}' => '/{slug}',
         '/posts/2016/{slug}' => '/{slug}',
         '/posts/2017/{slug}' => '/{slug}',
         '/posts/2018/{slug}' => '/{slug}',
-        '/feed' => '/index.xml',
-        '/feed/articles' => '/posts/index.xml',
-        '/articles/index.xml' => '/posts/index.xml',
         '/semver-deps' => '/composer-semver-and-underlying-dependency-changes',
         '/javascript-framework-diet/{slug}' => '/javascript-framework-diet-{slug}',
         '/vite-with-laravel/{slug}' => '/vite-with-laravel-{slug}',
