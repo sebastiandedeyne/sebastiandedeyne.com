@@ -1,0 +1,14 @@
+{{ posts }}
+    {{ partial:posts/_preview }}
+    <hr>
+{{ /posts }}
+{{ paginate }}
+    <ul class="pagination">
+        {{ if prev_page }}
+            <li><a href="{{ prev_page }}"> Newer</a></li>
+        {{ /if }}
+        {{ if next_page }}
+            <li><a href="{{ next_page }}">Older &raquo;</a></li>
+        {{ /if }}
+    </ul>
+{{ /paginate }}

@@ -11,7 +11,7 @@ sort_dir: desc
 default_status: draft
 date_behavior:
   past: public
-  future: unlisted
+  future: private
 preview_targets:
   -
     label: Entry

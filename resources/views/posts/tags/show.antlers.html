@@ -1,6 +1,3 @@
-{{ entries sort="date:desc" paginate="15" }}
-    {{ results }}
-        {{ partial:posts/_preview }}
-        <hr>
-    {{ /results }}
-{{ /entries }}
+{{ collection:posts taxonomy:tags="{id}" as="posts" paginate="15" }}
+    {{ partial:posts/_list }}
+{{ /collection:posts }}
