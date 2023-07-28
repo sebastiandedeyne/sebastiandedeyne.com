@@ -117,3 +117,8 @@ tabs:
                 - tags
               display: Tags
               mode: select
+              instructions_position: above
+              listable: true
+              visibility: visible
+              create: true
+              hide_display: false
