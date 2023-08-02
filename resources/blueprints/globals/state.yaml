@@ -1,0 +1,21 @@
+tabs:
+  main:
+    display: Main
+    sections:
+      -
+        fields:
+          -
+            handle: last_processed_entry
+            field:
+              max_items: 1
+              mode: typeahead
+              create: false
+              collections:
+                - posts
+              type: entries
+              display: 'Last Processed Post'
+              icon: entries
+              listable: hidden
+              instructions_position: above
+              visibility: visible
+              hide_display: false

@@ -30,9 +30,6 @@ tabs:
               type: markdown
               display: Content
               localizable: true
-      -
-        display: Customize
-        fields:
           -
             handle: summary
             field:
@@ -56,6 +53,31 @@ tabs:
               type: markdown
               display: Summary
               icon: markdown
+              listable: hidden
+              instructions_position: above
+              visibility: visible
+              hide_display: false
+      -
+        display: Social
+        fields:
+          -
+            handle: social_always_link_to_blog
+            field:
+              default: false
+              type: toggle
+              display: 'Always Link To Blog'
+              icon: toggle
+              listable: hidden
+              instructions_position: above
+              visibility: visible
+              hide_display: false
+          -
+            handle: social_post
+            field:
+              antlers: false
+              type: textarea
+              display: Post
+              icon: textarea
               listable: hidden
               instructions_position: above
               visibility: visible
@@ -104,6 +126,17 @@ tabs:
               default: now
               validate:
                 - required
+              instructions_position: above
+              listable: hidden
+              visibility: visible
+              mode: single
+              inline: false
+              full_width: false
+              columns: 1
+              rows: 1
+              time_enabled: true
+              time_seconds_enabled: false
+              hide_display: false
           -
             handle: slug
             field:
