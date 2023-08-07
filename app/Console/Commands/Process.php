@@ -55,6 +55,7 @@ class Process extends Command
         return Entries::query()
             ->where('collection', 'posts')
             ->where('published', true)
+            ->where('date', '<=', Carbon::now())
             ->where('date', '>', $processFrom)
             ->get();
     }
