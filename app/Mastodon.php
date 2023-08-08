@@ -9,6 +9,10 @@ class Mastodon
 {
     public function enabled(): bool
     {
+        if (app()->environment('local')) {
+            return false;
+        }
+
         return ! empty(config('services.mastodon.token'));
     }
 
