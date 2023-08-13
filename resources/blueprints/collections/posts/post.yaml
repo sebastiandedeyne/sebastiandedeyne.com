@@ -61,23 +61,23 @@ tabs:
         display: Social
         fields:
           -
-            handle: social_always_link_to_blog
-            field:
-              default: false
-              type: toggle
-              display: 'Always Link To Blog'
-              icon: toggle
-              listable: hidden
-              instructions_position: above
-              visibility: visible
-              hide_display: false
-          -
             handle: social_post
             field:
               antlers: false
               type: textarea
               display: Post
               icon: textarea
+              listable: hidden
+              instructions_position: above
+              visibility: visible
+              hide_display: false
+          -
+            handle: social_always_link_to_blog
+            field:
+              default: false
+              type: toggle
+              display: 'Always Link To Blog'
+              icon: toggle
               listable: hidden
               instructions_position: above
               visibility: visible
