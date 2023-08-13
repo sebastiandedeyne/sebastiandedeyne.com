@@ -80,6 +80,7 @@ article details {
 article iframe {
     margin-top: var(--spacing);
     width: 100%;
+    border: none;
 }
 
 article table {

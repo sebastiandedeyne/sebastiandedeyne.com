@@ -1,0 +1,43 @@
+<link rel="preconnect" href="https://rsms.me/">
+<link rel="stylesheet" href="https://rsms.me/inter/inter.css">
+<style>
+    :root { font-family: 'Inter', sans-serif; }
+    @supports (font-variation-settings: normal) {
+      :root { font-family: 'Inter var', sans-serif; }
+    }
+
+    body {
+        border: 1px solid gainsboro;
+        padding: 2.5rem 4rem;
+        margin: 0;
+        text-align: center;
+    }
+
+    h2 {
+        font-size: 16px;
+        font-weight: normal;
+        margin: 0;
+        margin-top: 1rem;
+    }
+
+    p {
+        margin: 0;
+        margin-top: 0.25rem;
+        font-size: 32px;
+    }
+
+    .tabular {
+        font-variant-numeric: tabular-nums;
+    }
+</style>
+
+<h2>Regular</h2>
+<p>100</p>
+<h2>Tabular</h2>
+<p class="tabular">100</p>
+
+<script>
+    window.setInterval(() => {
+        document.querySelectorAll('p').forEach((el) => el.textContent = parseInt(el.textContent) + 1);
+    }, 1000);
+</script>
