@@ -1,0 +1,16 @@
+.markdown-fieldtype-wrapper .CodeMirror {
+    font-family: 'Karla';
+    font-size: 16px;
+    background: white;
+    padding: 3rem 1.5rem;
+    max-width: calc(512px + 3rem);
+    margin: 0 auto;
+}
+
+.markdown-fieldtype-wrapper .CodeMirror:focus-within {
+    box-shadow: none;
+}
+
+.markdown-fieldtype-wrapper .CodeMirror .cm-header {
+    font-size: 1em;
+}
