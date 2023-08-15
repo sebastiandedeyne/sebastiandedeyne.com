@@ -10,7 +10,6 @@
         border: 1px solid gainsboro;
         padding: 2.5rem 4rem;
         margin: 0;
-        text-align: center;
     }
 
     h2 {
@@ -32,12 +31,23 @@
 </style>
 
 <h2>Regular</h2>
-<p>100</p>
+<p></p>
 <h2>Tabular</h2>
-<p class="tabular">100</p>
+<p class="tabular"></p>
 
 <script>
-    window.setInterval(() => {
-        document.querySelectorAll('p').forEach((el) => el.textContent = parseInt(el.textContent) + 1);
-    }, 1000);
+    function generate() {
+        return 10 + parseInt(Math.random() * 39);
+    }
+
+    function update() {
+        const number1 = generate();
+        const number2 = generate();
+        const textContent = `${number1} + ${number2} = ${number1 + number2}`;
+
+        document.querySelectorAll('p').forEach((el) => el.textContent = textContent);
+    }
+
+    update();
+    window.setInterval(update, 1000);
 </script>
