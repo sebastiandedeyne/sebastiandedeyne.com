@@ -23,16 +23,14 @@ class Process extends Command
             return;
         }
 
+        // Flush the static cache
+        StaticCache::flush();
+
         // Remember the last processed entry for the next run
         GlobalSet::findByHandle('state')
             ->inDefaultSite()
             ->set('last_processed_entry', $entriesToProcess->last()->id)
             ->save();
-
-        // Flush the static cache when a post was scheduled
-        if ($entriesToProcess->last()->date()->isBefore(Carbon::now()->subHour())) {
-            StaticCache::flush();
-        }
 
         // Toot latest entries
         if ($mastodon->enabled()) {
