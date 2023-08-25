@@ -6,7 +6,7 @@
     line-height: 1.6;
     background: white;
     padding: 3rem 1.5rem;
-    max-width: calc(512px + 3rem);
+    max-width: calc(512px + 3rem + 32px);
     margin: 0 auto;
 }
 
