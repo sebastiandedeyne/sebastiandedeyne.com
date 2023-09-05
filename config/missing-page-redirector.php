@@ -100,6 +100,7 @@ return [
         '/introducing-our-company-guidelines-site' => '/links/introducing-our-company-guidelines-site',
         '/is-snapshot-testing-viable-in-php' => '/links/is-snapshot-testing-viable-in-php',
         '/fragmentation-is-fabulous' => '/links/fragmentation-is-fabulous',
+        '/keeping-forge-deploy-script-in-version-control' => '/forge-deploy-scripts-in-version-control',
     ],
 
 ];
