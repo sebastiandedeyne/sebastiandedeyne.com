@@ -9,6 +9,7 @@ use Illuminate\Support\Collection;
 use Statamic\Entries\Entry;
 use Statamic\Facades\Entry as Entries;
 use Statamic\Facades\GlobalSet;
+use Statamic\Facades\Stache;
 use Statamic\Facades\StaticCache;
 
 class Process extends Command
@@ -23,7 +24,8 @@ class Process extends Command
             return;
         }
 
-        // Flush the static cache
+        // Warm the stash & flush the static cache
+        Stache::warm();
         StaticCache::flush();
 
         // Remember the last processed entry for the next run
