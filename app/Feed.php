@@ -32,10 +32,17 @@ class Feed
             ->limit(10)
             ->get()
             ->map(function (\Statamic\Entries\Entry $entry) {
+                $summary = (string) $entry->augmentedValue('content');
+
+                if ($link = $entry->value('link')) {
+                    $domain = parse_url($link)['host'] ?? '';
+                    $summary .= sprintf('<p>↗ <a href="%s">%s</a></p>', $link, $domain);
+                }
+
                 return FeedItem::create()
                     ->title((string) $entry->augmentedValue('title'))
                     ->id($entry->absoluteUrl())
-                    ->summary((string) $entry->augmentedValue('content'))
+                    ->summary($summary)
                     ->updated($entry->date())
                     ->link($entry->absoluteUrl())
                     ->authorName('Sebastian De Deyne')
