@@ -33,9 +33,9 @@ class Feed
             ->get()
             ->map(function (\Statamic\Entries\Entry $entry) {
                 return FeedItem::create()
-                    ->title(mb_convert_encoding((string) $entry->augmentedValue('title'), 'UTF-8', 'HTML-ENTITIES'))
+                    ->title((string) $entry->augmentedValue('title'))
                     ->id($entry->absoluteUrl())
-                    ->summary(mb_convert_encoding((string) $entry->augmentedValue('content'), 'UTF-8', 'HTML-ENTITIES'))
+                    ->summary((string) $entry->augmentedValue('content'))
                     ->updated($entry->date())
                     ->link($entry->absoluteUrl())
                     ->authorName('Sebastian De Deyne')
