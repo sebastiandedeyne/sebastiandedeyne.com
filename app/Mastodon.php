@@ -19,7 +19,7 @@ class Mastodon
     public function post(Entry $entry)
     {
         $status = implode(' ', [
-            $entry->link ? '🔗 ' : '✍️ ',
+            $entry->link ? '' : '✍️ ',
             $entry->social_post ?: $entry->title,
             $entry->social_always_link_to_blog
                 ? $entry->absoluteUrl()
