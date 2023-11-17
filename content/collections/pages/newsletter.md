@@ -9,6 +9,8 @@ I occasionally send out a newsletter with personal stories, things I’ve been w
 
 There's no fixed frequency, but generally don't expect more than one or two mails per month. Consider it an adventure for both of us!
 
+You can also subscribe in your preferred reader with [RSS](https://sebastiandedeyne.mailcoach.app/feed/42d379f2-adba-46e5-8060-564a60af2f99). _(This is a separate feed from the blog)_
+
 <form
   method="post"
   action="https://sebastiandedeyne.mailcoach.app/subscribe/42d379f2-adba-46e5-8060-564a60af2f99"
@@ -29,3 +31,13 @@ There's no fixed frequency, but generally don't expect more than one or two mail
     Only for occasional updates. No tracking.
   </p>
 </form>
+
+---
+
+## Previous editions
+
+<p style="font-variant-numeric: tabular-nums">
+#20 <a href="https://sebastiandedeyne.mailcoach.app/webview/campaign/9a04bded-55d1-4438-8d19-ea27bc169232">Frontend Framework Flavors</a> <br>
+#19 <a href="https://sebastiandedeyne.mailcoach.app/webview/campaign/9a04bded-55d1-4438-8d19-ea27bc169232">Slender & Elegant</a> <br>
+#18 <a href="https://sebastiandedeyne.mailcoach.app/webview/campaign/34f89311-04ac-48af-8675-0815e3c0c018">Portable Output</a>
+</p>
