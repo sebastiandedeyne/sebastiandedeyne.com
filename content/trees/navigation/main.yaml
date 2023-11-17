@@ -28,6 +28,10 @@ tree:
         title: Reads
         url: /reads
       -
+        id: 76e04030-bfa9-4c60-b905-8c176e0bd06a
+        title: Blogroll
+        url: /blogroll
+      -
         id: 2cdf71e4-6f28-4aff-8dc1-6e47ed552717
         title: Now
         url: /now
