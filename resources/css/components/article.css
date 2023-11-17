@@ -117,6 +117,10 @@ article blockquote > :first-child {
     margin-top: 0;
 }
 
+article pre {
+    overflow: scroll;
+}
+
 article pre,
 article code,
 article kbd {
