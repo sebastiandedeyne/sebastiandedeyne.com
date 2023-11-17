@@ -9,6 +9,7 @@ export default defineConfig({
                 'resources/css/site.css',
             ],
             refresh: true,
+            detectTls: 'sebastiandedeyne.com.test',
         }),
     ],
 });
