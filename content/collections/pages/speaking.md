@@ -8,7 +8,8 @@ updated_at: 1695879129
 Over the years, I've spoken at some conferences and meetups. 2019–2022 was pretty calm on conferences, but I'm looking forward to get back into public speaking in the future.
 
 **What I Like About Svelte**
-: Upcoming talk at Full Stack Europe | _Antwerp, 2023_
+: Talk at Full Stack Europe | _Antwerp, 2023_
+: Talk at devs.gent | _Ghent, 2023_
 
 **Strongly Typed Views in Laravel**
 : Talk at Laracon EU | _Lisbon, 2023_
