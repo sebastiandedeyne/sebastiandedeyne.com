@@ -15,6 +15,10 @@ class Kernel extends ConsoleKernel
         $schedule->command('process')
             ->everyMinute()
             ->withoutOverlapping();
+
+        $schedule->command('commit')
+            ->everyFiveMinutes()
+            ->withoutOverlapping();
     }
 
     /**
