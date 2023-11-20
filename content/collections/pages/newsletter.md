@@ -3,7 +3,7 @@ id: 76ac1a28-af9c-46f0-83ad-3e6373602e96
 blueprint: page
 title: Newsletter
 updated_by: 97c59bba-acb7-406d-9278-abc37e3f76a9
-updated_at: 1690041388
+updated_at: 1700502069
 ---
 I occasionally send out a newsletter with personal stories, things I’ve been working on in the past month, and interesting things I come across.
 
@@ -37,7 +37,7 @@ You can also subscribe in your preferred reader with [RSS](https://sebastiandede
 ## Previous editions
 
 <p style="font-variant-numeric: tabular-nums">
-#20 <a href="https://sebastiandedeyne.mailcoach.app/webview/campaign/9a04bded-55d1-4438-8d19-ea27bc169232">Frontend Framework Flavors</a> <br>
+#20 <a href="https://sebastiandedeyne.mailcoach.app/webview/campaign/c773fd43-b769-45f9-913d-cee1db1bc637">Frontend Framework Flavors</a> <br>
 #19 <a href="https://sebastiandedeyne.mailcoach.app/webview/campaign/9a04bded-55d1-4438-8d19-ea27bc169232">Slender & Elegant</a> <br>
 #18 <a href="https://sebastiandedeyne.mailcoach.app/webview/campaign/34f89311-04ac-48af-8675-0815e3c0c018">Portable Output</a>
 </p>
