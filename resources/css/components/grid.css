@@ -54,7 +54,7 @@
     }
 }
 
-.grid > article > p:has(img:not(.short)) {
+.grid > article > p:not(.short):has(img:not(.short)) {
     grid-column: left-edge / right-edge;
 }
 

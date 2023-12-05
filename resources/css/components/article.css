@@ -1,13 +1,14 @@
 article header {
     font-family: var(--font-mono);
-    margin-top: var(--spacing);
+    margin-bottom: var(--spacing);
+    margin-top: calc(var(--spacing) * 2);
 }
 
 article header p {
-    position: relative;
     font-size: 0.8rem;
-    padding-top: 1px;
     color: magenta;
+    margin-top: calc(var(--spacing) * 0.5);
+    background-color: white;
 }
 
 article header a,
@@ -26,10 +27,10 @@ article header a[aria-current="page"] {
 
 article header h1,
 article header h2 {
-    font-size: var(--text-xl);
     font-weight: bold;
-    line-height: 1.4;
-    margin-top: var(--spacing);
+    line-height: 1.5;
+    font-size: var(--text-lg);
+    margin-top: 0;
 }
 
 article h2 {

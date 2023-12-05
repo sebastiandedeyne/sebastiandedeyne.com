@@ -6,7 +6,7 @@
         "pages"
         "follow";
     align-content: start;
-    padding-top: calc(var(--spacing) * 2);
+    padding-top: calc(var(--spacing) * 2 + 3px);
     padding-bottom: var(--spacing);
     font-family: var(--font-mono);
     font-size: var(--text-sm);

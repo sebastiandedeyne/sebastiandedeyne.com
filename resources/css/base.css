@@ -63,13 +63,7 @@ hr {
 hr:after {
     content: "▯▯▯";
     display: block;
-    padding: calc(var(--spacing) * 4) 0 calc(var(--spacing) * 2.5);
+    padding: calc(var(--spacing) * 4) 0 calc(var(--spacing) * 3);
     text-align: center;
     color: blue;
-}
-
-@media (max-width: 600px) {
-    hr:after {
-        text-align: left;
-    }
 }

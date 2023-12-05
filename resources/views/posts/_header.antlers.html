@@ -1,4 +1,17 @@
 <header>
+    {{ if link }}
+        <h2>
+            <a href="{{ link }}">
+                <i>↗</i> {{ title }}
+            </a>
+        </h2>
+    {{ else }}
+        <h1>
+            <a href="{{ url }}">
+                {{ title }}
+            </a>
+        </h1>
+    {{ /if }}
     <p>
         <a href="{{ url }}">{{ date | format("Y-m-d") }}</a>
         {{ tags }}
@@ -9,15 +22,4 @@
         {{ /tags }}
         {{ if link }}/ <a href="{{ link }}">{{ link | parse_url("host") }}</a>{{ /if }}
     </p>
-    <h1>
-        {{ if link }}
-            <a href="{{ link }}">
-                <i>↗</i> {{ title }}
-            </a>
-        {{ else }}
-            <a href="{{ url }}">
-                {{ title }}
-            </a>
-        {{ /if }}
-    </h1>
 </header>
