@@ -99,8 +99,7 @@ article th {
 article th,
 article td {
     font-size: var(--text-sm);
-    padding-top: 0.25rem;
-    padding-bottom: 0.25rem;
+    padding: 0.25rem calc(var(--spacing) / 2);
     border-bottom: 1px solid var(--color-border);
 }
 
