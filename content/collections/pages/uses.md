@@ -3,7 +3,7 @@ id: d090865b-59fd-4113-a646-0da2f4cf07fb
 blueprint: page
 title: Uses
 updated_by: 97c59bba-acb7-406d-9278-abc37e3f76a9
-updated_at: 1690041678
+updated_at: 1701863632
 ---
 <p class="intro">Welcome to my <code>/uses</code> page! This isn't meant to be a complete list of everything I touch on a daily basis, but a spotlight of the tools I enjoy using most.<p>
 
@@ -12,7 +12,7 @@ updated_at: 1690041678
 ## Workspace
 
 | | |
-|---|--:|
+|---:|---|
 | **Laptop** | MacBook Pro M1 2020 |
 | **Stand** | Rain Design mStand |
 | **Speakers** | Bose Companion 2 Series II speakers |
@@ -37,15 +37,40 @@ Taking autocompletion and other IDE features out of the picture, [Sublime Text](
 
 My main browser is **Safari**. I value its low footprint and sync with my other devices, despite being the weakest of the bunch when it comes to devtools. When I occasionally need more advanced tooling, I switch to Chrome.
 
-I use [Things](https://culturedcode.com/things/) to manage tasks that are time-sensitive or need a reminder. I tend to store more information in note-taking apps. [iA Writer](https://ia.net/writer) has always been a staple for writing and note-taking.
+I use [Things](https://culturedcode.com/things/) to manage tasks that are time-sensitive or need a reminder. I tend to store more information in note-taking apps. [iA Writer](https://ia.net/writer) has always been a staple for writing and I've recently started using [Obsidian](https://obisdian.md) for note-taking.
 
 I also want to mention [Excalidraw](https://excalidraw.com). I do a lot of UX & product design work, and Excalidraw has been my tool of choice to mock up interfaces or create diagrams to clarify specs & documentation.
-
-## Reading, learning, leisure
-
-On my Mac & phone I use [Reeder](https://reederapp.com). It's one of those Mac apps that has craft oozing out of it. It's tied to my [Instapaper](https://www.instapaper.com) & [Feedbin](https://feedbin.com) accounts. I use Feedbin over a free RSS aggregator because it has great email integration for newsletters. Instapaper is my read it later tool of choice because of its **Kindle** integration, where I do most reading.
-
-I store bookmarks in [Pinboard](https://pinboard.in). It's a fast, simple product that has just the amount of features I need. Another daily driver is [Tweetbot](https://tapbots.com/tweetbot/mac/) which I use on my Mac & phone to browse Twitter.
+  
+  ## Apps
+  
+| | |
+|---:|---|
+| **Browser** | Safari |
+| **Mail** | Mimestream (macOS) |
+| | Gmail (iOS) |
+| **Notes** | Obsidian |
+| | Apple Notes |
+| **Writing** | iA Writer |
+| **Tasks** | Things |
+| **Calendar** | Google Calendar (macOS) |
+| | Fantastical (iOS) |
+| **Code** | PhpStorm |
+| | Sublime Text |
+| **Git** | Tower |
+| **Terminal** | iTerm |
+| **MySQL** | TablePlus |
+| **App Launcher** | Raycast |
+| **Communication** | WhatsApp |
+| | Slack |
+| | Telegram |
+| **RSS** | Reeder |
+| **Read Later** | Reeder |
+| **Bookmarks** | Pinboard |
+| **Presentations** | Keynote |
+| **Finance** | Google Sheets |
+| **Music** | Spotify |
+| **Podcasts** | Overcast |
+| **News** | FM radio |
 
 ---
 
