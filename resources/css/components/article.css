@@ -46,6 +46,28 @@ article h3 {
     margin-top: calc(var(--spacing) * 2);
 }
 
+article .heading-permalink {
+    display: inline-block;
+    position: relative;
+    width: 1rem;
+    margin-left: -1rem;
+    text-decoration: none;
+    opacity: 0;
+    color: transparent;
+    scroll-margin-top: var(--spacing);
+}
+
+article .heading-permalink:after {
+    content: '#';
+    position: absolute;
+    left: 0;
+    color: magenta;
+}
+
+article :is(h2, h3, h4, h5, h6):hover .heading-permalink {
+    opacity: 1;
+}
+
 article p,
 article figure {
     margin-top: var(--spacing);
