@@ -30,6 +30,28 @@ tabs:
               type: markdown
               display: Content
               localizable: true
+              instructions_position: above
+              listable: hidden
+              visibility: visible
+              replicator_preview: true
+              restrict: false
+              buttons:
+                - bold
+                - italic
+                - unorderedlist
+                - orderedlist
+                - quote
+                - link
+                - image
+                - table
+              automatic_line_breaks: true
+              automatic_links: false
+              escape_markup: false
+              heading_anchors: true
+              smartypants: false
+              table_of_contents: false
+              antlers: false
+              hide_display: false
           -
             handle: summary
             field:
@@ -46,7 +68,7 @@ tabs:
               automatic_line_breaks: true
               automatic_links: false
               escape_markup: false
-              heading_anchors: false
+              heading_anchors: true
               smartypants: false
               table_of_contents: false
               antlers: false
@@ -57,6 +79,7 @@ tabs:
               instructions_position: above
               visibility: visible
               hide_display: false
+              replicator_preview: true
       -
         display: Social
         fields:

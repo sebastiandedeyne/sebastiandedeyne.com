@@ -16,6 +16,28 @@ tabs:
             field:
               type: markdown
               localizable: true
+              instructions_position: above
+              listable: hidden
+              visibility: visible
+              replicator_preview: true
+              restrict: false
+              buttons:
+                - bold
+                - italic
+                - unorderedlist
+                - orderedlist
+                - quote
+                - link
+                - image
+                - table
+              automatic_line_breaks: true
+              automatic_links: false
+              escape_markup: false
+              heading_anchors: true
+              smartypants: false
+              table_of_contents: false
+              antlers: false
+              hide_display: false
       -
         display: SEO
         fields:

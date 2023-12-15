@@ -3,9 +3,10 @@ id: d090865b-59fd-4113-a646-0da2f4cf07fb
 blueprint: page
 title: Uses
 updated_by: 97c59bba-acb7-406d-9278-abc37e3f76a9
-updated_at: 1701863632
+updated_at: 1702629483
 ---
 <p class="intro">Welcome to my <code>/uses</code> page! This isn't meant to be a complete list of everything I touch on a daily basis, but a spotlight of the tools I enjoy using most.<p>
+  
 
 ![My desk in 2022](/media/desk-2022.jpeg)
 
@@ -59,7 +60,8 @@ I also want to mention [Excalidraw](https://excalidraw.com). I do a lot of UX & 
 | **Git** | Tower |
 | **Terminal** | iTerm |
 | **MySQL** | TablePlus |
-| **App Launcher** | Raycast |
+| **Debugging** | Ray |
+| **Command Bar** | Raycast |
 | **Communication** | WhatsApp |
 | | Slack |
 | | Telegram |
@@ -69,6 +71,7 @@ I also want to mention [Excalidraw](https://excalidraw.com). I do a lot of UX & 
 | **Presentations** | Keynote |
 | **Finance** | Google Sheets |
 | **Music** | Spotify |
+| **Photography** | Lightroom |
 | **Podcasts** | Overcast |
 | **News** | FM radio |
 
