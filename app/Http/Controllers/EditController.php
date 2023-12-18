@@ -14,6 +14,6 @@ class EditController
             abort(404);
         }
 
-        return redirect()->to('/cp/collections/posts/entries/' . $entry->id);
+        return redirect()->to('/cp/collections/' . $entry->collection . '/entries/' . $entry->id);
     }
 }
