@@ -3,7 +3,7 @@ id: cfd99823-fd80-4f51-8eb4-dcb49da8bd16
 blueprint: page
 title: Reads
 updated_by: 97c59bba-acb7-406d-9278-abc37e3f76a9
-updated_at: 1703690968
+updated_at: 1703691072
 ---
 A collection of my favorite reads, in the shape of books or longform articles.
 
@@ -28,10 +28,10 @@ A collection of my favorite reads, in the shape of books or longform articles.
 [The Daily Stoic](https://www.goodreads.com/book/show/29093292-the-daily-stoic) _by Ryan Holiday_
 : A great introduction to stoicism with bite-sized daily shorts. _(Book)_
 
-[The Boy, the Mole, the Fox and the Horse](https://www.goodreads.com/book/show/43708884-the-boy-the-mole-the-fox-and-the-horse)
+[The Boy, the Mole, the Fox and the Horse](https://www.goodreads.com/book/show/43708884-the-boy-the-mole-the-fox-and-the-horse) _by Charlie Mackesy_
 : A short, beautifully illustrated book about friendship and our lace in the world. _(Book)_
 
-[A blog post is a very long and complex search query to find fascinating people and make them route interesting stuff to your inbox](https://www.henrikkarlsson.xyz/p/search-query)
+[A blog post is a very long and complex search query to find fascinating people and make them route interesting stuff to your inbox](https://www.henrikkarlsson.xyz/p/search-query) _by Henrik Karlsson_
 : On the beauty of blogging and the open web.
 
 [Parse, don't validate](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/) _by Alexis King_
