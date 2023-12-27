@@ -3,7 +3,7 @@ id: cfd99823-fd80-4f51-8eb4-dcb49da8bd16
 blueprint: page
 title: Reads
 updated_by: 97c59bba-acb7-406d-9278-abc37e3f76a9
-updated_at: 1703690310
+updated_at: 1703690480
 ---
 A collection of my favorite reads, in the shape of books or longform articles.
 
@@ -23,6 +23,9 @@ A collection of my favorite reads, in the shape of books or longform articles.
 
 [In Praise of the Gods](https://simonsarris.substack.com/p/in-praise-of-the-gods) _by Simon Sarris_
 : If all decisions would be made rationally, our world would be gray.
+
+[De-Atomization is the Secret to Happiness](https://blog.nateliason.com/p/de-atomization-is-the-secret-to-happiness) _by Nat Eliason_
+: How our current society is shaping our expectations of happiness the wrong way.
 
 [The Daily Stoic](https://www.goodreads.com/book/show/29093292-the-daily-stoic) _by Ryan Holiday_
 : A great introduction to stoicism with bite-sized daily shorts.
