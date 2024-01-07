@@ -56,10 +56,6 @@ tree:
         title: Telegram
         url: 'https://t.me/sebdedeyne'
       -
-        id: b0017e88-aaa2-40b0-8dde-31885c0b18c5
-        title: Glass
-        url: 'https://glass.photo/sebdd'
-      -
         id: fe3d3671-0bf4-416c-8c37-78389a73866b
         title: RSS
         url: /index.xml
