@@ -48,23 +48,26 @@ article h3 {
 
 article .heading-permalink {
     display: inline-block;
-    position: relative;
     width: 1rem;
     margin-left: -1rem;
     text-decoration: none;
-    opacity: 0;
-    color: transparent;
+    position: absolute;
+    top: 0;
+    left: 0;
+    color: magenta;
     scroll-margin-top: var(--spacing);
 }
 
 article .heading-permalink:after {
     content: '#';
-    position: absolute;
-    left: 0;
-    color: magenta;
+    opacity: 0;
 }
 
-article :is(h2, h3, h4, h5, h6):hover .heading-permalink {
+article :is(h2, h3, h4, h5, h6) {
+    position: relative;
+}
+
+article :is(h2, h3, h4, h5, h6):hover .heading-permalink:after {
     opacity: 1;
 }
 
