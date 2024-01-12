@@ -6,6 +6,7 @@ use App\Mastodon;
 use Carbon\Carbon;
 use Illuminate\Console\Command;
 use Illuminate\Support\Collection;
+use Illuminate\Support\Facades\Cache;
 use Statamic\Entries\Entry;
 use Statamic\Facades\Entry as Entries;
 use Statamic\Facades\GlobalSet;
@@ -27,6 +28,7 @@ class Process extends Command
         // Warm the stash & flush the static cache
         Stache::warm();
         StaticCache::flush();
+        Cache::forget('stats');
 
         // Remember the last processed entry for the next run
         GlobalSet::findByHandle('state')
