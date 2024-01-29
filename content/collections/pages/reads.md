@@ -3,15 +3,28 @@ id: cfd99823-fd80-4f51-8eb4-dcb49da8bd16
 blueprint: page
 title: Reads
 updated_by: 97c59bba-acb7-406d-9278-abc37e3f76a9
-updated_at: 1703691072
+updated_at: 1706532617
 ---
 A collection of my favorite reads, in the shape of books or longform articles.
 
+## Books
+
 [The Goal](https://www.goodreads.com/book/show/113934.The_Goal) _by Eliyahu M. Goldratt_
-: An introduction to the theory of constraits, which tought me to remember the bigger picture. _(Book)_
+: An introduction to the theory of constraints, which tought me to remember the bigger picture.
 
 [Getting things done](https://www.goodreads.com/book/show/1633.Getting_Things_Done) _by David Allen_
-: A bit dated, but the ideas are timeless. _(Book)_
+: A bit dated, but the ideas are timeless.
+
+[The Daily Stoic](https://www.goodreads.com/book/show/29093292-the-daily-stoic) _by Ryan Holiday_
+: A great introduction to stoicism with bite-sized daily shorts.
+
+[The Boy, the Mole, the Fox and the Horse](https://www.goodreads.com/book/show/43708884-the-boy-the-mole-the-fox-and-the-horse) _by Charlie Mackesy_
+: A short, beautifully illustrated book about friendship and our lace in the world.
+
+[Salt Fat Acid Heat](https://www.goodreads.com/book/show/30753841-salt-fat-acid-heat) _by Samin Nosrat_
+: This book changed the way I think about flavor & cooking.
+
+## Articles
 
 [Subtract](https://sive.rs/subtract) _by Derek Sivers_
 : When encountered with a problem, take a step back and try to solve it by removing something instead of adding.
@@ -24,12 +37,6 @@ A collection of my favorite reads, in the shape of books or longform articles.
 
 [De-Atomization is the Secret to Happiness](https://blog.nateliason.com/p/de-atomization-is-the-secret-to-happiness) _by Nat Eliason_
 : How our current society is shaping our expectations of happiness the wrong way.
-
-[The Daily Stoic](https://www.goodreads.com/book/show/29093292-the-daily-stoic) _by Ryan Holiday_
-: A great introduction to stoicism with bite-sized daily shorts. _(Book)_
-
-[The Boy, the Mole, the Fox and the Horse](https://www.goodreads.com/book/show/43708884-the-boy-the-mole-the-fox-and-the-horse) _by Charlie Mackesy_
-: A short, beautifully illustrated book about friendship and our lace in the world. _(Book)_
 
 [A blog post is a very long and complex search query to find fascinating people and make them route interesting stuff to your inbox](https://www.henrikkarlsson.xyz/p/search-query) _by Henrik Karlsson_
 : On the beauty of blogging and the open web.
@@ -54,9 +61,6 @@ A collection of my favorite reads, in the shape of books or longform articles.
 
 [The Grug Brained Developer](https://grugbrain.dev)
 : A satirical take on how we've taken on so much complexity in modern programming.
-
-[Salt Fat Acid Heat](https://www.goodreads.com/book/show/30753841-salt-fat-acid-heat) _by Samin Nosrat_
-: This book changed the way I think about flavor & cooking. _(Book)_
 
 ---
 
