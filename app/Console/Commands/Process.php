@@ -37,7 +37,7 @@ class Process extends Command
             ->save();
 
         // Toot latest entries
-        if ($mastodon->enabled()) {
+        if ($mastodon->enabled() && $entry->social_share_on_mastodon) {
             $entriesToProcess
                 ->reverse()
                 ->limit(3)

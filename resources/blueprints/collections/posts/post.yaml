@@ -84,15 +84,18 @@ tabs:
         display: Social
         fields:
           -
-            handle: social_post
+            handle: social_share_on_mastodon
             field:
-              antlers: false
-              type: textarea
-              display: Post
-              icon: textarea
+              inline: false
+              cast_booleans: false
+              default: true
+              type: toggle
+              display: 'Share on Mastodon'
+              icon: toggle
               listable: hidden
               instructions_position: above
               visibility: visible
+              replicator_preview: true
               hide_display: false
           -
             handle: social_always_link_to_blog
@@ -105,6 +108,23 @@ tabs:
               instructions_position: above
               visibility: visible
               hide_display: false
+              replicator_preview: true
+              if:
+                social_share_on_mastodon: 'equals true'
+          -
+            handle: social_post
+            field:
+              antlers: false
+              type: textarea
+              display: Post
+              icon: textarea
+              listable: hidden
+              instructions_position: above
+              visibility: visible
+              hide_display: false
+              replicator_preview: true
+              if:
+                social_share_on_mastodon: 'equals true'
       -
         display: SEO
         fields:
