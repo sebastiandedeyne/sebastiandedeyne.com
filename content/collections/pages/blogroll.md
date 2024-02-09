@@ -3,12 +3,11 @@ id: 5dc5bd75-c14f-4903-ad74-d83805fd534d
 blueprint: page
 title: Blogroll
 updated_by: 97c59bba-acb7-406d-9278-abc37e3f76a9
-updated_at: 1700215756
+updated_at: 1707468144
 ---
 A selection of blogs I enjoy seeing pop up in my RSS reader.
 
 [Adam Wathan](https://adamwathan.me)\
-[Alex Vanderbist](https://alexvanderbist.com)\
 [Alex Vanderbist](https://alexvanderbist.com)\
 [Analog Office](https://analogoffice.net)\
 [Bramus](https://www.bram.us)\
