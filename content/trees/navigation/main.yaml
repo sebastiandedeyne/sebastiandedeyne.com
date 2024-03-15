@@ -52,6 +52,14 @@ tree:
         title: Mastodon
         url: 'https://mastodon.social/@sebdd'
       -
+        id: 2c3d9e97-7f53-4811-b486-5df0d6af70dd
+        title: Pinboard
+        url: 'https://pinboard.in/u:sebdd/'
+      -
+        id: 06152e2a-aa51-407c-83b3-b67ac38677bb
+        title: Literal
+        url: 'https://literal.club/sebdd'
+      -
         id: 2ad1a9b2-ecee-45dd-b75e-cccf2738b274
         title: Telegram
         url: 'https://t.me/sebdedeyne'
