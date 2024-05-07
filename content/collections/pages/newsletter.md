@@ -15,18 +15,17 @@ You can also subscribe in your preferred reader with [RSS](https://sebastiandede
   method="post"
   action="https://sebastiandedeyne.mailcoach.app/subscribe/42d379f2-adba-46e5-8060-564a60af2f99"
   target="_blank"
-  class="newsletter-form"
+  class="mt-4"
 >
-  <div class="newsletter-form-input-wrapper">
     <input
       type="email"
       value=""
       name="email"
       style="max-width: 22ch"
+      class="border border-black p-2"
       placeholder="Email"
     >
-    <input type="submit" value="Subscribe" />
-  </div>
+    <input type="submit" class="bg-black text-white p-2 appearance-none" value="Subscribe" />
   <p>
     Only for occasional updates. No tracking.
   </p>

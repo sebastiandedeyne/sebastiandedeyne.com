@@ -1,0 +1,181 @@
+@layer components {
+    .markup {
+        --spill-width: 100%;
+    }
+
+    @screen md {
+        .markup {
+            --spill-width: calc(100% + (100vw - 960px) / 2);
+        }
+    }
+
+    .markup h2 {
+        font-size: var(--text-lg);
+        font-weight: 700;
+        margin-top: 3rem;
+    }
+
+    .markup h3 {
+        font-weight: 700;
+        text-transform: uppercase;
+        font-size: 0.9em;
+        margin-top: 2rem;
+    }
+
+    .markup .heading-permalink {
+        display: inline-block;
+        width: 1rem;
+        margin-left: -1rem;
+        text-decoration: none;
+        position: absolute;
+        top: 0;
+        left: 0;
+        scroll-margin-top: 1.5rem;
+    }
+
+    .markup .heading-permalink:after {
+        content: '#';
+        opacity: 0;
+    }
+
+    .markup :is(h2, h3, h4, h5, h6) {
+        position: relative;
+    }
+
+    .markup :is(h2, h3, h4, h5, h6):hover .heading-permalink:after {
+        opacity: 1;
+    }
+
+    .markup p,
+    .markup figure {
+        margin-top: 1.5rem;
+    }
+
+    .markup ol,
+    .markup ul {
+        margin-top: 1.5rem;
+        margin-left: 1em;
+    }
+
+    .markup dt {
+        margin-top: 1.5rem;
+    }
+
+    .markup dd {
+        padding-left: 1rem;
+    }
+
+    .markup a {
+        color: blue;
+        text-decoration: underline;
+    }
+
+    .markup a:visited {
+        color: rebeccapurple;
+    }
+
+    .markup details {
+        margin-top: 1.5rem;
+    }
+
+    .markup iframe {
+        margin-top: 1.5rem;
+        width: 100%;
+        border: none;
+    }
+
+    .markup table {
+        margin-top: 1.5rem;
+        width: 100%;
+        font-family: theme('fontFamily.mono');
+        font-variant-numeric: tabular-nums;
+        border-collapse: collapse;
+    }
+
+    .markup th {
+        font-weight: normal;
+    }
+
+    .markup th,
+    .markup td {
+        font-size: theme('fontSize.sm');
+        padding: 0.25rem 0.5rem;
+        border-bottom: 1px solid theme('colors.gray.300');
+    }
+
+    .markup blockquote {
+        margin-top: 1.5rem;
+        margin-left: 2rem;
+        padding-left: 1rem;
+        position: relative;
+    }
+
+    .markup blockquote:after {
+        content: "";
+        position: absolute;
+        left: 0;
+        top: 0.3rem;
+        width: 2px;
+        height: min(100%, 3rem);
+        background-color: var(--theme);
+    }
+
+    .markup blockquote > :first-child {
+        margin-top: 0;
+    }
+
+    .markup pre {
+        overflow: scroll;
+        width: var(--spill-width);
+    }
+
+    .markup pre,
+    .markup code,
+    .markup kbd {
+        font-family: theme('fontFamily.mono');
+        font-size: theme('fontSize.sm');
+    }
+
+    .markup pre code {
+        display: block;
+        background-color: theme('colors.gray.300');
+        overflow-x: auto;
+        border-radius: 2px;
+        line-height: 2.2;
+        margin-top: 2rem;
+        margin-bottom: 1rem;
+        padding: 1rem 2rem;
+        font-size: 0.9em;
+    }
+
+    .markup pre + pre {
+        margin-top: 0;
+    }
+
+    .markup code:not(pre code),
+    .markup kbd {
+        padding: 0.1em 0.25em;
+    }
+
+    .markup > img,
+    .markup p > img,
+    .markup figure > img {
+        display: block;
+        max-width: var(--spill-width);
+        border-radius: 2px;
+    }
+
+    .markup > img {
+        margin-top: 1.5rem;
+    }
+
+    .markup figcaption {
+        font-size: theme('fontSize.sm');
+        text-align: center;
+    }
+
+    .markup hr {
+        margin-top: 3rem;
+        margin-bottom: 3rem;
+    }
+}

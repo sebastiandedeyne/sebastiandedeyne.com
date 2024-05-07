@@ -3,7 +3,7 @@ id: d090865b-59fd-4113-a646-0da2f4cf07fb
 blueprint: page
 title: Uses
 updated_by: 97c59bba-acb7-406d-9278-abc37e3f76a9
-updated_at: 1702629483
+updated_at: 1715090175
 ---
 <p class="intro">Welcome to my <code>/uses</code> page! This isn't meant to be a complete list of everything I touch on a daily basis, but a spotlight of the tools I enjoy using most.<p>
   
@@ -81,7 +81,7 @@ I also want to mention [Excalidraw](https://excalidraw.com). I do a lot of UX & 
 
 Some other people's setups and uses pages that inspired me in the past or for the future.
 
-<div style="display: grid; grid-template-columns: repeat(2, 1fr);">
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); margin-top: 1.5rem">
     <div>
         <a href="https://christoph-rumpel.com/uses">Christoph Rumpel</a><br>
         <a href="https://robinmalfait.com/uses">Robin Malfait</a><br>

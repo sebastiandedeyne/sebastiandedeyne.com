@@ -1,6 +1,7 @@
-data: {  }
+data:
+  focus: 46-25-1
 size: 131256
-last_modified: 1714400545
+last_modified: 1715009300
 width: 1891
 height: 2666
 mime_type: image/webp
