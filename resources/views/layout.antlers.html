@@ -29,6 +29,7 @@
         {{ else }}
             <meta property="og:description" content="{{ meta_description ?? (content | strip_tags | safe_truncate(280, '…')) }}">
         {{ /if }}
+        <link rel="stylesheet" href="https://use.typekit.net/lxk0ejw.css">
         {{ vite src="resources/css/site.css" }}
 
         {{ if environment === 'production' }}
@@ -36,28 +37,75 @@
         {{ /if }}
     </head>
     <body>
-        <div class="grid">
-            <nav class="sidebar">
-                <header class="sidebar-header">
-                    {{ if url === '/' }}
-                        <h1><a href="/">Sebastian De Deyne</a></h1>
-                    {{ else }}
-                        <a href="/">Sebastian De Deyne</a>
-                    {{ /if }}
-                </header>
-                {{ nav:main }}
-                    <ul class="sidebar-{{ title | lowercase }}">
-                        {{ children }}
-                            <li><a href="{{ url }}" {{ if is_current || (uri == "/" && collection == "posts") }}aria-current="page"{{ /if }}>{{ title }}</a></li>
-                        {{ /children }}
-                    </ul>
-                {{ /nav:main }}
-            </nav>
-            {{ template_content }}
-            <footer class="footer">
-                <p>
-                    &lt;!-- est.2015 <a href="/">Seb De Deyne</a><br>
-                    &nbsp;&nbsp;&nbsp;&nbsp; syntax highlighing with <a href="https://torchlight.dev">Torchlight</a> --&gt;
+        <div class="md:grid grid-cols-[300px,auto] grid-rows-[auto,1fr] max-w-[960px] mx-auto">
+            <div class="p-4 md:p-8 md:pb-0 border-r border-dashed">
+                <div class="grid gap-6">
+                    <header class="leading-tight grid sm:gap-6 md:gap-3 grid-cols-2 sm:grid-cols-3 md:grid-cols-1 items-center">
+                        <a href="/" class="hidden sm:block mt-2 md:mt-0 relative after:absolute after:inset-0 after:bg-[var(--theme,black)] after:mix-blend-soft-light">
+                            <img src="/img/me.jpg" alt="Me" class="w-full opacity-75">
+                        </a>
+                        <div>
+                            {{ if url === '/' }}
+                                <h1><a href="/" class="font-bold font-condensed text-4xl">sebdd</a></h1>
+                            {{ else }}
+                                <a href="/" class="font-bold font-condensed text-4xl">sebdd</a>
+                            {{ /if }}
+                            <p class="mt-1 font-condensed text-gray-500">thoughts and inspiration on designing, programming, and writing for the web</p>
+                        </div>
+                        <div class="justify-self-end md:hidden">
+                            <label for="menu" class="inline-flex items-center gap-1">
+                                <svg width="13" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M0 64h448v64H0V64zm0 160h448v64H0v-64zm448 160v64H0v-64h448z"/></svg>
+                                Menu
+                            </label>
+                        </div>
+                    </header>
+                    <input type="checkbox" id="menu" class="hidden peer">
+                    <nav class="hidden md:grid peer-checked:grid gap-6 grid-cols-2 md:grid-cols-1">
+                        {{ nav:main }}
+                            <ul>
+                                {{ children }}
+                                    <li>
+                                        <a href="{{ url }}" class="flex items-center gap-2 group">
+                                            <span class="flex w-4 justify-center">{{ icon }}</span>
+                                            <span class="group-hover:underline">{{ title }}</span>
+                                            {{ if is_current || (uri == "/" && collection == "posts") || (uri == "/" && current_uri | starts_with('/tags/')) }}
+                                                <svg width="12" height="11" viewBox="0 0 12 11" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M7.13433 4.00262L10.8955 2.15969L12 5.4712L7.85075 6.10471L10.806 8.9555L7.91045 11L6 7.40052L4.1194 11L1.19403 8.9555L4.14925 6.10471L0 5.4712L1.10448 2.15969L4.86567 4.00262L4.1791 0H7.8209L7.13433 4.00262Z" fill="#E46969"/></svg>
+                                                <style>
+                                                    body {
+                                                        --theme: {{ color }};
+                                                    }
+                                                </style>
+                                            {{ endif }}
+                                        </a>
+                                    </li>
+                                {{ /children }}
+                            </ul>
+                        {{ /nav:main }}
+                    </nav>
+                    <nav class="hidden md:block">
+                        <ul class="tags text-sm">
+                            {{ taxonomy:tags }}
+                                {{ if color_shade_1 }}
+                                    {{ unless no_results }}
+                                        <li class="mb-0.5" style="--tag-shade-1: {{ color_shade_1 }}; --tag-shade-2: {{ color_shade_2 }}; --tag-shade-3: {{ color_shade_3 }}">
+                                            <a href="/tags/{{ slug }}">
+                                                #{{ slug }}
+                                            </a>
+                                        </li>
+                                    {{ /unless }}
+                                {{ endif }}
+                            {{ /taxonomy:tags }}
+                        </ul>
+                    </nav>
+                </div>
+            </div>
+            <main class="grid row-span-2 gap-8 md:gap-24 p-4 md:p-8 md:pb-20 *:min-w-0">
+                {{ template_content }}
+            </main>
+            <footer class="p-4 md:p-8 border-r border-dashed">
+                <p class="text-xs text-gray-400">
+                    blogging since 2015! <br>
+                    syntax highlighting with <a href="https://torchlight.dev" class="underline">Torchlight</a>
                 </p>
             </footer>
         </div>

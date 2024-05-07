@@ -1,0 +1,22 @@
+@layer components {
+    .tags {
+        --tag-shade-1: theme('colors.gray.500');
+        --tag-shade-2: theme('colors.gray.300');
+        --tag-shade-3: theme('colors.gray.50');
+
+        display: inline-flex;
+        flex-wrap: wrap;
+        gap: 0.25em;
+    }
+
+    .tags a {
+        display: inline-block;
+        color: var(--tag-shade-1);
+        border: 1px solid var(--tag-shade-2);
+        background-color: var(--tag-shade-3);
+        border-radius: 999px;
+        padding: 0 0.6em 0.15em;
+        font-size: 0.9em;
+        transform: translateY(1px);
+    }
+}

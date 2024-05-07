@@ -1,0 +1,38 @@
+tabs:
+  main:
+    display: Main
+    sections:
+      -
+        fields:
+          -
+            handle: color
+            field:
+              allow_any: true
+              type: color
+              display: Theme
+              icon: color
+              listable: hidden
+              instructions_position: above
+              visibility: visible
+              replicator_preview: true
+              hide_display: false
+          -
+            handle: icon
+            field:
+              theme: material
+              mode: htmlmixed
+              mode_selectable: true
+              indent_type: tabs
+              indent_size: 4
+              key_map: default
+              line_numbers: true
+              line_wrapping: true
+              antlers: false
+              type: code
+              display: Icon
+              icon: code
+              listable: hidden
+              instructions_position: above
+              visibility: visible
+              replicator_preview: true
+              hide_display: false

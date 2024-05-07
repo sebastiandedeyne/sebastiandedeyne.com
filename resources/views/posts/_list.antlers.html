@@ -1,14 +1,13 @@
 {{ posts }}
     {{ partial:posts/_preview }}
-    <hr>
 {{ /posts }}
 {{ paginate }}
-    <ul class="pagination">
+    <ul class="flex w-full">
         {{ if prev_page }}
-            <li><a href="{{ prev_page }}"> Newer</a></li>
+            <li><a href="{{ prev_page }}">« <span class="underline">Newer</span></a></li>
         {{ /if }}
         {{ if next_page }}
-            <li><a href="{{ next_page }}">Older &raquo;</a></li>
+            <li class="ml-auto"><a href="{{ next_page }}"><span class="underline">Older</span> &raquo;</a></li>
         {{ /if }}
     </ul>
 {{ /paginate }}

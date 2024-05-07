@@ -1,25 +1,31 @@
 <header>
-    {{ if link }}
-        <h2>
+    <h1 class="text-lg leading-tight font-bold relative pt-8 md:pt-3
+        before:absolute before:top-0 before:w-full md:before:w-24 before:h-px before:bg-gray-300">
+        {{ if link }}
             <a href="{{ link }}">
                 <i>↗</i> {{ title }}
             </a>
-        </h2>
-    {{ else }}
-        <h1>
+        {{ else }}
             <a href="{{ url }}">
                 {{ title }}
             </a>
-        </h1>
-    {{ /if }}
-    <p>
-        <a href="{{ url }}">{{ date | format("Y-m-d") }}</a>
-        {{ tags }}
-            {{ unless no_results }}
-                <a href="/tags/{{ slug }}" {{ if current_uri == '/tags/' + slug }}aria-current="page"{{ /if }}>
-                    #{{ slug }}</a>
-            {{ /unless }}
-        {{ /tags }}
-        {{ if link }}/ <a href="{{ link }}">{{ link | parse_url("host") }}</a>{{ /if }}
-    </p>
+        {{ /if }}
+    </h1>
+    <div class="mt-1.5 flex items-center gap-2 text-sm">
+        <p class="text-gray-500">
+            <a href="{{ url }}">{{ date | format("j M Y") }}</a>
+            {{ if link }}via <a href="{{ link }}">{{ link | parse_url("host") }}</a>{{ /if }}
+        </p>
+        <ul class="tags">
+            {{ tags }}
+                {{ unless no_results }}
+                    <li {{ if color_shade_1 }}style="--tag-shade-1: {{ color_shade_1 }}; --tag-shade-2: {{ color_shade_2 }}; --tag-shade-3: {{ color_shade_3 }}"{{ endif }}>
+                        <a href="/tags/{{ slug }}">
+                            #{{ slug }}
+                        </a>
+                    </li>
+                {{ /unless }}
+            {{ /tags }}
+        </ul>
+    </div>
 </header>

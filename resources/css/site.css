@@ -1,11 +1,22 @@
-@import "./base.css";
+@import "./components/markup.css";
+@import "./components/tags.css";
 
-@import "./components/article.css";
-@import "./components/footer.css";
-@import "./components/grid.css";
-@import "./components/newsletter.css";
-@import "./components/pagination.css";
-@import "./components/sidebar.css";
-@import "./components/toc.css";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
-@import "./fonts.css";
+@layer base {
+    html {
+        font-size: 18px;
+    }
+}
+
+/*@import "./base.css";*/
+/*@import "./components/article.css";*/
+/*@import "./components/layout.css";*/
+/*@import "./components/newsletter.css";*/
+/*@import "./components/pagination.css";*/
+/*@import "./components/tags.css";*/
+/*@import "./components/toc.css";*/
+
+/*@import "./fonts.css";*/

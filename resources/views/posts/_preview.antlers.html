@@ -1,8 +1,10 @@
 <article>
     {{ partial:posts/_header }}
-    {{ preview = {summary ?? (content | explode("<!--more-->") | first)} }}
-    {{ preview }}
-    {{ if preview !== content }}
-        <p><a href="{{ url }}">Read more</a></p>
-    {{ /if }}
+    <div class="markup mt-4">
+        {{ preview = {summary ?? (content | explode("<!--more-->") | first)} }}
+        {{ preview }}
+        {{ if preview !== content }}
+            <p><a href="{{ url }}">Read more</a></p>
+        {{ /if }}
+    </div>
 </article>

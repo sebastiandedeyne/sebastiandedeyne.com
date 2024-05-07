@@ -1,7 +1,8 @@
 @import "./fonts.css";
+@import "https://use.typekit.net/lxk0ejw.css";
 
 .markdown-fieldtype-wrapper .CodeMirror {
-    font-family: 'Karla';
+    font-family: 'trade-gothic-next';
     font-size: 16px;
     line-height: 1.6;
     background: white;

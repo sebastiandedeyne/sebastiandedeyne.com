@@ -1,0 +1,70 @@
+tabs:
+  main:
+    display: Main
+    sections:
+      -
+        fields:
+          -
+            handle: title
+            field:
+              type: text
+              required: true
+              validate:
+                - required
+          -
+            handle: content
+            field:
+              type: markdown
+              localizable: true
+          -
+            handle: color_shade_1
+            field:
+              allow_any: true
+              type: color
+              display: 'Shade 1'
+              icon: color
+              listable: hidden
+              instructions_position: above
+              visibility: visible
+              replicator_preview: true
+              hide_display: false
+              width: 33
+          -
+            handle: color_shade_2
+            field:
+              allow_any: true
+              type: color
+              display: 'Shade 2'
+              icon: color
+              listable: hidden
+              instructions_position: above
+              visibility: visible
+              replicator_preview: true
+              hide_display: false
+              width: 33
+          -
+            handle: color_shade_3
+            field:
+              allow_any: true
+              type: color
+              display: 'Shade 3'
+              icon: color
+              listable: hidden
+              instructions_position: above
+              visibility: visible
+              replicator_preview: true
+              hide_display: false
+              width: 33
+  sidebar:
+    display: Sidebar
+    sections:
+      -
+        fields:
+          -
+            handle: slug
+            field:
+              type: slug
+              required: true
+              validate:
+                - required
+title: Tag

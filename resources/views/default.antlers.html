@@ -1,7 +1,11 @@
 <article>
-    <header>
-        <p>—</p>
-        <h1>{{ title }}</h1>
-    </header>
-    {{ content }}
+     <h1 class="text-lg leading-tight font-bold relative pt-3
+        before:absolute before:top-0 before:w-24 before:h-px before:bg-gray-300">
+        <a href="{{ url }}">
+            {{ title }}
+        </a>
+    </h1>
+    <div class="markup mt-4">
+        {{ content }}
+    </div>
 </article>
