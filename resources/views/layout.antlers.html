@@ -30,7 +30,7 @@
             <meta property="og:description" content="{{ meta_description ?? (content | strip_tags | safe_truncate(280, '…')) }}">
         {{ /if }}
         {{ if meta_image }}
-            <meta property="og:image" content="https://sebastiandedeyne.com{{ meta_image }}">
+            <meta property="og:image" content="{{ meta_image:permalink }}">
         {{ else }}
             <meta property="og:image" content="https://sebastiandedeyne.com/img/og.png">
         {{ /if }}
