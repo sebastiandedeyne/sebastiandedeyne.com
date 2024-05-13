@@ -3,7 +3,7 @@ id: 5dc5bd75-c14f-4903-ad74-d83805fd534d
 blueprint: page
 title: Blogroll
 updated_by: 97c59bba-acb7-406d-9278-abc37e3f76a9
-updated_at: 1707468144
+updated_at: 1715610451
 ---
 A selection of blogs I enjoy seeing pop up in my RSS reader.
 
@@ -22,6 +22,7 @@ A selection of blogs I enjoy seeing pop up in my RSS reader.
 [Freek Van der Herten](https://freek.dev)\
 [Jeremy Keith](https://adactio.com)\
 [Jim Nielsen](https://blog.jim-nielsen.com)\
+[Joshua Blum](https://joshuablum.weblog.lol)
 [Manuel Moreale](https://manuelmoreale.com)\
 [Mohamed Said](https://themsaid.com)\
 [Niels Vanpachtenbeke](https://vanpachtenbeke.com)\
