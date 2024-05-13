@@ -88,9 +88,16 @@
                                 {{ if color_shade_1 }}
                                     {{ unless no_results }}
                                         <li class="mb-0.5" style="--tag-shade-1: {{ color_shade_1 }}; --tag-shade-2: {{ color_shade_2 }}; --tag-shade-3: {{ color_shade_3 }}">
-                                            <a href="/tags/{{ slug }}">
+                                            <a href="{{ url }}">
                                                 #{{ slug }}
                                             </a>
+                                            {{ if current_uri == url }}
+                                                <style>
+                                                    body {
+                                                        --theme: {{ color_shade_1 }};
+                                                    }
+                                                </style>
+                                            {{ endif }}
                                         </li>
                                     {{ /unless }}
                                 {{ endif }}
