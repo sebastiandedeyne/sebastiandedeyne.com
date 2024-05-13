@@ -29,6 +29,11 @@
         {{ else }}
             <meta property="og:description" content="{{ meta_description ?? (content | strip_tags | safe_truncate(280, '…')) }}">
         {{ /if }}
+        {{ if meta_image }}
+            <meta property="og:image" content="https://sebastiandedeyne.com{{ meta_image }}">
+        {{ else }}
+            <meta property="og:image" content="https://sebastiandedeyne.com/img/og.png">
+        {{ /if }}
         <link rel="stylesheet" href="https://use.typekit.net/lxk0ejw.css">
         {{ vite src="resources/css/site.css" }}
 
@@ -42,7 +47,7 @@
                 <div class="grid gap-6">
                     <header class="leading-tight grid sm:gap-6 md:gap-3 grid-cols-2 sm:grid-cols-3 md:grid-cols-1 items-center">
                         <a href="/" class="hidden sm:block mt-2 md:mt-0 relative after:absolute after:inset-0 after:bg-[var(--theme,black)] after:mix-blend-soft-light">
-                            <img src="/img/me.jpg" alt="Me" class="w-full opacity-75">
+                            <img src="/img/me.jpg" alt="Me" class="w-full opacity-75 rounded-[2px]">
                         </a>
                         <div>
                             {{ if url === '/' }}
