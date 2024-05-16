@@ -45,11 +45,11 @@
         <div class="md:grid grid-cols-[300px,auto] grid-rows-[auto,1fr] max-w-[960px] mx-auto">
             <div class="p-4 md:p-8 md:pb-0 border-r border-dashed">
                 <div class="grid gap-6">
-                    <header class="leading-tight grid sm:gap-6 md:gap-3 grid-cols-2 sm:grid-cols-3 md:grid-cols-1 items-center">
-                        <a href="/" class="hidden sm:block mt-2 md:mt-0 relative after:absolute after:inset-0 after:bg-[var(--theme,black)] after:mix-blend-soft-light">
-                            <img src="/img/me.jpg" alt="Me" class="w-full opacity-75 rounded-[2px]">
+                    <header class="leading-tight grid sm:gap-6 md:gap-3 grid-cols-3 md:grid-cols-1 place-items-end md:items-center">
+                        <a href="/" class="hidden sm:block mt-2 md:mt-0 relative opacity-75 after:absolute after:inset-0 after:bg-[var(--theme,black)] after:mix-blend-soft-light after:rounded-[2px]">
+                            <img src="/img/me.jpg" alt="Me" class="w-full rounded-[2px]">
                         </a>
-                        <div>
+                        <div class="col-span-2 sm:col-span-1">
                             {{ if url === '/' }}
                                 <h1><a href="/" class="font-bold font-condensed text-4xl">sebdd</a></h1>
                             {{ else }}
@@ -59,7 +59,7 @@
                         </div>
                         <div class="justify-self-end md:hidden">
                             <label for="menu" class="inline-flex items-center gap-1">
-                                <svg width="13" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M0 64h448v64H0V64zm0 160h448v64H0v-64zm448 160v64H0v-64h448z"/></svg>
+                                <svg class="translate-y-px" width="13" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M0 64h448v64H0V64zm0 160h448v64H0v-64zm448 160v64H0v-64h448z"/></svg>
                                 Menu
                             </label>
                         </div>
