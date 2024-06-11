@@ -2,7 +2,7 @@ nav:
   content:
     reorder: true
     items:
-      'content::taxonomies::pages': '@move'
+      'content::collections::pages': '@move'
       'content::collections::posts': '@move'
       'content::taxonomies::tags': '@move'
       'content::assets::assets': '@move'
