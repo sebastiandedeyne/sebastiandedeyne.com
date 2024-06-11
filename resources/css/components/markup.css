@@ -152,11 +152,6 @@
         margin-top: 0;
     }
 
-    .markup code:not(pre code),
-    .markup kbd {
-        padding: 0.1em 0.25em;
-    }
-
     .markup > img,
     .markup p > img,
     .markup figure > img {
