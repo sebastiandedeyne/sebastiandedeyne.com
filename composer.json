@@ -23,7 +23,7 @@
         "spatie/laravel-feed": "^4.2",
         "spatie/laravel-missing-page-redirector": "^2.9",
         "spatie/yaml-front-matter": "^2.0",
-        "statamic/cms": "^4.0",
+        "statamic/cms": "^5.0",
         "torchlight/torchlight-commonmark": "dev-main"
     },
     "require-dev": {
