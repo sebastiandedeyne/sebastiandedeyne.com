@@ -12,3 +12,4 @@ nav:
       'content::assets': '@hide'
       'content::globals': '@hide'
   tools: '@hide'
+  settings: '@hide'
