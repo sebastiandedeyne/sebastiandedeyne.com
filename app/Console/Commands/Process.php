@@ -2,12 +2,10 @@
 
 namespace App\Console\Commands;
 
-use App\Mastodon;
 use Carbon\Carbon;
 use Illuminate\Console\Command;
 use Illuminate\Support\Collection;
 use Illuminate\Support\Facades\Cache;
-use Statamic\Entries\Entry;
 use Statamic\Facades\Entry as Entries;
 use Statamic\Facades\GlobalSet;
 use Statamic\Facades\Stache;
@@ -17,7 +15,7 @@ class Process extends Command
 {
     protected $signature = 'process';
 
-    public function handle(Mastodon $mastodon)
+    public function handle()
     {
         $entriesToProcess = $this->collectEntriesToProcess();
 
@@ -35,18 +33,6 @@ class Process extends Command
             ->inDefaultSite()
             ->set('last_processed_entry', $entriesToProcess->last()->id)
             ->save();
-
-        // Toot latest entries
-        if ($mastodon->enabled()) {
-            $entriesToProcess
-                ->reverse()
-                ->limit(3)
-                ->each(function (Entry $entry) {
-                    if ($entry->social_share_on_mastodon) {
-                        $mastodon->post($entry);
-                    }
-                });
-        }
     }
 
     private function collectEntriesToProcess(): Collection

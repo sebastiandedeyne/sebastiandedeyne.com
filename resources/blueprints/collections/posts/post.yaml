@@ -16,146 +16,37 @@ tabs:
             handle: link
             field:
               input_type: url
-              antlers: false
               type: text
               display: Link
-              icon: text
               listable: true
-              instructions_position: above
-              visibility: visible
-              hide_display: false
           -
             handle: content
             field:
               type: markdown
               display: Content
               localizable: true
-              instructions_position: above
-              listable: hidden
-              visibility: visible
-              replicator_preview: true
-              restrict: false
-              buttons:
-                - bold
-                - italic
-                - unorderedlist
-                - orderedlist
-                - quote
-                - link
-                - image
-                - table
-              automatic_line_breaks: true
-              automatic_links: false
-              escape_markup: false
               heading_anchors: true
-              smartypants: false
-              table_of_contents: false
-              antlers: false
-              hide_display: false
           -
             handle: summary
             field:
-              restrict: false
-              buttons:
-                - bold
-                - italic
-                - unorderedlist
-                - orderedlist
-                - quote
-                - link
-                - image
-                - table
-              automatic_line_breaks: true
-              automatic_links: false
-              escape_markup: false
               heading_anchors: true
-              smartypants: false
-              table_of_contents: false
-              antlers: false
               type: markdown
               display: Summary
-              icon: markdown
-              listable: hidden
-              instructions_position: above
-              visibility: visible
-              hide_display: false
-              replicator_preview: true
-      -
-        display: Social
-        fields:
-          -
-            handle: social_share_on_mastodon
-            field:
-              inline: false
-              cast_booleans: false
-              default: true
-              type: toggle
-              display: 'Share on Mastodon'
-              icon: toggle
-              listable: hidden
-              instructions_position: above
-              visibility: visible
-              replicator_preview: true
-              hide_display: false
-          -
-            handle: social_always_link_to_blog
-            field:
-              default: false
-              type: toggle
-              display: 'Always Link To Blog'
-              icon: toggle
-              listable: hidden
-              instructions_position: above
-              visibility: visible
-              hide_display: false
-              replicator_preview: true
-              if:
-                social_share_on_mastodon: 'equals true'
-          -
-            handle: social_post
-            field:
-              antlers: false
-              type: textarea
-              display: Post
-              icon: textarea
-              listable: hidden
-              instructions_position: above
-              visibility: visible
-              hide_display: false
-              replicator_preview: true
-              if:
-                social_share_on_mastodon: 'equals true'
       -
         display: SEO
         fields:
           -
             handle: meta_description
             field:
-              antlers: false
               type: textarea
               display: 'Meta Description'
-              icon: textarea
-              listable: hidden
-              instructions_position: above
-              visibility: visible
-              hide_display: false
           -
             handle: meta_image
             field:
               max_files: 1
-              mode: list
               container: assets
-              restrict: false
-              allow_uploads: true
-              show_filename: true
-              show_set_alt: true
               type: assets
               display: 'Meta Image'
-              icon: assets
-              listable: hidden
-              instructions_position: above
-              visibility: visible
-              hide_display: false
   sidebar:
     display: Sidebar
     sections:
@@ -169,22 +60,13 @@ tabs:
               default: now
               validate:
                 - required
-              instructions_position: above
-              listable: hidden
-              visibility: visible
-              mode: single
-              inline: false
-              full_width: false
-              columns: 1
-              rows: 1
               time_enabled: true
-              time_seconds_enabled: false
-              hide_display: false
           -
             handle: slug
             field:
               type: slug
               localizable: true
+              validate: 'max:200'
           -
             handle: tags
             field:
@@ -193,8 +75,4 @@ tabs:
                 - tags
               display: Tags
               mode: select
-              instructions_position: above
               listable: true
-              visibility: visible
-              create: true
-              hide_display: false
