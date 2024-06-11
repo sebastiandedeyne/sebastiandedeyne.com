@@ -1,0 +1,14 @@
+nav:
+  content:
+    reorder: true
+    items:
+      'content::taxonomies::pages': '@move'
+      'content::collections::posts': '@move'
+      'content::taxonomies::tags': '@move'
+      'content::assets::assets': '@move'
+      'content::collections': '@hide'
+      'content::navigation': '@hide'
+      'content::taxonomies': '@hide'
+      'content::assets': '@hide'
+      'content::globals': '@hide'
+  tools: '@hide'
