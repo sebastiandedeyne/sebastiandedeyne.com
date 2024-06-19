@@ -3,10 +3,10 @@ id: d090865b-59fd-4113-a646-0da2f4cf07fb
 blueprint: page
 title: Uses
 updated_by: 97c59bba-acb7-406d-9278-abc37e3f76a9
-updated_at: 1718800334
+updated_at: 1718800706
 parent: home
 ---
-<p class="intro">Welcome to my <code>/uses</code> page! This isn't meant to be a complete list of everything I touch on a daily basis, but a spotlight of the tools I enjoy using most.<p>
+Welcome to my `/uses` page! This isn't meant to be a complete list of everything I touch on a daily basis, but a spotlight of the tools I enjoy using most.
   
 ![My desk in 2022](/media/desk-2022.jpeg)
 
