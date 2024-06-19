@@ -3,7 +3,7 @@ id: d090865b-59fd-4113-a646-0da2f4cf07fb
 blueprint: page
 title: Uses
 updated_by: 97c59bba-acb7-406d-9278-abc37e3f76a9
-updated_at: 1718800198
+updated_at: 1718800334
 parent: home
 ---
 <p class="intro">Welcome to my <code>/uses</code> page! This isn't meant to be a complete list of everything I touch on a daily basis, but a spotlight of the tools I enjoy using most.<p>
@@ -16,13 +16,15 @@ parent: home
 |---:|---|
 | **Laptop** | MacBook Pro M1 2020 |
 | **Stand** | Rain Design mStand |
-| **Speakers** | Bose Companion 2 Series II speakers |
+| **Speakers** | Bose Companion 2 Series II |
 | **Monitor** | LG 27MU67 |
 | **Keyboard** | Keychron Q1 w/ Phantom Red switches |
 | **Mouse** | Logitech MX Master |
+| **Dongle** | Satechi Multi Port USB-C V2 |
 | **Mic** | Shure MV7 |
-| **Studio arm** | Elgato Wave Mic Arm *(not displayed)* |
-| **Headphones** | AIAIAI TMA-2 & AirPods Pro |
+| **Studio arm** | Elgato Wave Mic Arm (not displayed) |
+| **Headphones** | AIAIAI TMA-2 |
+|  | AirPods Pro |
 | **Desk** | Fully Jarvis w/ custom rubberwood top |
 | **Chair** | Herman Miller Aeron |
 | **Light** | Mr. Wattson |
