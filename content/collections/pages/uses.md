@@ -3,12 +3,11 @@ id: d090865b-59fd-4113-a646-0da2f4cf07fb
 blueprint: page
 title: Uses
 updated_by: 97c59bba-acb7-406d-9278-abc37e3f76a9
-updated_at: 1718799868
+updated_at: 1718800198
 parent: home
 ---
 <p class="intro">Welcome to my <code>/uses</code> page! This isn't meant to be a complete list of everything I touch on a daily basis, but a spotlight of the tools I enjoy using most.<p>
   
-
 ![My desk in 2022](/media/desk-2022.jpeg)
 
 ## Workspace
@@ -22,8 +21,8 @@ parent: home
 | **Keyboard** | Keychron Q1 w/ Phantom Red switches |
 | **Mouse** | Logitech MX Master |
 | **Mic** | Shure MV7 |
-| **Studio arm** | Rode PSA1 |
-| **Headphones** | AIAIAI TMA-2 |
+| **Studio arm** | Elgato Wave Mic Arm *(not displayed)* |
+| **Headphones** | AIAIAI TMA-2 & AirPods Pro |
 | **Desk** | Fully Jarvis w/ custom rubberwood top |
 | **Chair** | Herman Miller Aeron |
 | **Light** | Mr. Wattson |
@@ -80,11 +79,17 @@ I also want to mention [Excalidraw](https://excalidraw.com). I do a lot of UX & 
 
 ## More setups across the web
 
-Some other people's setups and uses pages that inspired me in the past or for the future.
+Other people's setups and uses pages that inspired me in the past or for the future.
 
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); margin-top: 1.5rem">
   <a href="https://christoph-rumpel.com/uses">
     Christoph Rumpel
+  </a>
+  <a href="https://freek.dev/uses">
+    Freek Van der Herten
+  </a>
+  <a href="https://setups.co/posts/rafael-conde">
+    Rafael Conde
   </a>
   <a href="https://robinmalfait.com/uses">
     Robin Malfait
@@ -94,12 +99,6 @@ Some other people's setups and uses pages that inspired me in the past or for th
   </a>
   <a href="https://twitter.com/simonsarris/status/1516762041482194948">
     Simon Sarris
-  </a>
-  <a href="https://freek.dev/uses">
-    Freek Van der Herten
-  </a>
-  <a href="https://setups.co/posts/rafael-conde">
-    Rafael Conde
   </a>
   <a href="https://stefanzweifel.dev/uses">
     Stefan Zweifel
