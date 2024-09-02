@@ -57,6 +57,14 @@
         margin-left: 1em;
     }
 
+    .markup ul {
+        list-style: disc;
+    }
+
+    .markup ol {
+        list-style: decimal;
+    }
+
     .markup dt {
         margin-top: 1.5rem;
     }
