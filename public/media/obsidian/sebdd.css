@@ -1,0 +1,123 @@
+/* Basic theme overrides */
+
+body {
+  --strong-color: currentColor;
+  --em-color: currentColor;
+  --quote-color: currentColor;
+
+  --blockquote-border-thickness: var(--indentation-guide-width);
+  --blockquote-border-color: var(--indentation-guide-color);
+
+  --h1-size: calc(var(--font-adaptive-normal) * 1.15);
+  --h1-weight: 600;
+
+  --h1-color: currentColor;
+  --h2-color: currentColor;
+  --h3-color: currentColor;
+  --h4-color: currentColor;
+  --h5-color: currentColor;
+  --h6-color: currentColor;
+
+  --h2-size: calc(var(--font-adaptive-normal) * 1.05);
+  --h3-size: var(--font-adaptive-normal);
+  --h4-size: var(--font-adaptive-normal);
+  --h5-size: var(--font-adaptive-normal);
+  --h6-size: var(--font-adaptive-normal);
+
+  --h2-line-height: calc(var(--line-height-normal) / 1.05);
+  --h3-line-height: var(--line-height-normal);
+  --h4-line-height: var(--line-height-normal);
+  --h5-line-height: var(--line-height-normal);
+  --h6-line-height: var(--line-height-normal);
+
+  --inline-title-margin-bottom: 1.5em;
+
+  --checkbox-radius: 2px;
+  --checkbox-margin-inline-start: 0.35em;
+
+  --hr-thickness: 1px;
+
+  --list-spacing: 0;
+
+  --normal-weight: 400;
+}
+
+/* Add a subtle line beneath the file name */
+
+.inline-title {
+  padding-bottom: 7px;
+  border-bottom: 1px solid var(--hr-color);
+}
+
+/* Keep H1 large in top editor, but text-sized in content */
+
+.cm-contentContainer {
+  --h1-size: var(--font-adaptive-normal);
+  --h1-line-height: var(--line-height-normal);
+}
+
+/* Remove padding before headers */
+
+.cm-s-obsidian .cm-line.HyperMD-header {
+  padding-top: 0;
+}
+
+.cm-s-obsidian .cm-line.HyperMD-header-2 {
+  padding-bottom: 0.25em;
+}
+
+/* Tabular nums everywhere to align numbers & dates */
+
+.cm-editor,
+.nav-files-container {
+  font-variant-numeric: tabular-nums;
+}
+
+/* Don't underline links */
+
+.markdown-source-view.mod-cm6 .cm-hmd-internal-link .cm-underline {
+  text-decoration-line: none;
+}
+
+/* Clean up list styles */
+
+.outliner-plugin-better-lists .cm-formatting-list-ul {
+  margin-right: 0;
+}
+
+.list-bullet {
+  color: inherit;
+}
+
+.list-bullet:before,
+.list-bullet:after {
+  content: none;
+}
+
+.is-live-preview .list-bullet {
+  min-width: 0;
+}
+
+.markdown-source-view.mod-cm6 .cm-line.HyperMD-list-line.HyperMD-list-line .cm-fold-indicator .collapse-indicator {
+  right: 0.7rem;
+}
+
+.cm-formatting-list-ul {
+  padding-inline-start: 0;
+}
+
+.cm-fold-indicator {
+  display: none !important;
+}
+
+.cm-indent:before {
+  content: none;
+}
+
+.markdown-source-view.mod-cm6 hr {
+  border-width: var(--hr-thickness);
+}
+
+.HyperMD-header:has(.cm-fold-indicator.is-collapsed) {
+  margin-bottom: 1rem !important;
+}
